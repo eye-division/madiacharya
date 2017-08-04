@@ -1,0 +1,287 @@
+/* main stylesheet */
+/*  */
+/* Alun Ward, 2006 for Eye Gallery sites on grey bg */
+/* alun@eyedivision.co.uk */
+
+html { 
+	height:100%;
+	margin:0px;
+	padding:0px;
+}
+
+body {
+	position: relative;
+	font-family: "century gothic", verdana, helvetica, arial, sans-serif;
+	font-size: 1em;
+	color: black;
+	line-height: 2em;
+	background-color: #FFF;
+	margin: 0px;
+	text-align: center;
+	height: 100%;
+	padding: 0;
+	width: 100%;
+}
+
+#container {
+	position: relative;
+	line-height:130%;
+	text-align:center;
+	margin: 15px auto;
+	/* border:1px #999 solid;*/
+	padding:1em;
+	width:950px;
+	background-color: #E8E8E8;
+	color: black;
+}
+
+#content {	
+	position: relative;
+	padding: 10px;
+	margin: 15px auto;	
+	line-height: 130%;
+	font-size: small;
+	text-align: left;
+	min-height: 800px;
+}
+#page {
+	width: 80%;
+	margin: 3em auto 200px;
+	text-align: left;
+
+}
+
+a:link { color: black; text-decoration: none; border-bottom: 1px solid #999; }
+a:visited { color: #CCC; text-decoration: none; border-bottom: 1px solid #CCC; }
+a:hover { color: #F90; text-decoration: none; }
+a:active { color: #F90; text-decoration: none;}
+
+#nav, .subnav { 
+	text-align: center;
+	font-size: small; 
+	padding: 1em 0; 
+	margin: 0 auto;
+	line-height: 140%;
+	color: black;
+}
+#nav { border-bottom:1px solid #999; border-top:1px solid #999; }
+.subnav { border-bottom:1px solid #999; }
+#nav a, .subnav a { 
+	padding:0 4px; 
+	border: none; 
+	text-decoration:none;  
+}
+
+#nav a:link, .subnav a:link { color: black; font-weight: normal; }
+#nav a:visited, .subnav a:visited { color: black; }
+#nav a:hover, .subnav a:hover { color: black; }
+#nav a:active, .subnav a:active { color: black; }
+
+#nav a.selected, .subnav a.selected { color: black; font-weight:bold;  }
+#nav a.selected:link, .subnav a.selected:link { color: black; }
+#nav a.selected:visited, .subnav a.selected:visited { color:black; }
+#nav a.selected:hover, .subnav a.selected:hover { color:black; }
+#nav a.selected:active, .subnav a.selected:active { color:black; }
+
+h1 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: x-large;
+	font-weight: bold;
+	padding-top: 4px;
+	text-align: center;
+}
+h1 a:link, h1 a:visited {
+	text-decoration:none;
+	border:none;
+	color: black;
+}
+
+h2 { 
+	font-size: 1em; 
+	font-weight: bold;
+	padding-top:10px;
+	margin-top: 0px;
+}
+h3 { font-size: 0.9em; }
+
+
+/* IMAGES */
+
+#imagedetails {
+	text-align: left;
+	line-height: normal;
+	
+}
+#imagedetails #right {
+	float: right;
+	text-align: right;
+}
+
+#images {
+	text-align:center;
+	margin-top:20px;
+}
+#images img, #randomImages img {
+	border: none;
+	padding: 5px;
+}
+
+#images a:link, #images a:hover, #images a:visited, #footer a:link, #footer a:hover {
+	border-bottom: none;
+	text-decoration: none;
+	color: #FFF;
+}
+#images .thumb {
+	margin: 10px;
+}
+
+#images .pagination {
+	clear:both;
+	margin: 5px;
+}
+
+tr {
+	vertical-align:bottom;
+}
+td { text-align:center; }
+
+table.images {
+margin:15px auto 5px;
+}
+.thumb2 { width:50%; }
+.thumb3 { width:33%; }
+.thumb4 { width:25%; }
+
+#left {
+	width: 200px;
+	float: left;
+
+}
+#right {
+	margin-left: 210px;
+	text-align:center;
+}
+b, strong { font-weight: 900;  }
+
+li, ul, ol {  
+	font-style: normal; 
+	font-weight: normal; 
+}
+
+.small { font-size: 10px; }
+
+/* FORM STYLES */
+
+form { 
+	/*font-size : 1em; */
+	padding-top:20px;
+}
+
+select {
+	/*width: 200px;*/
+	text-align: left;	
+}
+
+fieldset { 
+	padding : 10px;
+	margin: 0px;
+	border-color:#999;
+	border-style: solid;
+	border-width: 1px;
+} 
+legend {
+	font-weight:bold;
+	color: black;
+}
+form br {
+	clear: left;
+}
+
+label { 	
+	display : block; 
+	float: left;
+	width: 150px;
+	padding: 0px;
+	text-align:right;
+	margin : 5px 0px 0px; 
+}
+
+textarea { 
+	overflow: auto; 
+	border:#666 1px solid;
+	background:#CCC;
+}
+input {
+	border:#666 1px solid;
+	background: #CCC;
+}
+input:focus {
+	background: #FFF;
+}
+textarea:focus {
+	background: #FFF;
+}
+/* end form stuff */
+
+#credits {
+	clear:both;
+	font-size:x-small;
+	text-align: center;
+	padding-top: 150px;
+	/*position: absolute;*/
+	bottom: 10px;
+	left: 38%;
+}
+
+#credits a img, #credits A:link {
+	border: none;
+}
+
+.required {
+	color:#CC0000;
+}
+#playercontainer {
+	width: 600px;
+	margin: 1em auto;
+}
+
+/* colorbox */
+.caption { text-align: left; font-size: 0.9em; }
+.caption strong { color: #000; }
+
+.prepend-1 { margin-top:1em; }
+
+/* Oct 2014 - toplist */
+.topnav {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+.topnav ul {
+	list-style: none;
+}
+.topnav ul li {
+	list-style: none;
+	float: left;
+}
+.topnav ul li a {
+	padding: 10px;
+	border: none;
+}
+.anythingSlider {
+	margin-top: 2em !important;
+}
+
+/* MailChimp */
+#mc_embed_signup {
+	background:#E8E8E8; font:14px Helvetica,Arial,sans-serif;
+}
+#mc_embed_signup label {
+	text-align: left;
+	width: 100%;
+}
+
+/* Google Recaptcha */
+.g-recaptcha {
+	float: left;
+}
