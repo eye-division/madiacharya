@@ -16,23 +16,30 @@ description: Madi Acharya-Baskerville art gallery site
 baseurl: ""
 # the base hostname & protocol for your site
 url: "http://www.madiacharya-baskerville.org"
+cover:
 logo: "/siteicon.png"
 email: a.ward@eyedivision.com
 
 # Build settings
 markdown: kramdown
-# paginate: 5
-# paginate_path: "/page:num/"
-# inter_post_navigation: false
+paginate: 5
+paginate_path: "/page:num/"
+inter_post_navigation: false
 permalink: pretty
+
+uploads_dir: "assets/images"
 
 # Image CDN
 imagecdn:
   #staging: "http://ed-dev.imgix.net"
   #production: "http://ed.imgix.net"
 
-# Collections
+# Collections example
 collections:
+    gallery:
+        output: true
+        permalink: /:path/
+        _hide_content: true
 #     projects:
 #         output: true
 #         permalink: /projects/:path/
@@ -40,6 +47,12 @@ collections:
 
 # Defaults Example
 defaults:
+    -
+        scope:
+            path: ""
+            type: "gallery"
+        values:
+            layout: "gallery"
 #     -
 #         scope:
 #             path: ""
@@ -49,7 +62,7 @@ defaults:
 
 
 # Google analytics
-# ga_tracking_id: "UA-XXXX-1"
+ga_tracking_id: "UA-105691238-1"
 
 # Google Recaptcha for contact form
 # recaptcha_site_key: 6Ld_UCsUAAAAAOff_4JE6Uq5ZfKicBMZefuoaQsD
