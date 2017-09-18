@@ -1,0 +1,20 @@
+---
+layout: page
+title: "Paintings"
+permalink: /paintings/
+---
+<div class="gallery">
+
+{% for gallery in site.paintings %}
+
+     <div class="gallery-box{% cycle '', ' last' %}">
+
+          <a href="{{ gallery.permalink }}" title="{{ gallery.title }}">
+	          {% include img.html src=gallery.main_image_path alt=gallery.title %}
+	          <h4>{{ gallery.title }}</h4>
+          </a>
+
+     </div>
+
+{% endfor %}
+</div>

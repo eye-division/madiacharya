@@ -1,8 +1,25 @@
-- title: "Posts"
-  href: "/posts/"
-  
-- title: "Projects"
-  href: "/projects/"
-  
-- title: "About"
-  href: "/about/"
+- title: "Home"
+  href: "/"
+
+
+- title: "Installations"
+  href: "/installations/"
+- title: "Sculpture"
+  href: "/sculpture/"
+- title: "Paintings"
+  href: "/paintings/"
+- title: "Mixed media / collage"
+  href: "/mixed-media/"
+- title: "Residencies"
+  href: "/residencies/"
+- title: "Participatory projects"
+  href: "/participatory-projects/"
+- title: "Video / installations"
+  href: "/video-installations/"
+
+- title: "CV"
+  href: "/cv/"
+- title: "News"
+  href: "/news/"
+- title: "Contact"
+  href: "/contact/"

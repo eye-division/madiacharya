@@ -4,11 +4,8 @@
 
 .navigation {
     margin: 0;
-    @include outer-container($page-width);
+    @include outer-container;
     padding: 0 1em;
-    //border-left: 4px solid $red;
-    //border-right: 4px solid $red;
-    //box-shadow: 2px 2px 2px 0 red;
     background-color: $white;
 }
 // Nav menu
@@ -18,18 +15,12 @@
     position: relative;
     background-color: $white;
 }
-.social-media-list--header {
-    float: right;
-    li {
-        display: inline-block;
-        padding: 10px;
-    }
-}
+
 // logo
 .logo {
 
-    float: left;
-    height: 6em;
+    //float: left;
+    //height: 6em;
 
     span {
         font-size: 1.25em;

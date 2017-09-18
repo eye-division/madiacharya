@@ -2,6 +2,14 @@
 layout: page
 title: About
 permalink: /about/
+main_image_path:
+image_caption:
+_options:
+  main_image_path:
+    width: 1200
+    height: 1200
+    resize_style: "contain"
+    mime_type: "image/jpeg"
 ---
 
 <img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">

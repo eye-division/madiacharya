@@ -2,9 +2,28 @@
 
   <div class="wrapper">
 
+    <div class="site-contact">
+
+      <ul class="social-media-list">
+
+        {% for social in site.social %}
+          {% if social.url != null %}
+          <li>
+            <a href="{{ social.url }}" title="{{ social.desc }}">
+              <svg class="icon {{ social.icon }}"><use xlink:href="#{{ social.icon }}" /></svg>
+              <span class="username">{% if social.username %}{{ social.username }}{% else %}{{ social.name }}{% endif %}</span>
+            </a>
+          </li>
+          {% endif %}
+        {% endfor %}
+
+      </ul>
+    </div>
+
+
     <div class="site-signature">
       <p class="text">&copy; All work is copyright the artist, no reproduction without permission.<br />
-      {% include img.html src="/assets/eyegallery.gif" alt="Eye Division site" %}<br />site by <a href="https://eyedivision.com">Eye Division</a></p>
+      {% include img.html src="/assets/eyegallery.gif" alt="Eye Division site" %}<br />site by <a href="https://www.eyedivision.com">Eye Division</a></p>
     </div>
 
 
@@ -13,9 +32,12 @@
 </footer>
 
 <!-- Scripts -->
+{% if site.recaptcha_site_key %}
 <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+{% endif %}
 <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js"></script>
+<script src="/js/jquery.flexslider-min.js" defer></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/js/lightbox.min.js"></script>
 <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.4.0/highlight.min.js"></script>
 <script src="/js/main.js"></script>
 

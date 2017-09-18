@@ -1,129 +1,77 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Madi Acharya-Baskerville</title>
-<meta name="description" content="Madi Acharya-Baskerville" />
+---
+layout: page
 
-<meta name="author" content="Eye Division" />
-<meta name="Copyright" content="Copyright (c) Madi Acharya-Baskerville" />
-<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
-<link rel="stylesheet" type="text/css" media="print" href="css/print.css" />
-<link rel="stylesheet" type="text/css" media="screen" href="css/basic.css" />
-<link href="css/mainGrey.css" rel="stylesheet" media="screen">
+carousel:
+  - image: /assets/images/4a395d2bef1f2.jpg
+    caption: Customers
+    link:
+  - image: /assets/images/4b43b9940a41b.jpg
+    caption: Impregnable
+    link:
+_options:
+  image:
+    width: 1200
+    height: 1200
+    resize_style: contain
+    mime_type: image/jpeg
+_comments:
+  carousel: Edit the slideshow
+  link: Optional web link from the slide
+  caption: optional caption
+---
 
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<link href="css/superfish.css" rel="stylesheet" media="screen">
-<script src="code/hoverIntent.js"></script>
-<script src="code/superfish.js"></script>
-
-<script>
-	jQuery(document).ready(function() {
-		jQuery('ul.sf-menu').superfish();
-	});
-</script>
-<link rel="stylesheet" href="css/anythingslider.css" />
-
-<script type="text/javascript" src="code/jquery.min.js"></script>
-<script src="code/jquery.anythingslider.min.js" type="text/javascript" charset="utf-8"></script>
-<script type="text/javascript">
-
-$(document).ready(function() {
-    $('#slider').anythingSlider({
-        mode: 'f',
-        buildArrows: false,
-        buildNavigation: false,
-        buildStartStop: false,
-        resizeContents: false,
-        startPanel: 1,
-        delay:5000,
-        enableArrows: true,
-        animationTime:800,
-        autoPlay: true
-    });
-    AdjustSliderImgWrapper();
-});
-
-$(window).resize(AdjustSliderImgWrapper);
-
-function AdjustSliderImgWrapper() {
-var left = (parseInt($('#slider > li > div').width()) - $('#slider > li').innerWidth()) / -2;
-$('#slider > li > div').css('left', left);
-}
-</script>
-
-</head>
-<body>
-<a name="top"></a>
-<div id="container">
-<div id="content"><a name="content"></a>
-<h1><a href="index.html" title="Return home" accesskey="1">Madi Acharya-Baskerville</a></h1>
-	<div id="nav">
-	<ul class="sf-menu">
-		<li><a href="index.html" title="Return to the home page" accesskey="1">home</a></li>
-		<li><a href="page.php%3Fpage=1.html">installations</a>					<ul>
-					<li><a href="thumbs.php%3Fcat=59.html" title="hennafest">hennafest</a></li><li><a href="thumbs.php%3Fcat=54.html" title="drift-in-land">drift-in-land</a></li><li><a href="thumbs.php%3Fcat=44.html" title="a walk in the park  ">a walk in the park  </a></li><li><a href="thumbs.php%3Fcat=40.html" title="stories in my shed  ">stories in my shed  </a></li><li><a href="thumbs.php%3Fcat=36.html" title="silverbeach  ">silverbeach  </a></li><li><a href="thumbs.php%3Fcat=31.html" title="worship ">worship </a></li>					</ul>
-									</li>
-				<li><a href="page.php%3Fpage=4.html">sculpture</a>					<ul>
-					<li><a href="thumbs.php%3Fcat=56.html" title="current ">current </a></li><li><a href="thumbs.php%3Fcat=45.html" title="recent ">recent </a></li><li><a href="thumbs.php%3Fcat=39.html" title="archive">archive</a></li>					</ul>
-									</li>
-				<li><a href="page.php%3Fpage=3.html">paintings</a>					<ul>
-					<li><a href="thumbs.php%3Fcat=46.html" title="current">current</a></li><li><a href="thumbs.php%3Fcat=57.html" title="recent ">recent </a></li><li><a href="thumbs.php%3Fcat=32.html" title="archive">archive</a></li>					</ul>
-									</li>
-				<li><a href="page.php%3Fpage=7.html">mixed media / collage</a>					<ul>
-					<li><a href="thumbs.php%3Fcat=58.html" title="current">current</a></li><li><a href="thumbs.php%3Fcat=51.html" title="recent ">recent </a></li><li><a href="thumbs.php%3Fcat=52.html" title="archive">archive</a></li>					</ul>
-									</li>
-				<li><a href="page.php%3Fpage=5.html">residencies</a>					<ul>
-					<li><a href="thumbs.php%3Fcat=38.html" title=" recent"> recent</a></li><li><a href="thumbs.php%3Fcat=26.html" title="archive ">archive </a></li>					</ul>
-									</li>
-				<li><a href="page.php%3Fpage=6.html">participatory projects</a>					<ul>
-					<li><a href="thumbs.php%3Fcat=22.html" title=""></a></li><li><a href="thumbs.php%3Fcat=60.html" title="livefriday">livefriday</a></li>					</ul>
-									</li>
-				<li><a href="page.php%3Fpage=8.html">video / installations</a>					<ul>
-					<li><a href="thumbs.php%3Fcat=50.html" title="hero">hero</a></li><li><a href="thumbs.php%3Fcat=23.html" title="freebird">freebird</a></li>					</ul>
-									</li>
-
-    </ul>
+    <div class="editable">
+    <p>This is the demo editable first paragraph. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus, in magnam placeat. Ex illo ipsa libero voluptatem necessitatibus modi fugit odit omnis. Sequi voluptatem mollitia voluptatum ipsum placeat, quaerat laudantium!</p>
     </div>
-    	<div class="topnav">
-		<ul>
-			<li><a href="thumbs.php%3Fcat=18.html" title="cv">cv</a></li><li><a href="thumbs.php%3Fcat=25.html" title="news">news</a></li>			<li><a href="contact.php.html" title="Fill out our web form">contact</a></li>
 
-		</ul>
-	</div>
-	<ul id="slider">
-		<li><a href="index.html#"><img src="pictures/55cdd22a11ac3.jpg" alt="image" width="800" height="600"></a></li>
-				<li><a href="index.html#"><img src="pictures/55dcfb244ded2.jpg" alt="image" width="700" height="452"></a></li>
-				<li><a href="index.html#"><img src="pictures/55e0ce554a769.jpg" alt="image" width="700" height="466"></a></li>
-				<li><a href="index.html#"><img src="pictures/5965e18516c41.jpg" alt="image" width="800" height="533"></a></li>
-				<li><a href="index.html#"><img src="pictures/5965e02a13d0b.jpg" alt="image" width="800" height="533"></a></li>
-				<li><a href="index.html#"><img src="pictures/596534ec6c666.jpg" alt="image" width="900" height="600"></a></li>
-				<li><a href="index.html#"><img src="pictures/59653fae223b7.jpg" alt="image" width="900" height="600"></a></li>
-		</ul>
+    {% if page.carousel %}
+    <!-- <div class="two-thirds no-gutter"> -->
+    <section class="">
+      <h2>This is a demo slideshow</h2>
+      <div class="flexslider">
+          <ul class="slides">
+            {% for slides in page.carousel %}
+            <li>
+              {% if slides.link %}
+              <a href="{{ site.baseurl }}{{ slides.link }}" title="View project">
+              {% endif %}
+              {% include img.html src=slides.image width=960 alt=slides.caption %}
+              {% if slides.link %}
+              </a>
+            {% endif %}
+              {% if slides.caption %}
+              <p class="flex-caption">{% if slides.link %}<a href="{{ site.baseurl }}{{ slides.link }}" title="View project">{% endif %}{{ slides.caption }}{% if slides.link %}&nbsp;<svg class="icon icon__white icon--readmore"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-double_angle_right" /></svg></a>{% endif %}</p>
+              {% endif %}
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </section>
+      <!-- </div> -->
+      {% endif %}
 
+      <section class="gallery">
+      {% for gallery in site.gallery %}
 
-	<p>My work is concerned with the synthesis of unlikely elements. Using objects, textiles, song, conversation and magazine cuttings which resonate with me on some level, I create works which move fluidly between different media. Often materials used have had a previous life such as wooden panels previously part of furniture or embroidered fabric which has become moth-eaten, hence devoid of its original function. I am interested in the disintegration of &nbsp;objects and materials &nbsp;over time and how through my intervention they can come to exist as part of something new.</p>
+           <div class="gallery-box gallery-box-home {% cycle '', ' last' %}">
+              <a href="{{ gallery.url }}">
 
-<p>&nbsp;</p>
+                {% if gallery.main_image_path %}
+                  {% include img.html src=gallery.main_image_path width=400 height=300 %}
+                {% else %}
+                  {% include img.html src="/siteicon.png" width=400 height=300 %}
+                {% endif %}
 
-<div id="credits">&copy; All work is copyright the artist, no reproduction without permission.<br /><a href="http://www.eyedivision.com" title="An Eye Division site" target="_blank"><img src="images/eyegallery-box-trans.png" alt="an Eye Division site" width="30" height="31" /></a></div>
-			</div>	<!-- end content or page -->
-</div><!-- end container -->
+                <h3>{{ gallery.title }}</h3>
+              </a>
 
-<script type="text/javascript">
+           </div>
 
-  jQuery(document).ready(function() {
-      $('a[rel="lightbox"]').colorbox({
-		onComplete:function(){
-			$("#cboxTitle").hide();
-      		link = $.fn.colorbox.element();
-      		title = $(link).attr("title");
-      		$("<div class='caption'>"+title+"</div>").insertAfter(".cboxPhoto");
-      		$.fn.colorbox.resize();
-		}
-	});
- 	});
+      {% endfor %}
+      </section>
 
-  </script>
-	</body>
-	</html>
+      <div class="editor-link">
+        <!-- Editor Link to site status -->
+        <a href="cloudcannon:status">Link to Site Status and Recent Activity</a>
+      </div>
+
