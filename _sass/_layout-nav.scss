@@ -3,8 +3,9 @@
 */
 
 .navigation {
+    text-align: center;
     margin: 0;
-    @include outer-container;
+    @include outer-container($page-width);
     padding: 0 1em;
     background-color: $white;
 }

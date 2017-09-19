@@ -2,11 +2,26 @@
 layout: page
 
 carousel:
-  - image: /assets/images/4a395d2bef1f2.jpg
-    caption: Customers
+  - image: /assets/images/55cdd22a11ac3.jpg
+    caption:
     link:
-  - image: /assets/images/4b43b9940a41b.jpg
-    caption: Impregnable
+  - image: /assets/images/55dcfb244ded2.jpg
+    caption:
+    link:
+  - image: /assets/images/55e0ce554a769.jpg
+    caption:
+    link:
+  - image: /assets/images/5965e18516c41.jpg
+    caption:
+    link:
+  - image: /assets/images/5965e02a13d0b.jpg
+    caption:
+    link:
+  - image: /assets/images/596534ec6c666.jpg
+    caption:
+    link:
+  - image: /assets/images/59653fae223b7.jpg
+    caption:
     link:
 _options:
   image:
@@ -20,58 +35,34 @@ _comments:
   caption: optional caption
 ---
 
-    <div class="editable">
-    <p>This is the demo editable first paragraph. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus, in magnam placeat. Ex illo ipsa libero voluptatem necessitatibus modi fugit odit omnis. Sequi voluptatem mollitia voluptatum ipsum placeat, quaerat laudantium!</p>
+
+{% if page.carousel %}
+<!-- <div class="two-thirds no-gutter"> -->
+<section class="">
+  <div class="flexslider">
+      <ul class="slides">
+        {% for slides in page.carousel %}
+        <li>
+          {% if slides.link %}
+          <a href="{{ site.baseurl }}{{ slides.link }}" title="View project">
+          {% endif %}
+          {% include img.html src=slides.image width=960 alt=slides.caption %}
+          {% if slides.link %}
+          </a>
+        {% endif %}
+          {% if slides.caption %}
+          <p class="flex-caption">{% if slides.link %}<a href="{{ site.baseurl }}{{ slides.link }}" title="View project">{% endif %}{{ slides.caption }}{% if slides.link %}&nbsp;<svg class="icon icon__white icon--readmore"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-double_angle_right" /></svg></a>{% endif %}</p>
+          {% endif %}
+        </li>
+        {% endfor %}
+      </ul>
     </div>
+  </section>
+  <!-- </div> -->
+  {% endif %}
 
-    {% if page.carousel %}
-    <!-- <div class="two-thirds no-gutter"> -->
-    <section class="">
-      <h2>This is a demo slideshow</h2>
-      <div class="flexslider">
-          <ul class="slides">
-            {% for slides in page.carousel %}
-            <li>
-              {% if slides.link %}
-              <a href="{{ site.baseurl }}{{ slides.link }}" title="View project">
-              {% endif %}
-              {% include img.html src=slides.image width=960 alt=slides.caption %}
-              {% if slides.link %}
-              </a>
-            {% endif %}
-              {% if slides.caption %}
-              <p class="flex-caption">{% if slides.link %}<a href="{{ site.baseurl }}{{ slides.link }}" title="View project">{% endif %}{{ slides.caption }}{% if slides.link %}&nbsp;<svg class="icon icon__white icon--readmore"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-double_angle_right" /></svg></a>{% endif %}</p>
-              {% endif %}
-            </li>
-            {% endfor %}
-          </ul>
-        </div>
-      </section>
-      <!-- </div> -->
-      {% endif %}
+	 <div class="editable">
+<p>My work is concerned with the synthesis of unlikely elements. Using objects, textiles, song, conversation and magazine cuttings which resonate with me on some level, I create works which move fluidly between different media. Often materials used have had a previous life such as wooden panels previously part of furniture or embroidered fabric which has become moth-eaten, hence devoid of its original function. I am interested in the disintegration of  objects and materials  over time and how through my intervention they can come to exist as part of something new.</p>
+</div>
 
-      <section class="gallery">
-      {% for gallery in site.gallery %}
-
-           <div class="gallery-box gallery-box-home {% cycle '', ' last' %}">
-              <a href="{{ gallery.url }}">
-
-                {% if gallery.main_image_path %}
-                  {% include img.html src=gallery.main_image_path width=400 height=300 %}
-                {% else %}
-                  {% include img.html src="/siteicon.png" width=400 height=300 %}
-                {% endif %}
-
-                <h3>{{ gallery.title }}</h3>
-              </a>
-
-           </div>
-
-      {% endfor %}
-      </section>
-
-      <div class="editor-link">
-        <!-- Editor Link to site status -->
-        <a href="cloudcannon:status">Link to Site Status and Recent Activity</a>
-      </div>
 

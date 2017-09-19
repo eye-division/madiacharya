@@ -4,14 +4,12 @@ layout: default
 
 <header id="content-header">
   <section id="page-title">
-    <h1>{{ page.title }}</h1>
+    <h2>{{ page.title }}</h2>
   </section>
 </header>
 
 <article id="content">
-  <section class="main-content">
-    {% if page.description_markdown %}{{ page.description_markdown | markdownify }}{% endif %}
-  </section>
+
 
   {% if page.images[0].image_path %}
   <section class="gallery">
@@ -28,6 +26,34 @@ layout: default
   </section>
   {% endif %}
 
+  <section class="main-content">
+    {% if page.description_markdown %}{{ page.description_markdown | markdownify }}{% endif %}
+  </section>
 
+  {% if page.sounds %}
+  <section>
+    {% for sound in page.sounds %}
+      {% if sound.audioid %}
+          {% include soundcloud.html id=sound.audioid %}
+        {% if sound.description %}
+          <p class="description">{{ sound.description }}</p>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </section>
+{% endif %}
+
+{% if page.videos %}
+
+    {% for video in page.videos %}
+      {% if video.videoid %}
+        {% include youtubeplayer.html id=video.videoid %}
+        {% if video.description %}
+          <p class="description">{{ video.description }}</p>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
+{% endif %}
 
 </article>

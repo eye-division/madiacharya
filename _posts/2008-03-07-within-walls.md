@@ -1,12 +1,12 @@
 ---
 layout: post
-title:
-date:
-main_image_path:
-main_image_caption:
+title: 'Within Walls'
+date: 2008-03-07 15:21:00
+main_image_path: /assets/images/4b199cbad7ebb.jpg
+main_image_caption: "Within Walls"
 images:
-  - image_path:
-    description:
+  - image_path: 
+    description: 
 _options:
   main_image_path:
     width: 1200
@@ -17,3 +17,5 @@ _comments:
   images: Add and edit additional images here
   image_description: May only be shown in the close up of an image
 ---
+
+Within Walls, Oxfordshire Museum, March-April 2008

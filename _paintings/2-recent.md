@@ -2,15 +2,29 @@
 title: Recent
 _hide_content: true
 description_markdown:  |
-  Current
+  
 permalink: /paintings/recent/
 _gallery_date: 2016-05-01T00:00:00.000Z
 main_image_path: /assets/images/55d455e90ee43.jpg
 images:            
   - image_path: /assets/images/55d455e90ee43.jpg
-    image_title: 
-    image_description:   
-          
+    image_title: Scano
+    image_description: W60 L53cm, 2014, Mixed Media on Driftwood  
+  - image_path: /assets/images/55d4561391252.jpg
+    image_title: Scano, detail
+    image_description:
+  - image_path: /assets/images/55d4564e49bf4.jpg
+    image_title: Abandoned
+    image_description: W80cm L52cm, 2014, Mixed Media on Driftwood
+  - image_path: /assets/images/55d456f4f14ac.jpg
+    image_title: Abandoned, detail
+    image_description: 
+  - image_path: /assets/images/55d45715693be.jpg
+    image_title: We work hard for your beautiful things
+    image_description: W66cm L53cm, 2014, Mixed Media on Driftwood
+  - image_path: /assets/images/4bc795ee5a754.jpg
+    image_title: We work hard.., detail
+    image_description:           
 _options:
   image_path:
     width: 1200

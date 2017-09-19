@@ -1,12 +1,12 @@
 ---
 layout: post
-title:
-date:
-main_image_path:
-main_image_caption:
+title: Eves &amp; Lilith
+date: 2017-03-01 15:21:00
+main_image_path: /assets/images/56e200e7987d4.jpg
+main_image_caption: "Eves &amp; Lilith"
 images:
-  - image_path:
-    description:
+  - image_path: 
+    description: 
 _options:
   main_image_path:
     width: 1200
@@ -17,3 +17,5 @@ _comments:
   images: Add and edit additional images here
   image_description: May only be shown in the close up of an image
 ---
+
+Eves &amp; Lilith

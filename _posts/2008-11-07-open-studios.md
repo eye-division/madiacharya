@@ -1,12 +1,12 @@
 ---
 layout: post
-title:
-date:
-main_image_path:
-main_image_caption:
+title: 'Open Studios'
+date: 2008-11-07 15:21:00
+main_image_path: /assets/images/4919b773e8050.jpg
+main_image_caption: "Open Studios"
 images:
-  - image_path:
-    description:
+  - image_path: 
+    description: 
 _options:
   main_image_path:
     width: 1200
@@ -17,3 +17,5 @@ _comments:
   images: Add and edit additional images here
   image_description: May only be shown in the close up of an image
 ---
+
+Open Studios: Magdalen Road Studios and Workshop Studios, November 2008

@@ -5,9 +5,9 @@ description_markdown:  |
   Current
 permalink: /mixed-media/archive/
 _gallery_date: 2016-05-01T00:00:00.000Z
-main_image_path: /assets/images/55d39d581a242.jpg
+main_image_path: /assets/images/53b11fe4b3ae7.jpg
 images:            
-  - image_path: /assets/images/55d39d581a242.jpg
+  - image_path: /assets/images/53b11fe4b3ae7.jpg
     image_title: 
     image_description:   
           

@@ -8,6 +8,9 @@ images:
   - image_path:
     image_title:
     image_description:
+videos:
+  - videoid: 
+    description: 
 _options:
   image_path:
     width: 1200
@@ -20,6 +23,7 @@ _options:
     resize_style: "contain"
     mime_type: "image/jpeg"
 _comments:
+  videoid: YouTube video ID only
   title: Gallery title
   permalink: Be careful editing this
   main_image_path: Image used to represent your gallery

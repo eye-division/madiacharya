@@ -1,12 +1,12 @@
 ---
 layout: post
-title:
-date:
-main_image_path:
-main_image_caption:
+title: 'Surfaces : Works on Paper'
+date: 2012-06-11 15:21:00
+main_image_path: /assets/images/50e4ce621428f.jpg
+main_image_caption: "Surfaces : Works on Paper"
 images:
-  - image_path:
-    description:
+  - image_path: 
+    description: 
 _options:
   main_image_path:
     width: 1200
@@ -17,3 +17,5 @@ _comments:
   images: Add and edit additional images here
   image_description: May only be shown in the close up of an image
 ---
+
+Surfaces: Works on Paper - Group Show, Porto, Portugal, June 201
