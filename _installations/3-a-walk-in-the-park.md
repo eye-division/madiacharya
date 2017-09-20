@@ -11,6 +11,7 @@ description_markdown:  |
    Materials:  found wood, textiles, beadwork, acrylic paint
    2015
 permalink: /installations/a-walk-in-the-park/
+archive: false
 _gallery_date: 2016-05-01T00:00:00.000Z
 main_image_path: /assets/images/55cd1463846cb.jpg
 images:            

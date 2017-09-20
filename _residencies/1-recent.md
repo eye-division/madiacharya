@@ -6,6 +6,7 @@ description_markdown:  |
 
    During the residency we collaborated with Sanctuary staff and children on a project where they were asked to bring objects or ideas which symbolise home for them. Objects including a Masai warrior's arrow , a front door key and text including a line from a song all became part of the project. These were then cast in aluminium and displayed against a  backdrop of rich, dark soil found in this region, creating the work **'Impressions of Home'**.
 permalink: /residencies/recent/
+archive: false
 _gallery_date: 2016-05-01T00:00:00.000Z
 main_image_path: /assets/images/4f737df9be4ac.jpg
 images:            

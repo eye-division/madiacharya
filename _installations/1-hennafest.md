@@ -10,6 +10,7 @@ description_markdown:  |
 
   This work brings together the rich tradition of body painting with Henna which is associated with festivals and special occasions in India. For example, the day before a wedding ceremony the bride to be may be in the company of her friends and family having her hands adorned with beautiful patterns painted in henna. The collaged aspects from newspaper reference a yearning and a love for exoticism, an escape from reality sometimes found in newspapers in the UK.
 permalink: /installations/hennafest/
+archive: false
 _gallery_date: 2016-05-01T00:00:00.000Z
 main_image_path: /assets/images/59653e10941e3.jpg
 images:            

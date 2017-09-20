@@ -6,6 +6,7 @@ description_markdown:  |
 
    Participants came from diverse cultural backgrounds. The image of the tree can be a way of symbolising growth and learning as well as providing shelter and refuge across different cultures
 permalink: /participatory-projects/the-treasure-tree/
+archive: false
 _gallery_date: 2016-05-01T00:00:00.000Z
 main_image_path: /assets/images/4741dbbd72ba8.jpg
 images:            

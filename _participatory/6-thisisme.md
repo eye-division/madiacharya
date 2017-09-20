@@ -4,6 +4,7 @@ _hide_content: true
 description_markdown:  |
    This piece was commissioned by Oxfordshire Museum, Woodstock as part of the Oxfordshire 2007 celebrations marking a 1000 years of Oxfordshire as a county. Each block represents an individual participant's expression of identity, whether it is a self-portrait, an activity that interests them or a place that is significant for them.Identity is experienced as fluid, changing and fragmented but within this, is a celebration of diversity and difference.All blocks were cut from reclaimed wood found locally hence high-lighting the importance of recycling and using the resourses around us in the creative process.
 permalink: /participatory-projects/this-is-me/
+archive: false
 _gallery_date: 2016-05-01T00:00:00.000Z
 main_image_path: /assets/images/4741debf6d43e.jpg
 images:            

@@ -2,6 +2,7 @@
 layout: post
 title: 'Immediate Territory'
 date: 2011-10-29 15:21:00
+archive: false
 main_image_path: /assets/images/4f00deae9fc9d.jpg
 main_image_caption: "Immediate Territory"
 images:

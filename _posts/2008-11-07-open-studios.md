@@ -2,6 +2,7 @@
 layout: post
 title: 'Open Studios'
 date: 2008-11-07 15:21:00
+archive: false
 main_image_path: /assets/images/4919b773e8050.jpg
 main_image_caption: "Open Studios"
 images:

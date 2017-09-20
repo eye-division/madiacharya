@@ -4,6 +4,7 @@ _hide_content: true
 description_markdown:  |
   Current
 permalink: /mixed-media/archive/
+archive: false
 _gallery_date: 2016-05-01T00:00:00.000Z
 main_image_path: /assets/images/53b11fe4b3ae7.jpg
 images:            

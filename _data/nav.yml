@@ -4,6 +4,9 @@
 
 - title: "Installations"
   href: "/installations/"
+  subcategories:
+    - subtitle: "Hennafest"
+      subhref: "/installations/hennafest/"
 - title: "Sculpture"
   href: "/sculpture/"
 - title: "Paintings"

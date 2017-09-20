@@ -4,6 +4,7 @@ _hide_content: true
 description_markdown:  |
   This is the second work inspired by the poem 'The Hero' by Rabindranath Tagore. It incorporates sound, a recital of the poem coming from inside the boat.
 permalink: /video-installations/hero/
+archive: false
 _gallery_date: 2016-05-01T00:00:00.000Z
 main_image_path: /assets/images/476a7f4bcf6d7.jpg
 images:            

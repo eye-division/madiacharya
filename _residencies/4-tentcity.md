@@ -4,6 +4,7 @@ _hide_content: true
 description_markdown:  |
   This project was for **'In tent City'** commissioned by Fusion Arts in 2007 and involved a series of tents with different themes and ideas. I was lead artist for the **'Refuge Tent'** as pictured.
 permalink: /residencies/monster-myths/
+archive: false
 _gallery_date: 2016-05-01T00:00:00.000Z
 main_image_path: /assets/images/4741d3439be4a.jpg
 images:            

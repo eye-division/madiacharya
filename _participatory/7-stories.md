@@ -4,6 +4,7 @@ _hide_content: true
 description_markdown:  |
    This was a project with men seeking assylum who were staying at the time in a detention centre.Participants were asked to think about water using images and text from their native language, a poem, a story or a saying from their culture of origin.For this project I collected driftwood from the coast. I felt this was a way of referencing the coast-line which marks the site of the diasporan experience,particularly significant for this group of participants..
 permalink: /participatory-projects/stories-from-my-homeland/
+archive: false
 _gallery_date: 2016-05-01T00:00:00.000Z
 main_image_path: /assets/images/4741c0d8e1093.jpg
 images:            

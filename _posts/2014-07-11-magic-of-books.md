@@ -2,6 +2,7 @@
 layout: post
 title: The Magic of Books
 date: 2014-07-11 15:21:00
+archive: false
 main_image_path: /assets/images/51cf57b311223.jpg
 main_image_caption: "The Magic of Books"
 images:

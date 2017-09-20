@@ -29,6 +29,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff</p>
 
 ###SELECTED GROUP EXHIBITIONS  
 
+<p>2017   <strong>Summer Salon</strong> Angus Hughes Gallery, London</p>
 <p>2017  <strong> Between the Lines</strong>, Espacio Gallery, London</p>
 <p>2017   <strong>The Cellar,</strong>Lubomirov/Angus-Hughes, London</p>
 <p>2016   <strong>Psychedelic Breakfast, </strong>Vinyl Deptford,  Deptford X Fringe, London   </p>

@@ -4,6 +4,7 @@ _hide_content: true
 description_markdown:  |
    In this workshop at Benson Primary School in 2010, participants were invited to create patterns on found wood.Images of patterns in buildings, textiles and art in other parts of the world provided inspiration for this. The emphasis was on exploring patterns from different cultures to reflect diversity. Using found wood was appropriate for the project since it also has a history, coupled with an emphasis on recycling which is now important in most cultures across the world.
 permalink: /participatory-projects/pattern-workshop/
+archive: false
 _gallery_date: 2016-05-01T00:00:00.000Z
 main_image_path: /assets/images/4f15fb12247ac.jpg
 images:            

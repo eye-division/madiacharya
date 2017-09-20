@@ -4,6 +4,7 @@ _hide_content: true
 description_markdown:  |
   **Hope through Nature** was a workshop which formed part of  the **Livefriday** program at the **Ashmolean Museum**, Oxford in November 2016. Participants explored ideas and meaning of hope through nature and patterns around us. Images of patterns/ ideas from different cultures were a source of inspiration and participants  also brought their own ideas. Participants planed their design on paper and then developed  the design onto a wood piece, especially prepared for the workshop.
 permalink: /participatory-projects/live-friday/
+archive: false
 _gallery_date: 2016-05-01T00:00:00.000Z
 main_image_path: /assets/images/59654eec11dc7.jpg
 images:            
