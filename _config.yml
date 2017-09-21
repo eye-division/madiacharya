@@ -32,8 +32,8 @@ uploads_dir: "assets/images"
 
 # Image CDN
 imagecdn:
-  staging: "https://ed-madiacharya-dev.imgix.net"
-  production: "https://ed-madiacharya.imgix.net"
+  staging: "https://ed-madiacharya-dev.imgix.net" # upbeat-willow.cloudvent.net
+  production: "https://ed-madiacharya.imgix.net" # madiacharya-baskerville.org
 
 # Collections example
 collections:
