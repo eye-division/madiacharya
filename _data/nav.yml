@@ -1,12 +1,7 @@
 - title: "Home"
   href: "/"
-
-
 - title: "Installations"
   href: "/installations/"
-  subcategories:
-    - subtitle: "Hennafest"
-      subhref: "/installations/hennafest/"
 - title: "Sculpture"
   href: "/sculpture/"
 - title: "Paintings"
@@ -19,7 +14,6 @@
   href: "/participatory-projects/"
 - title: "Video / installations"
   href: "/video-installations/"
-
 - title: "CV"
   href: "/cv/"
 - title: "News"

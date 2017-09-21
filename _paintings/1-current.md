@@ -2,7 +2,7 @@
 title: Current
 _hide_content: true
 description_markdown:  |
-  Current
+  
 permalink: /paintings/current/
 archive: false
 _gallery_date: 2016-05-01T00:00:00.000Z

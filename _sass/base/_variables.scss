@@ -5,13 +5,15 @@
 $base-font-family: "verdana", "Helvetica Neue", "Helvetica", "Arial", sans-serif; // $helvetica;
 $heading-font-family: "Georgia", verdana, "Helvetica Neue", "Helvetica", "Arial", sans-serif; // $base-font-family;
 
+$em-base: 14px;
+
 // Font Sizes
 $base-font-size: $em-base; // 16px
 
 $page-width: 75em;
 
 // Adjust modular scale ratio
-$modular-scale-ratio: $minor-third;
+//$modular-scale-ratio: $minor-third;
 
 // Line height
 $base-line-height: 1.8;
@@ -27,6 +29,7 @@ $base-z-index: 0;
 $black: #111;
 $dark-gray: #333;
 $medium-gray: #999;
+
 $light-gray: #ddd;
 $white: #fff;
 $kbgray: #E5E5E5;
@@ -42,9 +45,10 @@ $dark-gray: #333 !default;
 // Even more colors
 $bc-red: #bc0000;
 $camouflage: #9a9a5d;
-
+$madi_gray: #E8E8E8;
 // Font Colors
-$base-background-color: #eee;
+$base-background-color: #fff;
+$inner-background-color: $madi_gray;
 $base-font-color: $dark-gray;
 $action-color: $black;
 $highlight-color: $medium-gray;

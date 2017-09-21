@@ -19,10 +19,12 @@ body {
 .navigation, .site-footer {
     //@include flex(none);
     //@include flex(1 0 auto);
+    background-color: $inner-background-color;
 }
 
 .page-content {
     //@include flex(1 0 auto);
+    background-color: $inner-background-color;
 }
 
 
@@ -148,6 +150,12 @@ pre code.hljs {
  * page specific
  */
 
+.carousel {
+    margin: 0 auto;
+    text-align: center;
+    max-width: 64em;
+    padding-bottom: 1em;
+}
 .about {
     h2 {
         @extend .pink;
