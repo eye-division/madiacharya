@@ -50,9 +50,6 @@ images:
   - image_path: /assets/images/55d25ef120bb5.jpg
     image_title: Destination, detail
     image_description:   
-  - image_path: /assets/images/.jpg
-    image_title: 
-    image_description: 
   - image_path: /assets/images/55d259fd11975.jpg
     image_title: Submerged
     image_description: L39cm x L70cm, 2009, Oil paint, found image, found wood

@@ -83,43 +83,43 @@ defaults:
             path: ""
             type: "installations"
         values:
-            layout: "gallery"
+            layout: "installations"
     -
         scope:
             path: ""
             type: "sculpture"
         values:
-            layout: "gallery"
+            layout: "sculpture"
     -
         scope:
             path: ""
             type: "paintings"
         values:
-            layout: "gallery"
+            layout: "paintings"
     -
         scope:
             path: ""
             type: "mixed"
         values:
-            layout: "gallery"
+            layout: "mixed"
     -
         scope:
             path: ""
             type: "residencies"
         values:
-            layout: "gallery"
+            layout: "residencies"
     -
         scope:
             path: ""
             type: "participatory"
         values:
-            layout: "gallery"
+            layout: "participatory"
     -
         scope:
             path: ""
             type: "video"
         values:
-            layout: "gallery"
+            layout: "video"
 
 # Google analytics
 ga_tracking_id: "UA-105691238-1"

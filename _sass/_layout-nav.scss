@@ -7,14 +7,12 @@
     margin: 0;
     @include outer-container($page-width);
     padding: 0 1em;
-    background-color: $white;
 }
 // Nav menu
 .navigation-wrapper {
     //@include outer-container;
     @include clearfix;
     position: relative;
-    background-color: $white;
 }
 
 // logo
@@ -59,9 +57,9 @@ nav {
     float: none;
     padding: 1.25em 0;
     @include media ($tablet) {
-        border-top: 1px solid $madi_gray;
-        border-bottom: 1px solid $madi_gray;
-        float: right;
+        border-top: 1px solid $dark-gray;
+        border-bottom: 1px solid $dark-gray;
+        //float: right;
         line-height: 1.5em;
     }
 }

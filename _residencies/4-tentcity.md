@@ -8,7 +8,7 @@ archive: false
 _gallery_date: 2016-05-01T00:00:00.000Z
 main_image_path: /assets/images/4741d3439be4a.jpg
 images:            
-  - image_path: /assets/images/48fe4beff3c5a.jpg
+  - image_path: /assets/images/4741d3439be4a.jpg
     image_title: In-tent-city, When are we going home
     image_description: 3m x 6m, 2007, Found fishing nets,plastic,rubber and metallic wire - This work was created for 'Refuge Tent', as part of the InTent City project. I worked with the culturally diverse communities in East Oxford to expore issues around migration, shelter and what gives us a sense of home. Through this participatory project I ;wanted to share how the process of collecting can function as a way of re-interpreting past experiences and creating new meanings. This was shown at the Cowley Road Carnival (pictured here) and later in the year as part of the InTent City festival at South Park, Oxford.  
   - image_path: /assets/images/4741d3e23a984.jpg

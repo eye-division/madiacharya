@@ -7,10 +7,10 @@ permalink: /video-installations/
 
 {% for gallery in site.video %}
 
-     <div class="gallery-box{% cycle '', '', ' last' %}">
+     <div class="gallery-box-50{% cycle ' alpha',  ' last' %}">
 
           <a href="{{ gallery.permalink }}" title="{{ gallery.title }}">
-	          {% include img.html src=gallery.main_image_path width=200 height=200 fit=crop alt=gallery.title %}
+	          {% include img.html src=gallery.main_image_path width=200 fit=clip alt=gallery.title %}
 	          <p>{{ gallery.title }}</p>
           </a>
 
