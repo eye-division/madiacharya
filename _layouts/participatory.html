@@ -1,0 +1,118 @@
+---
+layout: default
+---
+
+<header id="content-header">
+  <section id="page-title">
+    <h2>{{ page.title }}</h2>
+  </section>
+</header>
+
+<article id="content">
+
+
+  {% if page.images[0].image_path %}
+  <section class="gallery">
+    {% for image in page.images %}
+      {% if image.image_path %}
+      <div class="gallery-box {% cycle 'alpha', '', 'last' %}">
+        <a href="{% include imgpath.html src=image.image_path width=1280 %}" class="galleryphoto" data-lightbox="gallery" data-title="{{ image.image_title }} - {{ image.image_description }}">
+          {% include img.html src=image.image_path width=200 fit=clip alt=image.image_title %}
+        </a>
+        <caption>{{ image.image_title }}</caption>
+      </div>
+      {% endif %}
+    {% endfor %}
+  </section>
+  {% endif %}
+
+  <section class="main-content">
+    {% if page.description_markdown %}{{ page.description_markdown | markdownify }}{% endif %}
+  </section>
+
+  {% if page.sounds %}
+  <section>
+    {% for sound in page.sounds %}
+      {% if sound.audioid %}
+          {% include soundcloud.html id=sound.audioid %}
+        {% if sound.description %}
+          <p class="description">{{ sound.description }}</p>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </section>
+{% endif %}
+
+{% if page.videos %}
+
+    {% for video in page.videos %}
+      {% if video.videoid %}
+        {% include youtubeplayer.html id=video.videoid %}
+        {% if video.description %}
+          <p class="description">{{ video.description }}</p>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
+{% endif %}
+
+</article>
+
+
+{% for c in site.participatory %}
+{% if c.title == page.title %}
+  {% assign thisPost = c %}
+  {% if forloop.index == 1 %}
+    {% assign prevflag = 0 %}
+    {% assign nextflag = 1 %}
+  {% elsif forloop.index == forloop.length %}
+    {% assign prevflag = 1 %}
+    {% assign nextflag = 0 %}
+  {% else %}
+    {% assign prevflag = 1 %}
+    {% assign nextflag = 1 %}
+  {% endif %}
+{% endif %}
+{% endfor %}
+
+{% for c in site.participatory %}
+  {% if c.title == page.title %}
+    {% assign prevflag = 0 %}
+  {% endif %}
+  {% if prevflag == 1 %}
+    {% assign prevPost = c %}
+    {% assign page.previous = c %}
+  {% endif %}
+{% endfor %}
+
+{% if nextflag == 1 %}
+  {% for c in site.participatory %}
+    {% if foundPost == 1 %}
+      {% assign getNext = 1 %}
+    {% endif %}
+    {% if c.title == page.title %}
+      {% assign foundPost = 1 %}
+    {% endif %}
+    {% if getNext == 1%}
+      {% assign nextPost = c %}
+      {% assign page.next = c %}
+      {% assign foundPost = 0 %}
+      {% assign getNext = 0 %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+<div class="post-nav">
+    <div>
+        {% if prevPost.url %}
+        <a class="prev" href="{{prevPost.url}}">
+            <span><svg class="icon"><use xlink:href="#icon-double_angle_left" /></svg> {{prevPost.title}}</span>
+        </a>
+        {% endif %}
+        {% if nextPost.url %}
+        <a class="next" href="{{nextPost.url}}">
+            <span>{{nextPost.title}} <svg class="icon"><use xlink:href="#icon-double_angle_right" /></svg> </span>
+        </a>
+        {% endif %}
+    </div>
+</div>

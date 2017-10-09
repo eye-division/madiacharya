@@ -1,6 +1,7 @@
 # External gems
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
 
 exclude:
   - "/vendor/"
@@ -15,41 +16,113 @@ description: Madi Acharya-Baskerville art gallery site
 # root of your server.
 baseurl: ""
 # the base hostname & protocol for your site
-url: "http://www.madiacharya-baskerville.org"
+url: "https://www.madiacharya-baskerville.org"
+cover:
 logo: "/siteicon.png"
 email: a.ward@eyedivision.com
 
 # Build settings
 markdown: kramdown
-# paginate: 5
-# paginate_path: "/page:num/"
-# inter_post_navigation: false
+paginate: 5
+paginate_path: "/page:num/"
+inter_post_navigation: false
 permalink: pretty
+highlightjs_theme: "monokai-sublime"
+uploads_dir: "assets/images"
 
 # Image CDN
 imagecdn:
-  #staging: "http://ed-dev.imgix.net"
-  #production: "http://ed.imgix.net"
+  staging: "https://ed-madiacharya-dev.imgix.net" # upbeat-willow.cloudvent.net
+  production: "https://ed-madiacharya.imgix.net" # madiacharya-baskerville.org
 
-# Collections
+# Collections example
 collections:
-#     projects:
-#         output: true
-#         permalink: /projects/:path/
-
+    gallery:
+        output: true
+        permalink: /gallery/:path/
+        _hide_content: true
+    installations:
+        output: true
+        permalink: /installations/:path/
+        _hide_content: true
+    sculpture:
+        output: true
+        permalink: /sculpture/:path/
+        _hide_content: true
+    paintings:
+        output: true
+        permalink: /paintings/:path/
+        _hide_content: true
+    mixed:
+        output: true
+        permalink: /mixed-media/:path/
+        _hide_content: true
+    residencies:
+        output: true
+        permalink: /residencies/:path/
+        _hide_content: true
+    participatory:
+        output: true
+        permalink: /participatory-projects/:path/
+        _hide_content: true
+    video:
+        output: true
+        permalink: /video-installations/:path/
+        _hide_content: true
 
 # Defaults Example
 defaults:
-#     -
-#         scope:
-#             path: ""
-#             type: "projects"
-#         values:
-#             layout: "project"
-
+    -
+        scope:
+            path: ""
+            type: "gallery"
+        values:
+            layout: "gallery"
+    -
+        scope:
+            path: ""
+            type: "installations"
+        values:
+            layout: "installations"
+    -
+        scope:
+            path: ""
+            type: "sculpture"
+        values:
+            layout: "sculpture"
+    -
+        scope:
+            path: ""
+            type: "paintings"
+        values:
+            layout: "paintings"
+    -
+        scope:
+            path: ""
+            type: "mixed"
+        values:
+            layout: "mixed"
+    -
+        scope:
+            path: ""
+            type: "residencies"
+        values:
+            layout: "residencies"
+    -
+        scope:
+            path: ""
+            type: "participatory"
+        values:
+            layout: "participatory"
+    -
+        scope:
+            path: ""
+            type: "video"
+        values:
+            layout: "video"
 
 # Google analytics
-# ga_tracking_id: "UA-XXXX-1"
+ga_tracking_id: "UA-105691238-1"
 
 # Google Recaptcha for contact form
 # recaptcha_site_key: 6Ld_UCsUAAAAAOff_4JE6Uq5ZfKicBMZefuoaQsD
@@ -71,25 +144,18 @@ defaults:
 #     share: true                           # Include in the "Share" section of posts
 social:
   - name: Twitter
-    icon: twitter
+    icon: icon-twitter_sign
     username:
     url:
     desc: Follow us on Twitter
     share: true
 
   - name: Facebook
-    icon: facebook
+    icon: icon-facebook_sign
     username:
     url:
     desc: Like us on Facebook
     share: true
-
-  - name: GitHub
-    icon: github
-    username:
-    url:
-    desc: Fork us on GitHub
-    share: false
 
   - name: LinkedIn
     icon: linkedin
@@ -106,24 +172,10 @@ social:
     share: false
 
   - name: Instagram
-    icon: instagram
+    icon: icon-instagram
     username:
     url:
     desc: Follow me on Instagram
-    share: false
-
-  - name: Pinterest
-    icon: pinterest
-    username:
-    url:
-    desc: Follow me on Pinterest
-    share: true
-
-  - name: SoundCloud
-    icon: soundcloud
-    username:
-    url:
-    desc: Follow me on SoundCloud
     share: false
 
   - name: Vimeo
