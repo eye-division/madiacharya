@@ -16,7 +16,7 @@ description: Madi Acharya-Baskerville art gallery site
 # root of your server.
 baseurl: ""
 # the base hostname & protocol for your site
-url: "http://www.madiacharya-baskerville.org"
+url: "https://www.madiacharya-baskerville.org"
 cover:
 logo: "/siteicon.png"
 email: a.ward@eyedivision.com

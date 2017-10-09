@@ -153,6 +153,7 @@ pre code.hljs {
  */
 
 .carousel {
+    clear: both;
     margin: 0 auto;
     text-align: center;
     max-width: 64em;
@@ -189,11 +190,10 @@ pre code.hljs {
     //box-shadow: 2px 2px 2px 0 red;
     padding: 1em;
 
-    .home, .page {
+    .page {
         @include media ($tablet) {
-            padding: 1em 0;
+            padding: 0;
         }
-
     }
 
     /*
@@ -287,13 +287,17 @@ pre code.hljs {
     }
 }
 
-/*
-*   Posts
-*/
-.post {
-    @include media ($tablet) {
-       @include span-columns(4);
+/// home page
+///
+.front {
+    .blog {
+        text-align: center;
     }
+}
+
+///  Posts
+
+.post {
 
     ul {
         margin-bottom: 1em;
