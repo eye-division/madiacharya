@@ -10,8 +10,8 @@ permalink: /paintings/
      <div class="gallery-box{% cycle '', '', ' last' %}">
 
           <a href="{{ gallery.permalink }}" title="{{ gallery.title }}">
-	          {% include img.html src=gallery.main_image_path width=200 fit=clip alt=gallery.title %}
-	          <!-- {% include img.html src=gallery.main_image_path alt=gallery.title %} -->
+	          {% include img.html src=gallery.main_image_path width=600 fit=clip alt=gallery.title %}
+
 	          <p>{{ gallery.title }}</p>
           </a>
 
