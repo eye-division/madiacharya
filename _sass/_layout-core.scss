@@ -1,8 +1,5 @@
+///   Globals
 
-
-/*
-*   Globals
-*/
 html, body {
     margin: 0;
     padding: 0;
@@ -45,7 +42,7 @@ code {
     padding: 0 3px;
 }
 
-/* SVG icons */
+/// SVG icons
 .icon {
     display: inline-block;
     width: 30px;
@@ -116,9 +113,8 @@ pre code.hljs {
     }
 }
 
-/*
-*   Banner
-*/
+///   Banner
+
 .site-header-container, .post-header-container {
     width: 100%;
     &.has-cover {
@@ -148,9 +144,9 @@ pre code.hljs {
         }
     }
 }
-/*
- * page specific
- */
+
+/// page specific
+
 
 .carousel {
     clear: both;
@@ -181,9 +177,9 @@ pre code.hljs {
 .textright {
     text-align: right;
 }
-/*
-*   Body
-*/
+
+///   Body
+
 .page-content {
 
     @include outer-container($page-width);
@@ -196,9 +192,8 @@ pre code.hljs {
         }
     }
 
-    /*
-    *   index.html
-    */
+    ///   index.html
+
     .post-list {
         padding-top: 1em !important;
         @extend %default-ul;
@@ -247,9 +242,8 @@ pre code.hljs {
         max-width: 100%;
     }
 
-    /*
-    *   Pages
-    */
+    ///   Pages
+
     .page {
 
         .post-header {
@@ -288,7 +282,7 @@ pre code.hljs {
 }
 
 /// home page
-///
+
 .front {
     .blog {
         text-align: center;
@@ -381,9 +375,8 @@ a.next, a.prev {
     }
 }
 
-/*
-*   Footer
-*/
+///   Footer
+
 .site-footer {
     @include outer-container($page-width);
 
@@ -408,9 +401,8 @@ a.next, a.prev {
 
 }
 
-/*
-*   Site Description/Signature (centred)
-*/
+///   Site Description/Signature (centred)
+
 .site-signature {
     margin-top: 1em;
     text-align: center;
@@ -422,9 +414,8 @@ a.next, a.prev {
     }
 }
 
-/*
-* Editor link
-*/
+/// Editor link
+
 .editor-link {
   display: none;
 }
