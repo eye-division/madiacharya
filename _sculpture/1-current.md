@@ -70,33 +70,8 @@ images:
   - image_path: /assets/images/57567a1cdd74f.jpg
     image_title: Batik Orifice (detail)
     image_description:
-  - image_path: /assets/images/59650c60b9de7.jpg
-    image_title: Skating on Broken Ice (front)
-    image_description: 'H80 W120 D50, 2017, Found wood, Found Objects, Mixed Media'
-  - image_path: /assets/images/59651203eef69.jpg
-    image_title: back
-    image_description:
-  - image_path: /assets/images/59650c99811ee.jpg
-    image_title: side
-    image_description:
-  - image_path: /assets/images/5965060e96778.jpg
-    image_title: Kerbside Ecstacy (front)
-    image_description: 'H40 W80 D35, 2017, Found wood, Found Objects, Mixed Media'
-  - image_path: /assets/images/59650712982eb.jpg
-    image_title: detail
-    image_description:
-  - image_path: /assets/images/5965068e43056.jpg
-    image_title: side view
-    image_description:
-  - image_path: /assets/images/59650e978c974.jpg
-    image_title: Let it Grow
-    image_description: 'H40 W25 D15, 2017, found wood, Found Objects, Mixed Media'
-  - image_path: /assets/images/59650f2f629f7.jpg
-    image_title: detail
-    image_description:
-  - image_path: /assets/images/59650ef1f3cca.jpg
-    image_title: side view
-    image_description:
+
+
 _options:
   image_path:
     width: 1200
