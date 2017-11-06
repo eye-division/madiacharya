@@ -3,6 +3,7 @@ layout: post
 title: 'Within Walls'
 date: 2008-03-07 15:21:00
 archive: false
+frontpage: false
 main_image_path: /assets/images/4b199cbad7ebb.jpg
 main_image_caption: "Within Walls"
 images:
