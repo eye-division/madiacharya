@@ -3,6 +3,7 @@ layout: post
 title: Material World
 date: 2017-10-14 15:21:00
 archive: false
+frontpage: false
 main_image_path: 
 main_image_caption: 
 images:

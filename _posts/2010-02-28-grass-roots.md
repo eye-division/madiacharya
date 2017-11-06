@@ -3,6 +3,7 @@ layout: post
 title: 'Grass Roots and Glass Ceilings'
 date: 2010-02-28 15:21:00
 archive: false
+frontpage: false
 main_image_path: /assets/images/4b8300d6396a2.jpg
 main_image_caption: "Grass Roots and Glass Ceilings"
 images:

@@ -3,6 +3,7 @@ layout: post
 title: 'Small Obsessions'
 date: 2009-11-25 15:21:00
 archive: false
+frontpage: false
 main_image_path: /assets/images/4b1997f6cfef4.jpg
 main_image_caption: "Small Obsessions"
 images:

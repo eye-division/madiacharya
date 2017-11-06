@@ -3,6 +3,7 @@ layout: post
 title: Sanctuary, Home, Away and the Common Ground
 date: 2013-07-11 15:21:00
 archive: false
+frontpage: false
 main_image_path: /assets/images/51cf4de793c87.jpg
 main_image_caption: "Sanctuary, Home, Away and the Common Ground"
 images:

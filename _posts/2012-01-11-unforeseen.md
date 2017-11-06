@@ -3,6 +3,7 @@ layout: post
 title: 'Unforeseen'
 date: 2012-01-11 15:21:00
 archive: false
+frontpage: false
 main_image_path: /assets/images/4f16044dd7bae.jpg
 main_image_caption: "Unforeseen"
 images:

@@ -3,6 +3,7 @@ layout: post
 title: 'Surfaces : Works on Paper'
 date: 2012-06-11 15:21:00
 archive: false
+frontpage: false
 main_image_path: /assets/images/50e4ce621428f.jpg
 main_image_caption: "Surfaces : Works on Paper"
 images:

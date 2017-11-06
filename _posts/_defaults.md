@@ -3,6 +3,7 @@ layout: post
 title:
 date:
 archive: false
+frontpage: true
 main_image_path:
 main_image_caption:
 images:
