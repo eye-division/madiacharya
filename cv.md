@@ -28,7 +28,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff</p>
 (sponsored by Carter Jonas and Rectory Homes)</p>
 
 ###SELECTED GROUP EXHIBITIONS  
-
+<p>2017  <strong>Material World, An International Perspective</strong>, SJE Arts, Oxford</p>
 <p>2017   <strong>Summer Salon</strong> Angus Hughes Gallery, London</p>
 <p>2017  <strong> Between the Lines</strong>, Espacio Gallery, London</p>
 <p>2017   <strong>The Cellar,</strong>Lubomirov/Angus-Hughes, London</p>
