@@ -13,12 +13,11 @@ _options:
 ---
 
 ###WEBLINKS:  
-http://www.re-title.com/artists/madi-acharyabaskerville.asp
 
-<a href="http://www.axisweb.org/p/madiacharyabaskerville">www.axisweb.org/p/madiacharyabaskerville</a>
+<p><a href="http://www.axisweb.org/p/madiacharyabaskerville">Axis web</a></p>
 
 ###EDUCATION:
-MA Fine Art, Cardiff Institute, University of Wales, Cardiff</p>
+<p>MA Fine Art, Cardiff Institute, University of Wales, Cardiff</p>
 
 ###SOLO EXHIBITIONS:
 
