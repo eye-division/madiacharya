@@ -22,9 +22,9 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### SOLO EXHIBITIONS:
 
-2017 '**Absent Beach'** Vinyl Deptford, London
+2017 ‘**Absent Beach’** Vinyl Deptford, London
 
-2008 **'Memories from Home'** at Citygate, St Clements, Oxford<br>(sponsored by Carter Jonas and Rectory Homes)
+2008 **‘Memories from Home’** at Citygate, St Clements, Oxford<br>(sponsored by Carter Jonas and Rectory Homes)
 
 ### SELECTED GROUP EXHIBITIONS
 
@@ -32,7 +32,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2017 **Summer Salon** Angus Hughes Gallery, London
 
-2017 ** Between the Lines**, Espacio Gallery, London
+2017 **Between the Lines,** Espacio Gallery, London
 
 2017 **The Cellar,**Lubomirov/Angus-Hughes, London
 
@@ -40,11 +40,11 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2016 **Summer Salon,**Lubomirov/ Angus-Hughes, London
 
-2016 ** 'Looking Up',**Studio 1:! Gallery, London
+2016 **‘Looking Up’,&nbsp;**Studio 1:! Gallery, London
 
 2016 **Material World,**Ancien Musee de Peinture, Grenoble
 
-2016 ** Dis locate,**VW Showroom, Oxford,curated by** Luis Manuel Araujo**
+2016 **Dis locate**, VW Showroom, Oxford, curated by Luis Manuel Araujo\*\*
 
 2016 **Eves & Liliths**, Espacio Gallery, London
 
@@ -52,19 +52,19 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2015 **Zeitgeist Summer Exhibition**, Bond House Gallery, ASC Studios, London
 
-2014 **'Alps and Spires'** Museum of Oxford, Oxford
+2014 **‘Alps and Spires’** Museum of Oxford, Oxford
 
-2013 **'Sanctuary' Home, Away and Common Ground, Part 2',**
+2013 **‘Sanctuary’ Home, Away and Common Ground, Part 2’,**
 
 Brunei Gallery, SOAS, University of London
 
-2013 **L'Enchantement des Livres,**La Masion I'international,Grenoble,France
+2013 **L’Enchantement des Livres,**La Masion I’international,Grenoble,France
 
 2012 **Surfaces: Works on Paper,** Sput-nik Gallery, Porto, Portugal
 
 2011 **Immediate Territory,**Magdalen Road Studios, Oxford (ACE, Arts Council England funded)
 
-2011 **'Sanctuary' Home, Away and Common Ground, Part 1,**National
+2011 **‘Sanctuary’ Home, Away and Common Ground, Part 1,**National
 
 Museum of Kenya, Nairobi
 
@@ -96,13 +96,13 @@ Park, Bracknell (funded by ACE, National Culture and Arts Foundation, Taiwan)
 
 2018&nbsp;**Fe/Male,&nbsp;**AIR Gallery, Manchester
 
-2017 **'This Year's Model',** Studio 1:1 Gallery, London
+2017 **‘This Year’s Model’,** Studio 1:1 Gallery, London
 
 2016 **Royal Academy Summer Exhibition**, Royal Academy of Arts, London
 
 2015 **Axisweb100**winner (June)
 
-2015 ' **This Year's Model'**, Studio 1.1 Gallery, London (selected by studio 1:1 with Marcus Cope and Robin Seir)
+2015 ‘ **This Year’s Model’**, Studio 1.1 Gallery, London (selected by studio 1:1 with Marcus Cope and Robin Seir)
 
 2012 **Wells Art Contemporary,**Wells and Mendip Museum, Wells, Somerset
 
@@ -142,7 +142,7 @@ Keith Tyson, Carolyn Christov-Bakargiev)
 
 2008 **Eynsham Primary School**, outdoor site specific sculpture (Kid@art)
 
-2007** ‘Art-in-situ’** residency in Crest, The Drome, France in the medieval tower
+2007&nbsp;**‘Art-in-situ’**&nbsp;residency in Crest, The Drome, France in the medieval tower
 
 exploring the theme ‘Stories, Memories, Concepts’ (ACE funded)
 
@@ -152,13 +152,13 @@ exploring the theme ‘Stories, Memories, Concepts’ (ACE funded)
 
 &nbsp;
 
-2008 **ARC Seminar 'International Residencies',** Ovada Gallery, Oxford
+2008 **ARC Seminar ‘International Residencies’,** Ovada Gallery, Oxford
 
-2002 **‘Tracing the International’**a seminar at the Arts of Cross-culture workshop, British Psychological Society, London
+2002 **‘Tracing the International’&nbsp;**a seminar at the Arts of Cross-culture workshop, British Psychological Society, London
 
 ### BIBLIOGRAPHY
 
-**Phantasms,road rage,feminism**, Review of This Year's Model, The Human Stain by James Brewer http://www.allaboutshipping.co.uk/2017/01/07/phantasms-road-rage-feminism
+**Phantasms,road rage,feminism**, Review of This Year’s Model, The Human Stain by James Brewer http://www.allaboutshipping.co.uk/2017/01/07/phantasms-road-rage-feminism
 
 **Summer Exhibition Illustrated 2016**, Exhibition Catalogue
 
@@ -166,13 +166,13 @@ exploring the theme ‘Stories, Memories, Concepts’ (ACE funded)
 
 **Alps and Spires,** Museum of Oxford, Exhibition Catalogue
 
-**'Sanctuary Part 2':**Home, Away, Common Ground, Exhibition Catalogue , forward by John Hollingworth MBE, Director of Brunei Gallery, SOAS
+**‘Sanctuary Part 2’:**Home, Away, Common Ground, Exhibition Catalogue , forward by John Hollingworth MBE, Director of Brunei Gallery, SOAS
 
-**'Sanctuary Part 1':**Home, Away, Common Ground', Exhibition Catalogue
+**‘Sanctuary Part 1’:**Home, Away, Common Ground’, Exhibition Catalogue
 
 **Immediate Territory,**Exhibition Catalogue, Forward by Katalin Hausel
 
-Within** Walls**: Exhibition Catalogue
+**Within Walls:** Exhibition Catalogue
 
 **Umfeld&lt;-&gt;Inwelt**, Exhibition Catalogue, Frauenmuseum, Bonn, Forward by Marianne Pitzen, director Frauen Museum, Bonn
 
@@ -188,4 +188,4 @@ Edited by Dr Ho Law, The Cutting Edge, vol 4, 2002
 
 ### COLLECTIONS
 
-Work in private collections in London, Oxford, and across the UK
+Work in private collections in London, Oxford and France
