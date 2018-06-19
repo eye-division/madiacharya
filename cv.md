@@ -28,7 +28,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### SELECTED GROUP EXHIBITIONS
 
-2018&nbsp;**Object**, a 3 person exhibition at hARTslane, London
+2018&nbsp;**Object**, hARTslane, London
 
 2017 **Material World, An International Perspective**, SJE Arts, Oxford
 
