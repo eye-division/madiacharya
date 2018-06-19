@@ -28,6 +28,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### SELECTED GROUP EXHIBITIONS
 
+2018&nbsp;**Object**, a 3 person exhibition at hARTslane, London
+
 2017 **Material World, An International Perspective**, SJE Arts, Oxford
 
 2017 **Summer Salon** Angus Hughes Gallery, London
@@ -149,8 +151,6 @@ exploring the theme ‘Stories, Memories, Concepts’ (ACE funded)
 ### PRESENTATIONS
 
 2017 **Syllabus 3** presentation to interview panel, Spike Island, Bristol
-
-&nbsp;
 
 2008 **ARC Seminar ‘International Residencies’,** Ovada Gallery, Oxford
 
