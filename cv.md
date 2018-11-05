@@ -28,6 +28,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### SELECTED GROUP EXHIBITIONS
 
+2018&nbsp;**'and the value of nothing',&nbsp;**Studio 1:1 Gallery, London
+
 2018&nbsp;**Object**, hARTslane, London
 
 2017 **Material World, An International Perspective**, SJE Arts, Oxford
@@ -42,7 +44,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2016 **Summer Salon,**Lubomirov/ Angus-Hughes, London
 
-2016 **‘Looking Up’,&nbsp;**Studio 1:! Gallery, London
+2016 **‘Looking Up’,&nbsp;**Studio 1:1 Gallery, London
 
 2016 **Material World,**Ancien Musee de Peinture, Grenoble
 
@@ -89,6 +91,8 @@ then touring to other Oxfordshire venues (ACE funded)
 2003 **‘All our cultures’**, Oriel Myrdinn Gallery, Carmarthen, Wales.
 
 ### CURATORIAL PROJECTS
+
+2018&nbsp;**Objection**, co-curated with Hayley Harrison, Angus Hughes Gallery, London
 
 2009 **Jam: Cultural Congestions in Contemporary Asian Art,** artist-curator with Dr Outi Remes, South Hill
 
@@ -149,6 +153,10 @@ Keith Tyson, Carolyn Christov-Bakargiev)
 exploring the theme ‘Stories, Memories, Concepts’ (ACE funded)
 
 ### PRESENTATIONS
+
+2018 **Walking through the forest, Searching for the sea, Finding, Collecting and Making&nbsp;**as part of the symposium&nbsp;**Modernism: Making, Place and Protest&nbsp;**organised by Decorating Dissidence at Queen Mary College, London
+
+2018&nbsp;**Artist Talk for Warehouse Art School**, Ovada Gallery, Oxford
 
 2017 **Syllabus 3** presentation to interview panel, Spike Island, Bristol
 
