@@ -16,6 +16,8 @@ _options:
 
 [Axis web](http://www.axisweb.org/p/madiacharyabaskerville)
 
+Royal Society of Sculptors[...](https://sculptors.org.uk/artists/madi-acharya-baskerville){: target="_blank"}
+
 ### EDUCATION:
 
 MA Fine Art, Cardiff Institute, University of Wales, Cardiff
@@ -28,7 +30,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### SELECTED GROUP EXHIBITIONS
 
-2018&nbsp;**'and the value of nothing',&nbsp;**Studio 1:1 Gallery, London
+2018&nbsp;**‘and the value of nothing’,&nbsp;**Studio 1:1 Gallery, London
 
 2018&nbsp;**Object**, hARTslane, London
 
