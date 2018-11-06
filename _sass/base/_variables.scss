@@ -50,7 +50,7 @@ $madi_gray: #E8E8E8;
 $base-background-color: $white;
 $inner-background-color: $madi_gray;
 $base-font-color: $dark-gray;
-$action-color: $black;
+$action-color: darken($bc-red, 20%);
 $highlight-color: $medium-gray;
 
 /* SASS / Social Media Brand Colors */

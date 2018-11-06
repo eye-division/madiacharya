@@ -16,7 +16,7 @@ _options:
 
 [Axis web](http://www.axisweb.org/p/madiacharyabaskerville)
 
-Royal Society of Sculptors[...](https://sculptors.org.uk/artists/madi-acharya-baskerville){: target="_blank"}
+[Royal Society of Sculptors](https://sculptors.org.uk/artists/madi-acharya-baskerville){: target="_blank"}
 
 ### EDUCATION:
 

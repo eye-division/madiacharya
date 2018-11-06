@@ -1,10 +1,11 @@
 # External gems
-gems:
-  - jekyll-sitemap
-  - jekyll-paginate
+#gems:  - jekyll-sitemap
+#  - jekyll-paginate
 
-exclude:
-  - "/vendor/"
+plugins:
+ # - jekyll-archives # Sorry, not GitHub pages friendly!
+   - jekyll-seo-tag
+   - jekyll-sitemap
 
 # Site settings
 title: Madi Acharya-Baskerville
