@@ -156,7 +156,7 @@ exploring the theme ‘Stories, Memories, Concepts’ (ACE funded)
 
 ### PRESENTATIONS
 
-2018 **Walking through the forest, Searching for the sea, Finding, Collecting and Making&nbsp;**as part of the symposium&nbsp;**Modernism: Making, Place and Protest&nbsp;**organised by Decorating Dissidence at Queen Mary College, London
+2018 **Walking through the forest, Searching for the sea, Finding, Collecting and Making&nbsp;**as part of the symposium&nbsp;**Modernism: Making, Place and Protest&nbsp;**organised by Decorating Dissidence at Queen Mary College, London. [View abstracts](https://decoratingdissidence.wordpress.com/abstracts/){: target="_blank"}.
 
 2018&nbsp;**Artist Talk for Warehouse Art School**, Ovada Gallery, Oxford
 
