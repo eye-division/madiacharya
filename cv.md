@@ -28,6 +28,10 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2008 **‘Memories from Home’** at Citygate, St Clements, Oxford<br>(sponsored by Carter Jonas and Rectory Homes)
 
+### TWO PERSON EXHIBITION:
+
+2018 **&nbsp;'Dancing with the corporeal'** with &nbsp;Matthew Gould no format Gallery, Deptford, London with Artist Talk facilitated by Richard Dyer, (editor in chief, Third Text)
+
 ### SELECTED GROUP EXHIBITIONS
 
 2018&nbsp;**‘and the value of nothing’,&nbsp;**Studio 1:1 Gallery, London
@@ -144,7 +148,7 @@ Keith Tyson, Carolyn Christov-Bakargiev)
 
 ### RESIDENCIES
 
-2011 **Sanctuary for Sick Children**, Neyri, Kenya
+2011 **Sanctuary**, Neyri, Kenya
 
 2009 **Gosford Hill School**working with young people making outdoor site-specific work commissioned by **Kids@rt**, (Oxfordshire , Artweeks Charity)
 
