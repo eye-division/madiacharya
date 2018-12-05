@@ -6,9 +6,42 @@ permalink:
 archive: false
 main_image_path:
 images:
-  - image_path:
-    image_title:
-    image_description:
+  - image_path: /assets/images/installation-view-1.jpg
+    image_title: I will go where ever you take me
+    image_description: |-
+      hARTslane Gallery, London, 2018 
+      Found wood, muslin, raw silk, Bengali text
+      Dimensions: 184 cm x 121 cm x 125cm, 2018
+  - image_path: /assets/images/installation-view-2.jpg
+    image_title: I will go where ever you take me
+    image_description: |-
+      hARTslane Gallery, London, 2018 
+      Found wood, muslin, raw silk, Bengali text
+      Dimensions: 184 cm x 121 cm x 125cm, 2018
+  - image_path: /assets/images/installation-view-3.jpg
+    image_title: I will go where ever you take me
+    image_description: |-
+      hARTslane Gallery, London, 2018 
+      Found wood, muslin, raw silk, Bengali text
+      Dimensions: 184 cm x 121 cm x 125cm, 2018
+  - image_path: /assets/images/installation-view-4.jpg
+    image_title: I will go where ever you take me
+    image_description: |-
+      hARTslane Gallery, London, 2018 
+      Found wood, muslin, raw silk, Bengali text
+      Dimensions: 184 cm x 121 cm x 125cm, 2018
+  - image_path: /assets/images/installation-view-5.jpg
+    image_title: I will go where ever you take me
+    image_description: |-
+      hARTslane Gallery, London, 2018 
+      Found wood, muslin, raw silk, Bengali text
+      Dimensions: 184 cm x 121 cm x 125cm, 2018
+  - image_path: /assets/images/detail-with-bengali-text.jpg
+    image_title: Detail with Bengali text
+    image_description: |-
+      hARTslane Gallery, London, 2018 
+      Found wood, muslin, raw silk, Bengali text
+      Dimensions: 184 cm x 121 cm x 125cm, 2018
 _options:
   image_path:
     width: 1200
