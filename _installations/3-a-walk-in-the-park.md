@@ -12,6 +12,7 @@ description_markdown:  |
    2015
 permalink: /installations/a-walk-in-the-park/
 archive: false
+order_number: 4
 _gallery_date: 2016-05-01T00:00:00.000Z
 main_image_path: /assets/images/55cd1463846cb.jpg
 images:            
@@ -30,11 +31,13 @@ images:
 
 _options:
   image_path:
+    uploads_dir: 'assets/images/:year'
     width: 1200
     height: 1200
     resize_style: "contain"
     mime_type: "image/jpeg"
   main_image_path:
+    uploads_dir: 'assets/images/:year'
     width: 1200
     height: 800
     resize_style: "contain"

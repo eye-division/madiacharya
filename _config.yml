@@ -24,9 +24,6 @@ email: a.ward@eyedivision.com
 
 # Build settings
 markdown: kramdown
-paginate: 5
-paginate_path: "/page:num/"
-inter_post_navigation: false
 permalink: pretty
 highlightjs_theme: "monokai-sublime"
 uploads_dir: "assets/images"

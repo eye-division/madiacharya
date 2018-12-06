@@ -11,6 +11,7 @@ description_markdown:  |
    This site-specific work was created for the exhibition ‘Unravelling Time’ at The Abbey at Sutton Courtenay Abbey, a magical place steeped in history and atmosphere. My piece is created from found objects that I collected from Chapman’s Pool on the Dorset coast. Through this work I wanted to bring artifacts from the shoreline, the edge of our land into a more inland space within the gardens in the Abbey. The trip to source materials for this project was made possible by funding from Axisweb100
 permalink: /installations/drift-in-land/
 archive: false
+order_number: 3
 _gallery_date: 2016-05-01T00:00:00.000Z
 main_image_path: /assets/images/5675e42816589.jpg
 images:            
@@ -35,11 +36,13 @@ images:
           
 _options:
   image_path:
+    uploads_dir: 'assets/images/:year'
     width: 1200
     height: 1200
     resize_style: "contain"
     mime_type: "image/jpeg"
   main_image_path:
+    uploads_dir: 'assets/images/:year'
     width: 1200
     height: 800
     resize_style: "contain"
