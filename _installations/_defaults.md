@@ -5,17 +5,20 @@ _gallery_date:
 permalink:
 archive: false
 main_image_path:
+order_number:
 images:
   - image_path:
     image_title:
     image_description:
 _options:
   image_path:
+    uploads_dir: 'assets/images/:year'
     width: 1200
     height: 1200
     resize_style: "contain"
     mime_type: "image/jpeg"
   main_image_path:
+    uploads_dir: 'assets/images/:year'
     width: 1200
     height: 800
     resize_style: "contain"
