@@ -2,16 +2,30 @@
 layout: page
 title: "Galleries"
 permalink: /gallery/
+thumb_crop: true
 ---
 <div class="gallery">
 
 {% for gallery in site.gallery%}
 
-     <div class="gallery-box{% cycle '', '', ' last' %}">
+    <div class="gallery-box{% cycle '', '', ' last' %}">
 
           <a href="{{ gallery.permalink }}" title="{{ gallery.title }}">
-	           {% include img.html src=gallery.image_path max-w=800 max-h=400 fit=crop alt=gallery.title %}
-	          <h4>{{ gallery.title }}</h4>
+
+            {% if page.thumb_crop %}
+
+                <!-- cropped square images -->
+                {% include img.html src=gallery.main_image_path width=200 height=200 fit=crop alt=gallery.title %}
+                <!-- end cropped square -->
+
+              {% else %}
+
+                {% include img.html src=gallery.main_image_path width=600 fit=clip alt=gallery.title %}
+
+              {% endif %}
+
+              <p>{{ gallery.title }}</p>
+
           </a>
 
      </div>

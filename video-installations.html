@@ -2,6 +2,7 @@
 layout: page
 title: "Video / installations"
 permalink: /video-installations/
+thumb_crop: true
 ---
 <div class="gallery">
 
@@ -9,9 +10,22 @@ permalink: /video-installations/
 
      <div class="gallery-box-50{% cycle ' alpha',  ' last' %}">
 
-          <a href="{{ gallery.permalink }}" title="{{ gallery.title }}">
-	          {% include img.html src=gallery.main_image_path width=600 fit=clip alt=gallery.title %}
-	          <p>{{ gallery.title }}</p>
+           <a href="{{ gallery.permalink }}" title="{{ gallery.title }}">
+
+            {% if page.thumb_crop %}
+
+                <!-- cropped square images -->
+                {% include img.html src=gallery.main_image_path width=200 height=200 fit=crop alt=gallery.title %}
+                <!-- end cropped square -->
+
+              {% else %}
+
+                {% include img.html src=gallery.main_image_path width=600 fit=clip alt=gallery.title %}
+
+              {% endif %}
+
+              <p>{{ gallery.title }}</p>
+
           </a>
 
      </div>
