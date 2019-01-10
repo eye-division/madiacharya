@@ -6,7 +6,10 @@ thumb_crop: true
 ---
 <div class="gallery">
 
+
 {% for gallery in site.participatory %}
+
+  {% if gallery.archive == false %}
 
      <div class="gallery-box{% cycle '', '', ' last' %}">
 
@@ -29,6 +32,8 @@ thumb_crop: true
           </a>
 
      </div>
+
+  {% endif %}
 
 {% endfor %}
 </div>
