@@ -106,6 +106,8 @@ Park, Bracknell (funded by ACE, National Culture and Arts Foundation, Taiwan)
 
 ### PRIZES, AWARDS, OPEN SUBMISSIONS
 
+**2018 &nbsp;SFSA Painting Open**, No Format Gallery, London
+
 2018&nbsp;**Fe/Male,&nbsp;**AIR Gallery, Manchester
 
 2017 **‘This Year’s Model’,** Studio 1:1 Gallery, London
