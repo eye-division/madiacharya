@@ -1,0 +1,94 @@
+---
+layout: page
+carousel:
+
+  - image: /assets/images/55dcfb244ded2.jpg
+    caption:
+    link:
+  - image: /assets/images/55e0ce554a769.jpg
+    caption:
+    link:
+  - image: /assets/images/5965e18516c41.jpg
+    caption:
+    link:
+  - image: /assets/images/5965e02a13d0b.jpg
+    caption:
+    link:
+  - image: /assets/images/596534ec6c666.jpg
+    caption:
+    link:
+  - image: /assets/images/59653fae223b7.jpg
+    caption:
+    link:
+  - image: /assets/images/50-screen-copy.jpg
+    caption:
+    link:
+_options:
+  image:
+    width: 1200
+    height: 1200
+    resize_style: contain
+    mime_type: image/jpeg
+    correct_orientation: true
+_comments:
+  carousel: Edit the slideshow
+  link: Optional web link from the slide
+  caption: optional caption
+---
+
+<section class="blog">
+
+    {% for post in site.posts limit:1 %}
+
+      {% if post.frontpage %}
+        <div class="post">
+          {% if post.main_image_path %}
+            <figure>
+              <a href="{{ post.url | prepend: site.baseurl }}">
+              {% assign alt_text = post.title %}
+              {% if post.image_caption %} {% assign alt_text = post.image_caption %} {% endif %}
+              {% include img.html src=post.main_image_path width=200 alt=alt_text %}
+              </a>
+            </figure>
+          {% endif %}
+
+        {{ post.content }}
+
+        </div>
+      {% endif %}
+
+    {% endfor %}
+
+  </section>
+
+{% if page.carousel %}
+
+  <section class="carousel">
+    <div class="flexslider">
+      <ul class="slides">
+        {% for slides in page.carousel %}
+        <li>
+          {% if slides.link %}
+          <a href="{{ site.baseurl }}{{ slides.link }}" title="View project">
+          {% endif %}
+          {% include img.html src=slides.image width=960 alt=slides.caption %}
+          {% if slides.link %}
+          </a>
+        {% endif %}
+          {% if slides.caption %}
+          <p class="flex-caption">{% if slides.link %}<a href="{{ site.baseurl }}{{ slides.link }}" title="View project">{% endif %}{{ slides.caption }}{% if slides.link %}&nbsp;<svg class="icon icon__white icon--readmore"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#icon-double_angle_right" /></svg></a>{% endif %}</p>
+          {% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+  </section>
+
+{% endif %}
+
+<div class="editable">
+  <p>My work is concerned with the synthesis of unlikely elements. Using objects, textiles, song, conversation and magazine cuttings which resonate with me on some level, I create works which move fluidly between different media. Often materials used have had a previous life such as wooden panels previously part of furniture or embroidered fabric which has become moth-eaten, hence devoid of its original function. I am interested in the disintegration of objects and materials over time and how through my intervention they can come to exist as part of something new.</p>
+  <p><strong>Featured by <a target="_blank" href="https://www.axisweb.org/artist-of-the-month/2018/madi-acharya-baskerville/">AXISWEB Artist of the Month</a></strong></p>
+</div>
+
+
