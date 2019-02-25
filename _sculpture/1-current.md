@@ -16,7 +16,7 @@ _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/59650c60b9de7.jpg
 images:
   - image_path: /assets/images/59650c60b9de7.jpg
-    image_title: Skating on Broken Ice (front)
+    image_title: Skating on Thin Ice (front)
     image_description: 'H80 W120 D50, 2017, Found wood, Found Objects, Mixed Media'
   - image_path: /assets/images/59651203eef69.jpg
     image_title: back
