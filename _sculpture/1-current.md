@@ -16,7 +16,7 @@ _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/59650c60b9de7.jpg
 images:
   - image_path: /assets/images/59650c60b9de7.jpg
-    image_title: Skating on Broken Ice (front)
+    image_title: Skating on Thin Ice (front)
     image_description: 'H80 W120 D50, 2017, Found wood, Found Objects, Mixed Media'
   - image_path: /assets/images/59651203eef69.jpg
     image_title: back
@@ -45,7 +45,7 @@ images:
   - image_path: /assets/images/575677f6d4ae2.jpg
     image_title: Those Long Hot Summers (front)
     image_description: >-
-      H125 D15 W65, 2016, Found Plastic, found wood, vintage textiles, acrylic
+      H125 D15 W65, 2017, Found Plastic, found wood, vintage textiles, acrylic
       paint - &lt;p&gt;This work is created using a found plastic table which
       &amp;nbsp;accidentally got burned during a summer evening. The use of
       vintage fabric echoes the kind of covering which may have previously
@@ -70,8 +70,6 @@ images:
   - image_path: /assets/images/57567a1cdd74f.jpg
     image_title: Batik Orifice (detail)
     image_description:
-
-
 _options:
   image_path:
     width: 1200
