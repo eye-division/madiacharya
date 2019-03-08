@@ -1,16 +1,21 @@
 ---
-title: Current
+title: Psychedelic
 _hide_content: true
-description_markdown:  |
-  
+description_markdown:
 permalink: /mixed-media/current/
 archive: false
-_gallery_date: 2016-05-01T00:00:00.000Z
+_gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/596534ec6c666.jpg
-images:            
+images:
   - image_path: /assets/images/596534ec6c666.jpg
     image_title: Psychedelic Breakfast
-    image_description: 2017, Mixed Media on Plywood - &lt;p&gt;Psychedelic Breakfast is a site-specific work inspired by psychedelia and the fusion of cultures created especially for Vinyl Deptford as part of the Deptford X Fringe 2016. &amp;nbsp;It takes the form of a concertina book-like sculpture made out of wood, with pages the dimensions of a 7&amp;rdquo; single is inspired by some of the iconic album covers of 60s and 70s.  
+    image_description: >-
+      2017, Mixed Media on Plywood - &lt;p&gt;Psychedelic Breakfast is a
+      site-specific work inspired by psychedelia and the fusion of cultures
+      created especially for Vinyl Deptford as part of the Deptford X Fringe
+      2016. &amp;nbsp;It takes the form of a concertina book-like sculpture made
+      out of wood, with pages the dimensions of a 7&amp;rdquo; single is
+      inspired by some of the iconic album covers of 60s and 70s.
   - image_path: /assets/images/596535f8604cd.jpg
     image_title: detail 1
     image_description:
@@ -25,18 +30,18 @@ images:
     image_description:
   - image_path: /assets/images/596538019ae71.jpg
     image_title: detail 5
-    image_description:          
+    image_description:
 _options:
   image_path:
     width: 1200
     height: 1200
-    resize_style: "contain"
-    mime_type: "image/jpeg"
+    resize_style: contain
+    mime_type: image/jpeg
   main_image_path:
     width: 1200
     height: 800
-    resize_style: "contain"
-    mime_type: "image/jpeg"
+    resize_style: contain
+    mime_type: image/jpeg
 _comments:
   title: Gallery title
   permalink: Be careful editing this
