@@ -1,5 +1,5 @@
 ---
-title: Psychedelic
+title: Psychedelic Breakfast
 _hide_content: true
 description_markdown:
 permalink: /mixed-media/current/
