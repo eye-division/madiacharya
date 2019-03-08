@@ -47,18 +47,6 @@ images:
   - image_path: /assets/images/55c9f4de0df7a.jpg
     image_title: Skinflower (1)
     image_description:
-  - image_path: /assets/images/55ca06b2d1209.jpg
-    image_title: Asleep in my shed
-    image_description: >-
-      15 x 15cm, 2015, Mixed media on wooden panel - This is an ongoing series
-      of work exploring activities in the ' garden shed' through memory,
-      textiles and found wood.
-  - image_path: /assets/images/55ca06f9c78a4.jpg
-    image_title: Tea in my shed
-    image_description: >-
-      15 x 15cm, 2015, Mixed media on wooden panel - This is an ongoing series
-      of work exploring activities in the ' garden shed' through memory,
-      textiles and found wood.
 _options:
   image_path:
     width: 1200
