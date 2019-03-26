@@ -30,9 +30,11 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### TWO PERSON EXHIBITION:
 
-2018 **&nbsp;'Dancing with the corporeal'** with &nbsp;Matthew Gould no format Gallery, Deptford, London with Artist Talk facilitated by Richard Dyer, (editor in chief, Third Text)
+2018 **&nbsp;‘Dancing with the corporeal’** with &nbsp;Matthew Gould no format Gallery, Deptford, London with Artist Talk facilitated by Richard Dyer, (editor in chief, Third Text)
 
 ### SELECTED GROUP EXHIBITIONS
+
+2019 **by the way** Lewisham Arthouse, London
 
 2018&nbsp;**‘and the value of nothing’,&nbsp;**Studio 1:1 Gallery, London
 
