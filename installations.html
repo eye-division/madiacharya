@@ -1,12 +1,13 @@
 ---
 layout: page
-title: "Installations"
-permalink: /installations/
+title: "Installation"
+permalink: /installation/
 thumb_crop: true
 ---
 <div class="gallery">
 
-{% assign galleries = site.installations | sort: "order_number" %}
+{% assign galleries = site.installations | where:"archive",false | sort: "order_number"   %}
+
 
 {% for gallery in galleries %}
 

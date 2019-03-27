@@ -1,12 +1,15 @@
 ---
 layout: page
-title: "Paintings"
-permalink: /paintings/
+title: "Painting"
+permalink: /painting/
 thumb_crop: true
 ---
 <div class="gallery">
 
-{% for gallery in site.paintings %}
+{% assign galleries = site.paintings | where:"archive",false | sort: "order_number"   %}
+
+
+{% for gallery in galleries %}
 
      <div class="gallery-box{% cycle '', '', ' last' %}">
 

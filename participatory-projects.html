@@ -6,8 +6,9 @@ thumb_crop: true
 ---
 <div class="gallery">
 
+{% assign galleries = site.participatory | where:"archive",false | sort: "order_number"   %}
 
-{% for gallery in site.participatory %}
+{% for gallery in galleries %}
 
   {% if gallery.archive == false %}
 

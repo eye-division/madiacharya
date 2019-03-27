@@ -8,7 +8,7 @@ description_markdown:  |
   
   This particular work began to evolve as I went on a walk, choosing a particular stretch of coastline in South Wales. Over a 3 year period I collected hundreds of shoes, but never pairs of shoes. I often wondered where they came from, had there been a shipwreck or some other related disaster. People begin life without shoes but as soon as they begin to walk, shoes become an essential part of their lives. Shoes are taken off for religious reasons in some cultures. I once remember seeing a phtograph of piles of abandoned shoes outside a temple where there had been an earthquake, life lost in an instant but the shoes remained. The grid-like arrangement of these shoes is in sharp contrast to how they were found, scattered, abandoned, washed-up along the coastline."
 permalink: /installations/worship/
-archive: false
+archive: true
 _gallery_date: 2016-05-01T00:00:00.000Z
 order_number: 7
 main_image_path: /assets/images/4c7842222b887.jpg

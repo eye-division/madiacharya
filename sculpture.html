@@ -6,7 +6,9 @@ thumb_crop: true
 ---
 <div class="gallery">
 
-{% for gallery in site.sculpture %}
+{% assign galleries = site.sculpture | where:"archive",false   %}
+
+{% for gallery in galleries %}
 
      <div class="gallery-box{% cycle '', '', ' last' %}">
 

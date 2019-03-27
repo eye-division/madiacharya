@@ -6,7 +6,10 @@ thumb_crop: true
 ---
 <div class="gallery">
 
-{% for gallery in site.residencies %}
+{% assign galleries = site.residencies | where:"archive",false | sort: "order_number"   %}
+
+
+{% for gallery in galleries %}
 
      <div class="gallery-box{% cycle '', '', ' last' %}">
 
