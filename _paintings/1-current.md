@@ -1,5 +1,5 @@
 ---
-title: Current
+title: Glimpes
 _hide_content: true
 description_markdown:
 permalink: /paintings/current/

@@ -1,5 +1,5 @@
 ---
-title: Small series
+title: Surface and Beyond
 _hide_content: true
 description_markdown:
 permalink: /paintings/small-series/
