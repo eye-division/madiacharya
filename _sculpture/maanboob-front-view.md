@@ -4,7 +4,7 @@ description_markdown:
 _gallery_date:
 permalink:
 archive: false
-main_image_path: /assets/images/111-screen-copy.jpg
+main_image_path: /assets/images/187-screen-copy.jpg
 images:
   - image_path:
     image_title:
