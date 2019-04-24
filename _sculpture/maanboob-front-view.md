@@ -1,9 +1,6 @@
 ---
-title: Mannboob
-description_markdown: >-
-  This work references gender and the human body. I have been thinking about
-  materials that do not decay and processes which cause the body to malfunction
-  and potentially degenerate.
+title: The Human Factor
+description_markdown:
 _gallery_date:
 permalink:
 archive: false
