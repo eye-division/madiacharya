@@ -3,7 +3,7 @@ title: Archive
 _hide_content: true
 description_markdown:
 permalink: /sculpture/archive/
-archive: false
+archive: true
 _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/50e74c002469b.jpg
 images:
