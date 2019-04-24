@@ -44,7 +44,7 @@ images:
     image_title: Something in the Way
     image_description: 'L38 L37, 2016, Oil and paper on Found Wood'
   - image_path: /assets/images/5964defb95136.jpg
-    image_title: Wooden Shops
+    image_title: Wooden Ships
     image_description: 'W34.5 H27.5, 2017, Oil on Found Wood'
 _options:
   image_path:
