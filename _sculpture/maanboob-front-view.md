@@ -6,6 +6,9 @@ permalink:
 archive: false
 main_image_path: /assets/images/187-screen-copy.jpg
 images:
+  - image_path: /assets/images/111-screen-copy.jpg
+    image_title: Mannboob
+    image_description:
   - image_path:
     image_title:
     image_description:
