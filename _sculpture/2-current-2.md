@@ -1,5 +1,5 @@
 ---
-title: Small Obsessions
+title: Intimate Obsessions
 _hide_content: true
 description_markdown: >-
   My sculptural work involves found objects and materials juxtaposed with more
