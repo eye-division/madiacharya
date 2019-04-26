@@ -1,5 +1,5 @@
 ---
-title: Recent
+title: The Bride and Bridegroom
 _hide_content: true
 description_markdown: >-
   My sculptural work involves found objects and materials juxtaposed with more
