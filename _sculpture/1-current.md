@@ -1,5 +1,5 @@
 ---
-title: Current
+title: Organic Excursions
 _hide_content: true
 description_markdown: >-
   My sculptural work involves found objects and materials juxtaposed with more
