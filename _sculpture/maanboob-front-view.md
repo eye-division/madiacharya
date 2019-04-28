@@ -19,6 +19,9 @@ images:
   - image_path: /assets/images/150 screen copy.jpg
     image_title: The Catch (front)
     image_description:
+  - image_path: /assets/images/157 screen copy.jpg
+    image_title: The Catch (back)
+    image_description:
   - image_path:
     image_title:
     image_description:
