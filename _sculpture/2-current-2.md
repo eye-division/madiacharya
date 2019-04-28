@@ -42,6 +42,9 @@ images:
   - image_path: /assets/images/176 screen copy.jpg
     image_title: Hollow Victory (detail)
     image_description:
+  - image_path: /assets/images/177 screen copy.jpg
+    image_title: Chambers (front)
+    image_description:
 _options:
   image_path:
     width: 1200
