@@ -52,6 +52,9 @@ images:
   - image_path: /assets/Life is elsewhere copy.jpg
     image_title: Life is Elsewhere
     image_description:
+  - image_path: /assets/I never promised you a rose garden copy.jpg
+    image_title: I never promised you a rose garden
+    image_description:
 _options:
   image_path:
     width: 1200
