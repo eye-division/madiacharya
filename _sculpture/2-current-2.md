@@ -15,23 +15,14 @@ archive: false
 _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/5757452d45548.jpg
 images:
-  - image_path: /assets/images/5757452d45548.jpg
-    image_title: Sikim (side)
-    image_description: 'H22 D26 W20, 2016, Found wood, found toy, mixed media'
-  - image_path: /assets/images/57567bc338882.jpg
-    image_title: Sikim (front)
+  - image_path: /assets/images/191 screen copy.jpg
+    image_title: I Feel Free (front)
     image_description:
-  - image_path: /assets/images/57567bf32b9e2.jpg
-    image_title: Sikim (back)
+  - image_path: /assets/images/185 screen copy.jpg
+    image_title: I Feel Free (side)
     image_description:
-  - image_path: /assets/images/586acde2ecf88.jpg
-    image_title: Road Rage
-    image_description: 'H22 D23 W18, 2016, Found wood, found toy, mixed media'
-  - image_path: /assets/images/57567f6ee20af.jpg
-    image_title: Road Rage (detail)
-    image_description:
-  - image_path: /assets/images/575747332d750.jpg
-    image_title: Road Rage (back)
+  - image_path: /assets/images/188 screen copy.jpg
+    image_title: I Feel Free (back)
     image_description:
   - image_path: /assets/images/170 screen copy.jpg
     image_title: Hollow Victory (front)
@@ -51,14 +42,23 @@ images:
   - image_path: /assets/images/182 screen copy.jpg
     image_title: Chambers (back)
     image_description:
-  - image_path: /assets/images/191 screen copy.jpg
-    image_title: I Feel Free (front)
+  - image_path: /assets/images/5757452d45548.jpg
+    image_title: Sikim (side)
+    image_description: 'H22 D26 W20, 2016, Found wood, found toy, mixed media'
+  - image_path: /assets/images/57567bc338882.jpg
+    image_title: Sikim (front)
     image_description:
-  - image_path: /assets/images/185 screen copy.jpg
-    image_title: I Feel Free (side)
+  - image_path: /assets/images/57567bf32b9e2.jpg
+    image_title: Sikim (back)
     image_description:
-  - image_path: /assets/images/188 screen copy.jpg
-    image_title: I Feel Free (back)
+  - image_path: /assets/images/586acde2ecf88.jpg
+    image_title: Road Rage
+    image_description: 'H22 D23 W18, 2016, Found wood, found toy, mixed media'
+  - image_path: /assets/images/57567f6ee20af.jpg
+    image_title: Road Rage (detail)
+    image_description:
+  - image_path: /assets/images/575747332d750.jpg
+    image_title: Road Rage (back)
     image_description:
 _options:
   image_path:
