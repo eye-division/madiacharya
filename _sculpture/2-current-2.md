@@ -36,6 +36,9 @@ images:
   - image_path: /assets/images/170 screen copy.jpg
     image_title: Hollow Victory (front)
     image_description:
+  - image_path: /assets/images/174 screen copy.jpg
+    image_title: Hollow Victory (side)
+    image_description:
 _options:
   image_path:
     width: 1200
