@@ -51,6 +51,9 @@ images:
   - image_path: /assets/images/182 screen copy.jpg
     image_title: Chambers (back)
     image_description:
+  - image_path: /assets/images/191 screen copy.jpg
+    image_title: I Feel Free
+    image_description:
 _options:
   image_path:
     width: 1200
