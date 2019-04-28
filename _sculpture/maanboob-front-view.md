@@ -34,14 +34,14 @@ images:
   - image_path: /assets/images/146 screen copy.jpg
     image_title: Life's a bitch and then you thrive
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/154 screen copy.jpg
+    image_title: Need to get out more
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/159 screen copy.jpg
+    image_title: Need to get out more (back)
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/158 screen copy.jpg
+    image_title: 'Need to get out more, (detail)'
     image_description:
   - image_path:
     image_title:
