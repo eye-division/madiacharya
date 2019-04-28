@@ -31,6 +31,9 @@ images:
   - image_path: /assets/images/125 screen copy.jpg
     image_title: Life's a bitch and then you thrive (2)
     image_description:
+  - image_path: /assets/images/150 screen copy 2.jpg
+    image_title: Life's a bitch and then you thrive (detail)
+    image_description:
   - image_path: /assets/images/146 screen copy.jpg
     image_title: Life's a bitch and then you thrive
     image_description:
