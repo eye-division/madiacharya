@@ -33,6 +33,9 @@ images:
   - image_path: /assets/images/575747332d750.jpg
     image_title: Road Rage (back)
     image_description:
+  - image_path: /assets/images/170 screen copy.jpg
+    image_title: Hollow Victory (front)
+    image_description:
 _options:
   image_path:
     width: 1200
