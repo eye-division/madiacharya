@@ -47,7 +47,7 @@ images:
     image_title: Wooden Ships
     image_description: 'W34.5 H27.5, 2017, Oil on Found Wood'
   - image_path: /assets/The house he grew up in copy.jpg
-    image_title: Life is Elsewhere
+    image_title: The house he grew up in
     image_description:
   - image_path: /assets/Life is elsewhere copy.jpg
     image_title: Life is Elsewhere
