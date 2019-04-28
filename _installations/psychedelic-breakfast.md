@@ -10,8 +10,8 @@ images:
   - image_path: /assets/209 screen copy resized.jpg
     image_title: Detail 1
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/207a screen copy resized.jpg
+    image_title: Psychedelic Breakfast
     image_description:
 _options:
   image_path:
