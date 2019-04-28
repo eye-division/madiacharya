@@ -7,11 +7,14 @@ archive: false
 main_image_path: /assets/images/207a-screen-copy-resized.jpg
 order_number:
 images:
+  - image_path: /assets/207a screen copy resized.jpg
+    image_title: Psychedelic Breakfast
+    image_description:
   - image_path: /assets/209 screen copy resized.jpg
     image_title: Detail 1
     image_description:
-  - image_path: /assets/207a screen copy resized.jpg
-    image_title: Psychedelic Breakfast
+  - image_path: /assets/210 screen copy resized.jpg
+    image_title: Detail 2
     image_description:
 _options:
   image_path:
