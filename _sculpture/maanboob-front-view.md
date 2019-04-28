@@ -40,6 +40,9 @@ images:
   - image_path: /assets/images/159 screen copy.jpg
     image_title: Need to get out more (back)
     image_description:
+  - image_path: /assets/images/156 screen copy.jpg
+    image_title: Need to get out more (detail)
+    image_description:
   - image_path: /assets/images/158 screen copy.jpg
     image_title: 'Need to get out more, (detail)'
     image_description:
