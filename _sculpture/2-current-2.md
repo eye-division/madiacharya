@@ -13,7 +13,7 @@ description_markdown: >-
 permalink: /sculpture/current2/
 archive: false
 _gallery_date: 2016-05-01 00:00:00
-main_image_path: /assets/images/5757452d45548.jpg
+main_image_path: /assets/images/176 screen copy.jpg
 images:
   - image_path: /assets/images/191 screen copy.jpg
     image_title: I Feel Free (front)
