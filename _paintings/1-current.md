@@ -7,6 +7,15 @@ archive: false
 _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/57880bb94a963.jpg
 images:
+  - image_path: /assets/I never promised you a rose garden copy.jpg
+    image_title: I never promised you a rose garden
+    image_description:
+  - image_path: /assets/Life is elsewhere copy.jpg
+    image_title: Life is Elsewhere
+    image_description:
+  - image_path: /assets/The house he grew up in copy.jpg
+    image_title: The house he grew up in
+    image_description:
   - image_path: /assets/images/5964e0c901b95.jpg
     image_title: Some of us Stayed
     image_description: 'W84 L30, 2017, Oil on Found Wood'
@@ -46,12 +55,6 @@ images:
   - image_path: /assets/images/5964defb95136.jpg
     image_title: Wooden Ships
     image_description: 'W34.5 H27.5, 2017, Oil on Found Wood'
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
 _options:
   image_path:
     width: 1200
