@@ -16,6 +16,9 @@ images:
   - image_path: /assets/210 screen copy resized.jpg
     image_title: Detail 2
     image_description:
+  - image_path: /assets/211 screen copy resized.jpg
+    image_title: Detail 3
+    image_description:
 _options:
   image_path:
     uploads_dir: 'assets/images/:year'
