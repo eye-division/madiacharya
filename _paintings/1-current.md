@@ -49,8 +49,8 @@ images:
   - image_path: /assets/The house he grew up in copy.jpg
     image_title: Life is Elsewhere
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/Life is elsewhere copy.jpg
+    image_title: Life is Elsewhere
     image_description:
 _options:
   image_path:
