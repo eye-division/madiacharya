@@ -66,8 +66,8 @@ images:
   - image_path: /assets/images/236 screen copy.jpg
     image_title: Don't Despair...
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/237 screen copy 2.jpg
+    image_title: Don't Despair there is so much to live for (back)
     image_description:
 _options:
   image_path:
