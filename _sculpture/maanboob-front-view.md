@@ -46,6 +46,9 @@ images:
   - image_path: /assets/images/231 screen copy.jpg
     image_title: 'Transverse, (front)'
     image_description:
+  - image_path: /assets/images/226 screen copy.jpg
+    image_title: Trans-verse (front)
+    image_description:
 _options:
   image_path:
     width: 1200
