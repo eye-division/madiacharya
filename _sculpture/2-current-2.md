@@ -61,7 +61,7 @@ images:
     image_title: Road Rage (back)
     image_description:
   - image_path: /assets/images/235 screen copy.jpg
-    image_title:
+    image_title: Don't Despair there is so much to live more (back)
     image_description:
   - image_path:
     image_title:
