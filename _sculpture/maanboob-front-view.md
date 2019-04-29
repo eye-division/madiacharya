@@ -44,7 +44,7 @@ images:
     image_title: Need to get out more (detail)
     image_description:
   - image_path: /assets/images/231 screen copy.jpg
-    image_title: 'Transverse, (front)'
+    image_title: 'Trans-verse, (back)'
     image_description:
   - image_path: /assets/images/226 screen copy.jpg
     image_title: Trans-verse (front)
