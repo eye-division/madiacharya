@@ -5,7 +5,7 @@ _gallery_date:
 permalink:
 archive: false
 main_image_path: /assets/images/207a-screen-copy-resized.jpg
-order_number: 6
+order_number: 4
 images:
   - image_path: /assets/207a screen copy resized.jpg
     image_title: Psychedelic Breakfast
