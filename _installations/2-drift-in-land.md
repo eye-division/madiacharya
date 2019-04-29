@@ -22,7 +22,7 @@ permalink: /installations/drift-in-land/
 archive: false
 order_number: 4
 _gallery_date: 2016-05-01 00:00:00
-main_image_path: /assets/images/5675e42816589.jpg
+main_image_path: '/assets/Drift-in-land, abbey, website.jpg'
 images:
   - image_path: /assets/images/5675e4ff29412.jpg
     image_title: Left view
