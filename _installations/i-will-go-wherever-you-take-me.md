@@ -35,7 +35,7 @@ description_markdown: >-
 _gallery_date:
 permalink: /installations/i-will-go-wherever-you-take-me/
 archive: false
-order_number: 1
+order_number: 3
 main_image_path: /assets/images/installation-view-1-1.jpg
 images:
   - image_path: /assets/images/installation-view-1.jpg
