@@ -23,14 +23,14 @@ images:
   - image_path: /assets/images/55cd1463846cb.jpg
     image_title: Front view
     image_description:
-  - image_path: /assets/images/55cd14c08dea6.jpg
-    image_title: Back view
-    image_description:
   - image_path: /assets/images/55cd14ea27eca.jpg
     image_title: Front detail
     image_description:
   - image_path: /assets/images/55cd150e2c161.jpg
     image_title: Back detail
+    image_description:
+  - image_path: /assets/images/55cd14c08dea6.jpg
+    image_title: Back view
     image_description:
 _options:
   image_path:
