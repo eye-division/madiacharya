@@ -5,7 +5,7 @@ description_markdown:
 _gallery_date: 2016-05-01 00:00:00
 permalink: /sculpture/human-factor/
 archive: false
-main_image_path: /assets/images/187-screen-copy.jpg
+main_image_path: /assets/images/111-screen-copy.jpg
 images:
   - image_path: /assets/images/111-screen-copy.jpg
     image_title: Mannboob
