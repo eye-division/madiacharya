@@ -43,12 +43,6 @@ images:
   - image_path: /assets/images/156 screen copy.jpg
     image_title: Need to get out more (detail)
     image_description:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
-    image_title:
-    image_description:
 _options:
   image_path:
     width: 1200
