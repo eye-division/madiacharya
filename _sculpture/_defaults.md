@@ -4,6 +4,7 @@ description_markdown:
 _gallery_date: 
 permalink:
 archive: false
+order_number: 
 main_image_path:
 images:
   - image_path:
