@@ -6,7 +6,7 @@ thumb_crop: true
 ---
 <div class="gallery">
 
-{% assign galleries = site.sculpture | where:"archive",false   %}
+{% assign galleries = site.sculpture  | where:"archive",false | sort: "order_number"  %}
 
 {% for gallery in galleries %}
 

@@ -2,7 +2,7 @@
 title: Psychedelic Breakfast
 description_markdown:
 _gallery_date:
-permalink:
+permalink: /installations/psychedelic-breakfast/
 archive: false
 main_image_path: /assets/images/207a-screen-copy-resized.jpg
 order_number: 4

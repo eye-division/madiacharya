@@ -4,6 +4,7 @@ _hide_content: true
 description_markdown:
 permalink: /sculpture/archive/
 archive: true
+order_number: 
 _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/50e74c002469b.jpg
 images:

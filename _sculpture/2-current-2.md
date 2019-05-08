@@ -12,6 +12,7 @@ description_markdown: >-
   patterns from childhood.
 permalink: /sculpture/current2/
 archive: false
+order_number: 2
 _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/176 screen copy.jpg
 images:
