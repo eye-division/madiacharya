@@ -38,6 +38,9 @@ images:
   - image_path: /assets/images/-igp0726-copy.jpg
     image_title: A Walk in the Park (front)
     image_description:
+  - image_path: /assets/images/-igp0731-copy.jpg
+    image_title:
+    image_description:
 _options:
   image_path:
     uploads_dir: 'assets/images/:year'
