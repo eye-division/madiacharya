@@ -27,7 +27,7 @@ images:
     image_title: A Walk in the Park (front)
     image_description:
   - image_path: /assets/images/-igp0731-copy.jpg
-    image_title:
+    image_title: 'Front, detail'
     image_description:
   - image_path: /assets/images/-igp0668a-copy.jpg
     image_title: A Walk in the Park (back)
