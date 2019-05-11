@@ -32,6 +32,12 @@ images:
   - image_path: /assets/images/55cd150e2c161.jpg
     image_title: Back detail
     image_description:
+  - image_path: /assets/images/-igp0668a-copy.jpg
+    image_title: A Walk in the Park (back)
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
 _options:
   image_path:
     uploads_dir: 'assets/images/:year'
