@@ -2,7 +2,7 @@
 title: A walk in the park
 _hide_content: true
 description_markdown: >-
-  A Walk in the Park
+  A Walk in the Park, at Angus Hughes Gallery, London, 2018
 
 
   This work reflects the darker aspects of human nature, an upbeat walk through
@@ -13,7 +13,10 @@ description_markdown: >-
   Dimension variable, for space H250 x W200 X L200 cm
 
 
-  Materials: found wood, textiles, beadwork, acrylic paint 2015
+  Materials: found wood, textiles, beadwork, acrylic paint
+
+
+  &nbsp;
 permalink: /installations/a-walk-in-the-park/
 archive: false
 order_number: 1
@@ -24,7 +27,7 @@ images:
     image_title: A Walk in the Park (front)
     image_description:
   - image_path: /assets/images/-igp0731-copy.jpg
-    image_title:
+    image_title: 'Front, detail'
     image_description:
   - image_path: /assets/images/-igp0668a-copy.jpg
     image_title: A Walk in the Park (back)
