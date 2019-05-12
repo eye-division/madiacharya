@@ -14,7 +14,7 @@ permalink: /sculpture/current/
 archive: false
 _gallery_date: 2016-05-01 00:00:00
 order_number: 3
-main_image_path: /assets/images/59650c60b9de7.jpg
+main_image_path: /assets/images/untitled-2-copy-3-revised.jpg
 images:
   - image_path: /assets/images/59650c60b9de7.jpg
     image_title: Skating on Thin Ice (front)
