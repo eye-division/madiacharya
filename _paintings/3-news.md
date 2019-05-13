@@ -10,7 +10,7 @@ description_markdown: >-
   presence in the shadow which comes to light through terrorism, natural
   disaster and other forms of violation.
 permalink: /paintings/news-series/
-archive: false
+archive: true
 _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/55d24fcb85581.jpg
 images:
