@@ -2,18 +2,26 @@
 title: A walk in the park
 _hide_content: true
 description_markdown: >-
-  A Walk in the Park, at Angus Hughes Gallery, London, 2018
-
-
-  This work reflects the darker aspects of human nature, an upbeat walk through
-  a park under blue sky surrounded by flowers turns into something dark and
-  sinister.
+  A Walk in the Park, Angus Hughes Gallery, London, 2018
 
 
   Dimension variable, for space H250 x W200 X L200 cm
 
 
   Materials: found wood, textiles, beadwork, acrylic paint
+
+
+  This work reflects the darker aspects of human nature, an upbeat walk through
+  a park under blue sky surrounded by flowers can also have darker undertones.
+  Reference to a woodland setting implies a sense of mystery, the dialectic
+  between good and evil often found in fairy tales. As the German poet Schiller
+  wrote:&nbsp;
+
+
+  ‘The fairy tale hero proceeds for a time in isolation, as the modern child
+  often feels isolated. The hero is helped by being in touch with primitive
+  things, a tree, an animal, nature as the child feels more in touch with those
+  things than most adults do'.
 
 
   &nbsp;
