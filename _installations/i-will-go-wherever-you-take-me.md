@@ -1,25 +1,33 @@
 ---
 title: I will go wherever you take me
 description_markdown: >-
-  ‘I will go where ever you take me’ is based on the idea of home as a transient
+  'I will go where ever you take me',
+
+
+  Driftwood frame, muslin covers, raw silk apliqued text
+
+
+  &nbsp;hARTslane Gallery, 2019
+
+
+  This site specific work is based on the idea of home as a transient
   space&nbsp; shifting according to need and circumstance. The work takes its
   title from a translation of the appliqued text on both sides, written in
-  Bengali meaning ‘ I will go wherever you take me’.&nbsp;
+  Bengali meaning ‘ I will go wherever you take me’.
 
 
-  The tent being a mobile structure that can be moved and set up in different
-  locations refers to the idea of a nomadic existence rather than feeling
-  settled in one place.&nbsp; The idea of home is presented as something, which
-  is rootless, transient and uncertain. The frame is constructed out of
-  driftwood, symbolizing journeys across oceans and origins in other lands.
+  &nbsp;&nbsp; The tent being a mobile structure that can be moved and set up in
+  different locations refers to the idea of a nomadic existence rather than
+  feeling settled in one place.&nbsp; The idea of home is presented as
+  something, which is rootless, transient and uncertain. The frame is
+  constructed out of driftwood, symbolizing journeys across oceans with origins
+  in other lands.
 
 
   &nbsp; &nbsp; A home may be a clearing within a forest, a camp in the middle
-  of a desert, an island surrounded by the sea. Beyond the clearing lies the
-  devil. Away from the camp there are no signs of life. Out in the sea changes
-  occur without notice. This sense of the outside as the place of threat and the
-  unknown heightens the significance of home as the place of safety, order and
-  even divine protection.
+  of a desert, an island surrounded by the sea. The sense of the outside as the
+  place of threat and the unknown heightens the significance of home as the
+  place of comfort, safety and protection.
 
 
   &nbsp;
