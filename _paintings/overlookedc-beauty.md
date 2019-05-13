@@ -9,8 +9,8 @@ images:
   - image_path: /assets/images/088-screen-copy.jpg
     image_title: Overlooked Beauty
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/090-screen-copy.jpg
+    image_title: 'Overlooked Beauty, detail'
     image_description:
 _options:
   image_path:
