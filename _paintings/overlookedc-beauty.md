@@ -2,7 +2,7 @@
 title: Tyre Marks
 description_markdown:
 _gallery_date:
-permalink:
+permalink: /paintings/tyre-marks/
 archive: false
 main_image_path: /assets/images/088-screen-copy.jpg
 images:
