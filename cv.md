@@ -30,8 +30,6 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2008 **‘Memories from Home’** at Citygate, St Clements, Oxford<br>(sponsored by Carter Jonas and Rectory Homes)
 
-### &nbsp;
-
 ### SELECTED GROUP EXHIBITIONS
 
 2019 **by the way** Lewisham Arthouse, London
@@ -133,8 +131,6 @@ Park, Bracknell (funded by ACE, National Culture and Arts Foundation, Taiwan)
 2006 ‘**Quest: The Artist as Pilgrim’**, Ovada Gallery, Oxford (selected by Dr<br>Ruth Barnes, Dr Peter Forsaith, Janine Charles)
 
 2006 **Flight’**, Stroud House Gallery, Stroud (selected by Lyn Cluer Coleman and<br>Sarah Goodwin)
-
-&nbsp;
 
 ### COMMISSIONS
 
