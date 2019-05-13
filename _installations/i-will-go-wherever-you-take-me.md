@@ -4,7 +4,10 @@ description_markdown: >-
   'I will go where ever you take me',
 
 
-  Driftwood frame, muslin covers, raw silk apliqued text
+  Found wood, muslin, raw silk, Bengali text
+
+
+  Dimensions: 184 cm x 121 cm x 125cm
 
 
   &nbsp;hARTslane Gallery, 2019
