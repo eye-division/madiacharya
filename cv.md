@@ -8,8 +8,8 @@ _options:
   main_image_path:
     width: 1200
     height: 1200
-    resize_style: "contain"
-    mime_type: "image/jpeg"
+    resize_style: contain
+    mime_type: image/jpeg
 ---
 
 ### WEBLINKS:
@@ -22,15 +22,15 @@ _options:
 
 MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
-### SOLO EXHIBITIONS:
+### SOLO AND TWO PERSON EXHIBITIONS:
+
+2018 **&nbsp;‘Dancing with the corporeal’** with &nbsp;Matthew Gould no format Gallery, Deptford, London with Artist Talk facilitated by Richard Dyer, (editor in chief, Third Text)
 
 2017 ‘**Absent Beach’** Vinyl Deptford, London
 
 2008 **‘Memories from Home’** at Citygate, St Clements, Oxford<br>(sponsored by Carter Jonas and Rectory Homes)
 
-### TWO PERSON EXHIBITION:
-
-2018 **&nbsp;‘Dancing with the corporeal’** with &nbsp;Matthew Gould no format Gallery, Deptford, London with Artist Talk facilitated by Richard Dyer, (editor in chief, Third Text)
+### &nbsp;
 
 ### SELECTED GROUP EXHIBITIONS
 
@@ -54,7 +54,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2016 **‘Looking Up’,&nbsp;**Studio 1:1 Gallery, London
 
-2016 **Material World,**Ancien Musee de Peinture, Grenoble
+2016 **Material World,** Ancien Musee de Peinture, Grenoble
 
 2016 **Dis locate**, VW Showroom, Oxford, curated by Luis Manuel Araujo\*\*
 
@@ -82,9 +82,7 @@ Museum of Kenya, Nairobi
 
 2010 **Grassroots & Glass Ceilings,**The Jam Factory, Oxford
 
-2008 **Within Walls,** Oxfordshire Museum, Woodstock, Oxfordshire, (with
-
-Helen Ganly and Mohamed Bushara) (ACE funded)
+2008 **Within Walls,** Oxfordshire Museum, Woodstock, Oxfordshire (ACE funded)
 
 2007 **Umfeld&lt;-&gt;Inwelt**, Frauenmuseum, Bonn, Germany
 
@@ -130,15 +128,13 @@ Park, Bracknell (funded by ACE, National Culture and Arts Foundation, Taiwan)
 
 2007-2008 **Grants for Arts Award**, Arts Council England for international<br>residency and exhibition
 
-2007 **Mentoring Commission**: to work alongside ‘Making Marks’ a partnership<br>of Public artists for the East Oxford Health Centre sculpture commission
+2007 **Mentoring Commission**\: to work alongside ‘Making Marks’ a partnership<br>of Public artists for the East Oxford Health Centre sculpture commission
 
 2006 ‘**Quest: The Artist as Pilgrim’**, Ovada Gallery, Oxford (selected by Dr<br>Ruth Barnes, Dr Peter Forsaith, Janine Charles)
 
 2006 **Flight’**, Stroud House Gallery, Stroud (selected by Lyn Cluer Coleman and<br>Sarah Goodwin)
 
-1999 Short-listed for **BT New Contemporaries** (selected by Susan Hiller,
-
-Keith Tyson, Carolyn Christov-Bakargiev)
+&nbsp;
 
 ### COMMISSIONS
 
@@ -180,17 +176,17 @@ exploring the theme ‘Stories, Memories, Concepts’ (ACE funded)
 
 **Summer Exhibition Illustrated 2016**, Exhibition Catalogue
 
-**Dis locate,**Magdalen Road Studios, exhibition catalogue
+**Dis locate,**Magdalen Road Studios, exhibition catalogue, 2016
 
-**Alps and Spires,** Museum of Oxford, Exhibition Catalogue
+**Alps and Spires,** Museum of Oxford, Exhibition Catalogue, 2014
 
-**‘Sanctuary Part 2’:**Home, Away, Common Ground, Exhibition Catalogue , forward by John Hollingworth MBE, Director of Brunei Gallery, SOAS
+**‘Sanctuary Part 2’:**Home, Away, Common Ground, Exhibition Catalogue , forward by John Hollingworth MBE, Director of Brunei Gallery, SOAS, 2013
 
-**‘Sanctuary Part 1’:**Home, Away, Common Ground’, Exhibition Catalogue
+**‘Sanctuary Part 1’:**Home, Away, Common Ground’, Exhibition Catalogue, 2011,
 
-**Immediate Territory,**Exhibition Catalogue, Forward by Katalin Hausel
+**Immediate Territory,**Exhibition Catalogue, Forward by Katalin Hause, 2011l
 
-**Within Walls:** Exhibition Catalogue
+**Within Walls:** Exhibition Catalogue, 2008
 
 **Umfeld&lt;-&gt;Inwelt**, Exhibition Catalogue, Frauenmuseum, Bonn, Forward by Marianne Pitzen, director Frauen Museum, Bonn
 
