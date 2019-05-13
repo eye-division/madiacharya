@@ -21,6 +21,9 @@ images:
   - image_path: /assets/images/077-screen-copy.jpg
     image_title: Look at me now
     image_description:
+  - image_path: /assets/images/081-screen-copy.jpg
+    image_title: 'Look at me now, detail'
+    image_description:
 _options:
   image_path:
     width: 1200
