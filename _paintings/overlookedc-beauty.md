@@ -12,6 +12,9 @@ images:
   - image_path: /assets/images/090-screen-copy.jpg
     image_title: 'Overlooked Beauty, detail'
     image_description:
+  - image_path: /assets/images/072-screen-copy.jpg
+    image_title: Carnival
+    image_description:
 _options:
   image_path:
     width: 1200
