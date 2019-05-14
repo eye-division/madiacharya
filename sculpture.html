@@ -3,6 +3,12 @@ layout: page
 title: "Sculpture"
 permalink: /sculpture/
 thumb_crop: true
+css_layout: "gallery-box-50"
+_options:
+  layout:
+    hidden: true
+  css_layout:
+    hidden: true
 ---
 <div class="gallery">
 
@@ -10,7 +16,7 @@ thumb_crop: true
 
 {% for gallery in galleries %}
 
-     <div class="gallery-box{% cycle '', '', ' last' %}">
+     <div class="gallery-box{% cycle '', ' last' %}{% if page.css_layout %} {{ page.css_layout }}{% endif %}">
 
           <a href="{{ gallery.permalink }}" title="{{ gallery.title }}">
 
@@ -33,4 +39,5 @@ thumb_crop: true
      </div>
 
 {% endfor %}
+
 </div>
