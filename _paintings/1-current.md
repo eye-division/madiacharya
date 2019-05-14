@@ -5,7 +5,7 @@ description_markdown:
 permalink: /paintings/fragmented-worlds/
 archive: false
 _gallery_date: 2016-05-01 00:00:00
-main_image_path:
+main_image_path: /assets/images/284a-screen-copy.jpg
 images:
   - image_path: /assets/I never promised you a rose garden copy.jpg
     image_title: I never promised you a rose garden
