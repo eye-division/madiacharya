@@ -6,6 +6,7 @@ permalink:
 archive: false
 main_image_path:
 order_number:
+thumb_crop:
 images:
   - image_path:
     image_title:

@@ -5,6 +5,7 @@ _gallery_date:
 permalink:
 archive: false
 main_image_path:
+thumb_crop:
 images:
   - image_path:
     image_title:

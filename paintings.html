@@ -17,17 +17,17 @@ thumb_crop: true
 
             {% if page.thumb_crop %}
 
-                <!-- cropped square images -->
-                {% include img.html src=gallery.main_image_path width=200 height=200 fit=crop alt=gallery.title %}
-                <!-- end cropped square -->
+              <!-- cropped square images -->
+              {% include img.html src=gallery.main_image_path width=200 height=200 fit=crop alt=gallery.title %}
+              <!-- end cropped square -->
 
-              {% else %}
+            {% else %}
 
-                {% include img.html src=gallery.main_image_path width=600 fit=clip alt=gallery.title %}
+              {% include img.html src=gallery.main_image_path width=600 fit=clip alt=gallery.title %}
 
-              {% endif %}
+            {% endif %}
 
-              <p>{{ gallery.title }}</p>
+            <p>{{ gallery.title }}</p>
 
           </a>
 

@@ -12,18 +12,40 @@ layout: default
 
 
   {% if page.images[0].image_path %}
+
   <section class="gallery">
+
     {% for image in page.images %}
+
       {% if image.image_path %}
-      <div class="gallery-box {% cycle 'alpha', '', 'last' %}">
-        <a href="{% include imgpath.html src=image.image_path width=1280 %}" class="galleryphoto" data-lightbox="gallery" data-title="{{ image.image_title }} - {{ image.image_description }}">
-          {% include img.html src=image.image_path width=600 fit=clip alt=image.image_title %}
-        </a>
-        <caption>{{ image.image_title }}</caption>
-      </div>
+
+
+
+        <div class="gallery-box {% cycle 'alpha', '', 'last' %}">
+          <a href="{% include imgpath.html src=image.image_path width=1280 %}" class="galleryphoto" data-lightbox="gallery" data-title="{{ image.image_title }} - {{ image.image_description }}">
+
+            {% if page.thumb_crop %}
+
+              <!-- cropped square images -->
+              {% include img.html src=image.image_path width=200 height=200 fit=crop alt=image.title %}
+              <!-- end cropped square -->
+
+            {% else %}
+
+              {% include img.html src=image.image_path width=600 fit=clip alt=image.title %}
+
+            {% endif %}
+
+          </a>
+          <caption>{{ image.image_title }}</caption>
+        </div>
+
       {% endif %}
+
     {% endfor %}
+
   </section>
+
   {% endif %}
 
   <section class="main-content">
