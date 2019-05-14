@@ -14,7 +14,7 @@ permalink: /sculpture/recent/
 archive: false
 order_number: 4
 _gallery_date: 2016-05-01 00:00:00
-main_image_path: /assets/images/55cd21c575ea2.jpg
+main_image_path:
 images:
   - image_path: /assets/images/55cd21c575ea2.jpg
     image_title: The Bridegroom (front)
