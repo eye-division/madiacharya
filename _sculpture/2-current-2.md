@@ -2,14 +2,11 @@
 title: Intimate Obsessions
 _hide_content: true
 description_markdown: >-
-  My sculptural work involves found objects and materials juxtaposed with more
-  natural forms such as large branches discovered in woodlands across the UK. I
-  want to explore the tension between natural and synthetic materials, how they
-  can co-exist and the resulting structures can come to resemble organic,
-  sometimes alien yet recognizably human forms. Using beadwork and textiles,
-  which originate from the South Asian Culture where I grew up, I continue to be
-  fascinated by sparkling jewelry, decorative accessories and ornate textile
-  patterns from childhood.
+  'Intimate Obsessions' series&nbsp; involves found objects and materials
+  juxtaposed with smaller natural forms such as charred wooden blocks eroded by
+  the sea.&nbsp; The more intimate scale of these works makes them feel more
+  precious and potent. Incorporating beadwork and aspects of Indian miniature
+  painting is a way deliberately slowing down the creative process.
 permalink: /sculpture/current2/
 archive: false
 order_number: 2
