@@ -24,7 +24,9 @@ images:
       W29 H30 cms
   - image_path: /assets/The house he grew up in copy.jpg
     image_title: The house he grew up in
-    image_description:
+    image_description: |-
+      Oil on found wood,
+      L30 W29 cms
   - image_path: /assets/images/57880c5943af5.jpg
     image_title: Curtain Call
     image_description: 'W25.5 L32.5, 2016, Oil on Found Wood'
