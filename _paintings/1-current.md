@@ -1,7 +1,14 @@
 ---
 title: Fragmented Worlds
 _hide_content: true
-description_markdown:
+description_markdown: >-
+  Fragmented Worlds&nbsp; is a series of works capturing&nbsp; a sense of loss,
+  a nostalgia for lost origins which simultaneously hint at new beginnings,
+  discovering unseen places some of which are within our imagination. Images are
+  collaged together from different&nbsp; experiences rather than a product of
+  stark reality. The found surface itself has a past, marked, textured,
+  battered, worn out hence marking time whilst the irregular edges suggest a
+  continuity beyond what can be viewed.
 permalink: /paintings/fragmented-worlds/
 archive: false
 _gallery_date: 2016-05-01 00:00:00
@@ -9,13 +16,17 @@ main_image_path: /assets/images/284a-screen-copy.jpg
 images:
   - image_path: /assets/I never promised you a rose garden copy.jpg
     image_title: I never promised you a rose garden
-    image_description:
+    image_description: 'W45 L75, 2019, Oil on found wood, shells'
   - image_path: /assets/Life is elsewhere copy.jpg
     image_title: Life is Elsewhere
-    image_description:
+    image_description: |-
+      Oil on found wood, shell,  2018
+      W29 H30 cms
   - image_path: /assets/The house he grew up in copy.jpg
     image_title: The house he grew up in
-    image_description:
+    image_description: |-
+      Oil on found wood,
+      L30 W29 cms
   - image_path: /assets/images/57880c5943af5.jpg
     image_title: Curtain Call
     image_description: 'W25.5 L32.5, 2016, Oil on Found Wood'
