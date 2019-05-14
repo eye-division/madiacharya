@@ -19,7 +19,9 @@ images:
     image_description: 'W45 L75, 2019, Oil on found wood, shells'
   - image_path: /assets/Life is elsewhere copy.jpg
     image_title: Life is Elsewhere
-    image_description:
+    image_description: |-
+      Oil on found wood, shell,  2018
+      W29 H30 cms
   - image_path: /assets/The house he grew up in copy.jpg
     image_title: The house he grew up in
     image_description:
