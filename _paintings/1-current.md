@@ -16,7 +16,7 @@ main_image_path: /assets/images/284a-screen-copy.jpg
 images:
   - image_path: /assets/I never promised you a rose garden copy.jpg
     image_title: I never promised you a rose garden
-    image_description:
+    image_description: 'W45 L75, 2019, Oil on found wood, shells'
   - image_path: /assets/Life is elsewhere copy.jpg
     image_title: Life is Elsewhere
     image_description:
