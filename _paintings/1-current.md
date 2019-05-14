@@ -1,7 +1,14 @@
 ---
 title: Fragmented Worlds
 _hide_content: true
-description_markdown:
+description_markdown: >-
+  Fragmented Worlds&nbsp; is a series of works capturing&nbsp; a sense of loss,
+  a nostalgia for lost origins which simultaneously hint at new beginnings,
+  discovering unseen places some of which are within our imagination. Images are
+  collaged together from different&nbsp; experiences rather than a product of
+  stark reality. The found surface itself has a past, marked, textured,
+  battered, worn out hence marking time whilst the irregular edges suggest a
+  continuity beyond what can be viewed.
 permalink: /paintings/fragmented-worlds/
 archive: false
 _gallery_date: 2016-05-01 00:00:00
