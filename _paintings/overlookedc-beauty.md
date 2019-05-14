@@ -5,6 +5,7 @@ _gallery_date:
 permalink: /paintings/tyre-marks/
 archive: false
 main_image_path: /assets/images/088-screen-copy.jpg
+thumb_crop: true
 images:
   - image_path: /assets/images/088-screen-copy.jpg
     image_title: Overlooked Beauty
