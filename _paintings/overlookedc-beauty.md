@@ -1,6 +1,10 @@
 ---
 title: Tyre Marks
-description_markdown:
+description_markdown: >-
+  This is a new series of works which I am developing in response to finding
+  tyres and rubber in abundance along the coast line. The mixed media paintings
+  are framed by found rubber giving them the appearance of a porthole, like
+  being out at sea.
 _gallery_date:
 permalink: /paintings/tyre-marks/
 archive: false
@@ -9,7 +13,9 @@ thumb_crop: true
 images:
   - image_path: /assets/images/088-screen-copy.jpg
     image_title: Overlooked Beauty
-    image_description:
+    image_description: |-
+      Oil , mirrors and textiles on found wood, found rubber edging, 2019
+      W45 H46 D3.5 cms
   - image_path: /assets/images/090-screen-copy.jpg
     image_title: 'Overlooked Beauty, detail'
     image_description:
