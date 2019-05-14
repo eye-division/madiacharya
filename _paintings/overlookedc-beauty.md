@@ -21,7 +21,9 @@ images:
     image_description:
   - image_path: /assets/images/072-screen-copy.jpg
     image_title: Carnival
-    image_description:
+    image_description: |-
+      Oil and newsprint on found wood, found rubber frame, 2018
+      W30.5 L31 D3.5 cms
   - image_path: /assets/images/074-screen-copy.jpg
     image_title: 'Carnival, detail'
     image_description:
