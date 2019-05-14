@@ -16,7 +16,7 @@ _options:
 
 {% for gallery in galleries %}
 
-     <div class="gallery-box{% cycle '', ' last' %}{% if page.css_layout %} {{ page.css_layout }}{% endif %}">
+     <div class="gallery-box{% if page.css_layout %}{% cycle '', ' last' %} {{ page.css_layout }}{% else %}{% cycle '', '', ' last' %} {% endif %}">
 
           <a href="{{ gallery.permalink }}" title="{{ gallery.title }}">
 
