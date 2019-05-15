@@ -15,7 +15,10 @@ main_image_path: /assets/images/185 screen copy.jpg
 images:
   - image_path: /assets/images/191 screen copy.jpg
     image_title: I Feel Free (front)
-    image_description:
+    image_description: |-
+      Found Toy, found plastic, charred wood, mixed media, 
+      Dimensions: 20cms x 19cm x 16cm,
+      2018
   - image_path: /assets/images/185 screen copy.jpg
     image_title: I Feel Free (side)
     image_description:
