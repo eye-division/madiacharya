@@ -6,7 +6,7 @@ description_markdown: >-
   juxtaposed with smaller natural forms such as charred wooden blocks eroded by
   the sea.&nbsp; The more intimate scale of these works makes them feel more
   precious and potent. Incorporating beadwork and aspects of Indian miniature
-  painting is a way deliberately slowing down the creative process.
+  painting in an intricate way deliberately slows down the creative process.
 permalink: /sculpture/current2/
 archive: false
 order_number: 2
