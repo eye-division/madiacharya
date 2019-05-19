@@ -10,7 +10,10 @@ main_image_path: /assets/images/111-screen-copy.jpg
 images:
   - image_path: /assets/images/111-screen-copy.jpg
     image_title: Mannboob
-    image_description:
+    image_description: |-
+      Found plastic, rubber, wood and mixed media
+      Dimensions: 112 x 50 x 25 cms
+      2018
   - image_path: /assets/images/173 screen copy.jpg
     image_title: Mannboob (back)
     image_description:
@@ -19,7 +22,10 @@ images:
     image_description:
   - image_path: /assets/images/150 screen copy.jpg
     image_title: The Catch (front)
-    image_description:
+    image_description: |-
+      Found wood, found objects, mixed media
+      Dimensions: 75 x 40 x 25 cms
+      2018
   - image_path: /assets/images/157 screen copy.jpg
     image_title: The Catch (back)
     image_description:
@@ -28,7 +34,10 @@ images:
     image_description:
   - image_path: /assets/images/122 screen copy.jpg
     image_title: Life's a bitch and then you thrive
-    image_description:
+    image_description: |-
+      Found wood, found objects, textiles, mixed media
+      Dimensions: 100 x 45 x 35 cms
+      2018
   - image_path: /assets/images/125 screen copy.jpg
     image_title: Life's a bitch and then you thrive (2)
     image_description:
@@ -37,7 +46,10 @@ images:
     image_description:
   - image_path: /assets/images/154 screen copy.jpg
     image_title: Need to get out more
-    image_description:
+    image_description: |-
+      Found wood, found objects, mixed media
+      Dimensions: 100 x 40 x 30 cms
+      2018
   - image_path: /assets/images/159 screen copy.jpg
     image_title: Need to get out more (back)
     image_description:
@@ -46,7 +58,10 @@ images:
     image_description:
   - image_path: /assets/images/231 screen copy.jpg
     image_title: 'Trans-verse, (back)'
-    image_description:
+    image_description: |-
+      Found wood, found objects, mixed media
+      Dimensions: 30 x 30 x 20 cms
+      2018
   - image_path: /assets/images/226 screen copy.jpg
     image_title: Trans-verse (front)
     image_description:
