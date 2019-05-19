@@ -34,7 +34,10 @@ images:
     image_description:
   - image_path: /assets/images/122 screen copy.jpg
     image_title: Life's a bitch and then you thrive
-    image_description:
+    image_description: |-
+      Found wood, found objects, textiles, mixed media
+      Dimensions: 100 x 45 x 35 cms
+      2018
   - image_path: /assets/images/125 screen copy.jpg
     image_title: Life's a bitch and then you thrive (2)
     image_description:
