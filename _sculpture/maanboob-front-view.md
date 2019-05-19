@@ -1,7 +1,17 @@
 ---
 title: The Human Factor
 _hide_content: true
-description_markdown:
+description_markdown: >-
+  &nbsp;&nbsp; Materials found in nature can mimic parts of the human body and
+  for me this is also a way of exploring issues related to the human condition
+  such as alienation, difference and disease. Some of these forms have evolved
+  to take on an exploration of sexual identity, offering possibilities but
+  maintaining ambiguity. Discarded objects come to be adorned with decorative
+  patterns from vintage textiles and lacework suggesting an intertwined male and
+  female presence but at the same time defying stereotypes.
+
+
+  &nbsp;
 _gallery_date: 2016-05-01 00:00:00
 permalink: /sculpture/human-factor/
 archive: false
