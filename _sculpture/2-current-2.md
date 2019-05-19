@@ -6,7 +6,7 @@ description_markdown: >-
   juxtaposed with smaller natural forms such as charred wooden blocks eroded by
   the sea.&nbsp; The more intimate scale of these works makes them feel more
   precious and potent. Incorporating beadwork and aspects of Indian miniature
-  painting is a way deliberately slowing down the creative process.
+  painting in an intricate way deliberately slows down the creative process.
 permalink: /sculpture/current2/
 archive: false
 order_number: 2
@@ -15,7 +15,10 @@ main_image_path: /assets/images/185 screen copy.jpg
 images:
   - image_path: /assets/images/191 screen copy.jpg
     image_title: I Feel Free (front)
-    image_description:
+    image_description: |-
+      Found Toy, found plastic, charred wood, mixed media, 
+      Dimensions: 20cms x 19cm x 16cm,
+      2018
   - image_path: /assets/images/185 screen copy.jpg
     image_title: I Feel Free (side)
     image_description:
@@ -42,7 +45,9 @@ images:
     image_description:
   - image_path: /assets/images/170 screen copy.jpg
     image_title: Hollow Victory (front)
-    image_description:
+    image_description: |-
+      Found toy, found wood, mixed media
+      Dimensions: 35 X 15 X15 cms
   - image_path: /assets/images/174 screen copy.jpg
     image_title: Hollow Victory (side)
     image_description:
