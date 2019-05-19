@@ -10,7 +10,10 @@ main_image_path: /assets/images/111-screen-copy.jpg
 images:
   - image_path: /assets/images/111-screen-copy.jpg
     image_title: Mannboob
-    image_description:
+    image_description: |-
+      Found plastic, rubber, wood and mixed media
+      Dimensions: 112 x 50 x 25 cms
+      2018
   - image_path: /assets/images/173 screen copy.jpg
     image_title: Mannboob (back)
     image_description:
