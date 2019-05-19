@@ -2,14 +2,11 @@
 title: The Bride and Bridegroom
 _hide_content: true
 description_markdown: >-
-  My sculptural work involves found objects and materials juxtaposed with more
-  natural forms such as large branches discovered in woodlands across the UK. I
-  want to explore the tension between natural and synthetic materials, how they
-  can co-exist and the resulting structures can come to resemble organic,
-  sometimes alien yet recognizably human forms. Using beadwork and textiles,
-  which originate from the South Asian Culture where I grew up, I continue to be
-  fascinated by sparkling jewelry, decorative accessories and ornate textile
-  patterns from childhood.
+  The Bride and Bridegroom is a pair of works which share, respectively female
+  and male versions of&nbsp; tribal masks. Both&nbsp; works are created from
+  single pieces of wood found in a forest and assembled with found objects which
+  come to resemble aspects of the human body. Indian silks and bead work&nbsp;
+  are used to convey ceremony and&nbsp; celebration.
 permalink: /sculpture/recent/
 archive: false
 order_number: 4
