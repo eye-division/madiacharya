@@ -58,7 +58,7 @@ images:
     image_title: Need to get out more
     image_description: |-
       Found wood, found objects, mixed media
-      Dimensions: 100 x 40 x 30 cms
+      Dimensions: 100 x 40 x 30 cms,
       2018
   - image_path: /assets/images/159 screen copy.jpg
     image_title: Need to get out more (back)
