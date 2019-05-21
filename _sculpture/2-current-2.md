@@ -39,7 +39,10 @@ images:
     image_description:
   - image_path: /assets/images/177 screen copy.jpg
     image_title: Chambers (front)
-    image_description:
+    image_description: |-
+      Found toy, found wood, mixed media
+      Dimensions: 28x24x20cms
+      2018
   - image_path: /assets/images/179 screen copy.jpg
     image_title: Chambers (side)
     image_description:
