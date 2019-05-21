@@ -7,7 +7,7 @@ description_markdown: >-
   sea.&nbsp; The more intimate scale of these works makes them feel more
   precious and potent. Incorporating bead work and aspects of Indian miniature
   painting in an intricate way deliberately slows down the creative process.
-permalink: /sculpture/current2/
+permalink: /sculpture/Tiny-Obsessions/
 archive: false
 order_number: 2
 _gallery_date: 2016-05-01 00:00:00
@@ -41,7 +41,7 @@ images:
     image_title: Chambers (front)
     image_description: |-
       Found toy, found wood, mixed media
-      Dimensions: 28x24x20cms
+      Dimensions: H28x D24x W20cms,
       2018
   - image_path: /assets/images/179 screen copy.jpg
     image_title: Chambers (side)
@@ -53,7 +53,8 @@ images:
     image_title: Hollow Victory (front)
     image_description: |-
       Found toy, found wood, mixed media
-      Dimensions: 35 X 15 X15 cms
+      Dimensions: H35 X D15 X D15 cms,
+      2018
   - image_path: /assets/images/174 screen copy.jpg
     image_title: Hollow Victory (side)
     image_description:
@@ -62,7 +63,10 @@ images:
     image_description:
   - image_path: /assets/images/5757452d45548.jpg
     image_title: Sikim (side)
-    image_description: 'H22 D26 W20, 2016, Found wood, found toy, mixed media'
+    image_description: |-
+      Found wood, found toy, mixed media,
+      Dimensions: H22 D26 W20, 
+      2016
   - image_path: /assets/images/57567bc338882.jpg
     image_title: Sikim (front)
     image_description:
@@ -71,7 +75,10 @@ images:
     image_description:
   - image_path: /assets/images/586acde2ecf88.jpg
     image_title: Road Rage
-    image_description: 'H22 D23 W18, 2016, Found wood, found toy, mixed media'
+    image_description: |-
+      Found wood, found toy, mixed media,
+      Dimensions: H22 D23 W18, 
+      2016
   - image_path: /assets/images/57567f6ee20af.jpg
     image_title: Road Rage (detail)
     image_description:

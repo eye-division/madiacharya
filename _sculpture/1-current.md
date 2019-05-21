@@ -2,14 +2,14 @@
 title: Organic Excursions
 _hide_content: true
 description_markdown: >-
-  My sculptural work involves found objects and materials juxtaposed with more
-  natural forms such as large branches discovered in woodlands across the UK. I
-  want to explore the tension between natural and synthetic materials, how they
-  can co-exist and the resulting structures can come to resemble organic,
-  sometimes alien yet recognizably human forms. Using beadwork and textiles,
-  which originate from the South Asian Culture where I grew up, I continue to be
-  fascinated by sparkling jewelry, decorative accessories and ornate textile
-  patterns from childhood.
+  In the Organic Excursions series found objects and material are combined with
+  more natural forms such as large branches discovered in woodlands across the
+  UK. I wanted to explore the tension between natural and synthetic materials,
+  how they can co-exist and the resulting structures can come to resemble
+  organic, sometimes alien yet recognizably human forms. Using beadwork and
+  textiles, which originate from the South Asian Culture where I grew up, I
+  continue to be fascinated by sparkling jewelry, decorative accessories and
+  ornate textile patterns from childhood.
 permalink: /sculpture/current/
 archive: false
 _gallery_date: 2016-05-01 00:00:00
