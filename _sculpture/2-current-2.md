@@ -7,7 +7,7 @@ description_markdown: >-
   sea.&nbsp; The more intimate scale of these works makes them feel more
   precious and potent. Incorporating bead work and aspects of Indian miniature
   painting in an intricate way deliberately slows down the creative process.
-permalink: /sculpture/current2/
+permalink: /sculpture/Tiny-Obsessions/
 archive: false
 order_number: 2
 _gallery_date: 2016-05-01 00:00:00
