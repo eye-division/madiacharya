@@ -53,7 +53,8 @@ images:
     image_title: Hollow Victory (front)
     image_description: |-
       Found toy, found wood, mixed media
-      Dimensions: 35 X 15 X15 cms
+      Dimensions: H35 X D15 X D15 cms,
+      2018
   - image_path: /assets/images/174 screen copy.jpg
     image_title: Hollow Victory (side)
     image_description:
