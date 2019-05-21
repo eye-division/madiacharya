@@ -1,5 +1,5 @@
 ---
-title: Intimate Obsessions
+title: Tiny Obsessions
 _hide_content: true
 description_markdown: >-
   'Tiny Obsessions' series&nbsp; involves found objects and materials juxtaposed
