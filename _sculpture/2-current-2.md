@@ -2,10 +2,10 @@
 title: Intimate Obsessions
 _hide_content: true
 description_markdown: >-
-  'Intimate Obsessions' series&nbsp; involves found objects and materials
-  juxtaposed with smaller natural forms such as charred wooden blocks eroded by
-  the sea.&nbsp; The more intimate scale of these works makes them feel more
-  precious and potent. Incorporating beadwork and aspects of Indian miniature
+  'Tiny Obsessions' series&nbsp; involves found objects and materials juxtaposed
+  with smaller natural forms such as charred wooden blocks eroded by the
+  sea.&nbsp; The more intimate scale of these works makes them feel more
+  precious and potent. Incorporating bead work and aspects of Indian miniature
   painting in an intricate way deliberately slows down the creative process.
 permalink: /sculpture/current2/
 archive: false
