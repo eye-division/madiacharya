@@ -70,7 +70,7 @@ images:
     image_title: 'Trans-verse, (back)'
     image_description: |-
       Found wood, found objects, mixed media
-      Dimensions: 30 x 30 x 20 cms
+      Dimensions: 30 x 30 x 20 cms,
       2018
   - image_path: /assets/images/226 screen copy.jpg
     image_title: Trans-verse (front)
