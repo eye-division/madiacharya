@@ -34,7 +34,7 @@ images:
     image_title: The Catch (front)
     image_description: |-
       Found wood, found objects, mixed media
-      Dimensions: 75 x 40 x 25 cms
+      Dimensions: 75 x 40 x 25 cms,
       2018
   - image_path: /assets/images/157 screen copy.jpg
     image_title: The Catch (back)
