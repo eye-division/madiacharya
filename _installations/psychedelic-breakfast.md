@@ -4,14 +4,17 @@ description_markdown: >-
   Psychedelic Breakfast,
 
 
-  Plywood, collage, acrylic paint, 2016
+  Plywood, collage, acrylic paint,
 
 
-  This work was created created especially for **Vinyl Deptford** as part of the
+  2016
+
+
+  This work was created&nbsp; especially for **Vinyl Deptford** as part of the
   **Deptford X Fringe**. It was inspired by psychedelia and the fusion of
-  musical genres. The&nbsp; concertina book-like structure is made out of wood,
-  with pages the dimensions of a 7” single is inspired by some of the iconic
-  album covers of 60s and 70s.
+  musical genres. The&nbsp; concertina book is made out of wood, with pages the
+  dimensions of a 7” single&nbsp; inspired by some of the iconic album covers of
+  60s and 70s.
 _gallery_date:
 permalink: /installations/psychedelic-breakfast/
 archive: false
