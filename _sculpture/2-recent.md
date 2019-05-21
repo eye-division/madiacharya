@@ -7,7 +7,7 @@ description_markdown: >-
   single pieces of wood found in a forest and assembled with found objects which
   come to resemble aspects of the human body. Indian silks and bead work&nbsp;
   are used to convey ceremony and&nbsp; celebration.
-permalink: /sculpture/recent/
+permalink: /sculpture/bride-and-bridegroom/
 archive: false
 order_number: 4
 _gallery_date: 2016-05-01 00:00:00
