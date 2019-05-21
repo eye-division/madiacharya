@@ -63,7 +63,10 @@ images:
     image_description:
   - image_path: /assets/images/5757452d45548.jpg
     image_title: Sikim (side)
-    image_description: 'H22 D26 W20, 2016, Found wood, found toy, mixed media'
+    image_description: |-
+      Found wood, found toy, mixed media,
+      Dimensions: H22 D26 W20, 
+      2016
   - image_path: /assets/images/57567bc338882.jpg
     image_title: Sikim (front)
     image_description:
