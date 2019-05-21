@@ -75,7 +75,10 @@ images:
     image_description:
   - image_path: /assets/images/586acde2ecf88.jpg
     image_title: Road Rage
-    image_description: 'H22 D23 W18, 2016, Found wood, found toy, mixed media'
+    image_description: |-
+      Found wood, found toy, mixed media,
+      Dimensions: H22 D23 W18, 
+      2016
   - image_path: /assets/images/57567f6ee20af.jpg
     image_title: Road Rage (detail)
     image_description:
