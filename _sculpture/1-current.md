@@ -10,7 +10,7 @@ description_markdown: >-
   textiles, which originate from the South Asian Culture where I grew up, I
   continue to be fascinated by sparkling jewelry, decorative accessories and
   ornate textile patterns from childhood.
-permalink: /sculpture/current/
+permalink: /sculpture/organic-excursions/
 archive: false
 _gallery_date: 2016-05-01 00:00:00
 order_number: 3
