@@ -1,13 +1,10 @@
 ---
 title: Psychedelic Breakfast
 description_markdown: >-
-  Psychedelic Breakfast,
+  Psychedelic Breakfast, 2016
 
 
-  Plywood, collage, acrylic paint,
-
-
-  2016
+  Plywood, collage, acrylic paint
 
 
   This work was created&nbsp; especially for **Vinyl Deptford** as part of the
