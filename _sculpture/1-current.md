@@ -71,9 +71,9 @@ images:
     image_description:
   - image_path: /assets/images/575679d2ce2a5.jpg
     image_title: Batik Orifice (front)
-    image_description: >-
-      H70 D35 W40 , 2016, Found Plastic, found wood, vintage textiles, acrylic
-      paint
+    image_description: |-
+      Found wood, found plastic, mixed media, 2017
+      Dimensions: H70 D35 W40 cms
   - image_path: /assets/images/575679f8bf174.jpg
     image_title: Batik Orifice (back)
     image_description:
