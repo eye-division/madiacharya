@@ -52,8 +52,11 @@ images:
   - image_path: /assets/images/575677f6d4ae2.jpg
     image_title: Those Long Hot Summers (front)
     image_description: >-
-      H125 D15 W65, 2017, Found Plastic, found wood, vintage textiles, acrylic
-      paint - &lt;p&gt;This work is created using a found plastic table which
+      Found Plastic, found wood, mixed media, 2017
+
+      Dimensions: H125 D15 W65 cms
+
+      This work is created using a found plastic table which
       &amp;nbsp;accidentally got burned during a summer evening. The use of
       vintage fabric echoes the kind of covering which may have previously
       covered such an object when it functioned as a piece of furniture. There
