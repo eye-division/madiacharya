@@ -2,13 +2,11 @@
 title: Hennafest
 _hide_content: true
 description_markdown: >-
-  Commissioned for Oxford Festival of the Arts and installed in an Indian tent
+  Commissioned for Oxford Festival of the Arts and installed in an Indian tent,
+  2017
 
 
   Materials: Found wood, found bedspring, mixed media
-
-
-  2017
 
 
   This work brings together the rich tradition of body painting with Henna which
