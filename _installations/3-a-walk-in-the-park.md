@@ -2,7 +2,7 @@
 title: A walk in the park
 _hide_content: true
 description_markdown: >-
-  A Walk in the Park, Angus Hughes Gallery, London, 2018
+  A Walk in the Park at Angus Hughes Gallery, London, 2018
 
 
   Dimension variable, for space H250 x W200 X L200 cm
