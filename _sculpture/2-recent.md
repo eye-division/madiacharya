@@ -26,7 +26,9 @@ images:
     image_description:
   - image_path: /assets/images/55cd21c575ea2.jpg
     image_title: The Bridegroom (front)
-    image_description: 'H110 D50 W50, 2014'
+    image_description: |-
+      Found wood, found objects, mixed media, 2016
+      Dimensions: H110 D50 W50 cms
   - image_path: /assets/images/55cd223f44d11.jpg
     image_title: The Bridegroom (back)
     image_description: '2014'
