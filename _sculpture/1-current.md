@@ -18,7 +18,9 @@ main_image_path: /assets/images/untitled-2-copy-3-revised.jpg
 images:
   - image_path: /assets/images/59650c60b9de7.jpg
     image_title: Skating on Thin Ice (front)
-    image_description: 'H80 W120 D50, 2017, Found wood, Found Objects, Mixed Media'
+    image_description: |-
+      Found wood, Found Objects, Mixed Media, 2017
+      H80 W120 D50 cms
   - image_path: /assets/images/59651203eef69.jpg
     image_title: back
     image_description:
@@ -27,7 +29,9 @@ images:
     image_description:
   - image_path: /assets/images/5965060e96778.jpg
     image_title: Kerbside Ecstacy (front)
-    image_description: 'H40 W80 D35, 2017, Found wood, Found Objects, Mixed Media'
+    image_description: |-
+      Found wood, Found Objects, Mixed Media, 2017
+      Dimensions: H40 W80 D35 cms
   - image_path: /assets/images/59650712982eb.jpg
     image_title: detail
     image_description:
@@ -35,8 +39,10 @@ images:
     image_title: side view
     image_description:
   - image_path: /assets/images/59650e978c974.jpg
-    image_title: Let it Grow
-    image_description: 'H40 W25 D15, 2017, found wood, Found Objects, Mixed Media'
+    image_title: Let it Grow (front)
+    image_description: |-
+      Found wood, Found Objects, Mixed Media
+      Dimensions: H40 W25 D15 cms, 2017
   - image_path: /assets/images/59650f2f629f7.jpg
     image_title: detail
     image_description:
@@ -46,8 +52,11 @@ images:
   - image_path: /assets/images/575677f6d4ae2.jpg
     image_title: Those Long Hot Summers (front)
     image_description: >-
-      H125 D15 W65, 2017, Found Plastic, found wood, vintage textiles, acrylic
-      paint - &lt;p&gt;This work is created using a found plastic table which
+      Found Plastic, found wood, mixed media, 2017
+
+      Dimensions: H125 D15 W65 cms
+
+      This work is created using a found plastic table which
       &amp;nbsp;accidentally got burned during a summer evening. The use of
       vintage fabric echoes the kind of covering which may have previously
       covered such an object when it functioned as a piece of furniture. There
@@ -62,9 +71,9 @@ images:
     image_description:
   - image_path: /assets/images/575679d2ce2a5.jpg
     image_title: Batik Orifice (front)
-    image_description: >-
-      H70 D35 W40 , 2016, Found Plastic, found wood, vintage textiles, acrylic
-      paint
+    image_description: |-
+      Found wood, found plastic, mixed media, 2017
+      Dimensions: H70 D35 W40 cms
   - image_path: /assets/images/575679f8bf174.jpg
     image_title: Batik Orifice (back)
     image_description:
