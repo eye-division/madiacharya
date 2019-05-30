@@ -7,7 +7,7 @@ description_markdown: >-
   Found wood, muslin, raw silk, Bengali text
 
 
-  Dimensions: 184 cm x 121 cm x 125cm
+  Dimensions: 184 x 121 x 125 cms
 
 
   &nbsp; This site specific work is based on the idea of home as a transient
