@@ -1,19 +1,16 @@
 ---
 title: I will go wherever you take me
 description_markdown: >-
-  'I will go where ever you take me',
+  'I will go where ever you take me', at &nbsp;hARTslane Gallery, 2019
 
 
   Found wood, muslin, raw silk, Bengali text
 
 
-  Dimensions: 184 cm x 121 cm x 125cm
+  Dimensions: 184 x 121 x 125 cms
 
 
-  &nbsp;hARTslane Gallery, 2019
-
-
-  This site specific work is based on the idea of home as a transient
+  &nbsp; This site specific work is based on the idea of home as a transient
   space&nbsp; shifting according to need and circumstance. The work takes its
   title from a translation of the appliqued text on both sides, written in
   Bengali meaning ‘ I will go wherever you take me’.
