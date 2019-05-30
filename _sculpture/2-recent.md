@@ -13,15 +13,6 @@ order_number: 4
 _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/the-bride-copy.jpg
 images:
-  - image_path: /assets/images/55cd21c575ea2.jpg
-    image_title: The Bridegroom (front)
-    image_description: 'H110 D50 W50, 2014'
-  - image_path: /assets/images/55cd223f44d11.jpg
-    image_title: The Bridegroom (back)
-    image_description: '2014'
-  - image_path: /assets/images/55cd22788264a.jpg
-    image_title: The Bridegroom (detail)
-    image_description:
   - image_path: /assets/images/55cd1cdcf17e6.jpg
     image_title: The Bride (side)
     image_description: 'H40 D110 W100, 2015'
@@ -30,6 +21,15 @@ images:
     image_description:
   - image_path: /assets/images/55cd1ddf4dd08.jpg
     image_title: The Bride (detail)
+    image_description:
+  - image_path: /assets/images/55cd21c575ea2.jpg
+    image_title: The Bridegroom (front)
+    image_description: 'H110 D50 W50, 2014'
+  - image_path: /assets/images/55cd223f44d11.jpg
+    image_title: The Bridegroom (back)
+    image_description: '2014'
+  - image_path: /assets/images/55cd22788264a.jpg
+    image_title: The Bridegroom (detail)
     image_description:
 _options:
   image_path:
