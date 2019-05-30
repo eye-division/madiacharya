@@ -15,7 +15,9 @@ main_image_path: /assets/images/the-bride-copy.jpg
 images:
   - image_path: /assets/images/55cd1cdcf17e6.jpg
     image_title: The Bride (side)
-    image_description: 'H40 D110 W100, 2015'
+    image_description: |-
+      Found Wood, found objects, 2016
+      Dimensions: H40 D110 W100 cms
   - image_path: /assets/images/55cd1d1694d1e.jpg
     image_title: The Bride (front)
     image_description:
