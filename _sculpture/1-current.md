@@ -39,8 +39,10 @@ images:
     image_title: side view
     image_description:
   - image_path: /assets/images/59650e978c974.jpg
-    image_title: Let it Grow
-    image_description: 'H40 W25 D15, 2017, found wood, Found Objects, Mixed Media'
+    image_title: Let it Grow (front)
+    image_description: |-
+      Found wood, Found Objects, Mixed Media
+      Dimensions: H40 W25 D15 cms, 2017
   - image_path: /assets/images/59650f2f629f7.jpg
     image_title: detail
     image_description:
