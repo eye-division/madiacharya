@@ -18,7 +18,9 @@ main_image_path: /assets/images/untitled-2-copy-3-revised.jpg
 images:
   - image_path: /assets/images/59650c60b9de7.jpg
     image_title: Skating on Thin Ice (front)
-    image_description: 'H80 W120 D50, 2017, Found wood, Found Objects, Mixed Media'
+    image_description: |-
+      Found wood, Found Objects, Mixed Media, 2017
+      H80 W120 D50 cms
   - image_path: /assets/images/59651203eef69.jpg
     image_title: back
     image_description:
