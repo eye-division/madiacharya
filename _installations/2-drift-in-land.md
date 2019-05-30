@@ -2,13 +2,10 @@
 title: Drift-in-land
 _hide_content: true
 description_markdown: >-
-  Drift-in-land
+  Drift-in-land, 2015
 
 
-  Site-specific work at the Abbey at Sutton Courtenay, Oxfordshire,
-
-
-  2015
+  Site-specific work at the Abbey at Sutton Courtenay, Oxfordshire
 
 
   This site-specific work was created for the exhibition ‘Unravelling Time’ at
