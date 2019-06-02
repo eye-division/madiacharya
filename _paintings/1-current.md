@@ -56,7 +56,7 @@ images:
     image_description: 'W34.5 H27.5 cms,  Oil on Found Wood, 2017'
   - image_path: /assets/images/57880d6dba1f4.jpg
     image_title: Ordinary Girl
-    image_description: 'W38 L32.5, 2016, Oil on Found Wood'
+    image_description: 'W38 L32.5, Oil on Found Wood, 2016'
   - image_path: /assets/images/586ad7d977a1a.jpg
     image_title: Something in the Way
     image_description: 'L38 L37, 2016, Oil and paper on Found Wood'
