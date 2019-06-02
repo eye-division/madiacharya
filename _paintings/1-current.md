@@ -53,7 +53,7 @@ images:
     image_description: 'W29  L27 cms, oil on Found Wood, 2017'
   - image_path: /assets/images/5964defb95136.jpg
     image_title: Wooden Ships
-    image_description: 'W34.5 H27.5, 2017, Oil on Found Wood'
+    image_description: 'W34.5 H27.5 cms,  Oil on Found Wood, 2017'
   - image_path: /assets/images/57880d6dba1f4.jpg
     image_title: Ordinary Girl
     image_description: 'W38 L32.5, 2016, Oil on Found Wood'
