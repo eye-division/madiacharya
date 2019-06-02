@@ -44,7 +44,7 @@ images:
     image_description: 'W31 L34.5 cms, Oil on Found Wood, 2017'
   - image_path: /assets/images/5964df6ac6d7b.jpg
     image_title: Solid Uncertainty
-    image_description: 'W42 L37, 2017, Oil on Found Wood'
+    image_description: 'W42 L37 cms, Oil on Found Wood, 2017'
   - image_path: /assets/images/57880cf652f12.jpg
     image_title: Jam Lilies
     image_description: 'W32 L25.5, 2016, Oil on Found Wood'
