@@ -7,6 +7,10 @@ description_markdown: >-
   single pieces of wood found in a forest and assembled with found objects which
   come to resemble aspects of the human body. Indian silks and bead work&nbsp;
   are used to convey ceremony and&nbsp; celebration.
+
+
+  The Bride was exhibited in the Summer Exhibition at Royal Academy of Arts,
+  2016
 permalink: /sculpture/bride-and-bridegroom/
 archive: false
 order_number: 4
