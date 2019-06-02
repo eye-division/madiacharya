@@ -5,8 +5,10 @@ description_markdown: >-
   'Tiny Obsessions' series&nbsp; involves found objects and materials juxtaposed
   with smaller natural forms such as charred wooden blocks eroded by the
   sea.&nbsp; The more intimate scale of these works makes them feel more
-  precious and potent. Incorporating bead work and aspects of Indian miniature
-  painting in an intricate way deliberately slows down the creative process.
+  precious and ornamental. Incorporating intricate bead work and aspects of
+  Indian miniature painting is a way connecting with my cultural heritage and
+  deliberately slowing down the creative process in a world where things seem to
+  be constantly&nbsp; in a state of flux.
 permalink: /sculpture/Tiny-Obsessions/
 archive: false
 order_number: 2
@@ -17,7 +19,7 @@ images:
     image_title: I Feel Free (front)
     image_description: |-
       Found objects, charred wood, mixed media, 
-      Dimensions: 20cms x 19cm x 16cm, 2018
+      Dimensions: 20 x 19x 16 cms, 2018
   - image_path: /assets/images/185 screen copy.jpg
     image_title: I Feel Free (side)
     image_description:
@@ -39,7 +41,7 @@ images:
     image_title: Chambers (front)
     image_description: |-
       Found toy, found wood, mixed media
-      Dimensions: H28x D24x W20cms, 2018
+      Dimensions: H28x D24x W20 cms, 2018
   - image_path: /assets/images/179 screen copy.jpg
     image_title: Chambers (side)
     image_description:

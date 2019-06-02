@@ -1,10 +1,11 @@
 ---
-title: Tyre Marks
+title: Tyre Paintings
 description_markdown: >-
-  This is a new series of works which I am developing in response to finding
-  tyres and rubber in abundance along the coast line. The mixed media paintings
+  This series of works has developed in response to finding eroded tyres and
+  rubber washed up in abundance along the coast line. The mixed media paintings
   are framed by found rubber giving them the appearance of a porthole, like
-  being out at sea.
+  being out at sea. The use of eroded rubber tyres also symbolizes many
+  different&nbsp; journeys and glimpses into other worlds.
 _gallery_date:
 permalink: /paintings/tyre-marks/
 archive: false

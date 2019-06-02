@@ -7,6 +7,10 @@ description_markdown: >-
   single pieces of wood found in a forest and assembled with found objects which
   come to resemble aspects of the human body. Indian silks and bead work&nbsp;
   are used to convey ceremony and&nbsp; celebration.
+
+
+  The Bride was exhibited in the Summer Exhibition at Royal Academy of Arts,
+  2016
 permalink: /sculpture/bride-and-bridegroom/
 archive: false
 order_number: 4
@@ -27,11 +31,11 @@ images:
   - image_path: /assets/images/55cd21c575ea2.jpg
     image_title: The Bridegroom (front)
     image_description: |-
-      Found wood, found objects, mixed media, 2016
-      Dimensions: H110 D50 W50 cms
+      Found wood, found objects, mixed media, 
+      Dimensions: H110 D50 W50 cms, 2017
   - image_path: /assets/images/55cd223f44d11.jpg
     image_title: The Bridegroom (back)
-    image_description: '2014'
+    image_description:
   - image_path: /assets/images/55cd22788264a.jpg
     image_title: The Bridegroom (detail)
     image_description:

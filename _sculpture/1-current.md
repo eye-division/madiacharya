@@ -19,8 +19,8 @@ images:
   - image_path: /assets/images/59650c60b9de7.jpg
     image_title: Skating on Thin Ice (front)
     image_description: |-
-      Found wood, Found Objects, Mixed Media, 2017
-      H80 W120 D50 cms
+      Found wood, Found Objects, Mixed Media, 
+      H80 W120 D50 cms, 2017
   - image_path: /assets/images/59651203eef69.jpg
     image_title: back
     image_description:
@@ -30,8 +30,8 @@ images:
   - image_path: /assets/images/5965060e96778.jpg
     image_title: Kerbside Ecstacy (front)
     image_description: |-
-      Found wood, Found Objects, Mixed Media, 2017
-      Dimensions: H40 W80 D35 cms
+      Found wood, Found Objects, Mixed Media,
+      Dimensions: H40 W80 D35 cms, 2017
   - image_path: /assets/images/59650712982eb.jpg
     image_title: detail
     image_description:
@@ -52,17 +52,18 @@ images:
   - image_path: /assets/images/575677f6d4ae2.jpg
     image_title: Those Long Hot Summers (front)
     image_description: >-
-      Found Plastic, found wood, mixed media, 2017
+      Found Plastic, found wood, mixed media, 
 
-      Dimensions: H125 D15 W65 cms
+      Dimensions: H125 D15 W65 cms, 2017
 
-      This work is created using a found plastic table which
-      &amp;nbsp;accidentally got burned during a summer evening. The use of
-      vintage fabric echoes the kind of covering which may have previously
-      covered such an object when it functioned as a piece of furniture. There
-      is a dialogue between natural and manufactured materials suggesting an
-      apparent continuity between the disparate textures and materials so that
-      pre-exiting boundaries become fused and appear as one.
+
+      This work is created using a found plastic table which accidentally got
+      burned during a summer evening. The use of vintage fabric echoes the kind
+      of covering which may have previously covered such an object when it
+      functioned as a piece of furniture. There is a dialogue between natural
+      and manufactured materials suggesting an apparent continuity between the
+      disparate textures and materials so that pre-exiting boundaries become
+      fused and appear as one.
   - image_path: /assets/images/57567823f29ca.jpg
     image_title: TLHS (back)
     image_description:
@@ -72,8 +73,8 @@ images:
   - image_path: /assets/images/575679d2ce2a5.jpg
     image_title: Batik Orifice (front)
     image_description: |-
-      Found wood, found plastic, mixed media, 2017
-      Dimensions: H70 D35 W40 cms
+      Found wood, found plastic, mixed media, 
+      Dimensions: H70 D35 W40 cms, 2017
   - image_path: /assets/images/575679f8bf174.jpg
     image_title: Batik Orifice (back)
     image_description:
