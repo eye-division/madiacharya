@@ -32,7 +32,7 @@ images:
     image_description: 'W25.5 L32.5, Oil on Found Wood, 2017'
   - image_path: /assets/images/5964dc1c2325a.jpg
     image_title: Perfect Ambassador
-    image_description: 'W27 L27, 2017, Oil on Found Wood'
+    image_description: 'W27 L27 cms Oil on Found Wood, 2017'
   - image_path: /assets/images/57880aeee9cf7.jpg
     image_title: Cock Fighting
     image_description: 'W31 L32.5, 2016, Oil on Found Wood'
