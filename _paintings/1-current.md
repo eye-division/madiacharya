@@ -65,7 +65,7 @@ images:
     image_description: 'W52 L40, Oil on Found Wood, 2016'
   - image_path: /assets/images/5964e0c901b95.jpg
     image_title: Some of us Stayed
-    image_description: 'W84 L30, 2017, Oil on Found Wood'
+    image_description: 'W84 L30 cms, Oil on Found Wood, 2017'
 _options:
   image_path:
     width: 1200
