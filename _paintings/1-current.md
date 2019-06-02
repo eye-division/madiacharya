@@ -29,7 +29,7 @@ images:
       L30 W29 cms, 2019
   - image_path: /assets/images/57880c5943af5.jpg
     image_title: Curtain Call
-    image_description: 'W25.5 L32.5, 2016, Oil on Found Wood'
+    image_description: 'W25.5 L32.5, Oil on Found Wood, 2017'
   - image_path: /assets/images/5964dc1c2325a.jpg
     image_title: Perfect Ambassador
     image_description: 'W27 L27, 2017, Oil on Found Wood'
