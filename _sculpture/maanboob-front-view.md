@@ -8,7 +8,7 @@ description_markdown: >-
   to take on an exploration of sexual identity, offering possibilities but
   maintaining ambiguity. Discarded objects come to be adorned with decorative
   patterns from vintage textiles and lacework suggesting an intertwined male and
-  female presence but at the same time defying stereotypes.
+  female presence but at the same time defying categorization.
 
 
   &nbsp;
