@@ -31,7 +31,7 @@ images:
       Dimensions: H110 D50 W50 cms, 2017
   - image_path: /assets/images/55cd223f44d11.jpg
     image_title: The Bridegroom (back)
-    image_description: '2014'
+    image_description:
   - image_path: /assets/images/55cd22788264a.jpg
     image_title: The Bridegroom (detail)
     image_description:
