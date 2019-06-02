@@ -62,7 +62,7 @@ images:
     image_description: 'L38 L37, Oil and paper on Found Wood, 2017'
   - image_path: /assets/images/586ad25bc4595.jpg
     image_title: A Sailor's Life
-    image_description: 'W52 L40, 2016, Oil on Found Wood'
+    image_description: 'W52 L40, Oil on Found Wood, 2016'
   - image_path: /assets/images/5964e0c901b95.jpg
     image_title: Some of us Stayed
     image_description: 'W84 L30, 2017, Oil on Found Wood'
