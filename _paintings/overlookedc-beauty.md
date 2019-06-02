@@ -1,5 +1,5 @@
 ---
-title: Tyre Marks
+title: Tyre Paintings
 description_markdown: >-
   This is a new series of works which I am developing in response to finding
   tyres and rubber in abundance along the coast line. The mixed media paintings
