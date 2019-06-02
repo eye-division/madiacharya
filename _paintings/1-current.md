@@ -35,7 +35,7 @@ images:
     image_description: 'W27 L27 cms Oil on Found Wood, 2017'
   - image_path: /assets/images/57880aeee9cf7.jpg
     image_title: Cock Fighting
-    image_description: 'W31 L32.5, 2016, Oil on Found Wood'
+    image_description: 'W31 L32.5, Oil on Found Wood, 2016'
   - image_path: /assets/images/5964db500acf2.jpg
     image_title: Dolls are a Part
     image_description: '2017 - W27 L27, Oil on Found Wood'
