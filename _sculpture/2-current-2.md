@@ -5,8 +5,10 @@ description_markdown: >-
   'Tiny Obsessions' series&nbsp; involves found objects and materials juxtaposed
   with smaller natural forms such as charred wooden blocks eroded by the
   sea.&nbsp; The more intimate scale of these works makes them feel more
-  precious and potent. Incorporating bead work and aspects of Indian miniature
-  painting in an intricate way deliberately slows down the creative process.
+  precious and ornamental. Incorporating intricate bead work and aspects of
+  Indian miniature painting is a way connecting with my cultural heritage and
+  deliberately slowing down the creative process in a world where things seem to
+  be constantly&nbsp; in a state of flux.
 permalink: /sculpture/Tiny-Obsessions/
 archive: false
 order_number: 2
