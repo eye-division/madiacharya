@@ -59,9 +59,9 @@ collections:
         output: true
         permalink: /residencies/:path/
         _hide_content: true
-    participatory:
+    workshops:
         output: true
-        permalink: /participatory-projects/:path/
+        permalink: /workshops/:path/
         _hide_content: true
     video:
         output: true
@@ -109,9 +109,9 @@ defaults:
     -
         scope:
             path: ""
-            type: "participatory"
+            type: "workshops"
         values:
-            layout: "participatory"
+            layout: "workshops"
     -
         scope:
             path: ""
