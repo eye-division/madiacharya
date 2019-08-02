@@ -8,7 +8,7 @@ description_markdown: >-
   culture of origin.For this project I collected driftwood from the coast. I
   felt this was a way of referencing the coast-line which marks the site of the
   diasporan experience,particularly significant for this group of participants..
-permalink: /participatory-projects/stories-from-my-homeland/
+permalink: /workshops/stories-from-my-homeland/
 archive: true
 _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/4741c0d8e1093.jpg
