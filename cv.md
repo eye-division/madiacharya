@@ -32,6 +32,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### SELECTED GROUP EXHIBITIONS
 
+2019 **Parallel Lines: Drawing and Sculpture,** The Lightbox, Woking
+
 2019 **by the way** Lewisham Arthouse, London
 
 2018&nbsp;**‘and the value of nothing’,&nbsp;**Studio 1:1 Gallery, London
