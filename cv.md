@@ -24,7 +24,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### SOLO AND TWO PERSON EXHIBITIONS:
 
-2018 **&nbsp;‘Dancing with the corporeal’** with &nbsp;Matthew Gould no format Gallery, Deptford, London with Artist Talk facilitated by Richard Dyer, (editor in chief, Third Text)
+2018 **&nbsp;‘Dancing with the corporeal’** no format Gallery, Deptford, London with Artist Talk facilitated by Richard Dyer, (editor in chief, Third Text)
 
 2017 ‘**Absent Beach’** Vinyl Deptford, London
 
@@ -56,7 +56,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2016 **Material World,** Ancien Musee de Peinture, Grenoble
 
-2016 **Dis locate**, VW Showroom, Oxford, curated by Luis Manuel Araujo\*\*
+2016 **Dis locate**, VW Showroom, Oxford, curated by Luis Manuel Araujo
 
 2016 **Eves & Liliths**, Espacio Gallery, London
 
@@ -106,7 +106,7 @@ Park, Bracknell (funded by ACE, National Culture and Arts Foundation, Taiwan)
 
 ### PRIZES, AWARDS, OPEN SUBMISSIONS
 
-**2018 &nbsp;SFSA Painting Open**, No Format Gallery, London
+2018 **&nbsp;SFSA Painting Open**, No Format Gallery, London
 
 2018&nbsp;**Fe/Male,&nbsp;**AIR Gallery, Manchester
 
