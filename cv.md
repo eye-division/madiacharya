@@ -172,7 +172,9 @@ exploring the theme ‘Stories, Memories, Concepts’ (ACE funded)
 
 ### BIBLIOGRAPHY
 
-**I wish my hair was as long as yours**, [Exhibition Booklet](/assets/E_Brochure.pdf), 2019, essay by Stephanie Straine, Curator of Projects and Exhibitions, Modern Art Oxford
+**I wish my hair was as long as yours**, catalogue with&nbsp; essay by Stephanie Straine, Curator of Projects and Exhibitions, Modern Art Oxford
+
+[Download catalogue (PDF)](/assets/E_Brochure.pdf)
 
 **by the way**, Exhibition Catalogue, 2019
 
