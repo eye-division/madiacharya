@@ -24,7 +24,9 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### SOLO AND TWO PERSON EXHIBITIONS:
 
-2018 **&nbsp;‘Dancing with the corporeal’** no format Gallery, Deptford, London with Artist Talk facilitated by Richard Dyer, (editor in chief, Third Text)
+2019&nbsp; '**I wish my hair was as long as yours**', Magdalen Art Space, Magdalen Road Studios
+
+2018 **&nbsp;‘Dancing with the corporeal’** no format Gallery, London with Artist Talk facilitated by Richard Dyer, (editor in chief, Third Text)
 
 2017 ‘**Absent Beach’** Vinyl Deptford, London
 
@@ -170,7 +172,9 @@ exploring the theme ‘Stories, Memories, Concepts’ (ACE funded)
 
 ### BIBLIOGRAPHY
 
-**I wish my hair was as long as yours**, <a href="/assets/E_Brochure.pdf">Exhibition Booklet</a>, 2019, essay by Stephanie Straine, Curator of Projects and Exhibitions, Modern Art Oxford
+**I wish my hair was as long as yours**, catalogue with&nbsp; essay by Stephanie Straine, Curator of Projects and Exhibitions, Modern Art Oxford
+
+[Download catalogue (PDF)](/assets/E_Brochure.pdf)
 
 **by the way**, Exhibition Catalogue, 2019
 
