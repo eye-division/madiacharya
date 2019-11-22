@@ -34,6 +34,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### SELECTED GROUP EXHIBITIONS
 
+2019 **Weave It\!** , Stour Space, London, curated by Decorating Dissidence
+
 2019 **Parallel Lines: Drawing and Sculpture,** The Lightbox, Woking
 
 2019 **by the way** Lewisham Arthouse, London
