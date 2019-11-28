@@ -34,6 +34,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### SELECTED GROUP EXHIBITIONS
 
+2019 **Weave It\!** , Stour Space, London, curated by Decorating Dissidence
+
 2019 **Parallel Lines: Drawing and Sculpture,** The Lightbox, Woking
 
 2019 **by the way** Lewisham Arthouse, London
@@ -107,6 +109,8 @@ then touring to other Oxfordshire venues (ACE funded)
 Park, Bracknell (funded by ACE, National Culture and Arts Foundation, Taiwan)
 
 ### PRIZES, AWARDS, OPEN SUBMISSIONS
+
+2019 **Artcan Open**, Trinity Art Gallery, London
 
 2018 **&nbsp;SFSA Painting Open**, No Format Gallery, London
 
