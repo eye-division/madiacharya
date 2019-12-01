@@ -22,7 +22,7 @@ images:
     image_title: Is the grass really green over there? (side)
     image_description:
   - image_path: /assets/images/068 screen copy.jpg
-    image_title:
+    image_title: Is the grass really greener over there? (back)
     image_description:
   - image_path: /assets/images/191 screen copy.jpg
     image_title: I Feel Free (front)
