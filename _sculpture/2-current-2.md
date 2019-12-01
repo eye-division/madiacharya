@@ -19,7 +19,7 @@ images:
     image_title: Is the grass really greener over there? (front)
     image_description:
   - image_path: /assets/images/075 screen copy.jpg
-    image_title:
+    image_title: Is the grass really green over there? (side)
     image_description:
   - image_path: /assets/images/068 screen copy.jpg
     image_title:
