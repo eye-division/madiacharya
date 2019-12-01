@@ -84,7 +84,10 @@ images:
   - image_path: /assets/images/071-screen-copy.jpg
     image_title: Is the grass really greaner over there?
     image_description:
-  - image_path: /assets/images/075 screen copy.jpg
+  - image_path: /assets/images/068 screen copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/068 screen copy.jpg
     image_title:
     image_description:
 _options:
