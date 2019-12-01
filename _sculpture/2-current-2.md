@@ -15,6 +15,15 @@ order_number: 2
 _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/185 screen copy.jpg
 images:
+  - image_path: /assets/images/071-screen-copy.jpg
+    image_title: Is the grass really greener over there?
+    image_description:
+  - image_path: /assets/images/075 screen copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/068 screen copy.jpg
+    image_title:
+    image_description:
   - image_path: /assets/images/191 screen copy.jpg
     image_title: I Feel Free (front)
     image_description: |-
@@ -80,15 +89,6 @@ images:
     image_description:
   - image_path: /assets/images/575747332d750.jpg
     image_title: Road Rage (back)
-    image_description:
-  - image_path: /assets/images/071-screen-copy.jpg
-    image_title: Is the grass really greener over there?
-    image_description:
-  - image_path: /assets/images/075 screen copy.jpg
-    image_title:
-    image_description:
-  - image_path: /assets/images/068 screen copy.jpg
-    image_title:
     image_description:
 _options:
   image_path:
