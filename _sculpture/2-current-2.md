@@ -15,11 +15,11 @@ order_number: 2
 _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/185 screen copy.jpg
 images:
-  - image_path: /assets/images/093 screen copy.jpg
+  - image_path:
     image_title: Here to Stay (1)
     image_description:
   - image_path: /assets/images/089 screen copy.jpg
-    image_title:
+    image_title: Here to Stay (2)
     image_description:
   - image_path: /assets/images/133 screen copy.jpg
     image_title: Here to Stay (detail)
