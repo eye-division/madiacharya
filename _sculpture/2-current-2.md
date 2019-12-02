@@ -96,6 +96,9 @@ images:
   - image_path: /assets/images/089 screen copy.jpg
     image_title:
     image_description:
+  - image_path: /assets/images/133 screen copy.jpg
+    image_title: Here to Stay (detail)
+    image_description:
 _options:
   image_path:
     width: 1200
