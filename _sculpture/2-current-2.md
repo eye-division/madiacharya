@@ -16,13 +16,13 @@ _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/185 screen copy.jpg
 images:
   - image_path: /assets/images/071-screen-copy.jpg
-    image_title: Is the grass really greener over there?
+    image_title: Is the grass really greener over there? (front)
     image_description:
   - image_path: /assets/images/075 screen copy.jpg
-    image_title:
+    image_title: Is the grass really green over there? (side)
     image_description:
   - image_path: /assets/images/068 screen copy.jpg
-    image_title:
+    image_title: Is the grass really greener over there? (back)
     image_description:
   - image_path: /assets/images/191 screen copy.jpg
     image_title: I Feel Free (front)
