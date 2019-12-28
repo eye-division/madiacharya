@@ -11,7 +11,7 @@ images:
   - image_path:
     image_title:
     image_description:
-  - image_path: /assets/images/436-screen-copy.jpg
+  - image_path: /assets/images/460-screen-copy.jpg
     image_title:
     image_description:
 _options:
