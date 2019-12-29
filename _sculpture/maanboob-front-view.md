@@ -82,6 +82,9 @@ images:
   - image_path: /assets/images/043-screen-copy.jpg
     image_title: Burning Desire (detail)
     image_description:
+  - image_path: /assets/images/002b-screen-copy.jpg
+    image_title: Fake it till you make it
+    image_description:
 _options:
   image_path:
     width: 1200
