@@ -97,6 +97,9 @@ images:
   - image_path: /assets/images/023-screen-copy.jpg
     image_title: 'Kicked the Bucket (front, right)'
     image_description:
+  - image_path: /assets/images/031-screen-copy.jpg
+    image_title: Kicked the Bucket (bucket)
+    image_description:
 _options:
   image_path:
     width: 1200
