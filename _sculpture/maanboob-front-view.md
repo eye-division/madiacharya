@@ -91,6 +91,9 @@ images:
   - image_path: /assets/images/006-screen-copy.jpg
     image_title: Fake it till you make it (detail)
     image_description:
+  - image_path: /assets/images/022-screen-copy.jpg
+    image_title: 'Kicked the Bucket (front, left)'
+    image_description:
 _options:
   image_path:
     width: 1200
