@@ -79,6 +79,9 @@ images:
   - image_path: /assets/images/039-screen-copy.jpg
     image_title: Burning Desire (back)
     image_description:
+  - image_path: /assets/images/043-screen-copy.jpg
+    image_title: Burning Desire (detail)
+    image_description:
 _options:
   image_path:
     width: 1200
