@@ -88,6 +88,9 @@ images:
   - image_path: /assets/images/009b-screen-copy.jpg
     image_title: Fake it till you make it (back)
     image_description:
+  - image_path: /assets/images/006-screen-copy.jpg
+    image_title: Fake it till you make it (detail)
+    image_description:
 _options:
   image_path:
     width: 1200
