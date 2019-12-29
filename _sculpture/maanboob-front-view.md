@@ -21,11 +21,11 @@ images:
   - image_path: /assets/images/022-screen-copy.jpg
     image_title: 'Kicked the Bucket (front, left)'
     image_description:
-  - image_path: /assets/images/023-screen-copy.jpg
-    image_title: 'Kicked the Bucket (front, right)'
-    image_description:
   - image_path: /assets/images/026 screen copy.jpg
     image_title: Kicked the Bucket (bucket)
+    image_description:
+  - image_path: /assets/images/023-screen-copy.jpg
+    image_title: 'Kicked the Bucket (front, right)'
     image_description:
   - image_path: /assets/images/002b-screen-copy.jpg
     image_title: Fake it till you make it (front)
