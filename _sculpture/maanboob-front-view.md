@@ -22,7 +22,7 @@ images:
     image_title: 'Kicked the Bucket (front, left)'
     image_description:
   - image_path: /assets/images/026 screen copy.jpg
-    image_title: Kicked the Bucket (bucket)
+    image_title: Kicked the Bucket (back)
     image_description:
   - image_path: /assets/images/023-screen-copy.jpg
     image_title: 'Kicked the Bucket (front, right)'
