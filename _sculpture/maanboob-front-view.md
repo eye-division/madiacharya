@@ -16,7 +16,7 @@ _gallery_date: 2016-05-01 00:00:00
 permalink: /sculpture/human-factor/
 archive: false
 order_number: 1
-main_image_path: /assets/images/034-screen-copy.jpg
+main_image_path: /assets/images/043-screen-copy.jpg
 images:
   - image_path: /assets/images/022-screen-copy.jpg
     image_title: 'Kicked the Bucket (front, left)'
