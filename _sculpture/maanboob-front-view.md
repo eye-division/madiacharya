@@ -73,6 +73,33 @@ images:
   - image_path: /assets/images/227 screen copy.jpg
     image_title: 'Trans-verse, (front, side view)'
     image_description:
+  - image_path: /assets/images/034-screen-copy.jpg
+    image_title: Burning Desire (front)
+    image_description:
+  - image_path: /assets/images/039-screen-copy.jpg
+    image_title: Burning Desire (back)
+    image_description:
+  - image_path: /assets/images/043-screen-copy.jpg
+    image_title: Burning Desire (detail)
+    image_description:
+  - image_path: /assets/images/002b-screen-copy.jpg
+    image_title: Fake it till you make it (front)
+    image_description:
+  - image_path: /assets/images/009b-screen-copy.jpg
+    image_title: Fake it till you make it (back)
+    image_description:
+  - image_path: /assets/images/006-screen-copy.jpg
+    image_title: Fake it till you make it (detail)
+    image_description:
+  - image_path: /assets/images/022-screen-copy.jpg
+    image_title: 'Kicked the Bucket (front, left)'
+    image_description:
+  - image_path: /assets/images/023-screen-copy.jpg
+    image_title: 'Kicked the Bucket (front, right)'
+    image_description:
+  - image_path: /assets/images/031-screen-copy.jpg
+    image_title: Kicked the Bucket (bucket)
+    image_description:
 _options:
   image_path:
     width: 1200
