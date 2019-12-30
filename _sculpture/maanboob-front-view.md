@@ -45,7 +45,7 @@ images:
 
       Materials: Found wood, found objects, textiles, bead work, acrylic paint
 
-      Dimensions: W83 78 27 cms
+      Dimensions: W83 H78 D27 cms
   - image_path: /assets/images/009b-screen-copy.jpg
     image_title: Fake it till you make it (back)
     image_description:
