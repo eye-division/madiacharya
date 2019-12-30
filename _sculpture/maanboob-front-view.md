@@ -54,7 +54,16 @@ images:
     image_description:
   - image_path: /assets/images/034-screen-copy.jpg
     image_title: Burning Desire (front)
-    image_description:
+    image_description: >-
+      Burning Desire is created from a piece of yew found in a forest. The wood
+      is burnt into using a pyrography tool as a way of giving the sculpture a
+      tattoo, comparing the surface of the wood to skin. The dolls arm jutting
+      out of the side explores the possibility that disparate materials can
+      coexist seamlessly, one merging effortlessly into the other. 
+
+      Materials: Found wood, pyrography, acrylic paint, jewellery
+
+      Dimensions: W25 H60 D25 cms
   - image_path: /assets/images/039-screen-copy.jpg
     image_title: Burning Desire (back)
     image_description:
