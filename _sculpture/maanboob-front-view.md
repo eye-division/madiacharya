@@ -20,7 +20,15 @@ main_image_path: /assets/images/043-screen-copy.jpg
 images:
   - image_path: /assets/images/022-screen-copy.jpg
     image_title: 'Kicked the Bucket (front, left)'
-    image_description:
+    image_description: >-
+      This work is made with human hair extensions, found wood, found broken
+      bucket and a found and adorned plastic ball made to represent genitalia.
+      This work is a reference to death as well as considering a more literal
+      interpretation. 
+
+      Materials: Found wood, found plastic, bead work, textiles, hair extensions
+
+      Dimensions: W75 H72 D35 cms
   - image_path: /assets/images/026 screen copy.jpg
     image_title: Kicked the Bucket (back)
     image_description:
@@ -29,7 +37,15 @@ images:
     image_description:
   - image_path: /assets/images/002b-screen-copy.jpg
     image_title: Fake it till you make it (front)
-    image_description:
+    image_description: >-
+      Fake it till you make it incorporates a piece of charred wood found whilst
+      walking along the river bank in Oxford with other found materials and
+      textiles. The mask refers to the idea of putting on an act until playful
+      pretense becomes reality. 
+
+      Materials: Found wood, found objects, textiles, bead work, acrylic paint
+
+      Dimensions: W83 78 27 cms
   - image_path: /assets/images/009b-screen-copy.jpg
     image_title: Fake it till you make it (back)
     image_description:
@@ -38,7 +54,16 @@ images:
     image_description:
   - image_path: /assets/images/034-screen-copy.jpg
     image_title: Burning Desire (front)
-    image_description:
+    image_description: >-
+      Burning Desire is created from a piece of yew found in a forest. The wood
+      is burnt into using a pyrography tool as a way of giving the sculpture a
+      tattoo, comparing the surface of the wood to skin. The dolls arm jutting
+      out of the side explores the possibility that disparate materials can
+      coexist seamlessly, one merging effortlessly into the other. 
+
+      Materials: Found wood, pyrography, acrylic paint, jewellery
+
+      Dimensions: W25 H60 D25 cms
   - image_path: /assets/images/039-screen-copy.jpg
     image_title: Burning Desire (back)
     image_description:
