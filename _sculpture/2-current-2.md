@@ -16,13 +16,13 @@ _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/089 screen copy.jpg
 images:
   - image_path: /assets/images/093 screen copy.jpg
-    image_title: Here to Stay (1)
+    image_title: Here to Stay
     image_description: >-
-      Here to Stay is new small scale sculpture, part of a series which explores
-      the non decaying nature of plastic polluting our oceans. The ornate Asian
-      textile patterns and painted sections within this work are also a reminder
-      of the right to remain, highlighting the value and contribution of the
-      diverse cultures around us. 
+      This is new small scale sculpture, part of a series which explores the non
+      decaying nature of plastic polluting our oceans. The ornate Asian textile
+      patterns and painted sections within this work are also a reminder of the
+      right to remain, highlighting the value and contribution of the diverse
+      cultures around us. 
 
       Materials: Found plastic, textiles, acrylic paint, Dimensions: W22 H22 D13
       cm
