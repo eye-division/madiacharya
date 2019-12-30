@@ -20,7 +20,15 @@ main_image_path: /assets/images/043-screen-copy.jpg
 images:
   - image_path: /assets/images/022-screen-copy.jpg
     image_title: 'Kicked the Bucket (front, left)'
-    image_description:
+    image_description: >-
+      This work is made with human hair extensions, found wood, found broken
+      bucket and a found and adorned plastic ball made to represent genitalia.
+      This work is a reference to death as well as considering a more literal
+      interpretation. 
+
+      Materials: Found wood, found plastic, bead work, textiles, hair extensions
+
+      Dimensions: W75 H72 D35 cms
   - image_path: /assets/images/026 screen copy.jpg
     image_title: Kicked the Bucket (back)
     image_description:
