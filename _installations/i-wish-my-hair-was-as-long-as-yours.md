@@ -24,6 +24,9 @@ images:
   - image_path: /assets/images/480-screen-copy.jpg
     image_title:
     image_description:
+  - image_path: /assets/images/436-screen-copy.jpg
+    image_title:
+    image_description:
   - image_path: /assets/images/473-screen-copy.jpg
     image_title:
     image_description:
@@ -31,9 +34,6 @@ images:
     image_title:
     image_description:
   - image_path: /assets/images/485a-screen-copy.jpg
-    image_title:
-    image_description:
-  - image_path: /assets/images/436-screen-copy.jpg
     image_title:
     image_description:
 _options:
