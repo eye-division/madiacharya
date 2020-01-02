@@ -14,7 +14,7 @@ description_markdown: >-
   60s and 70s.
 _gallery_date:
 permalink: /installations/psychedelic-breakfast/
-archive: false
+archive: true
 main_image_path: /assets/images/207a-screen-copy-resized.jpg
 order_number: 4
 images:
