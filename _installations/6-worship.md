@@ -10,7 +10,7 @@ description_markdown:  |
 permalink: /installations/worship/
 archive: true
 _gallery_date: 2016-05-01T00:00:00.000Z
-order_number: 7
+order_number: 8
 main_image_path: /assets/images/4c7842222b887.jpg
 images:            
   - image_path: /assets/images/4c7842222b887.jpg
@@ -50,6 +50,8 @@ _comments:
   main_image_path: Image used to represent your gallery
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
+  order_number: Display order on the installations page
+  archive: Should we archive it?
 
 ---
 
