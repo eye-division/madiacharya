@@ -22,7 +22,7 @@ description_markdown: >-
   create a repeat pattern for a wallpaper."
 permalink: /installations/silverbeach/
 archive: true
-order_number: 6
+order_number: 7
 _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/4ef50ac41d92a.jpg
 images:
@@ -63,5 +63,7 @@ _comments:
   main_image_path: Image used to represent your gallery
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
+  order_number: Display order on the installations page
+  archive: Should we archive it?
 ---
 
