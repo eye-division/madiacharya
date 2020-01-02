@@ -12,7 +12,7 @@ description_markdown: >-
   textiles at the top of the unraveled netting are a reference to the clothes of
   these bathers, hence incorporating this particular aspect of the story.
 _gallery_date:
-permalink:
+permalink: /installations/i-wish-my-hair-was-as-long-as-yours/
 archive: false
 main_image_path: /assets/images/435-screen-copy.jpg
 order_number: 1
@@ -54,7 +54,7 @@ _comments:
   permalink: Be careful editing this
   main_image_path: Image used to represent your gallery
   images: Add and edit your gallery images here
-  image_description: May only be used in the close up of an image  
+  image_description: May only be used in the close up of an image
   order_number: Display order on the installations page
   archive: Should we archive it?
 ---
