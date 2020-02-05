@@ -110,6 +110,8 @@ Park, Bracknell (funded by ACE, National Culture and Arts Foundation, Taiwan)
 
 ### PRIZES, AWARDS, OPEN SUBMISSIONS
 
+2020 **'This Year's Model'** Studio 1:1 Gallery, London
+
 2019 **Artcan Open**, Trinity Art Gallery, London
 
 2018 **&nbsp;SFSA Painting Open**, No Format Gallery, London
