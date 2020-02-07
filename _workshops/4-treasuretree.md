@@ -14,7 +14,7 @@ description_markdown: >-
   be a way of symbolising growth and learning as well as providing shelter and
   refuge across different cultures
 permalink: /workshops/the-treasure-tree/
-archive: false
+archive: true
 _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/4741dbbd72ba8.jpg
 images:
