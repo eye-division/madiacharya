@@ -13,6 +13,9 @@ images:
   - image_path: /assets/images/1627bf57-b102-4b97-b5af-ca737cc1a72d.JPG
     image_title:
     image_description:
+  - image_path: /assets/images/c5bdbc18-a1f3-4337-8702-12bfc6a9c3a3.JPG
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
