@@ -10,6 +10,9 @@ images:
   - image_path:
     image_title:
     image_description:
+  - image_path: /assets/images/1627bf57-b102-4b97-b5af-ca737cc1a72d.JPG
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
