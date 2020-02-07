@@ -2,7 +2,7 @@
 title: Cabinet of Curiosities
 description_markdown:
 _gallery_date:
-permalink:
+permalink: /workshops/cabinetofcuriosities/
 archive: false
 main_image_path: /assets/images/63cf7743-e64d-4b54-b301-811c05c8fa6d.JPG
 thumb_crop:
