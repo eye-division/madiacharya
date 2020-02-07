@@ -12,7 +12,7 @@ description_markdown: >-
   importance of recycling and using the resourses around us in the creative
   process.
 permalink: /workshops/this-is-me/
-archive: false
+archive: true
 _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/4741debf6d43e.jpg
 images:

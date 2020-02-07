@@ -11,7 +11,7 @@ description_markdown: >-
   all key issues in this community.Each banner was bound by natural twigs as a
   way of bringing nature into the building.
 permalink: /workshops/the-banner-piece/
-archive: false
+archive: true
 _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/47420b98a8c77.jpg
 images:
