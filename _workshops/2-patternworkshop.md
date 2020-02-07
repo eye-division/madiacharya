@@ -10,7 +10,7 @@ description_markdown: >-
   coupled with an emphasis on recycling which is now important in most cultures
   across the world.
 permalink: /workshops/pattern-workshop/
-archive: false
+archive: true
 _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/4f15fb12247ac.jpg
 images:
