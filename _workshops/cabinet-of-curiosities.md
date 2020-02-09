@@ -1,17 +1,18 @@
 ---
-title: '''Cabinet of Curiosities'' at Modern Art Oxford'
+title: '''Cabinet of Curiosities'''
 description_markdown: >-
-  This participatory project involved working with adults to create small scale
-  mixed media sculptures, incorporating patterns of different cultures developed
-  on hand made paper and found materials and objects collected in our natural
-  environment. The objects and materials were especially collected for this
-  project from the Dorset coast after a storm. The project was inspired by the
-  work of **Kiki Smith** and was part of the public program for the exhibition
-  '**I am a Wanderer**'. The concept of the '*Wunderkammer*' , a private and
-  spiritual place created with the idea of nature being linked to art was key to
-  this project. It was a way of exploring the boundaries between natural and
-  artificial materials and how they can connect with each other. Participants
-  created a unique and diverse range of sculptural works.
+  This project, commissioned by **Modern Art Oxford**&nbsp; involved working
+  with adults to create small scale mixed media sculptures, incorporating
+  patterns of different cultures developed on hand made paper and found
+  materials and objects collected in our natural environment. The objects and
+  materials were especially collected for this project from the Dorset coast
+  after a storm. The project was inspired by the work of **Kiki Smith** and was
+  part of the public program for the exhibition '**I am a Wanderer**'. The
+  concept of the '*Wunderkammer*' , a private and spiritual place created with
+  the idea of nature being linked to art was key to this project. It was a way
+  of exploring the boundaries between natural and artificial materials and how
+  they can connect with each other. Participants created these unique and
+  diverse range of sculptural works.
 
 
   &nbsp;
