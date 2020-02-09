@@ -1,8 +1,8 @@
 ---
 title: '''Cabinet of Curiosities'''
 description_markdown: >-
-  This project, commissioned by **Modern Art Oxford** in **2020**&nbsp; involved
-  working with adults to create small scale mixed media sculptures,
+  This project, commissioned by **Modern Art Oxford** in&nbsp;January 2020&nbsp;
+  involved working with adults to create small scale mixed media sculptures,
   incorporating patterns of different cultures developed on hand made paper and
   found materials and objects collected in our natural environment. The objects
   and materials were especially collected for this project from the Dorset coast
