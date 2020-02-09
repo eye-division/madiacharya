@@ -144,6 +144,8 @@ Park, Bracknell (funded by ACE, National Culture and Arts Foundation, Taiwan)
 
 ### COMMISSIONS
 
+2020 **'Cabinet of Curiosities'** participatory project commissioned by Modern Art Oxford as part of the public program for Kiki Smith exhibition, 'I am a Wanderer'.
+
 2017 **Oxford Festival for the Arts**, commissioned to create wall based work for an Indian Tent (ACE Funded)
 
 2007 **In-tent-city:** Commissioned as lead artist by Fusion, Oxford (ACE Funded)
