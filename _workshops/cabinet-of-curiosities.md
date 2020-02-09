@@ -10,6 +10,9 @@ images:
   - image_path: /assets/5854343D-EF44-4AE9-A49D-CB0720CB97C6 copy.jpg
     image_title:
     image_description:
+  - image_path: /assets/images/7E4C388A-62F2-4E27-BD35-42A210E2D45F copy.jpg
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
