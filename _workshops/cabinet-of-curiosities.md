@@ -4,7 +4,7 @@ description_markdown:
 _gallery_date:
 permalink: /workshops/cabinetofcuriosities/
 archive: false
-main_image_path: /assets/images/63cf7743-e64d-4b54-b301-811c05c8fa6d.JPG
+main_image_path: /assets/images/7e4c388a-62f2-4e27-bd35-42a210e2d45f-copy.jpg
 thumb_crop:
 images:
   - image_path: /assets/images/d6ace734-07a9-4091-a588-94f8cf0e5a7c-1.JPG
