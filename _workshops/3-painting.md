@@ -2,10 +2,9 @@
 title: Painting in the street
 _hide_content: true
 description_markdown: >-
-  **Madi Acharya-Baskerville** worked on the project **'Painting in the
-  Street'** with four other artists. The project was commissioned by Oxford City
-  Council's East Area Parliament. Children ranging from 3-18 and their families
-  were invited by Magdalen Road Studios to work on several 6ft by 4ft paintings.
+  **'Painting in the Street'** was project commissioned by Oxford City Council's
+  East Area Parliament. Children ranging from 3-18 and their families were
+  invited by **Magdalen Road Studios** to work on several 6ft by 4ft paintings.
   These were subsequently displayed along Magdalen Road and the footpath through
   SS Mary and John churchyard in Cowley Road in Oxford to celebrate Oxfordshire
   Artweeks 2010. Children worked with **Madi Acharya-Baskerville** to paint a
