@@ -7,10 +7,7 @@ archive: false
 main_image_path: /assets/images/7e4c388a-62f2-4e27-bd35-42a210e2d45f-copy.jpg
 thumb_crop:
 images:
-  - image_path:
-    image_title:
-    image_description:
-  - image_path:
+  - image_path: /assets/5854343D-EF44-4AE9-A49D-CB0720CB97C6 copy.jpg
     image_title:
     image_description:
 _options:
