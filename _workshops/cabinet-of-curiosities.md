@@ -18,6 +18,7 @@ description_markdown: >-
   &nbsp;
 _gallery_date:
 permalink: /workshops/cabinetofcuriosities/
+order_number: 1
 archive: false
 main_image_path: /assets/images/7e4c388a-62f2-4e27-bd35-42a210e2d45f-copy.jpg
 thumb_crop:
@@ -45,4 +46,5 @@ _comments:
   main_image_path: Image used to represent your gallery
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
+  order_number: Display order on the installations page
 ---
