@@ -11,6 +11,7 @@ description_markdown: >-
   **Bird Journey**, an **Underwater Journey** and a journey expressed through an
   imaginery **Map**.
 permalink: /workshops/painting-in-the-street/
+order_number: 2
 archive: false
 _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/4c5742379c523.jpg
@@ -50,5 +51,6 @@ _comments:
   main_image_path: Image used to represent your gallery
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
+  order_number: Display order on the installations page
 ---
 

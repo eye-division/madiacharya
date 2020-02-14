@@ -10,6 +10,7 @@ description_markdown: >-
   coupled with an emphasis on recycling which is now important in most cultures
   across the world.
 permalink: /workshops/pattern-workshop/
+order_number: 9
 archive: true
 _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/4f15fb12247ac.jpg
@@ -43,5 +44,6 @@ _comments:
   main_image_path: Image used to represent your gallery
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
+  order_number: Display order on the installations page
 ---
 
