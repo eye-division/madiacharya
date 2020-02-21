@@ -18,13 +18,13 @@ main_image_path: /assets/images/435-screen-copy.jpg
 order_number: 1
 thumb_crop:
 images:
-  - image_path: /assets/images/460-screen-copy.jpg
+  - image_path: /assets/images/436-screen-copy.jpg
     image_title:
     image_description:
   - image_path: /assets/images/480-screen-copy.jpg
     image_title:
     image_description:
-  - image_path: /assets/images/436-screen-copy.jpg
+  - image_path: /assets/images/460-screen-copy.jpg
     image_title:
     image_description:
   - image_path: /assets/images/473-screen-copy.jpg
