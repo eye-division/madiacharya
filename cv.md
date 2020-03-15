@@ -120,7 +120,7 @@ Park, Bracknell (funded by ACE, National Culture and Arts Foundation, Taiwan)
 
 2017 **‘This Year’s Model’,** Studio 1:1 Gallery, London
 
-2016 **Royal Academy Summer Exhibition**, Royal Academy of Arts, London
+2016 **Royal Academy Summer Exhibition**, Royal Academy of Arts, London (selected by Cathie Pilkington RA)
 
 2015 **Axisweb100**winner (June)
 
