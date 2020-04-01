@@ -3,23 +3,23 @@ layout: page
 title: "Painting"
 permalink: /painting/
 thumb_crop: true
-css_layout: "gallery-box-50"
+css_layout:
 _options:
   layout:
     hidden: true
   css_layout:
     hidden: true
 ---
-<div class="gallery">
+<div class="gallery gallery--list">
 
 {% assign galleries = site.paintings | where:"archive",false | sort: "order_number"   %}
 
 
 {% for gallery in galleries %}
 
-     <div class="gallery-box{% if page.css_layout %}{% cycle '', ' last' %} {{ page.css_layout }}{% else %}{% cycle '', '', ' last' %} {% endif %}">
+     <div class="gallery--box">
 
-          <a href="{{ gallery.permalink }}" title="{{ gallery.title }}">
+          <a href="{{ gallery.permalink }}" title="{{ gallery.title }}" class="galleryphoto">
 
             {% if page.thumb_crop %}
 

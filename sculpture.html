@@ -10,15 +10,15 @@ _options:
   css_layout:
     hidden: true
 ---
-<div class="gallery">
+<div class="gallery gallery--list">
 
 {% assign galleries = site.sculpture  | where:"archive",false | sort: "order_number"  %}
 
 {% for gallery in galleries %}
 
-     <div class="gallery-box{% if page.css_layout %}{% cycle '', ' last' %} {{ page.css_layout }}{% else %}{% cycle '', '', ' last' %} {% endif %}">
+     <div class="gallery--box">
 
-          <a href="{{ gallery.permalink }}" title="{{ gallery.title }}">
+          <a href="{{ gallery.permalink }}" title="{{ gallery.title }}" class="galleryphoto">
 
             {% if page.thumb_crop %}
 

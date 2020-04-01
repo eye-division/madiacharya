@@ -16,12 +16,12 @@ body {
 .navigation, .site-footer {
     //@include flex(none);
     //@include flex(1 0 auto);
-    background-color: $inner-background-color;
+    //background-color: $inner-background-color;
 }
 
 .page-content {
     //@include flex(1 0 auto);
-    background-color: $inner-background-color;
+    //background-color: $inner-background-color;
 }
 .centered {
     text-align: center;

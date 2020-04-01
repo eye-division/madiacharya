@@ -3,8 +3,11 @@ layout: page
 title: "Workshops"
 permalink: /workshops/
 thumb_crop: true
+_options:
+  layout:
+    hidden: true
 ---
-<div class="gallery">
+<div class="gallery gallery--list">
 
 {% assign galleries = site.workshops | where:"archive",false | sort: "order_number"   %}
 
@@ -12,9 +15,9 @@ thumb_crop: true
 
   {% if gallery.archive == false %}
 
-     <div class="gallery-box{% cycle '', '', ' last' %}">
+     <div class="gallery--box">
 
-          <a href="{{ gallery.permalink }}" title="{{ gallery.title }}">
+          <a href="{{ gallery.permalink }}" title="{{ gallery.title }}" class="galleryphoto">
 
             {% if page.thumb_crop %}
 
