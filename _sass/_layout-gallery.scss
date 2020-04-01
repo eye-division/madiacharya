@@ -84,7 +84,7 @@
     justify-content: center;
     flex-flow: row wrap;
     @include media ($mobile) {
-        justify-content: space-around;
+        justify-content: center;
     }
 
     a {
