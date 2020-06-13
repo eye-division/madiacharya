@@ -1,7 +1,7 @@
 ---
 title: '''Cabinet of Curiosities'''
 description_markdown: >-
-  This project, commissioned by **Modern Art Oxford** in&nbsp;January 2020&nbsp;
+  This project, commissioned by **Modern Art Oxford** in January 2020&nbsp;
   involved working with adults to create small scale mixed media sculptures,
   incorporating patterns of different cultures developed on hand made paper and
   found materials and objects collected in our natural environment. The objects
@@ -13,6 +13,24 @@ description_markdown: >-
   of exploring the boundaries between natural and artificial materials and how
   they can connect with each other. Participants created these unique and
   diverse range of sculptural works.
+
+
+  Testimonial :
+
+
+  Madi's workshop in response to the exhibition of works by Kiki Smith at Modern
+  Art Oxford was a joy to attend. Her use of found materials, including
+  discarded matter is a timely idea when we're all concerned about the amount of
+  waste we generate these days. I would never have thought of using some of the
+  objects that Madi must have gone to a lot of trouble to collect: a burst
+  tennis ball, a piece of black plastic, packaging, netting. She was incredibly
+  helpful with ideas and advice, so turning the materials into something
+  thought-provoking and (for some participants, not so much mine\!) beautiful
+  was a really enjoyable and rewarding process. I hope to have the chance to
+  work with Madi again in the future.
+
+
+  David Baron (workshop participant)
 
 
   &nbsp;
@@ -48,3 +66,4 @@ _comments:
   image_description: May only be used in the close up of an image
   order_number: Display order on the installations page
 ---
+
