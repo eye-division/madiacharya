@@ -15,7 +15,10 @@ description_markdown: >-
   diverse range of sculptural works.
 
 
-  Testimonial :
+  &nbsp;
+
+
+  **Review of workshop**
 
 
   Madi's workshop in response to the exhibition of works by Kiki Smith at Modern
