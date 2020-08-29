@@ -21,7 +21,7 @@ images:
     image_title: Life is Elsewhere
     image_description: |-
       Oil on found wood, shell,  
-      W29 H30 cms, 2018
+      W29 H30 cms, 2019
   - image_path: /assets/The house he grew up in copy.jpg
     image_title: The house he grew up in
     image_description: |-
