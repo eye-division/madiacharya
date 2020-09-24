@@ -110,6 +110,10 @@ Park, Bracknell (funded by ACE, National Culture and Arts Foundation, Taiwan)
 
 ### PRIZES, AWARDS, OPEN SUBMISSIONS
 
+2020 **New Emergency Art Unity Award** (shortlisted)
+
+2020 **Summer Exhibition** Royal Society of Sculptors (selected by Nicky and Robert Wilson, founders of Jupitor Artland)
+
 2020 **'This Year's Model'** Studio 1:1 Gallery, London
 
 2019 **Artcan Open**, Trinity Art Gallery, London
