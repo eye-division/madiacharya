@@ -24,7 +24,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### SOLO AND TWO PERSON EXHIBITIONS:
 
-2019&nbsp; '**I wish my hair was as long as yours**', Magdalen Art Space, Magdalen Road Studios
+2019&nbsp; '**I wish my hair was as long as yours**', Magdalen Art Space, Magdalen Road Studios, Oxford
 
 2018 **&nbsp;‘Dancing with the corporeal’** no format Gallery, London with Artist Talk facilitated by Richard Dyer, (editor in chief, Third Text)
 
@@ -46,21 +46,19 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2017 **Material World, An International Perspective**, SJE Arts, Oxford
 
-2017 **Summer Salon** Angus Hughes Gallery, London
-
 2017 **Between the Lines,** Espacio Gallery, London
 
 2017 **The Cellar,**Lubomirov/Angus-Hughes, London
 
 2016 **Psychedelic Breakfast,**Vinyl Deptford, Deptford X Fringe, London
 
-2016 **Summer Salon,**Lubomirov/ Angus-Hughes, London
+2016 **Summer Salon,** Lubomirov/ Angus-Hughes, London
 
 2016 **‘Looking Up’,&nbsp;**Studio 1:1 Gallery, London
 
 2016 **Material World,** Ancien Musee de Peinture, Grenoble
 
-2016 **Dis locate**, VW Showroom, Oxford, curated by Luis Manuel Araujo
+2016 **Dis locate**, VW Showroom, Oxford
 
 2016 **Eves & Liliths**, Espacio Gallery, London
 
@@ -78,7 +76,7 @@ Brunei Gallery, SOAS, University of London
 
 2012 **Surfaces: Works on Paper,** Sput-nik Gallery, Porto, Portugal
 
-2011 **Immediate Territory,**Magdalen Road Studios, Oxford (ACE, Arts Council England funded)
+2011 **Immediate Territory,** Magdalen Road Studios, Oxford (ACE, Arts Council England funded)
 
 2011 **‘Sanctuary’ Home, Away and Common Ground, Part 1,**National
 
@@ -90,15 +88,7 @@ Museum of Kenya, Nairobi
 
 2007 **Umfeld&lt;-&gt;Inwelt**, Frauenmuseum, Bonn, Germany
 
-2007 ‘**Stories, Memories and Concepts’** at La Tour de Crest, (ACE funded)
-
-2006 ‘**Waiting Rooms Exhibition’** Nuffield Orthopaedic Centre NHS Trust,
-
-then touring to other Oxfordshire venues (ACE funded)
-
-2004 ‘**The Hero’**, Oxford Open Water Festival, Ifley Lock, Oxford
-
-2003 **‘All our cultures’**, Oriel Myrdinn Gallery, Carmarthen, Wales.
+2007 ‘**Stories, Memories and Concepts’** at La Tour de Crest, (ACE funde
 
 ### CURATORIAL PROJECTS
 
@@ -126,8 +116,6 @@ Park, Bracknell (funded by ACE, National Culture and Arts Foundation, Taiwan)
 
 2016 **Royal Academy Summer Exhibition**, Royal Academy of Arts, London (selected by Cathie Pilkington RA)
 
-2015 **Axisweb100**winner (June)
-
 2015 ‘ **This Year’s Model’**, Studio 1.1 Gallery, London (selected by studio 1:1 with Marcus Cope and Robin Seir)
 
 2012 **Wells Art Contemporary,**Wells and Mendip Museum, Wells, Somerset
@@ -136,15 +124,9 @@ Park, Bracknell (funded by ACE, National Culture and Arts Foundation, Taiwan)
 
 2012 **UNFORESEEN,**Studio106 Gallery, London (selected by Dusanka Marsenic)
 
-2008 **Oxford Open,**Modern Art Oxford
+2008 **Oxford Open,** Modern Art Oxford
 
 2007-2008 **Grants for Arts Award**, Arts Council England for international<br>residency and exhibition
-
-2007 **Mentoring Commission**\: to work alongside ‘Making Marks’ a partnership<br>of Public artists for the East Oxford Health Centre sculpture commission
-
-2006 ‘**Quest: The Artist as Pilgrim’**, Ovada Gallery, Oxford (selected by Dr<br>Ruth Barnes, Dr Peter Forsaith, Janine Charles)
-
-2006 **Flight’**, Stroud House Gallery, Stroud (selected by Lyn Cluer Coleman and<br>Sarah Goodwin)
 
 ### COMMISSIONS
 
@@ -154,9 +136,9 @@ Park, Bracknell (funded by ACE, National Culture and Arts Foundation, Taiwan)
 
 2007 **In-tent-city:** Commissioned as lead artist by Fusion, Oxford (ACE Funded)
 
-2007 ‘**This is Me’**Participatory Project commissioned by Oxfordshire Museum
+2007 ‘**This is Me’** Participatory Project commissioned by Oxfordshire Museum
 
-2006 **‘Pathway to Recovery’**Short-listed for public art commission, Milton Keynes General hospital,
+2007 **Mentoring Commission**\: to work alongside ‘Making Marks’ a partnership<br>of Public artists for the East Oxford Health Centre sculpture commission
 
 ### RESIDENCIES
 
@@ -180,9 +162,7 @@ exploring the theme ‘Stories, Memories, Concepts’ (ACE funded)
 
 2008 **ARC Seminar ‘International Residencies’,** Ovada Gallery, Oxford
 
-2002 **‘Tracing the International’&nbsp;**a seminar at the Arts of Cross-culture workshop, British Psychological Society, London
-
-### BIBLIOGRAPHY
+### **BIBLIOGRAPHY**
 
 **I wish my hair was as long as yours**, catalogue with&nbsp; essay by Stephanie Straine, Curator of Projects and Exhibitions, Modern Art Oxford
 
@@ -206,17 +186,7 @@ exploring the theme ‘Stories, Memories, Concepts’ (ACE funded)
 
 **Within Walls:** Exhibition Catalogue, 2008
 
-**Umfeld&lt;-&gt;Inwelt**, Exhibition Catalogue, Frauenmuseum, Bonn, Forward by Marianne Pitzen, director Frauen Museum, Bonn
-
-**Artists at Work,**feature article by Karen David, Elan, Spring 2007
-
-**‘Quest: Artist as Pilgrim’**, March 2006 review of the work of artist, Solveigh Goett at Ovada gallery, Oxford
-
-([www.a-n.co.uk](http://www.a-n.co.uk/))
-
-**‘Tracing the International’**, Issue, Internationalism and Arts of Cross-Culture
-
-Edited by Dr Ho Law, The Cutting Edge, vol 4, 2002
+**Umfeld&lt;-&gt;Inwelt**, Exhibition Catalogue, Frauenmuseum, Bonn, Forward by Marianne Pitzen, director Frauen Museum, Bonn, 2008
 
 ### COLLECTIONS
 
