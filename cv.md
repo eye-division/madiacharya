@@ -34,6 +34,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### SELECTED GROUP EXHIBITIONS
 
+2020 **Groundwork\_APT Open Day,** APT Gallery, London
+
 2019 **Weave It\!** , Stour Space, London, curated by Decorating Dissidence
 
 2019 **Parallel Lines: Drawing and Sculpture,** The Lightbox, Woking
@@ -92,13 +94,17 @@ Museum of Kenya, Nairobi
 
 ### CURATORIAL PROJECTS
 
-2018&nbsp;**Objection**, co-curated with Hayley Harrison, Angus Hughes Gallery, London
+2018&nbsp;**Objection**, Angus Hughes Gallery, London
 
 2009 **Jam: Cultural Congestions in Contemporary Asian Art,** artist-curator with Dr Outi Remes, South Hill
 
 Park, Bracknell (funded by ACE, National Culture and Arts Foundation, Taiwan)
 
 ### PRIZES, AWARDS, OPEN SUBMISSIONS
+
+2021 **Artcan Open,** Cello Factory, London (selected by Gita Joshi)
+
+2020 **RWA Open,** Royal West of England Academy, Bristo**l**
 
 2020 **New Emergency Art Unity Award** (shortlisted)
 
