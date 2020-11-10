@@ -11,7 +11,7 @@ description_markdown: >-
   mask from the same fabric as a way of connecting with my work, somehow merging
   it.
 _gallery_date:
-permalink:
+permalink: /residencies/Groundwork APT
 archive: false
 main_image_path: /assets/images/imgp8524-copy.jpg
 thumb_crop:
