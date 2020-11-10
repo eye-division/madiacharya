@@ -49,9 +49,6 @@ images:
   - image_path: /assets/images/imgp8524-copy.jpg
     image_title:
     image_description:
-  - image_path: /assets/images/imgp8533-copy.jpg
-    image_title:
-    image_description:
   - image_path:
     image_title:
     image_description:
