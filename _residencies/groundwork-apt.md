@@ -3,13 +3,13 @@ title: Groundwork APT
 description_markdown: >-
   In October 2020 I completed a residency at APT Gallery, London with a group of
   artists who also share a fascination for what can be found in our environment
-  as a starting point. As part of this residency I went to the Thames foreshore
-  several times to collect materials and objects. I took them back to the
-  gallery where I continued working with found netting and textiles. The
-  textiles where from a&nbsp; silk sari which was bright yellow and red with an
+  as a starting point for new work. As part of this residency I went to the
+  Thames foreshore several times to collect materials and objects. I took these
+  back to the gallery where I continued working with found netting and textiles.
+  The textiles where from a silk sari which was bright yellow and red with an
   intricate pattern. As this was around the time of Covid 19 I also created a
-  mask from the same fabric as a way of connecting with my work, somehow merging
-  it.
+  mask from the same sari as a way of connecting with my work, somehow merging
+  with it.
 _gallery_date:
 permalink: /residencies/Groundwork APT
 archive: false
