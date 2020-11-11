@@ -55,6 +55,9 @@ images:
   - image_path: /assets/images/imgp8549.jpg
     image_title:
     image_description:
+  - image_path: /assets/images/imgp8726.jpg
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
