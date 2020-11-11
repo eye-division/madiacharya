@@ -13,7 +13,7 @@ description_markdown: >-
 _gallery_date:
 permalink: /residencies/Groundwork APT
 archive: false
-main_image_path: /assets/images/imgp8611-copy-1.jpg
+main_image_path: /assets/images/imgp8531.jpg
 thumb_crop:
 images:
   - image_path: /assets/images/1-1.jpg
@@ -50,6 +50,12 @@ images:
     image_title:
     image_description:
   - image_path: /assets/images/imgp8506.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/imgp8549.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/imgp8726.jpg
     image_title:
     image_description:
 _options:
