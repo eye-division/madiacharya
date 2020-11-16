@@ -124,5 +124,12 @@
     }
     margin: 1em;
     text-align: center;
-
+    img {
+        height: auto;
+    }
+}
+.gallery--box.half {
+    @include media ($tablet) {
+      width: 45%;
+    }
 }

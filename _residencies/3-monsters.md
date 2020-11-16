@@ -7,6 +7,7 @@ description_markdown:  |
   This series of works were made during a residency at Eynsham Primary School in Oxfordshire through the Oxfordshire Artweeks Educational Charity, **Kids@rt**. Children aged between 4-11 worked with the artist to create sculptures out of branches, twigs lying around as well as rope, string and driftwood specifically collected for the project. Mythical creatures such as a dragon, a 2 headed snake and 'Disco Monster' were constructed from these natural and recycled materials. Installed hanging from the trees these creatures form a permanent feature in this beautiful woodland
 permalink: /residencies/monster-myths/
 archive: false
+order_number: 4
 _gallery_date: 2016-05-01T00:00:00.000Z
 main_image_path: /assets/images/48fe4beff3c5a.jpg
 images:            
