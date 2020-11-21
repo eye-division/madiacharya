@@ -15,7 +15,7 @@ _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/284a-screen-copy.jpg
 images:
   - image_path: /assets/I never promised you a rose garden copy.jpg
-    image_title: I never promised you a rose garden
+    image_title: I never promised you a rose garden *SOLD*
     image_description: 'W45.5  L53 D3, Oil on found wood, shells, 2019'
   - image_path: /assets/Life is elsewhere copy.jpg
     image_title: Life is Elsewhere
@@ -61,7 +61,7 @@ images:
     image_title: Something in the Way
     image_description: 'L38 L37, Oil and paper on Found Wood, 2017'
   - image_path: /assets/images/586ad25bc4595.jpg
-    image_title: A Sailor's Life
+    image_title: A Sailor's Life *SOLD*
     image_description: 'W52 L40, Oil on Found Wood, 2016'
   - image_path: /assets/images/5964e0c901b95.jpg
     image_title: Some of us Stayed
