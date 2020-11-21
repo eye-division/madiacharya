@@ -15,7 +15,7 @@ _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/284a-screen-copy.jpg
 images:
   - image_path: /assets/I never promised you a rose garden copy.jpg
-    image_title: I never promised you a rose garden
+    image_title: I never promised you a rose garden *SOLD*
     image_description: 'W45.5  L53 D3, Oil on found wood, shells, 2019'
   - image_path: /assets/Life is elsewhere copy.jpg
     image_title: Life is Elsewhere
