@@ -20,6 +20,7 @@ description_markdown: >-
   found in this region, creating the work **'Impressions of Home'**.
 permalink: /residencies/sanctuary/
 archive: false
+order_number: 2
 _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/4f737df9be4ac.jpg
 images:

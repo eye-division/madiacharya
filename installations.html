@@ -4,21 +4,21 @@ title: "Installation"
 permalink: /installation/
 thumb_crop: true
 ---
-<div class="gallery">
+<div class="gallery gallery--list">
 
 {% assign galleries = site.installations | where:"archive",false | sort: "order_number"   %}
 
 
 {% for gallery in galleries %}
 
-     <div class="gallery-box{% cycle '', '', ' last' %}">
+     <div class="gallery--box half">
 
           <a href="{{ gallery.permalink }}" title="{{ gallery.title }}">
 
             {% if page.thumb_crop %}
 
                 <!-- cropped square images -->
-                {% include img.html src=gallery.main_image_path width=200 height=200 fit=crop alt=gallery.title %}
+                {% include img.html src=gallery.main_image_path width=400 height=400 fit=crop alt=gallery.title %}
                 <!-- end cropped square -->
 
               {% else %}

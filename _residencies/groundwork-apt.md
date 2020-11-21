@@ -13,6 +13,7 @@ description_markdown: >-
 _gallery_date:
 permalink: /residencies/Groundwork APT
 archive: false
+order_number: 1
 main_image_path: /assets/images/imgp8526.jpg
 thumb_crop:
 images:
