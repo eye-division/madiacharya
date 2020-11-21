@@ -39,6 +39,9 @@ images:
   - image_path: /assets/images/3572a-screen-copy.jpg
     image_title: That island feeling
     image_description:
+  - image_path: /assets/images/3572-screen-copy.jpg
+    image_title: detail
+    image_description:
 _options:
   image_path:
     width: 1200
