@@ -148,6 +148,8 @@ Park, Bracknell (funded by ACE, National Culture and Arts Foundation, Taiwan)
 
 ### RESIDENCIES
 
+2020 **Groundwork APT**, APT Gallery, London
+
 2011 **Sanctuary**, Neyri, Kenya
 
 2009 **Gosford Hill School**working with young people making outdoor site-specific work commissioned by **Kids@rt**, (Oxfordshire , Artweeks Charity)
