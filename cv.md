@@ -148,6 +148,8 @@ Park, Bracknell (funded by ACE, National Culture and Arts Foundation, Taiwan)
 
 ### RESIDENCIES
 
+2020 **Groundwork APT**, APT Gallery, London
+
 2011 **Sanctuary**, Neyri, Kenya
 
 2009 **Gosford Hill School**working with young people making outdoor site-specific work commissioned by **Kids@rt**, (Oxfordshire , Artweeks Charity)
@@ -159,6 +161,8 @@ Park, Bracknell (funded by ACE, National Culture and Arts Foundation, Taiwan)
 exploring the theme ‘Stories, Memories, Concepts’ (ACE funded)
 
 ### PRESENTATIONS
+
+2020 **Process, Projects, Shows,&nbsp;** presentation and Q& A ,&nbsp; **visiting lecturer** at Chichester University
 
 2018 **Walking through the forest, Searching for the sea, Finding, Collecting and Making&nbsp;**as part of the symposium&nbsp;**Modernism: Making, Place and Protest&nbsp;**organised by Decorating Dissidence at Queen Mary College, London. [View abstracts](https://decoratingdissidence.wordpress.com/abstracts/){: target="_blank"}.
 
