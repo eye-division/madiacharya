@@ -29,6 +29,9 @@ images:
   - image_path: /assets/images/3244-screen-copy.jpg
     image_title: My life as a bird (detail)
     image_description:
+  - image_path: /assets/images/089-screen-copy.jpg
+    image_title: Here to stay ( view 1)
+    image_description:
   - image_path: /assets/images/vessel-robes-image-1-copy.jpg
     image_title: Vessel Robes (front)
     image_description:
@@ -73,9 +76,6 @@ images:
     image_description:
   - image_path: /assets/images/3279-screen-copy.jpg
     image_title: A shell of the future (detail)
-    image_description:
-  - image_path: /assets/images/089-screen-copy.jpg
-    image_title: Here to stay ( view 1)
     image_description:
   - image_path: /assets/images/093-screen-copy.jpg
     image_title: Here to stay (view 2)
