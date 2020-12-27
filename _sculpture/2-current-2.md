@@ -112,6 +112,9 @@ images:
   - image_path: /assets/images/3178a-screen-copy.jpg
     image_title:
     image_description:
+  - image_path: /assets/images/3179a-screen-copy.jpg
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
