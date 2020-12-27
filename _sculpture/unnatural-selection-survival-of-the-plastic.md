@@ -5,7 +5,7 @@ _gallery_date:
 permalink: /sculpture/unnatural-selection/(survival-of-the-plastic)
 archive: false
 order_number:
-main_image_path:
+main_image_path: /assets/images/3243-screen-copy.jpg
 thumb_crop:
 images:
   - image_path: /assets/images/3243-screen-copy.jpg
