@@ -38,6 +38,9 @@ images:
   - image_path: /assets/images/vessel-robes-detail-2-copy.jpg
     image_title: Vessel Robes (detail)
     image_description:
+  - image_path: /assets/images/3216-screen-copy.jpg
+    image_title: Topaz Tears (view 1)
+    image_description:
 _options:
   image_path:
     width: 1200
