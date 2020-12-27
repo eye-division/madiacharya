@@ -1,6 +1,18 @@
 ---
 title: Unnatural Selection (survival of the plastic)
-description_markdown:
+description_markdown: >-
+  &nbsp;
+
+
+  This is a series of mixed media sculptural works was inspired by coming across
+  a journal which had an image of a dissected sea gull’s stomach. This image
+  showed all the plastic items that the sea gull had swallowed during its life
+  span which included numerous pieces of plastic. Taking this image a step
+  further, new species is being created where the birds have swallowed so much
+  plastic that parts of their anatomy are composed of plastic, so they come to
+  have plastic beaks, wings, feet and so on. Embroidered patterns and painted
+  sections are also incorporated which reference colorful patterns of some birds
+  with a combination of textiles from South East Asia.
 _gallery_date:
 permalink: /sculpture/unnatural-selection/(survival-of-the-plastic)
 archive: false
