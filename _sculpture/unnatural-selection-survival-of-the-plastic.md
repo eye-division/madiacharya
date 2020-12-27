@@ -35,6 +35,9 @@ images:
   - image_path: /assets/images/vessel-robes-image-3-copy.jpg
     image_title: Vessel Robes (back)
     image_description:
+  - image_path: /assets/images/vessel-robes-detail-2-copy.jpg
+    image_title: Vessel Robes (detail)
+    image_description:
 _options:
   image_path:
     width: 1200
