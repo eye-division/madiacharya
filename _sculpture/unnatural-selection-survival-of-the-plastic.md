@@ -35,6 +35,9 @@ images:
   - image_path: /assets/images/093-screen-copy.jpg
     image_title: Here to stay (view 2)
     image_description:
+  - image_path: /assets/images/133-screen-copy.jpg
+    image_title: Here to stay (detail)
+    image_description:
   - image_path: /assets/images/vessel-robes-image-1-copy.jpg
     image_title: Vessel Robes (front)
     image_description:
@@ -79,9 +82,6 @@ images:
     image_description:
   - image_path: /assets/images/3279-screen-copy.jpg
     image_title: A shell of the future (detail)
-    image_description:
-  - image_path: /assets/images/133-screen-copy.jpg
-    image_title: Here to stay (detail)
     image_description:
 _options:
   image_path:
