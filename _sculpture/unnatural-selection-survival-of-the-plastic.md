@@ -2,7 +2,7 @@
 title: Unnatural Selection (survival of the plastic)
 description_markdown:
 _gallery_date:
-permalink:
+permalink: /sculpture/unnatural-selection/(survival-of-the-plastic)
 archive: false
 order_number:
 main_image_path:
@@ -29,4 +29,3 @@ _comments:
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
 ---
-
