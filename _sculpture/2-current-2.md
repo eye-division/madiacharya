@@ -15,6 +15,15 @@ order_number: 2
 _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/089 screen copy.jpg
 images:
+  - image_path: /assets/images/3178a-screen-copy.jpg
+    image_title: Of course it was my idea!
+    image_description:
+  - image_path: /assets/images/3179a-screen-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/3184a-screen-copy.jpg
+    image_title:
+    image_description:
   - image_path: /assets/images/093 screen copy.jpg
     image_title: Here to Stay
     image_description: >-
@@ -108,15 +117,6 @@ images:
     image_description:
   - image_path: /assets/images/575747332d750.jpg
     image_title: Road Rage (back)
-    image_description:
-  - image_path: /assets/images/3178a-screen-copy.jpg
-    image_title: Of course it was my idea!
-    image_description:
-  - image_path: /assets/images/3179a-screen-copy.jpg
-    image_title:
-    image_description:
-  - image_path: /assets/images/3184a-screen-copy.jpg
-    image_title:
     image_description:
 _options:
   image_path:
