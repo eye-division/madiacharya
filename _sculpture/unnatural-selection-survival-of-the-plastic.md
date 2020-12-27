@@ -29,6 +29,15 @@ images:
   - image_path: /assets/images/3244-screen-copy.jpg
     image_title: My life as a bird (detail)
     image_description:
+  - image_path: /assets/images/089-screen-copy.jpg
+    image_title: Here to stay ( view 1)
+    image_description:
+  - image_path: /assets/images/093-screen-copy.jpg
+    image_title: Here to stay (view 2)
+    image_description:
+  - image_path: /assets/images/133-screen-copy.jpg
+    image_title: Here to stay (detail)
+    image_description:
   - image_path: /assets/images/vessel-robes-image-1-copy.jpg
     image_title: Vessel Robes (front)
     image_description:
@@ -50,11 +59,11 @@ images:
   - image_path: /assets/images/3165a-screen-copy.jpg
     image_title: His heart is in the jungle (view1)
     image_description:
-  - image_path: /assets/images/3169a-screen-copy.jpg
-    image_title: His heart is in the jungle (view 2)
-    image_description:
   - image_path: /assets/images/3171-screen-copy.jpg
     image_title: His heart in the jungle (detail)
+    image_description:
+  - image_path: /assets/images/3169a-screen-copy.jpg
+    image_title: His heart is in the jungle (view 2)
     image_description:
   - image_path: /assets/images/3211-screen-copy.jpg
     image_title: In memory of an injured blackbird (view 1)
