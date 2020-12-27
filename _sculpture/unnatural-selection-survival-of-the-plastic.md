@@ -65,6 +65,15 @@ images:
   - image_path: /assets/images/3209-screen-copy.jpg
     image_title: In memory of an injiued blackbird (detail)
     image_description:
+  - image_path: /assets/images/3269-screen-copy.jpg
+    image_title: A shell of the future (image 1)
+    image_description:
+  - image_path: /assets/images/3276-screen-copy.jpg
+    image_title: A shell of the future (image 2)
+    image_description:
+  - image_path: /assets/images/3279-screen-copy.jpg
+    image_title: A shell of the future (detail)
+    image_description:
 _options:
   image_path:
     width: 1200
