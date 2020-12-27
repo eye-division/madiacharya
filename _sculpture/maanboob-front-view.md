@@ -18,6 +18,15 @@ archive: false
 order_number: 1
 main_image_path: /assets/images/043-screen-copy.jpg
 images:
+  - image_path: /assets/images/3157a-screen-copy.jpg
+    image_title: Grow some balls
+    image_description:
+  - image_path: /assets/images/3155a-screen-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/3162-screen-copy.jpg
+    image_title:
+    image_description:
   - image_path: /assets/images/022-screen-copy.jpg
     image_title: 'Kicked the Bucket (front, left)'
     image_description: >-
@@ -124,15 +133,6 @@ images:
     image_description:
   - image_path: /assets/images/227 screen copy.jpg
     image_title: 'Trans-verse, (front, side view)'
-    image_description:
-  - image_path: /assets/images/3157a-screen-copy.jpg
-    image_title: Grow some balls
-    image_description:
-  - image_path: /assets/images/3155a-screen-copy.jpg
-    image_title:
-    image_description:
-  - image_path: /assets/images/3162-screen-copy.jpg
-    image_title:
     image_description:
 _options:
   image_path:
