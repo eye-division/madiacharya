@@ -36,17 +36,11 @@ images:
   - image_path: /assets/images/081-screen-copy.jpg
     image_title: 'Look at me now, detail'
     image_description:
-  - image_path: /assets/images/3572a-screen-copy.jpg
-    image_title: That island feeling
-    image_description:
-  - image_path: /assets/images/3572a-screen-copy.jpg
-    image_title: That island feeling
+  - image_path: /assets/images/3572a-screen-copy-2.jpg
+    image_title: That Island Feeling
     image_description:
   - image_path: /assets/images/3572-screen-copy.jpg
     image_title: 'That island feeling, detail'
-    image_description:
-  - image_path: /assets/images/3572a-screen-copy-2.jpg
-    image_title:
     image_description:
 _options:
   image_path:
