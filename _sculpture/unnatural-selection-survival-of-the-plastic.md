@@ -69,7 +69,7 @@ images:
     image_title: A shell of the future (view 1)
     image_description:
   - image_path: /assets/images/3276-screen-copy.jpg
-    image_title: A shell of the future (image 2)
+    image_title: A shell of the future (view 2)
     image_description:
   - image_path: /assets/images/3279-screen-copy.jpg
     image_title: A shell of the future (detail)
