@@ -77,6 +77,9 @@ images:
   - image_path: /assets/images/089-screen-copy.jpg
     image_title: Here to stay ( view 1)
     image_description:
+  - image_path: /assets/images/093-screen-copy.jpg
+    image_title: Here to stay (view 2)
+    image_description:
 _options:
   image_path:
     width: 1200
