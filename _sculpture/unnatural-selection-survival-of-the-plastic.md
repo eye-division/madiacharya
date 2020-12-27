@@ -56,6 +56,9 @@ images:
   - image_path: /assets/images/3171-screen-copy.jpg
     image_title: His heart in the jungle (detail)
     image_description:
+  - image_path: /assets/images/3211-screen-copy.jpg
+    image_title: In memory of an injured blackbird (view 1)
+    image_description:
 _options:
   image_path:
     width: 1200
