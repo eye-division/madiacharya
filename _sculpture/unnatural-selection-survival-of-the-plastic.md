@@ -29,6 +29,33 @@ images:
   - image_path: /assets/images/3244-screen-copy.jpg
     image_title: My life as a bird (detail)
     image_description:
+  - image_path: /assets/images/vessel-robes-image-1-copy.jpg
+    image_title: Vessel Robes (front)
+    image_description:
+  - image_path: /assets/images/vessel-robes-image-3-copy.jpg
+    image_title: Vessel Robes (back)
+    image_description:
+  - image_path: /assets/images/vessel-robes-detail-2-copy.jpg
+    image_title: Vessel Robes (detail)
+    image_description:
+  - image_path: /assets/images/3216-screen-copy.jpg
+    image_title: Topaz Tears (view 1)
+    image_description:
+  - image_path: /assets/images/3214a-screen-copy.jpg
+    image_title: Topaz Tears (view 2)
+    image_description:
+  - image_path: /assets/images/3220-screen-copy.jpg
+    image_title: Topaz Tears (detail)
+    image_description:
+  - image_path: /assets/images/3165a-screen-copy.jpg
+    image_title: His heart is in the jungle (view1)
+    image_description:
+  - image_path: /assets/images/3169a-screen-copy.jpg
+    image_title: His heart is in the jungle (view 2)
+    image_description:
+  - image_path: /assets/images/3171-screen-copy.jpg
+    image_title: His heart in the jungle (detail)
+    image_description:
 _options:
   image_path:
     width: 1200
