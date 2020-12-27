@@ -19,7 +19,7 @@ order_number: 1
 main_image_path: /assets/images/043-screen-copy.jpg
 images:
   - image_path: /assets/images/3157a-screen-copy.jpg
-    image_title: Grow some balls
+    image_title: Grow some balls (back)
     image_description:
   - image_path: /assets/images/3155a-screen-copy.jpg
     image_title:
