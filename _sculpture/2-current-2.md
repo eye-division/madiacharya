@@ -24,23 +24,6 @@ images:
   - image_path: /assets/images/3184a-screen-copy.jpg
     image_title:
     image_description:
-  - image_path: /assets/images/093 screen copy.jpg
-    image_title: Here to Stay
-    image_description: >-
-      This is new small scale sculpture, part of a series which explores the non
-      decaying nature of plastic polluting our oceans. The ornate Asian textile
-      patterns and painted sections within this work are also a reminder of the
-      right to remain, highlighting the value and contribution of the diverse
-      cultures around us. 
-
-      Materials: Found plastic, textiles, acrylic paint, Dimensions: W22 H22 D13
-      cm
-  - image_path: /assets/images/089 screen copy.jpg
-    image_title: Here to Stay (2)
-    image_description:
-  - image_path: /assets/images/133 screen copy.jpg
-    image_title: Here to Stay (detail)
-    image_description:
   - image_path: /assets/images/071-screen-copy.jpg
     image_title: Is the grass really greener over there? (front)
     image_description: |-
