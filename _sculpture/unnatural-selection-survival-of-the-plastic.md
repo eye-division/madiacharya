@@ -53,6 +53,9 @@ images:
   - image_path: /assets/images/3169a-screen-copy.jpg
     image_title: His heart is in the jungle (view 2)
     image_description:
+  - image_path: /assets/images/3171-screen-copy.jpg
+    image_title: His heart in the jungle (detail)
+    image_description:
 _options:
   image_path:
     width: 1200
