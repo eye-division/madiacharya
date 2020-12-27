@@ -19,13 +19,13 @@ order_number: 1
 main_image_path: /assets/images/043-screen-copy.jpg
 images:
   - image_path: /assets/images/3157a-screen-copy.jpg
-    image_title: Grow some balls
+    image_title: Grow some balls (back)
     image_description:
   - image_path: /assets/images/3155a-screen-copy.jpg
-    image_title:
+    image_title: Grow some balls (front)
     image_description:
   - image_path: /assets/images/3162-screen-copy.jpg
-    image_title:
+    image_title: Grow some balls (detail)
     image_description:
   - image_path: /assets/images/022-screen-copy.jpg
     image_title: 'Kicked the Bucket (front, left)'
