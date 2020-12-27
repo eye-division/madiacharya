@@ -22,7 +22,7 @@ images:
     image_title: Grow some balls (back)
     image_description:
   - image_path: /assets/images/3155a-screen-copy.jpg
-    image_title:
+    image_title: Grow some balls (front)
     image_description:
   - image_path: /assets/images/3162-screen-copy.jpg
     image_title:
