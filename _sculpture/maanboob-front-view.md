@@ -25,7 +25,7 @@ images:
     image_title: Grow some balls (front)
     image_description:
   - image_path: /assets/images/3162-screen-copy.jpg
-    image_title:
+    image_title: Grow some balls (detail)
     image_description:
   - image_path: /assets/images/022-screen-copy.jpg
     image_title: 'Kicked the Bucket (front, left)'
