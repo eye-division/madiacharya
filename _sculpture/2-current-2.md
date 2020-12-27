@@ -110,7 +110,7 @@ images:
     image_title: Road Rage (back)
     image_description:
   - image_path: /assets/images/3178a-screen-copy.jpg
-    image_title:
+    image_title: Of course it was my idea!
     image_description:
   - image_path: /assets/images/3179a-screen-copy.jpg
     image_title:
