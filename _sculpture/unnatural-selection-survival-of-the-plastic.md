@@ -62,6 +62,9 @@ images:
   - image_path: /assets/images/3203-screen-copy.jpg
     image_title: In memory of an injured blackbird (view 2)
     image_description:
+  - image_path: /assets/images/3209-screen-copy.jpg
+    image_title: In memory of an injiued blackbird (detail)
+    image_description:
 _options:
   image_path:
     width: 1200
