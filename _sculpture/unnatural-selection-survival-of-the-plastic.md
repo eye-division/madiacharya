@@ -8,7 +8,7 @@ order_number:
 main_image_path:
 thumb_crop:
 images:
-  - image_path:
+  - image_path: /assets/images/3243-screen-copy.jpg
     image_title:
     image_description:
 _options:
