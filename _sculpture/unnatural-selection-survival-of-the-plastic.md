@@ -45,7 +45,7 @@ images:
     image_title: Topaz Tears (view 2)
     image_description:
   - image_path: /assets/images/3220-screen-copy.jpg
-    image_title:
+    image_title: Topaz Tears (detail)
     image_description:
 _options:
   image_path:
