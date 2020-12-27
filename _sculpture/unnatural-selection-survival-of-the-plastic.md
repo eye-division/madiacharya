@@ -8,10 +8,10 @@ order_number:
 main_image_path: /assets/images/3243-screen-copy.jpg
 thumb_crop:
 images:
-  - image_path: /assets/images/3243-screen-copy.jpg
+  - image_path: /assets/images/3231-screen-copy.jpg
     image_title:
     image_description:
-  - image_path: /assets/images/3231-screen-copy.jpg
+  - image_path: /assets/images/3243-screen-copy.jpg
     image_title:
     image_description:
   - image_path: /assets/images/3244-screen-copy.jpg
