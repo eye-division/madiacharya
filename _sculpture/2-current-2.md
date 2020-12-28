@@ -110,6 +110,9 @@ images:
   - image_path: /assets/images/575747332d750.jpg
     image_title: Road Rage (back)
     image_description:
+  - image_path: /assets/images/3286-screen-copy.jpg
+    image_title: The Role of Geometry in an uncertain world (view 1)
+    image_description:
 _options:
   image_path:
     width: 1200
