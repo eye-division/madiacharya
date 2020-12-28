@@ -117,7 +117,7 @@ images:
     image_title: The Role of Geometry in an uncertain world (view 2)
     image_description:
   - image_path: /assets/images/3292a-screen-copy.jpg
-    image_title:
+    image_title: The Role of Geometry in an uncertain world (detail)
     image_description:
 _options:
   image_path:
