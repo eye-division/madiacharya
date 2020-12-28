@@ -104,6 +104,9 @@ images:
   - image_path: /assets/images/3188a-screen-copy.jpg
     image_title: Caught up in red tape
     image_description:
+  - image_path: /assets/images/3190a-screen-copy.jpg
+    image_title: Cuaght up in red tape (view 2)
+    image_description:
 _options:
   image_path:
     width: 1200
