@@ -120,7 +120,7 @@ images:
     image_title: Road Rage (back)
     image_description:
   - image_path: /assets/images/3331-screen-copy.jpg
-    image_title:
+    image_title: Tongue and Cheek (view 1)
     image_description:
 _options:
   image_path:
