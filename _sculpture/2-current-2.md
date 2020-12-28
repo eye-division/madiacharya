@@ -101,6 +101,9 @@ images:
   - image_path: /assets/images/575747332d750.jpg
     image_title: Road Rage (back)
     image_description:
+  - image_path: /assets/images/3188a-screen-copy.jpg
+    image_title: Caught up in red tape
+    image_description:
 _options:
   image_path:
     width: 1200
