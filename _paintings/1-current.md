@@ -66,6 +66,9 @@ images:
   - image_path: /assets/images/5964e0c901b95.jpg
     image_title: Some of us Stayed
     image_description: 'W84 L30 cms, Oil on Found Wood, 2017'
+  - image_path: /assets/images/3624-screen-copy.jpg
+    image_title: When we got to Angle Tarn
+    image_description:
 _options:
   image_path:
     width: 1200
@@ -84,4 +87,3 @@ _comments:
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
 ---
-
