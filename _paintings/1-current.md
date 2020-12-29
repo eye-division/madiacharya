@@ -78,6 +78,9 @@ images:
   - image_path: /assets/images/3619-screen-copy.jpg
     image_title:
     image_description:
+  - image_path: /assets/images/3632-screen-copy.jpg
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
