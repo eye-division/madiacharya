@@ -82,7 +82,7 @@ images:
     image_title: Magnolia windows
     image_description:
   - image_path: /assets/images/3644-screen-copy.jpg
-    image_title:
+    image_title: Grihoshova
     image_description:
 _options:
   image_path:
