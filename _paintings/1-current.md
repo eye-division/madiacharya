@@ -14,6 +14,24 @@ archive: false
 _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/284a-screen-copy.jpg
 images:
+  - image_path: /assets/images/3619-screen-copy.jpg
+    image_title: Mariko in the cave
+    image_description:
+  - image_path: /assets/images/3632-screen-copy.jpg
+    image_title: Magnolia windows
+    image_description:
+  - image_path: /assets/images/3644-screen-copy.jpg
+    image_title: Grihoshova
+    image_description:
+  - image_path: /assets/images/3628-screen-copy.jpg
+    image_title: A Forager's Dream
+    image_description:
+  - image_path: /assets/images/3637-screen-copy.jpg
+    image_title: The Banana Painting
+    image_description:
+  - image_path: /assets/images/3624-screen-copy.jpg
+    image_title: When we got to Angle Tarn
+    image_description:
   - image_path: /assets/I never promised you a rose garden copy.jpg
     image_title: I never promised you a rose garden *SOLD*
     image_description: 'W45.5  L53 D3, Oil on found wood, shells, 2019'
@@ -30,12 +48,12 @@ images:
   - image_path: /assets/images/57880c5943af5.jpg
     image_title: Curtain Call
     image_description: 'W25.5 L32.5, Oil on Found Wood, 2017'
-  - image_path: /assets/images/5964dc1c2325a.jpg
-    image_title: Perfect Ambassador
-    image_description: 'W27 L27 cms Oil on Found Wood, 2017'
   - image_path: /assets/images/57880aeee9cf7.jpg
     image_title: Cock Fighting
     image_description: 'W31 L32.5, Oil on Found Wood, 2016'
+  - image_path: /assets/images/5964dc1c2325a.jpg
+    image_title: Perfect Ambassador
+    image_description: 'W27 L27 cms Oil on Found Wood, 2017'
   - image_path: /assets/images/5964db500acf2.jpg
     image_title: Dolls are a Part
     image_description: 'W27 L27 cms, Oil on Found Wood, 2017'
@@ -66,24 +84,6 @@ images:
   - image_path: /assets/images/5964e0c901b95.jpg
     image_title: Some of us Stayed
     image_description: 'W84 L30 cms, Oil on Found Wood, 2017'
-  - image_path: /assets/images/3624-screen-copy.jpg
-    image_title: When we got to Angle Tarn
-    image_description:
-  - image_path: /assets/images/3637-screen-copy.jpg
-    image_title: The Banana Painting
-    image_description:
-  - image_path: /assets/images/3628-screen-copy.jpg
-    image_title: A Forager's Dream
-    image_description:
-  - image_path: /assets/images/3619-screen-copy.jpg
-    image_title: Mariko in the cave
-    image_description:
-  - image_path: /assets/images/3632-screen-copy.jpg
-    image_title: Magnolia windows
-    image_description:
-  - image_path: /assets/images/3644-screen-copy.jpg
-    image_title: Grihoshova
-    image_description:
 _options:
   image_path:
     width: 1200
