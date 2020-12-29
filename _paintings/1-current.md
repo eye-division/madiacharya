@@ -72,6 +72,9 @@ images:
   - image_path: /assets/images/3637-screen-copy.jpg
     image_title: The Banana Painting
     image_description:
+  - image_path: /assets/images/3628-screen-copy.jpg
+    image_title: A Forager's Dream
+    image_description:
 _options:
   image_path:
     width: 1200
