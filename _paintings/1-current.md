@@ -69,6 +69,9 @@ images:
   - image_path: /assets/images/3624-screen-copy.jpg
     image_title: When we got to Angle Tarn
     image_description:
+  - image_path: /assets/images/3637-screen-copy.jpg
+    image_title: The Banana Painting
+    image_description:
 _options:
   image_path:
     width: 1200
