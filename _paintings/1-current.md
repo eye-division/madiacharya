@@ -12,7 +12,7 @@ description_markdown: >-
 permalink: /paintings/fragmented-worlds/
 archive: false
 _gallery_date: 2016-05-01 00:00:00
-main_image_path: /assets/images/284a-screen-copy.jpg
+main_image_path: /assets/images/3637-screen-copy.jpg
 images:
   - image_path: /assets/images/3619-screen-copy.jpg
     image_title: Mariko in the cave
