@@ -79,7 +79,7 @@ images:
     image_title: Mariko in the cave
     image_description:
   - image_path: /assets/images/3632-screen-copy.jpg
-    image_title:
+    image_title: Magnolia windows
     image_description:
   - image_path: /assets/images/3644-screen-copy.jpg
     image_title:
