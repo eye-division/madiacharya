@@ -40,11 +40,11 @@ images:
   - image_path: /assets/images/3612-screen-copy.jpg
     image_title: Portrait of a strawberry
     image_description:
-  - image_path: /assets/images/3587-screen-copy.jpg
-    image_title: The Idler
-    image_description:
   - image_path: /assets/images/3566a-screen-copy.jpg
     image_title: The Mirrorball Resort
+    image_description:
+  - image_path: /assets/images/3587-screen-copy.jpg
+    image_title: The Idler
     image_description:
 _options:
   image_path:
