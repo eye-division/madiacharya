@@ -17,7 +17,7 @@ images:
     image_title:
     image_description:
   - image_path: /assets/images/3574ascreen-copy.jpg
-    image_title:
+    image_title: Urban Dreams
     image_description:
 _options:
   image_path:
