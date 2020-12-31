@@ -10,6 +10,9 @@ images:
   - image_path: /assets/images/3560abscreen-copy.jpg
     image_title: Playing God
     image_description:
+  - image_path: /assets/images/3561-screen-copy.jpg
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
