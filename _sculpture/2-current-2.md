@@ -16,13 +16,13 @@ _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/3184a-screen-copy-1.jpg
 images:
   - image_path: /assets/images/3178a-screen-copy.jpg
-    image_title: Of course it was my idea!
+    image_title: Of course it was my idea! (front)
     image_description:
   - image_path: /assets/images/3179a-screen-copy.jpg
-    image_title:
+    image_title: Of course it was my idea! (back)
     image_description:
   - image_path: /assets/images/3184a-screen-copy.jpg
-    image_title:
+    image_title: Of course it was my idea! (detail)
     image_description:
   - image_path: /assets/images/071-screen-copy.jpg
     image_title: Is the grass really greener over there? (front)
