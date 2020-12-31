@@ -19,26 +19,26 @@ images:
   - image_path: /assets/images/3592-screen-copy.jpg
     image_title: Pair-a-dice
     image_description:
-  - image_path: /assets/images/3616a-screen-copy.jpg
-    image_title: Absent Beach
-    image_description:
-  - image_path: /assets/images/3596a-screen-copy.jpg
-    image_title: Birthday Suit
-    image_description:
-  - image_path: /assets/images/3612-screen-copy.jpg
-    image_title: Portrait of a strawberry
-    image_description:
-  - image_path: /assets/images/3581-screen-copy.jpg
-    image_title: Gone South
+  - image_path: /assets/images/3599a-screen-copy.jpg
+    image_title: Backyard Bananas
     image_description:
   - image_path: /assets/images/3579-screen-copy.jpg
     image_title: Conversation with peacocks
     image_description:
+  - image_path: /assets/images/3596a-screen-copy.jpg
+    image_title: Birthday Suit
+    image_description:
+  - image_path: /assets/images/3581-screen-copy.jpg
+    image_title: Gone South
+    image_description:
   - image_path: /assets/images/3584a-screen-copy.jpg
     image_title: Tilt
     image_description:
-  - image_path: /assets/images/3599a-screen-copy.jpg
-    image_title: Backyard Bananas
+  - image_path: /assets/images/3616a-screen-copy.jpg
+    image_title: Absent Beach
+    image_description:
+  - image_path: /assets/images/3612-screen-copy.jpg
+    image_title: Portrait of a strawberry
     image_description:
   - image_path: /assets/images/3566a-screen-copy.jpg
     image_title: The Mirrorball Resort
