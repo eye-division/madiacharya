@@ -40,6 +40,9 @@ images:
   - image_path: /assets/images/3592-screen-copy.jpg
     image_title: Pair-a-dice
     image_description:
+  - image_path: /assets/images/3589a-screen-copy.jpg
+    image_title: If I lived in the forest I would hang my dress from a tree
+    image_description:
 _options:
   image_path:
     width: 1200
