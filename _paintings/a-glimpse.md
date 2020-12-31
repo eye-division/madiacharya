@@ -3,7 +3,7 @@ title: A Glimpse
 description_markdown: >-
   This is a new series of paintings which are small and irregular edges. They
   are left purposefully unframed, free and expansive but also appear to be a
-  'glimpse' of something fleeting rather than fixed
+  'glimpse' of something fleeting rather than fixed.
 _gallery_date:
 permalink: /paintings/a-glimpse
 archive: false
@@ -39,6 +39,9 @@ images:
     image_description:
   - image_path: /assets/images/3612-screen-copy.jpg
     image_title: Portrait of a strawberry
+    image_description:
+  - image_path: /assets/images/3566a-screen-copy.jpg
+    image_title: The Mirrorball Resort
     image_description:
   - image_path: /assets/images/3587-screen-copy.jpg
     image_title: The Idler
