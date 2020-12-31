@@ -13,6 +13,9 @@ images:
   - image_path: /assets/images/3561-screen-copy.jpg
     image_title:
     image_description:
+  - image_path: /assets/images/3564a-screen-copy.jpg
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
