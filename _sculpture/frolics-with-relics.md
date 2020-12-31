@@ -38,6 +38,9 @@ images:
   - image_path: /assets/images/3324-screen-copy.jpg
     image_title: The slug and lettuce (the future of English pubs)
     image_description:
+  - image_path: /assets/images/3326-screen-copy.jpg
+    image_title: Hard to swallow (view 1)
+    image_description:
 _options:
   image_path:
     width: 1200
