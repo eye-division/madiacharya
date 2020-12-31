@@ -22,7 +22,7 @@ images:
     image_title: Of course it was my idea! (back)
     image_description:
   - image_path: /assets/images/3184a-screen-copy.jpg
-    image_title:
+    image_title: Of course it was my idea! (detail)
     image_description:
   - image_path: /assets/images/071-screen-copy.jpg
     image_title: Is the grass really greener over there? (front)
