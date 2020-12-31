@@ -41,6 +41,9 @@ images:
   - image_path: /assets/images/3326-screen-copy.jpg
     image_title: Hard to swallow (view 1)
     image_description:
+  - image_path: /assets/images/3328-screen-copy.jpg
+    image_title: Hard to swallow (view 2)
+    image_description:
 _options:
   image_path:
     width: 1200
