@@ -31,6 +31,9 @@ images:
   - image_path: /assets/images/3559-screen-copy.jpg
     image_title: The Royal Iris (detail)
     image_description:
+  - image_path: /assets/images/122-screen-copy.jpg
+    image_title: STOP
+    image_description:
 _options:
   image_path:
     width: 1200
