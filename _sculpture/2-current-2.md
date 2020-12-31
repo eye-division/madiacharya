@@ -24,33 +24,6 @@ images:
   - image_path: /assets/images/3184a-screen-copy.jpg
     image_title:
     image_description:
-  - image_path: /assets/images/3188a-screen-copy.jpg
-    image_title: Caught up in red tape
-    image_description:
-  - image_path: /assets/images/3190a-screen-copy.jpg
-    image_title: Cuaght up in red tape (view 2)
-    image_description:
-  - image_path: /assets/images/3195a-screen-copy.jpg
-    image_title: Caught up in red tape (detail)
-    image_description:
-  - image_path: /assets/images/3286-screen-copy.jpg
-    image_title: The Role of Geometry in an uncertain world (view 1)
-    image_description:
-  - image_path: /assets/images/3287-screen-copy.jpg
-    image_title: The Role of Geometry in an uncertain world (view 2)
-    image_description:
-  - image_path: /assets/images/3292a-screen-copy.jpg
-    image_title: The Role of Geometry in an uncertain world (detail)
-    image_description:
-  - image_path: /assets/images/3331-screen-copy.jpg
-    image_title: Tongue and Cheek (view 1)
-    image_description:
-  - image_path: /assets/images/3332-screen-copy.jpg
-    image_title: Tongue and Cheek (view 2)
-    image_description:
-  - image_path: /assets/images/3334-screen-copy.jpg
-    image_title: Tongue and Cheek (detail)
-    image_description:
   - image_path: /assets/images/071-screen-copy.jpg
     image_title: Is the grass really greener over there? (front)
     image_description: |-
