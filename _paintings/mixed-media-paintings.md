@@ -4,11 +4,11 @@ description_markdown:
 _gallery_date:
 permalink: /painting/mixed-media
 archive: false
-main_image_path:
+main_image_path: /assets/images/3561-screen-copy.jpg
 thumb_crop:
 images:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/3560abscreen-copy.jpg
+    image_title: Playing God
     image_description:
 _options:
   image_path:
@@ -28,4 +28,3 @@ _comments:
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
 ---
-
