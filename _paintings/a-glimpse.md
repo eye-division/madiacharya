@@ -10,11 +10,14 @@ archive: false
 main_image_path: /assets/images/3603a-screen-copy.jpg
 thumb_crop:
 images:
-  - image_path:
-    image_title:
-    image_description:
   - image_path: /assets/images/3603a-screen-copy.jpg
     image_title: No Idle Sitting
+    image_description:
+  - image_path: /assets/images/3587-screen-copy.jpg
+    image_title: The Idler
+    image_description:
+  - image_path:
+    image_title:
     image_description:
 _options:
   image_path:
