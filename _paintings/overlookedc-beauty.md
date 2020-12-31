@@ -9,7 +9,7 @@ description_markdown: >-
 _gallery_date:
 permalink: /paintings/tyre-marks/
 archive: false
-main_image_path: /assets/images/088-screen-copy.jpg
+main_image_path: /assets/images/3572a-screen-copy-2.jpg
 thumb_crop: true
 images:
   - image_path: /assets/images/088-screen-copy.jpg
