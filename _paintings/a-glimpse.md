@@ -34,6 +34,9 @@ images:
   - image_path: /assets/images/3596a-screen-copy.jpg
     image_title: Birthday Suit
     image_description:
+  - image_path: /assets/images/3612-screen-copy.jpg
+    image_title: Portrait of a strawberry
+    image_description:
 _options:
   image_path:
     width: 1200
