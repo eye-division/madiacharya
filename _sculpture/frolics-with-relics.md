@@ -9,7 +9,7 @@ main_image_path: /assets/images/3190a-screen-copy-1.jpg
 thumb_crop:
 images:
   - image_path: /assets/images/3188a-screen-copy-1.jpg
-    image_title: Caught up in red tape
+    image_title: Caught up in red tape (image 1)
     image_description:
 _options:
   image_path:
