@@ -16,8 +16,8 @@ images:
   - image_path: /assets/images/3587-screen-copy.jpg
     image_title: The Idler
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/3599a-screen-copy.jpg
+    image_title: Backyard Bananas
     image_description:
 _options:
   image_path:
