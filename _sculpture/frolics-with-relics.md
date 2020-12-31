@@ -17,6 +17,9 @@ images:
   - image_path: /assets/images/3195a-screen-copy-1.jpg
     image_title: Caught up in red tape (detail)
     image_description:
+  - image_path: /assets/images/3286-screen-copy-1.jpg
+    image_title: The Importance of Geometry in an uncertain world (image 1)
+    image_description:
 _options:
   image_path:
     width: 1200
