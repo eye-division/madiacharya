@@ -29,6 +29,9 @@ images:
   - image_path: /assets/images/3331-screen-copy-1.jpg
     image_title: Tongue and Cheek (image 1)
     image_description:
+  - image_path: /assets/images/3332-screen-copy-1.jpg
+    image_title: Tongue and Cheek (image 2)
+    image_description:
 _options:
   image_path:
     width: 1200
