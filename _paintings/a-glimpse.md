@@ -22,6 +22,9 @@ images:
   - image_path: /assets/images/3581-screen-copy.jpg
     image_title: Gone South
     image_description:
+  - image_path: /assets/images/3584a-screen-copy.jpg
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
