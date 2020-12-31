@@ -35,6 +35,9 @@ images:
   - image_path: /assets/images/3334-screen-copy-1.jpg
     image_title: Tongue and Cheek (detail)
     image_description:
+  - image_path: /assets/images/3324-screen-copy.jpg
+    image_title: The slug and lettuce (the future of English pubs)
+    image_description:
 _options:
   image_path:
     width: 1200
