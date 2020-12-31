@@ -25,6 +25,9 @@ images:
   - image_path: /assets/images/3584a-screen-copy.jpg
     image_title: Tilt
     image_description:
+  - image_path: /assets/images/3616a-screen-copy.jpg
+    image_title: Absent Beach
+    image_description:
 _options:
   image_path:
     width: 1200
