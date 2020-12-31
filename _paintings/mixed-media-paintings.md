@@ -25,6 +25,9 @@ images:
   - image_path: /assets/images/3577-screen-copy.jpg
     image_title: Urban Dreams (detail 2)
     image_description:
+  - image_path: /assets/images/3558-screen-copy.jpg
+    image_title: The Royal Iris
+    image_description:
 _options:
   image_path:
     width: 1200
