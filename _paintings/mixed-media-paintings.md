@@ -11,7 +11,7 @@ images:
     image_title: Playing God
     image_description:
   - image_path: /assets/images/3561-screen-copy.jpg
-    image_title:
+    image_title: Playing God (detail)
     image_description:
   - image_path: /assets/images/3564a-screen-copy.jpg
     image_title: The Flower Market
