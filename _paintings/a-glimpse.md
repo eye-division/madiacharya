@@ -33,9 +33,7 @@ images:
     image_description: 'Oil on wood panel, assemblage, W18 H20, 2020'
   - image_path: /assets/images/3584a-screen-copy.jpg
     image_title: Tilt
-    image_description: |-
-      Oil on charred wood panel
-      Dimensions: W14.5 X H34 cms, 2020
+    image_description: 'Oil on charred wood panel, W14.5 X H34, 2020'
   - image_path: /assets/images/3616a-screen-copy.jpg
     image_title: Absent Beach
     image_description: |-
