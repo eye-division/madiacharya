@@ -16,8 +16,10 @@ images:
       Oil on wood panel
       Dimensions: W18 X H13 cms
   - image_path: /assets/images/3589a-screen-copy.jpg
-    image_title: If I lived in the forest I would hang my dress from a tree
-    image_description:
+    image_title: If I lived in a forest I would hang my dress from a tree
+    image_description: |-
+      Oil on wood panel
+      Dimensions: W23 X H20 cms
   - image_path: /assets/images/3592-screen-copy.jpg
     image_title: Pair-a-dice
     image_description:
