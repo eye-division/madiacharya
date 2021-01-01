@@ -19,11 +19,10 @@ images:
     image_title: Of course it was my idea! (front)
     image_description: >-
       Materials: Found objects including broken tennis ball found rubber, dried
-      butternut squash seeds
+      butternut squash seeds, W8.5 H32 D8.5, 2020
 
-      Dimensions: W8.5 H32 D8.5 cms, 2020
 
-      This work is about influencing people and illiciting change by 
+      This work is about influencing people and iliciting change by 
       incorporating aspects of the everyday which are usually over looked. The
       butternut squash seeds have become elevated to the level of precious beads
       and the broken tennis ball come to resemble a tribal mask. The title of
