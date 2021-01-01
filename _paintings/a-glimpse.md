@@ -42,7 +42,7 @@ images:
     image_title: Gone South
     image_description: |-
       Oil on wood panel
-      Dimensions: W18 H20 cms
+      Dimensions: W18 H20 cms, 2020
   - image_path: /assets/images/3584a-screen-copy.jpg
     image_title: Tilt
     image_description: |-
