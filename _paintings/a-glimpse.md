@@ -30,9 +30,7 @@ images:
     image_description: 'Oil on wood panel, assemblage, H21 W19 D2.5, 2020'
   - image_path: /assets/images/3581-screen-copy.jpg
     image_title: Gone South
-    image_description: |-
-      Oil on wood panel
-      Dimensions: W18 H20 cms, 2020
+    image_description: 'Oil on wood panel, assemblage, W18 H20, 2020'
   - image_path: /assets/images/3584a-screen-copy.jpg
     image_title: Tilt
     image_description: |-
