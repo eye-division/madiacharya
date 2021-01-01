@@ -24,7 +24,7 @@ images:
     image_title: Pair-a-dice
     image_description: |-
       Oil on wood panel, assenblage
-      Dimensions: W17.5 X H15 cms
+      Dimensions: W17.5 H15 cms, 2020
   - image_path: /assets/images/3599a-screen-copy.jpg
     image_title: Backyard Bananas
     image_description:
