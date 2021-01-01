@@ -21,7 +21,7 @@ images:
       Materials: Found objects including broken tennis ball found rubber, dried
       butternut squash seeds
 
-      Dimensions: W8.5 H32 D8.5 cms
+      Dimensions: W8.5 H32 D8.5 cms, 2020
 
       This work is about influencing people and illiciting change by 
       incorporating aspects of the everyday which are usually over looked. The
@@ -40,7 +40,7 @@ images:
     image_title: Is the grass really greener over there? (front)
     image_description: |-
       Materials: Found wood, found objects, bead work, textiles
-      Dimensions: W28 H23 D5 cms
+      Dimensions: W28 H23 D5 cms, 2019
   - image_path: /assets/images/075 screen copy.jpg
     image_title: Is the grass really green over there? (side)
     image_description:
