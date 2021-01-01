@@ -31,7 +31,9 @@ images:
     image_description:
   - image_path: /assets/images/3231-screen-copy.jpg
     image_title: My life as a bird (view 1)
-    image_description:
+    image_description: |-
+      Materials: Found objects, found wood, textiles, chicken wire, paper mache
+      Dimensions: W26 H30.5 D19 cms , 2020
   - image_path: /assets/images/3243-screen-copy.jpg
     image_title: My life as a bird (view 2)
     image_description:
@@ -40,7 +42,9 @@ images:
     image_description:
   - image_path: /assets/images/vessel-robes-image-1-copy.jpg
     image_title: Vessel Robes (front)
-    image_description:
+    image_description: |-
+      Materials: Found plastic, found wood, textiles
+      Dimensions: W20 H21 D15 cms, 2020
   - image_path: /assets/images/vessel-robes-image-3-copy.jpg
     image_title: Vessel Robes (back)
     image_description:
@@ -49,7 +53,9 @@ images:
     image_description:
   - image_path: /assets/images/3216-screen-copy.jpg
     image_title: Topaz Tears (view 1)
-    image_description:
+    image_description: |-
+      Materials: Found plastic, found objects, textiles, accessories
+      Dimensions: W19 D13 H25 cms, 2020
   - image_path: /assets/images/3214a-screen-copy.jpg
     image_title: Topaz Tears (view 2)
     image_description:
@@ -58,7 +64,9 @@ images:
     image_description:
   - image_path: /assets/images/3165a-screen-copy.jpg
     image_title: His heart is in the jungle (view1)
-    image_description:
+    image_description: |-
+      Materials: Found Plastic, textiles, acrylic paint, bead
+      Dimensions: W19 H45 D15 cms, 2020
   - image_path: /assets/images/3171-screen-copy.jpg
     image_title: His heart in the jungle (detail)
     image_description:
@@ -67,7 +75,9 @@ images:
     image_description:
   - image_path: /assets/images/3211-screen-copy.jpg
     image_title: In memory of an injured blackbird (view 1)
-    image_description:
+    image_description: |-
+      Materials: Found objects, found plastic, textiles
+      Dimensions: W22 H30 D28 cms, 2020
   - image_path: /assets/images/3203-screen-copy.jpg
     image_title: In memory of an injured blackbird (view 2)
     image_description:
@@ -76,7 +86,11 @@ images:
     image_description:
   - image_path: /assets/images/3269-screen-copy.jpg
     image_title: A shell of the future (view 1)
-    image_description:
+    image_description: >-
+      Materials: Found plastic, textiles, hand made paper, beadwork, acrylic
+      paint
+
+      Dimensions: W11 H17.5 D14.5 cms, 2020
   - image_path: /assets/images/3276-screen-copy.jpg
     image_title: A shell of the future (view 2)
     image_description:
