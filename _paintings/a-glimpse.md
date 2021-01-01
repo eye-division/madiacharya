@@ -22,7 +22,9 @@ images:
       Dimensions: W23 X H20 cms
   - image_path: /assets/images/3592-screen-copy.jpg
     image_title: Pair-a-dice
-    image_description:
+    image_description: |-
+      Oil on wood panel, assenblage
+      Dimensions: W17.5 X H15 cms
   - image_path: /assets/images/3599a-screen-copy.jpg
     image_title: Backyard Bananas
     image_description:
