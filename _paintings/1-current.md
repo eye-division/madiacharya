@@ -16,7 +16,9 @@ main_image_path: /assets/images/3637-screen-copy.jpg
 images:
   - image_path: /assets/images/3619-screen-copy.jpg
     image_title: Mariko in the cave
-    image_description:
+    image_description: |-
+      Oil on wood panel
+      Dimensions: 33 X 43.5 cms
   - image_path: /assets/images/3632-screen-copy.jpg
     image_title: Magnolia windows
     image_description:
@@ -25,13 +27,19 @@ images:
     image_description:
   - image_path: /assets/images/3637-screen-copy.jpg
     image_title: The Banana Painting
-    image_description:
+    image_description: |-
+      Oil on wood panel
+      Dimensions: 51 X 46 cms
   - image_path: /assets/images/3624-screen-copy.jpg
     image_title: When we got to Angle Tarn
-    image_description:
+    image_description: |-
+      Oil on wood panel
+      Dimensions:33 X 30.5 cms
   - image_path: /assets/images/3628-screen-copy.jpg
     image_title: A Forager's Dream
-    image_description:
+    image_description: |-
+      Oil on wood panel
+      Dimensions: 33 X 30.5 cms
   - image_path: /assets/I never promised you a rose garden copy.jpg
     image_title: I never promised you a rose garden *SOLD*
     image_description: 'W45.5  L53 D3, Oil on found wood, shells, 2019'
