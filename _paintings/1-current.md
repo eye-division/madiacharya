@@ -33,7 +33,7 @@ images:
     image_title: The Banana Painting
     image_description: |-
       Oil on wood panel
-      Dimensions: H51 X W46 cms
+      Dimensions: H51 X W46 cms, 2020
   - image_path: /assets/images/3624-screen-copy.jpg
     image_title: When we got to Angle Tarn
     image_description: |-
