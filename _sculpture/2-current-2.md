@@ -21,7 +21,7 @@ images:
       Materials: Found objects including broken tennis ball found rubber, dried
       butternut squash seeds
 
-      Dimensions: W8.5 H32 D8.5 cms
+      Dimensions: W8.5 H32 D8.5 cms, 2020
 
       This work is about influencing people and illiciting change by 
       incorporating aspects of the everyday which are usually over looked. The
