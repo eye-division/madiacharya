@@ -31,7 +31,7 @@ images:
     image_description: >-
       Materials: Found sole, found plastic, acrylic paint
 
-      Dimensions:D28.5 H15 W8.5 cms
+      Dimensions:D28.5 H15 W8.5 cms, 2020
 
       This work was made during recent uncertain and challenging times created
       by the global pandemic. The geometric pattern is from a textile design,
