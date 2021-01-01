@@ -12,49 +12,31 @@ thumb_crop:
 images:
   - image_path: /assets/images/3603a-screen-copy.jpg
     image_title: No Idle Sitting
-    image_description: |-
-      Oil on wood panel
-      Dimensions: W18 H13 cms, 2020
+    image_description: 'Oil on wood panel, W18 H13, 2020'
   - image_path: /assets/images/3589a-screen-copy.jpg
     image_title: If I lived in a forest I would hang my dress from a tree
-    image_description: |-
-      Oil on wood panel
-      Dimensions: W23 H20 D1.5 cms, 2020
+    image_description: 'Oil on wood panel, W23 H20 D1.5, 2020'
   - image_path: /assets/images/3592-screen-copy.jpg
     image_title: Pair-a-dice
-    image_description: |-
-      Oil on wood panel, assenblage
-      Dimensions: W17.5 H15 cms, 2020
+    image_description: 'Oil on wood panel, assenblage, W17.5 H15, 2020'
   - image_path: /assets/images/3599a-screen-copy.jpg
     image_title: Backyard Bananas
-    image_description: |-
-      Oil on wood panel, assesmblage
-      Dimensions:W16.5 H23.5 D1.5 cms, 2020
+    image_description: 'Oil on wood panel, assesmblage, W16.5 H23.5 D1.5, 2020'
   - image_path: /assets/images/3579-screen-copy.jpg
     image_title: Conversation with peacocks
-    image_description: |-
-      Oil on wood panel
-      Dimensions: H33 W21 D1.5 cms, 2020
+    image_description: 'Oil on wood panel, H33 W21 D1.5, 2020'
   - image_path: /assets/images/3596a-screen-copy.jpg
     image_title: Birthday Suit
-    image_description: |-
-      Oil on wood panel, assemblage
-      Dimensions: H21 W19 D2.5 cms, 2020
+    image_description: 'Oil on wood panel, assemblage, H21 W19 D2.5, 2020'
   - image_path: /assets/images/3581-screen-copy.jpg
     image_title: Gone South
-    image_description: |-
-      Oil on wood panel
-      Dimensions: W18 H20 cms, 2020
+    image_description: 'Oil on wood panel, assemblage, W18 H20, 2020'
   - image_path: /assets/images/3584a-screen-copy.jpg
     image_title: Tilt
-    image_description: |-
-      Oil on charred wood panel
-      Dimensions: W14.5 X H34 cms, 2020
+    image_description: 'Oil on charred wood panel, W14.5 X H34, 2020'
   - image_path: /assets/images/3616a-screen-copy.jpg
     image_title: Absent Beach
-    image_description: |-
-      Oil on wood panel
-      Dimensions: W16 H11 D2 cms, 2020
+    image_description: 'Oil on wood panel, W16 H11 D2, 2020'
   - image_path: /assets/images/3612-screen-copy.jpg
     image_title: Portrait of a strawberry
     image_description: |-
