@@ -55,7 +55,7 @@ images:
     image_title: Topaz Tears (view 1)
     image_description: |-
       Materials: Found plastic, found objects, textiles, accessories
-      Dimensions: W19 D13 H25 cms
+      Dimensions: W19 D13 H25 cms, 2020
   - image_path: /assets/images/3214a-screen-copy.jpg
     image_title: Topaz Tears (view 2)
     image_description:
@@ -64,7 +64,9 @@ images:
     image_description:
   - image_path: /assets/images/3165a-screen-copy.jpg
     image_title: His heart is in the jungle (view1)
-    image_description:
+    image_description: |-
+      Materials: Found Plastic, textiles, acrylic paint, bead
+      Dimensions: W19 H45 D15 cms, 2020
   - image_path: /assets/images/3171-screen-copy.jpg
     image_title: His heart in the jungle (detail)
     image_description:
