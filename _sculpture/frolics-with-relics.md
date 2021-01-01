@@ -46,9 +46,7 @@ images:
     image_title: Tongue and Cheek (image 1)
     image_description: >-
       Materials: Found plastic, found wood, acrylic paint, leopard print
-      textile, false finger nail
-
-      Dimensions: W8 D12 H12 cms, 2020
+      textile, false finger nail, W8 D12 H12, 2020
   - image_path: /assets/images/3332-screen-copy-1.jpg
     image_title: Tongue and Cheek (image 2)
     image_description:
