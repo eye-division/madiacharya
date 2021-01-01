@@ -22,9 +22,7 @@ images:
     image_description: 'Oil on found wood, W30.5 H33 , 2020'
   - image_path: /assets/images/3644-screen-copy.jpg
     image_title: Grihoshova
-    image_description: |-
-      Oil on wood panel
-      Dimensions: H64 X W30.5 cms
+    image_description: 'Oil on found wood, H64 W30.5'
   - image_path: /assets/images/3637-screen-copy.jpg
     image_title: The Banana Painting
     image_description: |-
