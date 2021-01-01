@@ -31,7 +31,7 @@ images:
     image_description: >-
       Materials: Found sole, found plastic, acrylic paint
 
-      Dimensions:D28.5 H15 W8.5 cms
+      Dimensions:D28.5 H15 W8.5 cms, 2020
 
       This work was made during recent uncertain and challenging times created
       by the global pandemic. The geometric pattern is from a textile design,
@@ -49,7 +49,7 @@ images:
       Materials: Found plastic, found wood, acrylic paint, leopard print
       textile, false finger nail
 
-      Dimensions: W8 D12 H12 cms
+      Dimensions: W8 D12 H12 cms, 2020
   - image_path: /assets/images/3332-screen-copy-1.jpg
     image_title: Tongue and Cheek (image 2)
     image_description:
@@ -58,10 +58,16 @@ images:
     image_description:
   - image_path: /assets/images/3324-screen-copy.jpg
     image_title: The slug and lettuce (the future of English pubs)
-    image_description:
+    image_description: >-
+      Materials: Found wood, bead, chicken wire, handmade paper, acrylic paint,
+      textiles
+
+      Dimensions: D14 H13.5 D13 cms, 2020
   - image_path: /assets/images/3326-screen-copy.jpg
     image_title: Hard to swallow (view 1)
-    image_description:
+    image_description: |-
+      Materials: Found wood, found objects, beadwork, acrylic paint
+      Dimensions: W13 D11 H16 cms, 2020
   - image_path: /assets/images/3328-screen-copy.jpg
     image_title: Hard to swallow (view 2)
     image_description:
