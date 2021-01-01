@@ -19,7 +19,7 @@ images:
     image_title: Caught up in red tape (image 1)
     image_description: |-
       Materials: Found objects, handmade paper, chicken wire, acrylic paint
-      Dimensions:W13 D11 H16 cms, 2020
+      W13 D11 H16, 2020
   - image_path: /assets/images/3190a-screen-copy-2.jpg
     image_title: Caught up in red tape (image 2)
     image_description:
@@ -29,9 +29,8 @@ images:
   - image_path: /assets/images/3286-screen-copy-1.jpg
     image_title: The Importance of Geometry in an uncertain world (image 1)
     image_description: >-
-      Materials: Found sole, found plastic, acrylic paint
+      Materials: Found sole, found plastic, acrylic paint, D28.5 H15 W8.5, 2020
 
-      Dimensions:D28.5 H15 W8.5 cms, 2020
 
       This work was made during recent uncertain and challenging times created
       by the global pandemic. The geometric pattern is from a textile design,
@@ -47,9 +46,7 @@ images:
     image_title: Tongue and Cheek (image 1)
     image_description: >-
       Materials: Found plastic, found wood, acrylic paint, leopard print
-      textile, false finger nail
-
-      Dimensions: W8 D12 H12 cms, 2020
+      textile, false finger nail, W8 D12 H12, 2020
   - image_path: /assets/images/3332-screen-copy-1.jpg
     image_title: Tongue and Cheek (image 2)
     image_description:
@@ -60,14 +57,12 @@ images:
     image_title: The slug and lettuce (the future of English pubs)
     image_description: >-
       Materials: Found wood, bead, chicken wire, handmade paper, acrylic paint,
-      textiles
-
-      Dimensions: D14 H13.5 D13 cms, 2020
+      textiles, W9.5 H13.5 D14, 2020
   - image_path: /assets/images/3326-screen-copy.jpg
     image_title: Hard to swallow (view 1)
-    image_description: |-
-      Materials: Found wood, found objects, beadwork, acrylic paint
-      Dimensions: W13 D11 H16 cms, 2020
+    image_description: >-
+      Materials: Found wood, found objects, beadwork, acrylic paint, W13 D11
+      H16,  2020
   - image_path: /assets/images/3328-screen-copy.jpg
     image_title: Hard to swallow (view 2)
     image_description:
