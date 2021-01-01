@@ -19,9 +19,7 @@ images:
     image_description: 'Oil on found wood, H33 W43.5, 2020'
   - image_path: /assets/images/3632-screen-copy.jpg
     image_title: Magnolia windows
-    image_description: |-
-      Oil on wood panel
-      Dimensions: W33 X H33 cms, 2020
+    image_description: 'Oil on found wood, W30.5 H33 , 2020'
   - image_path: /assets/images/3644-screen-copy.jpg
     image_title: Grihoshova
     image_description: |-
