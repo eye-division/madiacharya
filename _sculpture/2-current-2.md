@@ -17,7 +17,15 @@ main_image_path: /assets/images/3184a-screen-copy-1.jpg
 images:
   - image_path: /assets/images/3178a-screen-copy.jpg
     image_title: Of course it was my idea! (front)
-    image_description:
+    image_description: >-
+      Found objects including broken tennis ball and found rubber. This work
+      also includes dried butternut squash seeds. I wanted to incorporated
+      aspects of the everyday which are usually over looked. The butternut
+      squash seeds have become elevated to the level of precious beads and the
+      broken tennis ball come to resemble a tribal mask. The title of this work
+      is a direct reference to the seeds used, connecting this with the idea
+      that one can sow the seeds of an idea so that it can come to be owned by
+      whoever one is trying to influence and change.
   - image_path: /assets/images/3179a-screen-copy.jpg
     image_title: Of course it was my idea! (back)
     image_description:
