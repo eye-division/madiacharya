@@ -39,19 +39,13 @@ images:
     image_description: 'Oil on wood panel, W16 H11 D2, 2020'
   - image_path: /assets/images/3612-screen-copy.jpg
     image_title: Portrait of a strawberry
-    image_description: |-
-      Oil on wood panel
-      Dimensions: H16.5 W11.5 D2 cms, 2020
+    image_description: 'Oil on wood panel, H16.5 W11.5 D2, 2020'
   - image_path: /assets/images/3566a-screen-copy.jpg
     image_title: The Mirrorball Resort
-    image_description: |-
-      Oil on wood panel, found object, mirror ball tiles,
-      Dimensions: H19 W21 D5 cms, 2020
+    image_description: 'Oil on wood panel, found object, mirror ball tiles, H19 W21 D5, 2020'
   - image_path: /assets/images/3587-screen-copy.jpg
     image_title: The Idler
-    image_description: |-
-      Oil on wood panel, beadwork
-      Dimensions: W32 H18 D1 cms, 2020
+    image_description: 'Oil on wood panel, beadwork, W32 H18, 2020'
 _options:
   image_path:
     width: 1200
