@@ -18,9 +18,7 @@ images:
     image_description: 'Oil on wood panel, W23 H20 D1.5, 2020'
   - image_path: /assets/images/3592-screen-copy.jpg
     image_title: Pair-a-dice
-    image_description: |-
-      Oil on wood panel, assenblage
-      Dimensions: W17.5 H15 cms, 2020
+    image_description: 'Oil on wood panel, assenblage, W17.5 H15, 2020'
   - image_path: /assets/images/3599a-screen-copy.jpg
     image_title: Backyard Bananas
     image_description: |-
