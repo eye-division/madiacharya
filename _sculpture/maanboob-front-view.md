@@ -20,7 +20,11 @@ main_image_path: /assets/images/3157a-screen-copy-1.jpg
 images:
   - image_path: /assets/images/3157a-screen-copy.jpg
     image_title: Grow some balls (back)
-    image_description:
+    image_description: >-
+      Materials: Cardboard, paper mache, netting, broken tennis balls, textiles,
+      beadwork, womens' tights
+
+      Dimensions: H47 W22 D19 cms 2020
   - image_path: /assets/images/3155a-screen-copy.jpg
     image_title: Grow some balls (front)
     image_description:
