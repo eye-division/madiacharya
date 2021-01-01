@@ -43,7 +43,7 @@ images:
     image_title: A Forager's Dream
     image_description: |-
       Oil on wood panel
-      Dimensions: 33 X 30.5 cms
+      Dimensions: H33 X W33 cms, 2020
   - image_path: /assets/I never promised you a rose garden copy.jpg
     image_title: I never promised you a rose garden *SOLD*
     image_description: 'W45.5  L53 D3, Oil on found wood, shells, 2019'
