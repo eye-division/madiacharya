@@ -40,7 +40,7 @@ images:
     image_title: Is the grass really greener over there? (front)
     image_description: |-
       Materials: Found wood, found objects, bead work, textiles
-      Dimensions: W28 H23 D5 cms
+      Dimensions: W28 H23 D5 cms, 2019
   - image_path: /assets/images/075 screen copy.jpg
     image_title: Is the grass really green over there? (side)
     image_description:
