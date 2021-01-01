@@ -16,9 +16,7 @@ main_image_path: /assets/images/3637-screen-copy.jpg
 images:
   - image_path: /assets/images/3619-screen-copy.jpg
     image_title: Mariko in the cave
-    image_description: |-
-      Oil on wood panel
-      Dimensions: H33 X W43.5 cms, 2020
+    image_description: 'Oil on found wood, H33 W43.5, 2020'
   - image_path: /assets/images/3632-screen-copy.jpg
     image_title: Magnolia windows
     image_description: |-
