@@ -28,9 +28,7 @@ images:
     image_description: 'Oil on found wood, H51 W46, 2020'
   - image_path: /assets/images/3624-screen-copy.jpg
     image_title: When we got to Angle Tarn
-    image_description: |-
-      Oil on wood panel
-      Dimensions: H33 X W30.5 cms, 2020
+    image_description: 'Oil on found wood, H33 X W30.5, 2020'
   - image_path: /assets/images/3628-screen-copy.jpg
     image_title: A Forager's Dream *NFS*
     image_description: |-
