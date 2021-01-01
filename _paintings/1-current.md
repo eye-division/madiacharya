@@ -27,7 +27,9 @@ images:
     image_description:
   - image_path: /assets/images/3637-screen-copy.jpg
     image_title: The Banana Painting
-    image_description:
+    image_description: |-
+      Oil on wood panel
+      Dimensions: 51 X 46 cms
   - image_path: /assets/images/3624-screen-copy.jpg
     image_title: When we got to Angle Tarn
     image_description:
