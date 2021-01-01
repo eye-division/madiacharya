@@ -65,7 +65,9 @@ images:
       Dimensions: D14 H13.5 D13 cms
   - image_path: /assets/images/3326-screen-copy.jpg
     image_title: Hard to swallow (view 1)
-    image_description:
+    image_description: |-
+      Materials: Found wood, found objects, beadwork, acrylic paint
+      Dimensions: W13 D11 H16 cms, 2020
   - image_path: /assets/images/3328-screen-copy.jpg
     image_title: Hard to swallow (view 2)
     image_description:
