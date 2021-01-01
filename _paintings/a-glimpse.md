@@ -67,7 +67,9 @@ images:
       Dimensions: H19 W21 D5 cms, 2020
   - image_path: /assets/images/3587-screen-copy.jpg
     image_title: The Idler
-    image_description:
+    image_description: |-
+      Oil on wood panel, beadwork
+      Dimensions: W32 H18 D1 cms, 2020
 _options:
   image_path:
     width: 1200
