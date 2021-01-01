@@ -62,7 +62,9 @@ images:
       Dimensions: H16.5 W11.5 D2 cms, 2020
   - image_path: /assets/images/3566a-screen-copy.jpg
     image_title: The Mirrorball Resort
-    image_description:
+    image_description: |-
+      Oil on wood panel, found object, mirror ball tiles,
+      Dimensions: H19 W21 D5 cms, 2020
   - image_path: /assets/images/3587-screen-copy.jpg
     image_title: The Idler
     image_description:
