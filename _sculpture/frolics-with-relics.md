@@ -29,9 +29,8 @@ images:
   - image_path: /assets/images/3286-screen-copy-1.jpg
     image_title: The Importance of Geometry in an uncertain world (image 1)
     image_description: >-
-      Materials: Found sole, found plastic, acrylic paint
+      Materials: Found sole, found plastic, acrylic paint, D28.5 H15 W8.5, 2020
 
-      Dimensions:D28.5 H15 W8.5 cms, 2020
 
       This work was made during recent uncertain and challenging times created
       by the global pandemic. The geometric pattern is from a textile design,
