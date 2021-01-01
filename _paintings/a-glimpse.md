@@ -12,13 +12,19 @@ thumb_crop:
 images:
   - image_path: /assets/images/3603a-screen-copy.jpg
     image_title: No Idle Sitting
-    image_description:
+    image_description: |-
+      Oil on wood panel
+      Dimensions: W18 X H13 cms
   - image_path: /assets/images/3589a-screen-copy.jpg
-    image_title: If I lived in the forest I would hang my dress from a tree
-    image_description:
+    image_title: If I lived in a forest I would hang my dress from a tree
+    image_description: |-
+      Oil on wood panel
+      Dimensions: W23 X H20 cms
   - image_path: /assets/images/3592-screen-copy.jpg
     image_title: Pair-a-dice
-    image_description:
+    image_description: |-
+      Oil on wood panel, assenblage
+      Dimensions: W17.5 X H15 cms
   - image_path: /assets/images/3599a-screen-copy.jpg
     image_title: Backyard Bananas
     image_description:
@@ -30,10 +36,14 @@ images:
     image_description:
   - image_path: /assets/images/3581-screen-copy.jpg
     image_title: Gone South
-    image_description:
+    image_description: |-
+      Oil on wood panel
+      Dimensions: W18 X H20 cms
   - image_path: /assets/images/3584a-screen-copy.jpg
     image_title: Tilt
-    image_description:
+    image_description: |-
+      Oil on charred wood panel
+      Dimensions: W14.5 X H34 cms
   - image_path: /assets/images/3616a-screen-copy.jpg
     image_title: Absent Beach
     image_description:
