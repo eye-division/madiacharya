@@ -26,7 +26,9 @@ images:
       Dimensions: W33 X H33 cms
   - image_path: /assets/images/3644-screen-copy.jpg
     image_title: Grihoshova
-    image_description:
+    image_description: |-
+      Oil on wood panel
+      Dimensions: H64 X W30.5 cms
   - image_path: /assets/images/3637-screen-copy.jpg
     image_title: The Banana Painting
     image_description: |-
