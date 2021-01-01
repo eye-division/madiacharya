@@ -41,7 +41,9 @@ images:
       Dimensions: W18 X H20 cms
   - image_path: /assets/images/3584a-screen-copy.jpg
     image_title: Tilt
-    image_description:
+    image_description: |-
+      Oil on charred wood panel
+      Dimensions: W14.5 X H34 cms
   - image_path: /assets/images/3616a-screen-copy.jpg
     image_title: Absent Beach
     image_description:
