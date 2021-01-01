@@ -1,6 +1,13 @@
 ---
 title: Frolics with Relics
-description_markdown:
+description_markdown: >-
+  In this series, I have purposely used objects and materials left over from a
+  participatory project. I wanted to use these as they had not been 'picked ' by
+  others and hence had experienced a 'double rejection', firstly being rejected
+  for being obsolete and ending up as ocean waste and then being rejected again
+  by not being selected by workshop participants for transformation&nbsp;
+  through the creative process. The handmade paper, acrylic paint, beads are
+  also materials I use in my workshops.
 _gallery_date:
 permalink: /sculpture/frolics-with-relics
 archive: false
