@@ -31,7 +31,9 @@ images:
     image_description:
   - image_path: /assets/images/3231-screen-copy.jpg
     image_title: My life as a bird (view 1)
-    image_description:
+    image_description: |-
+      Materials: Found objects, found wood, textiles, chicken wire, paper mache
+      Dimensions: W26 H30.5 D19 cms , 2020
   - image_path: /assets/images/3243-screen-copy.jpg
     image_title: My life as a bird (view 2)
     image_description:
