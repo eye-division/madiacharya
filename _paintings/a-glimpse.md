@@ -27,7 +27,9 @@ images:
       Dimensions: W17.5 H15 cms, 2020
   - image_path: /assets/images/3599a-screen-copy.jpg
     image_title: Backyard Bananas
-    image_description:
+    image_description: |-
+      Oil on wood panel, assesmblage
+      Dimensions:W16.5 H23.5 D1.5 cms, 2020
   - image_path: /assets/images/3579-screen-copy.jpg
     image_title: Conversation with peacocks
     image_description: |-
