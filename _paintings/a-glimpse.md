@@ -1,11 +1,11 @@
 ---
-title: A Glimpse
+title: Glimpses
 description_markdown: >-
   This is a new series of paintings which are small and irregular edges. They
   are left purposefully unframed, free and expansive but also appear to be a
   'glimpse' of something fleeting rather than fixed.
 _gallery_date:
-permalink: /paintings/a-glimpse
+permalink: /paintings/glimpses
 archive: false
 main_image_path: /assets/images/3599a-screen-copy-1.jpg
 thumb_crop:
