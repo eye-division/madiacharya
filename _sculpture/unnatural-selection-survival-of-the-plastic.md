@@ -42,7 +42,9 @@ images:
     image_description:
   - image_path: /assets/images/vessel-robes-image-1-copy.jpg
     image_title: Vessel Robes (front)
-    image_description:
+    image_description: |-
+      Materials: Found plastic, found wood, textiles
+      Dimensions: W20 H21 D15 cms
   - image_path: /assets/images/vessel-robes-image-3-copy.jpg
     image_title: Vessel Robes (back)
     image_description:
