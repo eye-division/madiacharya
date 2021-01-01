@@ -32,7 +32,9 @@ images:
       Dimensions: 51 X 46 cms
   - image_path: /assets/images/3624-screen-copy.jpg
     image_title: When we got to Angle Tarn
-    image_description:
+    image_description: |-
+      Oil on wood panel
+      Dimensions:33 X 30.5 cms
   - image_path: /assets/images/3628-screen-copy.jpg
     image_title: A Forager's Dream
     image_description:
