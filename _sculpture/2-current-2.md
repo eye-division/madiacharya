@@ -90,17 +90,6 @@ images:
   - image_path: /assets/images/57567bf32b9e2.jpg
     image_title: Sikim (back)
     image_description:
-  - image_path: /assets/images/586acde2ecf88.jpg
-    image_title: Road Rage (front)
-    image_description: |-
-      Found wood, found toy, mixed media,
-      Dimensions: H22 D23 W18 cms, 2016
-  - image_path: /assets/images/57567f6ee20af.jpg
-    image_title: Road Rage (detail)
-    image_description:
-  - image_path: /assets/images/575747332d750.jpg
-    image_title: Road Rage (back)
-    image_description:
 _options:
   image_path:
     width: 1200
