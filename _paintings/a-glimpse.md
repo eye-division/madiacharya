@@ -14,7 +14,7 @@ images:
     image_title: No Idle Sitting
     image_description: |-
       Oil on wood panel
-      Dimensions: W18 X H13 cms
+      Dimensions: W18 H13 cms, 2020
   - image_path: /assets/images/3589a-screen-copy.jpg
     image_title: If I lived in a forest I would hang my dress from a tree
     image_description: |-
