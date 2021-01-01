@@ -30,7 +30,9 @@ images:
     image_description:
   - image_path: /assets/images/3579-screen-copy.jpg
     image_title: Conversation with peacocks
-    image_description:
+    image_description: |-
+      Oil on wood panel
+      Dimensions: H33 W21 D1.5 cms, 2020
   - image_path: /assets/images/3596a-screen-copy.jpg
     image_title: Birthday Suit
     image_description:
