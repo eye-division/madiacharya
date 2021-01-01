@@ -14,8 +14,10 @@ images:
     image_title:
     image_description:
   - image_path: /assets/images/3564a-screen-copy.jpg
-    image_title:
-    image_description:
+    image_title: The Flower Market
+    image_description: |-
+      Oil on found wood, collage
+      Dimensions: W26 H30 cms (2020)
   - image_path: /assets/images/3574ascreen-copy.jpg
     image_title: Urban Dreams
     image_description:
