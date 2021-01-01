@@ -16,34 +16,22 @@ main_image_path: /assets/images/3637-screen-copy.jpg
 images:
   - image_path: /assets/images/3619-screen-copy.jpg
     image_title: Mariko in the cave
-    image_description: |-
-      Oil on wood panel
-      Dimensions: H33 X W43.5 cms, 2020
+    image_description: 'Oil on found wood, H33 W43.5, 2020'
   - image_path: /assets/images/3632-screen-copy.jpg
     image_title: Magnolia windows
-    image_description: |-
-      Oil on wood panel
-      Dimensions: W33 X H33 cms, 2020
+    image_description: 'Oil on found wood, W30.5 H33 , 2020'
   - image_path: /assets/images/3644-screen-copy.jpg
     image_title: Grihoshova
-    image_description: |-
-      Oil on wood panel
-      Dimensions: H64 X W30.5 cms
+    image_description: 'Oil on found wood, H64 W30.5'
   - image_path: /assets/images/3637-screen-copy.jpg
     image_title: The Banana Painting
-    image_description: |-
-      Oil on wood panel
-      Dimensions: H51 X W46 cms, 2020
+    image_description: 'Oil on found wood, H51 W46, 2020'
   - image_path: /assets/images/3624-screen-copy.jpg
     image_title: When we got to Angle Tarn
-    image_description: |-
-      Oil on wood panel
-      Dimensions: H33 X W30.5 cms, 2020
+    image_description: 'Oil on found wood, H33 X W30.5, 2020'
   - image_path: /assets/images/3628-screen-copy.jpg
     image_title: A Forager's Dream *NFS*
-    image_description: |-
-      Oil on wood panel
-      Dimensions: H33 X W33 cms, 2020
+    image_description: 'Oil on found wood, H33 X W33, 2020'
   - image_path: /assets/I never promised you a rose garden copy.jpg
     image_title: I never promised you a rose garden *SOLD*
     image_description: 'W45.5  L53 D3, Oil on found wood, shells, 2019'
