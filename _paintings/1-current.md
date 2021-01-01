@@ -21,7 +21,9 @@ images:
       Dimensions: 33 X 43.5 cms
   - image_path: /assets/images/3632-screen-copy.jpg
     image_title: Magnolia windows
-    image_description:
+    image_description: |-
+      Oil on wood panel
+      Dimensions: W33 X H33 cms
   - image_path: /assets/images/3644-screen-copy.jpg
     image_title: Grihoshova
     image_description:
