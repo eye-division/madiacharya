@@ -40,7 +40,7 @@ images:
       Oil on wood panel
       Dimensions: H33 X W30.5 cms, 2020
   - image_path: /assets/images/3628-screen-copy.jpg
-    image_title: A Forager's Dream
+    image_title: A Forager's Dream *NFS*
     image_description: |-
       Oil on wood panel
       Dimensions: H33 X W33 cms, 2020
