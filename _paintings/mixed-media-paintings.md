@@ -14,8 +14,10 @@ images:
     image_title:
     image_description:
   - image_path: /assets/images/3564a-screen-copy.jpg
-    image_title:
-    image_description:
+    image_title: The Flower Market
+    image_description: |-
+      Oil on found wood, collage
+      Dimensions: W26 H30 cms (2020)
   - image_path: /assets/images/3574ascreen-copy.jpg
     image_title: Urban Dreams
     image_description:
@@ -33,7 +35,16 @@ images:
     image_description:
   - image_path: /assets/images/122-screen-copy.jpg
     image_title: STOP
-    image_description:
+    image_description: >-
+      Oil on wood panel, assemblage
+
+      Dimensions: W57 H37 D20 cms, 2018
+
+
+      Stop refers to a state of uncertainty in the context of imposed borders.
+      It is created using found wood collected from the coast and references the
+      kind of sign that maybe found at a railway crossing. There is a sense of
+      danger but also a choice..
   - image_path: /assets/images/madi-1-copy-2.jpg
     image_title: Hideaway
     image_description:
