@@ -17,7 +17,9 @@ thumb_crop:
 images:
   - image_path: /assets/images/3188a-screen-copy-1.jpg
     image_title: Caught up in red tape (image 1)
-    image_description:
+    image_description: |-
+      Materials: Found objects, handmade paper, chicken wire, acrylic paint
+      Dimensions:W13 D11 H16 cms, 2020
   - image_path: /assets/images/3190a-screen-copy-2.jpg
     image_title: Caught up in red tape (image 2)
     image_description:
