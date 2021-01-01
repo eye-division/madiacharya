@@ -52,7 +52,9 @@ images:
       Dimensions: W14.5 X H34 cms, 2020
   - image_path: /assets/images/3616a-screen-copy.jpg
     image_title: Absent Beach
-    image_description:
+    image_description: |-
+      Oil on wood panel
+      Dimensions: W16 H11 D2 cms, 2020
   - image_path: /assets/images/3612-screen-copy.jpg
     image_title: Portrait of a strawberry
     image_description:
