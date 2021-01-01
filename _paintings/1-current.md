@@ -38,7 +38,7 @@ images:
     image_title: When we got to Angle Tarn
     image_description: |-
       Oil on wood panel
-      Dimensions:33 X 30.5 cms
+      Dimensions: H33 X W30.5 cms, 2020
   - image_path: /assets/images/3628-screen-copy.jpg
     image_title: A Forager's Dream
     image_description: |-
