@@ -36,7 +36,7 @@ images:
     image_description: 'Oil on charred wood panel, H34  W14.5, 2020'
   - image_path: /assets/images/3616a-screen-copy.jpg
     image_title: Absent Beach
-    image_description: 'Oil on wood panel, W16 H11 D2, 2020'
+    image_description: 'Oil on wood panel, H11 W16 D2, 2020'
   - image_path: /assets/images/3612-screen-copy.jpg
     image_title: Portrait of a strawberry
     image_description: 'Oil on wood panel, H16.5 W11.5 D2, 2020'
