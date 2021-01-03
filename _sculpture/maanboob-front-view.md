@@ -100,8 +100,8 @@ images:
   - image_path: /assets/images/150 screen copy.jpg
     image_title: The Catch (front)
     image_description: |-
-      Found wood, found objects, mixed media
-      Dimensions: D75 x W40 x D25 cms, 2018
+      Materials:Found wood, found objects, mixed media
+      Dimensions (cm): D75 x W40 x D25, 2018
   - image_path: /assets/images/157 screen copy.jpg
     image_title: The Catch (back)
     image_description:
