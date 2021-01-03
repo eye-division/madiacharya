@@ -76,7 +76,7 @@ images:
     image_description: 'Oil and paper on Found Wood, W38 L37, 2017'
   - image_path: /assets/images/586ad25bc4595.jpg
     image_title: A Sailor's Life *SOLD*
-    image_description: 'W52 L40, Oil on Found Wood, 2016'
+    image_description: 'Oil on found wood, W52 L40, 2016'
 _options:
   image_path:
     width: 1200
