@@ -24,7 +24,7 @@ images:
       Materials: Cardboard, paper mache, netting, broken tennis balls, textiles,
       beadwork, womens' tights
 
-      Dimensions: H47 W22 D19 cms 2020
+      Dimensions (cm): H47 W22 D19, 2020
   - image_path: /assets/images/3155a-screen-copy.jpg
     image_title: Grow some balls (front)
     image_description:
