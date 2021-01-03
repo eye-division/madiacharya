@@ -61,7 +61,9 @@ images:
     image_title: The slug and lettuce (the future of English pubs)
     image_description: >-
       Materials: Found wood, bead, chicken wire, handmade paper, acrylic paint,
-      textiles, W9.5 H13.5 D14, 2020
+      textiles,
+
+      Dimensions (cm): W9.5 H13.5 D14, 2020
   - image_path: /assets/images/3326-screen-copy.jpg
     image_title: Hard to swallow (view 1)
     image_description: >-
