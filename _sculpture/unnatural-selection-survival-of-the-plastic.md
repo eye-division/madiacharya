@@ -24,7 +24,7 @@ images:
     image_title: Here to stay ( view 1)
     image_description: |-
       Materials: Found plastic, textiles, kapok, chicken wire, paper mache
-      Dimensions: W22 H22 D13 cms, 2019
+      Dimensions (cm): W22 H22 D13, 2019
   - image_path: /assets/images/093-screen-copy.jpg
     image_title: Here to stay (view 2)
     image_description:
