@@ -45,7 +45,7 @@ images:
       danger but also a choice..
   - image_path: /assets/images/madi-1-copy-2.jpg
     image_title: Hideaway
-    image_description:
+    image_description: 'Mixed media on found wood, W38 H48 D5, 2020'
   - image_path: /assets/images/mad1-3-copy-2.jpg
     image_title: Hideaway (detail 1)
     image_description:
