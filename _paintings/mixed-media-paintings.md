@@ -9,16 +9,16 @@ thumb_crop:
 images:
   - image_path: /assets/images/3560abscreen-copy.jpg
     image_title: Playing God
-    image_description: 'Mixed media on found wood, W66 H44 D5,  2020'
+    image_description: 'Mixed media on found wood, H44 W66 D5,  2020'
   - image_path: /assets/images/3561-screen-copy.jpg
     image_title: Playing God (detail)
     image_description:
   - image_path: /assets/images/3564a-screen-copy.jpg
     image_title: The Flower Market
-    image_description: 'Oil on found wood, collage, W26 H30, 2020'
+    image_description: 'Oil on found wood, collage, H30 W26 , 2020'
   - image_path: /assets/images/3574ascreen-copy.jpg
     image_title: Urban Dreams
-    image_description: 'Mixed media on found wood, W35 H40 D4, 2020'
+    image_description: 'Mixed media on found wood, H40 W35 D4, 2020'
   - image_path: /assets/images/3576-screen-copy.jpg
     image_title: Urban Dreams (detail 1)
     image_description:
@@ -27,7 +27,7 @@ images:
     image_description:
   - image_path: /assets/images/madi-1-copy-2.jpg
     image_title: Hideaway
-    image_description: 'Mixed media on found wood, W38 H48 D5, 2020'
+    image_description: 'Mixed media on found wood, H48 W38  D5, 2020'
   - image_path: /assets/images/mad1-3-copy-2.jpg
     image_title: Hideaway (detail 1)
     image_description:
@@ -36,13 +36,13 @@ images:
     image_description:
   - image_path: /assets/images/3558-screen-copy.jpg
     image_title: The Royal Iris
-    image_description: 'Mixed  media on found wood, W34 H32 D2, 2020'
+    image_description: 'Mixed  media on found wood, H32 W34  D2, 2020'
   - image_path: /assets/images/122-screen-copy.jpg
     image_title: STOP
     image_description: >-
       Oil on wood panel, assemblage
 
-      Dimensions: W57 H37 D20, 2018
+      Dimensions: H37 W57 D20, 2018
 
 
       Stop refers to a state of uncertainty in the context of imposed borders.
