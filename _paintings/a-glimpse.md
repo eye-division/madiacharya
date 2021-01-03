@@ -21,7 +21,7 @@ images:
     image_description: 'Oil on wood panel, assemblage, H15 W17.5, 2020'
   - image_path: /assets/images/3599a-screen-copy.jpg
     image_title: Backyard Bananas
-    image_description: 'Oil on wood panel, assesmblage, W16.5 H23.5 D1.5, 2020'
+    image_description: 'Oil on wood panel, assemblage, H23.5W16.5  D1.5, 2020'
   - image_path: /assets/images/3579-screen-copy.jpg
     image_title: Conversation with peacocks
     image_description: 'Oil on wood panel, H33 W21 D1.5, 2020'
