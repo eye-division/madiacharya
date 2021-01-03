@@ -16,7 +16,7 @@ images:
     image_title: Overlooked Beauty
     image_description: |-
       Materials: Mixed media on found wood, found rubber edging, 
-       Dimensions: H46 W45 D3.5, 2019
+      Dimensions: H46 W45 D3.5, 2019
   - image_path: /assets/images/090-screen-copy.jpg
     image_title: 'Overlooked Beauty, detail'
     image_description:
