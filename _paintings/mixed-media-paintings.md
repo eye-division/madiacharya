@@ -42,7 +42,7 @@ images:
     image_description: >-
       Oil on wood panel, assemblage
 
-      Dimensions: W57 H37 D20, 2018
+      Dimensions: H37 W57 D20, 2018
 
 
       Stop refers to a state of uncertainty in the context of imposed borders.
