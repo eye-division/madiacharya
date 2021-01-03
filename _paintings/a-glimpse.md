@@ -15,7 +15,7 @@ images:
     image_description: 'Oil on wood panel, H13 W18 , 2020'
   - image_path: /assets/images/3589a-screen-copy.jpg
     image_title: If I lived in a forest I would hang my dress from a tree
-    image_description: 'Oil on wood panel, W23 H20 D1.5, 2020'
+    image_description: 'Oil on wood panel, H20 W23 D1.5, 2020'
   - image_path: /assets/images/3592-screen-copy.jpg
     image_title: Pair-a-dice
     image_description: 'Oil on wood panel, assenblage, W17.5 H15, 2020'
