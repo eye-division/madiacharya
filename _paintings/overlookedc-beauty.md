@@ -31,7 +31,7 @@ images:
   - image_path: /assets/images/077-screen-copy.jpg
     image_title: Look at me now
     image_description: |-
-      Materials: Mixed media on found wood
+      Materials: Mixed media on found wood, found rubber frame,
       Dimensions (cm): H31 W30 D3.5, 2017
   - image_path: /assets/images/081-screen-copy.jpg
     image_title: 'Look at me now, detail'
