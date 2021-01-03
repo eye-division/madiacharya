@@ -15,8 +15,8 @@ images:
   - image_path: /assets/images/088-screen-copy.jpg
     image_title: Overlooked Beauty
     image_description: |-
-      Oil , mirrors and textiles on found wood, found rubber edging, 2019
-      W45 H46 D3.5 cms
+      Materials: Mixed media on found wood, found rubber edging, 
+       Dimensions: H46 W45 D3.5, 2019
   - image_path: /assets/images/090-screen-copy.jpg
     image_title: 'Overlooked Beauty, detail'
     image_description:
