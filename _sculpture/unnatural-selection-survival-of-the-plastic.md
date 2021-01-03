@@ -68,7 +68,7 @@ images:
     image_title: His heart is in the jungle (view1)
     image_description: |-
       Materials: Found Plastic, textiles, acrylic paint, bead
-      Dimensions: W19 H45 D15 cms, 2020
+      Dimensions (cm): W19 H45 D15, 2020
   - image_path: /assets/images/3171-screen-copy.jpg
     image_title: His heart in the jungle (detail)
     image_description:
