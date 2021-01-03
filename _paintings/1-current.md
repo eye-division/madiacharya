@@ -37,7 +37,7 @@ images:
     image_description: 'Oil on found wood, shells,  H53 W45.5 D3, 2019'
   - image_path: /assets/Life is elsewhere copy.jpg
     image_title: Life is Elsewhere
-    image_description: 'Oil on found wood, shell,  W26 H32, 2019'
+    image_description: 'Oil on found wood, shell,  H32 W26 , 2019'
   - image_path: /assets/The house he grew up in copy.jpg
     image_title: The house he grew up in
     image_description: 'Oil on found wood, H30 W29, 2019'
