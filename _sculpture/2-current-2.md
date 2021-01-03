@@ -74,8 +74,8 @@ images:
   - image_path: /assets/images/177 screen copy.jpg
     image_title: Chambers (front)
     image_description: |-
-      Found toy, found wood, mixed media
-      Dimensions: H28x D24x W20 cms, 2018
+      Materials: Found toy, found wood, mixed media
+      Dimensions (cm): H28x D24x W20,  2018
   - image_path: /assets/images/179 screen copy.jpg
     image_title: Chambers (side)
     image_description:
