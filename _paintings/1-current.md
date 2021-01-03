@@ -34,7 +34,7 @@ images:
     image_description: 'Oil on found wood, H33 X W33, 2020'
   - image_path: /assets/I never promised you a rose garden copy.jpg
     image_title: I never promised you a rose garden *SOLD*
-    image_description: 'W45.5  L53 D3, Oil on found wood, shells, 2019'
+    image_description: 'Oil on found wood, shells, W45.5  L53 D3, 2019'
   - image_path: /assets/Life is elsewhere copy.jpg
     image_title: Life is Elsewhere
     image_description: |-
