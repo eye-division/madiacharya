@@ -24,7 +24,7 @@ images:
       Materials: Cardboard, paper mache, netting, broken tennis balls, textiles,
       beadwork, womens' tights
 
-      Dimensions: H47 W22 D19 cms 2020
+      Dimensions (cm): H47 W22 D19, 2020
   - image_path: /assets/images/3155a-screen-copy.jpg
     image_title: Grow some balls (front)
     image_description:
@@ -34,14 +34,15 @@ images:
   - image_path: /assets/images/022-screen-copy.jpg
     image_title: 'Kicked the Bucket (front, left)'
     image_description: >-
+      Materials: Found wood, found plastic, bead work, textiles, hair extensions
+
+      Dimensions (cm): W75 H72 D35, 2019
+
+
       This work is made with human hair extensions, found wood, found broken
       bucket and a found and adorned plastic ball made to represent genitalia.
       This work is a reference to death as well as considering a more literal
-      interpretation. 
-
-      Materials: Found wood, found plastic, bead work, textiles, hair extensions
-
-      Dimensions: W75 H72 D35 cms
+      interpretation.
   - image_path: /assets/images/026 screen copy.jpg
     image_title: Kicked the Bucket (back)
     image_description:
@@ -51,14 +52,15 @@ images:
   - image_path: /assets/images/002b-screen-copy.jpg
     image_title: Fake it till you make it (front)
     image_description: >-
+      Materials: Found wood, found objects, textiles, bead work, acrylic paint
+
+      Dimensions (cm): W83 H78 D27, 2019
+
+
       Fake it till you make it incorporates a piece of charred wood found whilst
       walking along the river bank in Oxford with other found materials and
       textiles. The mask refers to the idea of putting on an act until playful
-      pretense becomes reality. 
-
-      Materials: Found wood, found objects, textiles, bead work, acrylic paint
-
-      Dimensions: W83 H78 D27 cms
+      pretense becomes reality.
   - image_path: /assets/images/009b-screen-copy.jpg
     image_title: Fake it till you make it (back)
     image_description:
@@ -68,15 +70,16 @@ images:
   - image_path: /assets/images/034-screen-copy.jpg
     image_title: Burning Desire (front)
     image_description: >-
+      Materials: Found wood, pyrography, acrylic paint, jewellery
+
+      Dimensions (cm): W25 H60 D25, 2019
+
+
       Burning Desire is created from a piece of yew found in a forest. The wood
       is burnt into using a pyrography tool as a way of giving the sculpture a
       tattoo, comparing the surface of the wood to skin. The dolls arm jutting
       out of the side explores the possibility that disparate materials can
-      coexist seamlessly, one merging effortlessly into the other. 
-
-      Materials: Found wood, pyrography, acrylic paint, jewellery
-
-      Dimensions: W25 H60 D25 cms
+      coexist seamlessly, one merging effortlessly into the other.
   - image_path: /assets/images/039-screen-copy.jpg
     image_title: Burning Desire (back)
     image_description:
@@ -86,8 +89,8 @@ images:
   - image_path: /assets/images/111-screen-copy.jpg
     image_title: Mannboob (front)
     image_description: |-
-      Found objects, mixed media
-      Dimensions: H112 x W50 x D25 cms, 2018
+      Materials: Found objects, mixed media
+      Dimensions (cm): H112 x W50 x D25, 2018
   - image_path: /assets/images/173 screen copy.jpg
     image_title: Mannboob (back)
     image_description:
@@ -97,8 +100,8 @@ images:
   - image_path: /assets/images/150 screen copy.jpg
     image_title: The Catch (front)
     image_description: |-
-      Found wood, found objects, mixed media
-      Dimensions: D75 x W40 x D25 cms, 2018
+      Materials:Found wood, found objects, mixed media
+      Dimensions (cm): D75 x W40 x D25, 2018
   - image_path: /assets/images/157 screen copy.jpg
     image_title: The Catch (back)
     image_description:
@@ -108,8 +111,8 @@ images:
   - image_path: /assets/images/122 screen copy.jpg
     image_title: Life's a bitch and then you thrive
     image_description: |-
-      Found wood, found objects, mixed media
-      Dimensions: 100 x 45 x 35 cms, 2018
+      Materials: Found wood, found objects, mixed media
+      Dimensions (cm): 100 x 45 x 35, 2018
   - image_path: /assets/images/125 screen copy.jpg
     image_title: Life's a bitch and then you thrive (2)
     image_description:
@@ -119,8 +122,8 @@ images:
   - image_path: /assets/images/154 screen copy.jpg
     image_title: Need to get out more
     image_description: |-
-      Found wood, found objects, mixed media
-      Dimensions: 100 x 40 x 30 cms, 2018
+      Materials: Found wood, found objects, mixed media
+      Dimensions (cm): 100 x 40 x 30, 2018
   - image_path: /assets/images/159 screen copy.jpg
     image_title: Need to get out more (back)
     image_description:
