@@ -52,9 +52,9 @@ images:
   - image_path: /assets/images/575677f6d4ae2.jpg
     image_title: Those Long Hot Summers (front)
     image_description: >-
-      Found Plastic, found wood, mixed media, 
+      Materials: Found Plastic, found wood, mixed media, 
 
-      Dimensions: H125 D15 W65 cms, 2017
+      Dimensions (cm): H125 D15 W65, 2017
 
 
       This work is created using a found plastic table which accidentally got
