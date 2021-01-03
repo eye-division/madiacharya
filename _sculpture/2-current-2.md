@@ -52,8 +52,8 @@ images:
   - image_path: /assets/images/191 screen copy.jpg
     image_title: I Feel Free (front)
     image_description: |-
-      Found objects, charred wood, mixed media, 
-      Dimensions: 20 x 19x 16 cms, 2018
+      Materials: Found objects, charred wood, mixed media, 
+      Dimensions (cm): 20 x 19x 16, 2018
   - image_path: /assets/images/185 screen copy.jpg
     image_title: I Feel Free (side)
     image_description:
