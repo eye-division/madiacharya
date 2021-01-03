@@ -79,7 +79,7 @@ images:
     image_title: In memory of an injured blackbird (view 1)
     image_description: |-
       Materials: Found objects, found plastic, textiles
-      Dimensions: W22 H30 D28 cms, 2020
+      Dimensions (cm): W22 H30 D28, 2020
   - image_path: /assets/images/3203-screen-copy.jpg
     image_title: In memory of an injured blackbird (view 2)
     image_description:
