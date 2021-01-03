@@ -19,8 +19,8 @@ images:
   - image_path: /assets/images/59650c60b9de7.jpg
     image_title: Skating on Thin Ice (front)
     image_description: |-
-      Found wood, Found Objects, Mixed Media, 
-      H80 W120 D50 cms, 2017
+      Materials: Found wood, Found Objects, Mixed Media, 
+      Dimensions (cm): H80 W120 D50, 2017
   - image_path: /assets/images/59651203eef69.jpg
     image_title: back
     image_description:
@@ -30,8 +30,8 @@ images:
   - image_path: /assets/images/5965060e96778.jpg
     image_title: Kerbside Ecstacy (front)
     image_description: |-
-      Found wood, Found Objects, Mixed Media,
-      Dimensions: H40 W80 D35 cms, 2017
+      Materials: Found wood, Found Objects, Mixed Media,
+      Dimensions (cm): H40 W80 D35, 2017
   - image_path: /assets/images/59650712982eb.jpg
     image_title: detail
     image_description:
@@ -41,8 +41,8 @@ images:
   - image_path: /assets/images/59650e978c974.jpg
     image_title: Let it Grow (front)
     image_description: |-
-      Found wood, Found Objects, Mixed Media
-      Dimensions: H40 W25 D15 cms, 2017
+      Materials: Found wood, Found Objects, Mixed Media
+      Dimensions (cm): H40 W25 D15, 2017
   - image_path: /assets/images/59650f2f629f7.jpg
     image_title: detail
     image_description:
@@ -52,9 +52,9 @@ images:
   - image_path: /assets/images/575677f6d4ae2.jpg
     image_title: Those Long Hot Summers (front)
     image_description: >-
-      Found Plastic, found wood, mixed media, 
+      Materials: Found Plastic, found wood, mixed media, 
 
-      Dimensions: H125 D15 W65 cms, 2017
+      Dimensions (cm): H125 D15 W65, 2017
 
 
       This work is created using a found plastic table which accidentally got
@@ -73,8 +73,8 @@ images:
   - image_path: /assets/images/575679d2ce2a5.jpg
     image_title: Batik Orifice (front)
     image_description: |-
-      Found wood, found plastic, mixed media, 
-      Dimensions: H70 D35 W40 cms, 2017
+      Materials: Found wood, found plastic, mixed media, 
+      Dimensions (cm): H70 D35 W40, 2017
   - image_path: /assets/images/575679f8bf174.jpg
     image_title: Batik Orifice (back)
     image_description:
@@ -99,4 +99,3 @@ _comments:
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
 ---
-
