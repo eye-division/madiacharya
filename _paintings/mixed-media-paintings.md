@@ -9,7 +9,9 @@ thumb_crop:
 images:
   - image_path: /assets/images/3560abscreen-copy.jpg
     image_title: Playing God
-    image_description:
+    image_description: |-
+      Materials: Oil paint and newsprint on found wood
+      W66 H44 D5 2020
   - image_path: /assets/images/3561-screen-copy.jpg
     image_title: Playing God (detail)
     image_description:
