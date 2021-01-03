@@ -52,8 +52,8 @@ images:
   - image_path: /assets/images/191 screen copy.jpg
     image_title: I Feel Free (front)
     image_description: |-
-      Found objects, charred wood, mixed media, 
-      Dimensions: 20 x 19x 16 cms, 2018
+      Materials: Found objects, charred wood, mixed media, 
+      Dimensions (cm): 20 x 19x 16, 2018
   - image_path: /assets/images/185 screen copy.jpg
     image_title: I Feel Free (side)
     image_description:
@@ -63,8 +63,8 @@ images:
   - image_path: /assets/images/235 screen copy.jpg
     image_title: Don't Despair there is so much to live more (back)
     image_description: |-
-      Found wood, found objects, mixed media
-      Dimensions: H41 x W19 x D18 cms, 2018
+      Materials: Found wood, found objects, mixed media
+      Dimensions (cm): H41 x W19 x D18, 2018
   - image_path: /assets/images/236 screen copy.jpg
     image_title: Don't Despair...
     image_description:
@@ -74,8 +74,8 @@ images:
   - image_path: /assets/images/177 screen copy.jpg
     image_title: Chambers (front)
     image_description: |-
-      Found toy, found wood, mixed media
-      Dimensions: H28x D24x W20 cms, 2018
+      Materials: Found toy, found wood, mixed media
+      Dimensions (cm): H28x D24x W20,  2018
   - image_path: /assets/images/179 screen copy.jpg
     image_title: Chambers (side)
     image_description:
@@ -85,8 +85,8 @@ images:
   - image_path: /assets/images/170 screen copy.jpg
     image_title: Hollow Victory (front)
     image_description: |-
-      Found toy, found wood, mixed media
-      Dimensions: H35 X D15 X W15 cms, 2018
+      Materials: Found toy, found wood, mixed media
+      Dimensions (cms): H35 X D15 X W15, 2018
   - image_path: /assets/images/174 screen copy.jpg
     image_title: Hollow Victory (side)
     image_description:
@@ -96,8 +96,8 @@ images:
   - image_path: /assets/images/5757452d45548.jpg
     image_title: Sikim (side)
     image_description: |-
-      Found wood, found toy, mixed media,
-      Dimensions: H22 D26 W20 cms, 2016
+      Materials:Found wood, found toy, mixed media,
+      Dimensions (cm): H22 D26 W20, 2016
   - image_path: /assets/images/57567bc338882.jpg
     image_title: Sikim (front)
     image_description:
