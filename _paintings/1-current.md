@@ -73,7 +73,7 @@ images:
     image_description: 'Oil on found wood, W38 L32.5, 2016'
   - image_path: /assets/images/586ad7d977a1a.jpg
     image_title: Something in the Way
-    image_description: 'L38 L37, Oil and paper on Found Wood, 2017'
+    image_description: 'Oil and paper on Found Wood, W38 L37, 2017'
   - image_path: /assets/images/586ad25bc4595.jpg
     image_title: A Sailor's Life *SOLD*
     image_description: 'W52 L40, Oil on Found Wood, 2016'
