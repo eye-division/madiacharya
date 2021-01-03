@@ -63,8 +63,8 @@ images:
   - image_path: /assets/images/235 screen copy.jpg
     image_title: Don't Despair there is so much to live more (back)
     image_description: |-
-      Found wood, found objects, mixed media
-      Dimensions: H41 x W19 x D18 cms, 2018
+      Materials: Found wood, found objects, mixed media
+      Dimensions (cm): H41 x W19 x D18, 2018
   - image_path: /assets/images/236 screen copy.jpg
     image_title: Don't Despair...
     image_description:
