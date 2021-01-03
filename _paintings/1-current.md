@@ -55,7 +55,7 @@ images:
     image_description: 'Oil on Found Wood, W27 L27, 2017'
   - image_path: /assets/images/57880bb94a963.jpg
     image_title: Bogainvillea Clown
-    image_description: 'W31 L34.5 cms, Oil on Found Wood, 2017'
+    image_description: 'Oil on Found Wood, W31 L34.5, 2017'
   - image_path: /assets/images/5964df6ac6d7b.jpg
     image_title: Solid Uncertainty
     image_description: 'W42 L37 cms, Oil on Found Wood, 2017'
