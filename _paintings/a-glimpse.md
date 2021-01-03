@@ -33,7 +33,7 @@ images:
     image_description: 'Oil on wood panel, assemblage, H20 W18 , 2020'
   - image_path: /assets/images/3584a-screen-copy.jpg
     image_title: Tilt
-    image_description: 'Oil on charred wood panel, W14.5 X H34, 2020'
+    image_description: 'Oil on charred wood panel, H34  W14.5, 2020'
   - image_path: /assets/images/3616a-screen-copy.jpg
     image_title: Absent Beach
     image_description: 'Oil on wood panel, W16 H11 D2, 2020'
