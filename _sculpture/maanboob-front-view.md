@@ -52,14 +52,15 @@ images:
   - image_path: /assets/images/002b-screen-copy.jpg
     image_title: Fake it till you make it (front)
     image_description: >-
+      Materials: Found wood, found objects, textiles, bead work, acrylic paint
+
+      Dimensions (cm): W83 H78 D27, 2019
+
+
       Fake it till you make it incorporates a piece of charred wood found whilst
       walking along the river bank in Oxford with other found materials and
       textiles. The mask refers to the idea of putting on an act until playful
-      pretense becomes reality. 
-
-      Materials: Found wood, found objects, textiles, bead work, acrylic paint
-
-      Dimensions: W83 H78 D27 cms
+      pretense becomes reality.
   - image_path: /assets/images/009b-screen-copy.jpg
     image_title: Fake it till you make it (back)
     image_description:
