@@ -31,8 +31,8 @@ images:
   - image_path: /assets/images/077-screen-copy.jpg
     image_title: Look at me now
     image_description: |-
-      Oil paint and Newsprint on found wood, 2018
-      W30 L31 D3.5 cms
+      Materials: Mixed media on found wood
+      Dimensions (cm): H31 W30 D3.5, 2017
   - image_path: /assets/images/081-screen-copy.jpg
     image_title: 'Look at me now, detail'
     image_description:
