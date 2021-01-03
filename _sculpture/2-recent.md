@@ -20,8 +20,8 @@ images:
   - image_path: /assets/images/55cd1cdcf17e6.jpg
     image_title: The Bride (side)
     image_description: |-
-      Found Wood, found objects, 
-      Dimensions: H40 D110 W100 cms, 2016
+      Materials: Found Wood, found objects, 
+      Dimension (cm): H40 D110 W100, 2016
   - image_path: /assets/images/55cd1d1694d1e.jpg
     image_title: The Bride (front)
     image_description:
@@ -31,8 +31,8 @@ images:
   - image_path: /assets/images/55cd21c575ea2.jpg
     image_title: The Bridegroom (front)
     image_description: |-
-      Found wood, found objects, mixed media, 
-      Dimensions: H110 D50 W50 cms, 2017
+      Materials:Found wood, found objects, mixed media, 
+      Dimensions (cm): H110 D50 W50, 2017
   - image_path: /assets/images/55cd223f44d11.jpg
     image_title: The Bridegroom (back)
     image_description:
@@ -57,4 +57,3 @@ _comments:
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
 ---
-
