@@ -61,7 +61,7 @@ images:
     image_description: 'Oil on Found Wood, W42 L37, 2017'
   - image_path: /assets/images/57880cf652f12.jpg
     image_title: Jam Lilies
-    image_description: 'W32 L25.5 cms, Oil on Found Wood, 2017'
+    image_description: 'Oil on Found Wood, W32 L25.5, 2017'
   - image_path: /assets/images/5964dd73cc28f.jpg
     image_title: Rani Victoria
     image_description: 'W29  L27 cms, oil on Found Wood, 2017'
