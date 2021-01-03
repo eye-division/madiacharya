@@ -49,7 +49,7 @@ images:
     image_description: 'Oil on Found Wood, H32.5 W31 , 2016'
   - image_path: /assets/images/5964dc1c2325a.jpg
     image_title: Perfect Ambassador
-    image_description: 'Oil on Found Wood, W27 L27, 2017'
+    image_description: 'Oil on Found Wood, H27 W27, 2017'
   - image_path: /assets/images/5964db500acf2.jpg
     image_title: Dolls are a Part
     image_description: 'Oil on Found Wood, W27 L27, 2017'
