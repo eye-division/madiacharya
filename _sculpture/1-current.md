@@ -19,8 +19,8 @@ images:
   - image_path: /assets/images/59650c60b9de7.jpg
     image_title: Skating on Thin Ice (front)
     image_description: |-
-      Found wood, Found Objects, Mixed Media, 
-      H80 W120 D50 cms, 2017
+      Materials: Found wood, Found Objects, Mixed Media, 
+      Dimensions (cm): H80 W120 D50, 2017
   - image_path: /assets/images/59651203eef69.jpg
     image_title: back
     image_description:
@@ -99,4 +99,3 @@ _comments:
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
 ---
-
