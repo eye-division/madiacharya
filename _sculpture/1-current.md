@@ -30,8 +30,8 @@ images:
   - image_path: /assets/images/5965060e96778.jpg
     image_title: Kerbside Ecstacy (front)
     image_description: |-
-      Found wood, Found Objects, Mixed Media,
-      Dimensions: H40 W80 D35 cms, 2017
+      Materials: Found wood, Found Objects, Mixed Media,
+      Dimensions (cm): H40 W80 D35, 2017
   - image_path: /assets/images/59650712982eb.jpg
     image_title: detail
     image_description:
