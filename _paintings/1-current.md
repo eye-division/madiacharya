@@ -64,7 +64,7 @@ images:
     image_description: 'Oil on Found Wood, H25.5 W32,  2017'
   - image_path: /assets/images/5964dd73cc28f.jpg
     image_title: Rani Victoria
-    image_description: 'Oil on found wood, W29  L27, 2017'
+    image_description: 'Oil on found wood, H27 W29, 2017'
   - image_path: /assets/images/5964defb95136.jpg
     image_title: Wooden Ships
     image_description: 'Oil on found Wood, W34.5 H27.5, 2017'
