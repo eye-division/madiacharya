@@ -89,8 +89,8 @@ images:
   - image_path: /assets/images/111-screen-copy.jpg
     image_title: Mannboob (front)
     image_description: |-
-      Found objects, mixed media
-      Dimensions: H112 x W50 x D25 cms, 2018
+      Materials: Found objects, mixed media
+      Dimensions (cm): H112 x W50 x D25, 2018
   - image_path: /assets/images/173 screen copy.jpg
     image_title: Mannboob (back)
     image_description:
