@@ -18,7 +18,7 @@ images:
     image_description: 'Oil on found wood, collage, W26 H30, 2020'
   - image_path: /assets/images/3574ascreen-copy.jpg
     image_title: Urban Dreams
-    image_description:
+    image_description: 'Mixed media on found wood, W35 H40 D4, 2020'
   - image_path: /assets/images/3576-screen-copy.jpg
     image_title: Urban Dreams (detail 1)
     image_description:
