@@ -92,7 +92,7 @@ images:
       Materials: Found plastic, textiles, hand made paper, beadwork, acrylic
       paint
 
-      Dimensions: W11 H17.5 D14.5 cms, 2020
+      Dimensions (cm): W11 H17.5 D14.5, 2020
   - image_path: /assets/images/3276-screen-copy.jpg
     image_title: A shell of the future (view 2)
     image_description:
