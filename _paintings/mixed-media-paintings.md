@@ -15,7 +15,7 @@ images:
     image_description:
   - image_path: /assets/images/3564a-screen-copy.jpg
     image_title: The Flower Market
-    image_description: 'Oil on found wood, collage, W26 H30, 2020'
+    image_description: 'Oil on found wood, collage, H30 W26 , 2020'
   - image_path: /assets/images/3574ascreen-copy.jpg
     image_title: Urban Dreams
     image_description: 'Mixed media on found wood, W35 H40 D4, 2020'
