@@ -43,7 +43,7 @@ images:
     image_description: 'Oil on found wood, L30 W29, 2019'
   - image_path: /assets/images/57880c5943af5.jpg
     image_title: Curtain Call
-    image_description: 'W25.5 L32.5, Oil on Found Wood, 2017'
+    image_description: 'Oil on Found Wood, W25.5 L32.5, 2017'
   - image_path: /assets/images/57880aeee9cf7.jpg
     image_title: Cock Fighting
     image_description: 'W31 L32.5, Oil on Found Wood, 2016'
