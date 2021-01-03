@@ -27,7 +27,7 @@ images:
     image_description:
   - image_path: /assets/images/3558-screen-copy.jpg
     image_title: The Royal Iris
-    image_description:
+    image_description: 'Mixed  media on found wood, W34 H32 D2, 2020'
   - image_path: /assets/images/3559-screen-copy.jpg
     image_title: The Royal Iris (detail)
     image_description:
