@@ -20,8 +20,8 @@ images:
   - image_path: /assets/images/55cd1cdcf17e6.jpg
     image_title: The Bride (side)
     image_description: |-
-      Found Wood, found objects, 
-      Dimensions: H40 D110 W100 cms, 2016
+      Materials: Found Wood, found objects, 
+      Dimension (cm): H40 D110 W100, 2016
   - image_path: /assets/images/55cd1d1694d1e.jpg
     image_title: The Bride (front)
     image_description:
@@ -57,4 +57,3 @@ _comments:
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
 ---
-
