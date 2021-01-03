@@ -38,7 +38,9 @@ images:
     image_description:
   - image_path: /assets/images/3572a-screen-copy-2.jpg
     image_title: That Island Feeling
-    image_description: 'Mixed media on found wood, found rubber, W47 H43 D3, 2020'
+    image_description: |-
+      Materials: Mixed media on found wood, found rubber frame
+      Dimensions (cm): H43 W47 D3, 2020
   - image_path: /assets/images/3572-screen-copy.jpg
     image_title: 'That island feeling, detail'
     image_description:
