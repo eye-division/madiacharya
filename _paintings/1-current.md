@@ -58,7 +58,7 @@ images:
     image_description: 'Oil on found wood, H34.5 W31, 2017'
   - image_path: /assets/images/5964df6ac6d7b.jpg
     image_title: Solid Uncertainty
-    image_description: 'Oil on Found Wood, W42 L37, 2017'
+    image_description: 'Oil on found wood, W42 L37, 2017'
   - image_path: /assets/images/57880cf652f12.jpg
     image_title: Jam Lilies
     image_description: 'Oil on Found Wood, W32 L25.5, 2017'
