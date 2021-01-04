@@ -49,6 +49,10 @@ images:
       It is created using found wood collected from the coast and references the
       kind of sign that maybe found at a railway crossing. There is a sense of
       danger but also a choice..
+  - image_path: >-
+      /assets/images/madi-acharya-baskerville-oil-on-found-wood-w-57-h-37-d-20-copy.jpg
+    image_title: STOP (detail)
+    image_description:
 _options:
   image_path:
     width: 1200
