@@ -7,7 +7,7 @@ archive: false
 main_image_path: /assets/images/3561-screen-copy.jpg
 thumb_crop:
 images:
-  - image_path: /assets/images/3560abscreen-copy.jpg
+  - image_path: /assets/images/3560a-print-copy.jpg
     image_title: Playing God
     image_description: 'Mixed media on found wood, H44 W66 D5,  2020'
   - image_path: /assets/images/3561-screen-copy.jpg
