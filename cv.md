@@ -48,8 +48,6 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2017 **Material World, An International Perspective**, SJE Arts, Oxford
 
-2017 **Between the Lines,** Espacio Gallery, London
-
 2017 **The Cellar,**Lubomirov/Angus-Hughes, London
 
 2016 **Psychedelic Breakfast,**Vinyl Deptford, Deptford X Fringe, London
@@ -62,17 +60,13 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2016 **Dis locate**, VW Showroom, Oxford
 
-2016 **Eves & Liliths**, Espacio Gallery, London
-
 2015 **Unravelling Time,**The Abbey at Sutton Courtenay, Oxfordshire
 
 2015 **Zeitgeist Summer Exhibition**, Bond House Gallery, ASC Studios, London
 
 2014 **‘Alps and Spires’** Museum of Oxford, Oxford
 
-2013 **‘Sanctuary’ Home, Away and Common Ground, Part 2’,**
-
-Brunei Gallery, SOAS, University of London
+2013 **‘Sanctuary’ Home, Away and Common Ground, Part 2’,**Brunei Gallery, SOAS, University of London
 
 2013 **L’Enchantement des Livres,**La Masion I’international,Grenoble,France
 
@@ -80,9 +74,7 @@ Brunei Gallery, SOAS, University of London
 
 2011 **Immediate Territory,** Magdalen Road Studios, Oxford (ACE, Arts Council England funded)
 
-2011 **‘Sanctuary’ Home, Away and Common Ground, Part 1,**National
-
-Museum of Kenya, Nairobi
+2011 **‘Sanctuary’ Home, Away and Common Ground, Part 1,**National Museum of Kenya, Nairobi
 
 2010 **Grassroots & Glass Ceilings,**The Jam Factory, Oxford
 
@@ -90,15 +82,13 @@ Museum of Kenya, Nairobi
 
 2007 **Umfeld&lt;-&gt;Inwelt**, Frauenmuseum, Bonn, Germany
 
-2007 ‘**Stories, Memories and Concepts’** at La Tour de Crest, (ACE funde
+2007 ‘**Stories, Memories and Concepts’** at La Tour de Crest, (ACE funded)
 
 ### CURATORIAL PROJECTS
 
 2018&nbsp;**Objection**, Angus Hughes Gallery, London
 
-2009 **Jam: Cultural Congestions in Contemporary Asian Art,** artist-curator with Dr Outi Remes, South Hill
-
-Park, Bracknell (funded by ACE, National Culture and Arts Foundation, Taiwan)
+2009 **Jam: Cultural Congestions in Contemporary Asian Art,** artist-curator with Dr Outi Remes, South Hill Park, Bracknell (funded by ACE, National Culture and Arts Foundation, Taiwan)
 
 ### PRIZES, AWARDS, OPEN SUBMISSIONS
 
