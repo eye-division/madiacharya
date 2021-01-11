@@ -17,7 +17,7 @@ images:
     image_title: If I lived in a forest I would hang my dress from a tree
     image_description: 'Oil on wood panel, H20 W23 D1.5, 2020'
   - image_path: /assets/images/3592-screen-copy.jpg
-    image_title: Pair-a-dice
+    image_title: Pair-a-dise
     image_description: 'Oil on wood panel, assemblage, H15 W17.5, 2020'
   - image_path: /assets/images/3599a-screen-copy.jpg
     image_title: Backyard Bananas
