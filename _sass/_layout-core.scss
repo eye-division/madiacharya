@@ -420,6 +420,9 @@ a.next, a.prev {
 }
 
 .signup {
+    h2 {
+        text-align: left;
+    }
     @include span-columns(12);
     @include media ($tablet) {
         @include span-columns(6);
