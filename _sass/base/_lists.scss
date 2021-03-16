@@ -21,7 +21,12 @@ ol {
   margin-bottom: $small-spacing;
   padding-left: $base-spacing;
 }
-
+ul.default-ul,
+ol.default-ol {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
 dl {
   margin-bottom: $small-spacing;
 
@@ -32,5 +37,30 @@ dl {
 
   dd {
     margin: 0;
+  }
+}
+
+.list--horizontal {
+  list-style-type: none;
+  margin: 0;
+  //display: inline;
+
+  li {
+    display: inline;
+    padding-right: 1em;
+  }
+}
+.list--bulleted {
+  list-style-type: none;
+  list-style-position: inside;
+  margin-left: 15px;
+  margin-bottom: 10px;
+
+  li::before {
+    content: "•";
+    color: $action-color;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
   }
 }

@@ -383,7 +383,7 @@ a.next, a.prev {
 .site-footer {
 
     @include outer-container($page-width);
-
+    text-align: center;
     padding: 1em;
 
     .wrapper {
