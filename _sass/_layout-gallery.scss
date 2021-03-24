@@ -74,8 +74,29 @@
 
 .lb-dataContainer {
     background: $black;
-    padding: 1em
+    padding: 1em;
 }
+.lb-data {
+
+    .lb-caption {
+        font-weight: inherit;
+        font-size: inherit;
+        line-height: 1.6;
+
+        a.button {
+            background: #464646;
+            color: white;
+            display: block;
+            padding: 10px;
+            margin: 10px 0;
+            max-width: 250px;
+        }
+
+    }
+
+}
+
+
 
 /* 2020 styleee */
 .gallery--list {

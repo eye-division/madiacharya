@@ -20,7 +20,7 @@ baseurl: ""
 url: "https://www.madiacharya-baskerville.org"
 cover:
 logo: "/siteicon.png"
-email: a.ward@eyedivision.com
+email: madi@madiacharya-baskerville.org
 
 # Build settings
 markdown: kramdown

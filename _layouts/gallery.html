@@ -19,7 +19,8 @@ layout: default
         <a href="{% include imgpath.html src=image.image_path width=1280 %}" class="galleryphoto" data-lightbox="gallery" data-title="{{ image.image_title }} - {{ image.image_description }}">
           {% include img.html src=image.image_path width=600 fit=clip alt=image.image_title %}
         </a>
-        <caption>{{ image.image_title }}</caption>
+        <caption>{{ image.image_title }}<br>
+        Mailto link here</caption>
       </div>
       {% endif %}
     {% endfor %}
