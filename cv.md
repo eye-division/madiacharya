@@ -24,7 +24,9 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### SOLO AND TWO PERSON EXHIBITIONS:
 
-2019&nbsp; '**I wish my hair was as long as yours**', Magdalen Art Space, Magdalen Road Studios, Oxford
+2021 **Ornithologie** hosted by Magdalen Road Studios, Oxford
+
+2019&nbsp; '**I wish my hair was as long as yours**', Magdalen Art Space, Oxford, &nbsp; [view video](https://vimeo.com/518543757){: target="_blank" rel="noopener"}
 
 2018 **&nbsp;‘Dancing with the corporeal’** no format Gallery, London with Artist Talk facilitated by Richard Dyer, (editor in chief, Third Text)
 
