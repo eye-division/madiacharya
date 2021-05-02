@@ -172,6 +172,8 @@ exploring the theme ‘Stories, Memories, Concepts’ (ACE funded)
 
 **by the way**, Exhibition Catalogue, 2019
 
+Artist of the month, selected by Axisweb, 2018 &nbsp; [https://www.axisweb.org/artist-of-the-month/2018/madi-acharya-baskerville/](https://www.axisweb.org/artist-of-the-month/2018/madi-acharya-baskerville/){: target="_blank" rel="noopener"}
+
 **Phantasms,road rage,feminism**, Review of This Year’s Model, The Human Stain by James Brewer http://www.allaboutshipping.co.uk/2017/01/07/phantasms-road-rage-feminism
 
 **Summer Exhibition Illustrated 2016**, Exhibition Catalogue
