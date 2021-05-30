@@ -94,7 +94,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### PRIZES, AWARDS, OPEN SUBMISSIONS
 
-2021 **Developing Your Creative Practice** award, Arts Council England
+2021 **Developing Your Creative Practice** Award, Arts Council England
 
 2021 **Artcan Open,** Cello Factory, London (selected by Gita Joshi)
 
