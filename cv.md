@@ -24,9 +24,11 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### SOLO AND TWO PERSON EXHIBITIONS:
 
+2021 **On The Road of Sea Stars,** Zuzushii Art Laboratory, Hastings,
+
 2021 **Ornithologie** hosted by Magdalen Road Studios, Oxford&nbsp; [view video](https://vimeo.com/518543757){: target="_blank" rel="noopener"}
 
-2019&nbsp; '**I wish my hair was as long as yours**', Magdalen Art Space, Oxford
+2019&nbsp; ‘**I wish my hair was as long as yours**’, Magdalen Art Space, Oxford
 
 2018 **&nbsp;‘Dancing with the corporeal’** no format Gallery, London with Artist Talk facilitated by Richard Dyer, (editor in chief, Third Text)
 
@@ -104,7 +106,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2020 **Summer Exhibition** Royal Society of Sculptors (selected by Nicky and Robert Wilson, founders of Jupitor Artland)
 
-2020 **'This Year's Model'** Studio 1:1 Gallery, London
+2020 **‘This Year’s Model’** Studio 1:1 Gallery, London
 
 2019 **Artcan Open**, Trinity Art Gallery, London
 
@@ -130,7 +132,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### COMMISSIONS
 
-2020 **'Cabinet of Curiosities'** participatory project commissioned by Modern Art Oxford as part of the public program for Kiki Smith exhibition, 'I am a Wanderer'.
+2020 **‘Cabinet of Curiosities’** participatory project commissioned by Modern Art Oxford as part of the public program for Kiki Smith exhibition, ‘I am a Wanderer’.
 
 2017 **Oxford Festival for the Arts**, commissioned to create wall based work for an Indian Tent (ACE Funded)
 
