@@ -32,10 +32,9 @@ images:
     image_title: Gone South
     image_description: Oil on wood panel, assemblage, H20 W18 , 2020
   - image_path: /assets/images/3584a-screen-copy.jpg
-    image_title: Tilt
-    image_description: |-
+    image_title: Tilt  *SOLD*
+    image_description: |
       Oil on charred wood panel, H34  W14.5, 2020
-      *SOLD*
   - image_path: /assets/images/3616a-screen-copy.jpg
     image_title: Absent Beach
     image_description: Oil on wood panel, H11 W16 D2, 2020
