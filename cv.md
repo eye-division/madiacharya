@@ -38,6 +38,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### SELECTED GROUP EXHIBITIONS
 
+2021 **Absent Authors,** APT Gallery London
+
 2020 **Groundwork\_APT Open Day,** APT Gallery, London
 
 2019 **Weave It\!** , Stour Space, London, curated by Decorating Dissidence
@@ -97,8 +99,6 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 ### PRIZES, AWARDS, OPEN SUBMISSIONS
 
 2021 **Developing Your Creative Practice** Award, Arts Council England
-
-2021 **Artcan Open,** Cello Factory, London (selected by Gita Joshi)
 
 2020 **RWA Open,** Royal West of England Academy, Bristo**l**
 
