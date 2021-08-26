@@ -144,6 +144,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### RESIDENCIES
 
+2021 **Willowbrook Festival**, Willowbrook Farm, Oxfordshire (ACE supported)
+
 2020 **Groundwork APT**, APT Gallery, London
 
 2011 **Sanctuary**, Neyri, Kenya
