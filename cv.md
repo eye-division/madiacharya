@@ -38,6 +38,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### SELECTED GROUP EXHIBITIONS
 
+2021 **Absent Authors,** APT Gallery London
+
 2020 **Groundwork\_APT Open Day,** APT Gallery, London
 
 2019 **Weave It\!** , Stour Space, London, curated by Decorating Dissidence
@@ -98,8 +100,6 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2021 **Developing Your Creative Practice** Award, Arts Council England
 
-2021 **Artcan Open,** Cello Factory, London (selected by Gita Joshi)
-
 2020 **RWA Open,** Royal West of England Academy, Bristo**l**
 
 2020 **New Emergency Art Unity Award** (shortlisted)
@@ -143,6 +143,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 2007 **Mentoring Commission**\: to work alongside ‘Making Marks’ a partnership<br>of Public artists for the East Oxford Health Centre sculpture commission
 
 ### RESIDENCIES
+
+2021 **Willowbrook Festival**, Willowbrook Farm, Oxfordshire (ACE supported)
 
 2020 **Groundwork APT**, APT Gallery, London
 
