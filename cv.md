@@ -38,6 +38,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### SELECTED GROUP EXHIBITIONS
 
+2021 **Displace,** Bloc Projects, Sheffield, curated by Uthra Rajgopal
+
 2021 **Absent Authors,** APT Gallery London
 
 2020 **Groundwork\_APT Open Day,** APT Gallery, London
@@ -97,6 +99,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 2009 **Jam: Cultural Congestions in Contemporary Asian Art,** artist-curator with Dr Outi Remes, South Hill Park, Bracknell (funded by ACE, National Culture and Arts Foundation, Taiwan)
 
 ### PRIZES, AWARDS, OPEN SUBMISSIONS
+
+2021 **Summer Exhibition,** Royal Society of Sculptors**,** London, selected by Sigrid Kirk
 
 2021 **Developing Your Creative Practice** Award, Arts Council England
 
