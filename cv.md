@@ -38,6 +38,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### SELECTED GROUP EXHIBITIONS
 
+2021 **Displace,** Bloc Projects, Sheffield, curated by Uthra Rajgopal
+
 2021 **Absent Authors,** APT Gallery London
 
 2020 **Groundwork\_APT Open Day,** APT Gallery, London
