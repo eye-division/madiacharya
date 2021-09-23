@@ -100,6 +100,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### PRIZES, AWARDS, OPEN SUBMISSIONS
 
+2021 **Summer Exhibition,** Royal Society of Sculptors**,** London, selected by Sigrid Kirk
+
 2021 **Developing Your Creative Practice** Award, Arts Council England
 
 2020 **RWA Open,** Royal West of England Academy, Bristo**l**
