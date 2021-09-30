@@ -24,6 +24,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### SOLO AND TWO PERSON EXHIBITIONS:
 
+2021 **My life as a bird,** Darl-e-and the Bear, Oxfordshire
+
 2021 **On The Road of Sea Stars,** Zuzushii Art Laboratory, Hastings,
 
 2021 **Ornithologie** hosted by Magdalen Road Studios, Oxford&nbsp; [view video](https://vimeo.com/518543757){: target="_blank" rel="noopener"}
