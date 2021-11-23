@@ -15,6 +15,15 @@ order_number:
 main_image_path: /assets/images/3331-screen-copy-2.jpg
 thumb_crop:
 images:
+  - image_path: /assets/images/575-screen-copy.jpg
+    image_title: Stand in blue (image 1)
+    image_description:
+  - image_path: /assets/images/580-screen-copy.jpg
+    image_title: Stand up in blue (image 2)
+    image_description:
+  - image_path: /assets/images/582-screen-copy.jpg
+    image_title: Stand up in blue (detail)
+    image_description:
   - image_path: /assets/images/3188a-screen-copy-1.jpg
     image_title: Caught up in red tape (image 1)
     image_description: |-
@@ -71,15 +80,6 @@ images:
       Dimensions (cm): W13 D11 H16,  2020
   - image_path: /assets/images/3328-screen-copy.jpg
     image_title: Hard to swallow (view 2)
-    image_description:
-  - image_path: /assets/images/575-screen-copy.jpg
-    image_title: Stand in blue (image 1)
-    image_description:
-  - image_path: /assets/images/580-screen-copy.jpg
-    image_title: Stand up in blue (image 2)
-    image_description:
-  - image_path: /assets/images/582-screen-copy.jpg
-    image_title: Stand up in blue (detail)
     image_description:
 _options:
   image_path:
