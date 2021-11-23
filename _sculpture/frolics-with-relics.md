@@ -75,6 +75,9 @@ images:
   - image_path: /assets/images/575-screen-copy.jpg
     image_title: Stand in blue (image 1)
     image_description:
+  - image_path: /assets/images/580-screen-copy.jpg
+    image_title: Stand up in blue (image 2)
+    image_description:
 _options:
   image_path:
     width: 1200
