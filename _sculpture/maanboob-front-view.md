@@ -150,6 +150,9 @@ images:
   - image_path: /assets/images/597-screen-copy.jpg
     image_title: Thanks for the ride (detail)
     image_description:
+  - image_path: /assets/images/627-screen-copy.jpg
+    image_title: I'm all eyes (image 1)
+    image_description:
 _options:
   image_path:
     width: 1200
