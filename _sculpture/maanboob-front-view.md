@@ -159,6 +159,9 @@ images:
   - image_path: /assets/images/634-screen-copy.jpg
     image_title: I'm all eyes (detail)
     image_description:
+  - image_path: /assets/images/5093ascreen-copy.jpg
+    image_title: 'Mirrorball Mirrorbust '
+    image_description:
 _options:
   image_path:
     width: 1200
