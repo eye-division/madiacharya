@@ -18,6 +18,15 @@ archive: false
 order_number: 1
 main_image_path: /assets/images/3157a-screen-copy-1.jpg
 images:
+  - image_path: /assets/images/5093ascreen-copy.jpg
+    image_title: 'Mirrorball Mirrorbust '
+    image_description:
+  - image_path: /assets/images/5114-screen-copy.jpg
+    image_title: Mirrorball Mirrorbust (detail 1)
+    image_description:
+  - image_path: /assets/images/5117-screen-copy.jpg
+    image_title: Mirrorball Mirrorbust (detail 2)
+    image_description:
   - image_path: /assets/images/627-screen-copy.jpg
     image_title: I'm all eyes (image 1)
     image_description:
@@ -158,15 +167,6 @@ images:
     image_description:
   - image_path: /assets/images/227 screen copy.jpg
     image_title: Trans-verse, (front, side view)
-    image_description:
-  - image_path: /assets/images/5093ascreen-copy.jpg
-    image_title: 'Mirrorball Mirrorbust '
-    image_description:
-  - image_path: /assets/images/5114-screen-copy.jpg
-    image_title: Mirrorball Mirrorbust (detail 1)
-    image_description:
-  - image_path: /assets/images/5117-screen-copy.jpg
-    image_title: Mirrorball Mirrorbust (detail 2)
     image_description:
 _options:
   image_path:
