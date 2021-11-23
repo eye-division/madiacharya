@@ -18,6 +18,24 @@ archive: false
 order_number: 1
 main_image_path: /assets/images/3157a-screen-copy-1.jpg
 images:
+  - image_path: /assets/images/627-screen-copy.jpg
+    image_title: I'm all eyes (image 1)
+    image_description:
+  - image_path: /assets/images/628-screen-copy.jpg
+    image_title: I'm all eyes (image 2)
+    image_description:
+  - image_path: /assets/images/634-screen-copy.jpg
+    image_title: I'm all eyes (detail)
+    image_description:
+  - image_path: /assets/images/587-screen-copy.jpg
+    image_title: 'Thanks for the ride (image 1) '
+    image_description:
+  - image_path: /assets/images/586-screen-copy.jpg
+    image_title: Thanks for the ride (image 2)
+    image_description:
+  - image_path: /assets/images/597-screen-copy.jpg
+    image_title: Thanks for the ride (detail)
+    image_description:
   - image_path: /assets/images/3157a-screen-copy.jpg
     image_title: Grow some balls (back)
     image_description: >-
@@ -140,24 +158,6 @@ images:
     image_description:
   - image_path: /assets/images/227 screen copy.jpg
     image_title: Trans-verse, (front, side view)
-    image_description:
-  - image_path: /assets/images/587-screen-copy.jpg
-    image_title: 'Thanks for the ride (image 1) '
-    image_description:
-  - image_path: /assets/images/586-screen-copy.jpg
-    image_title: Thanks for the ride (image 2)
-    image_description:
-  - image_path: /assets/images/597-screen-copy.jpg
-    image_title: Thanks for the ride (detail)
-    image_description:
-  - image_path: /assets/images/627-screen-copy.jpg
-    image_title: I'm all eyes (image 1)
-    image_description:
-  - image_path: /assets/images/628-screen-copy.jpg
-    image_title: I'm all eyes (image 2)
-    image_description:
-  - image_path: /assets/images/634-screen-copy.jpg
-    image_title: I'm all eyes (detail)
     image_description:
   - image_path: /assets/images/5093ascreen-copy.jpg
     image_title: 'Mirrorball Mirrorbust '
