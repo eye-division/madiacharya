@@ -18,6 +18,33 @@ archive: false
 order_number: 1
 main_image_path: /assets/images/3157a-screen-copy-1.jpg
 images:
+  - image_path: /assets/images/5093ascreen-copy.jpg
+    image_title: 'Mirrorball Mirrorbust '
+    image_description:
+  - image_path: /assets/images/5114-screen-copy.jpg
+    image_title: Mirrorball Mirrorbust (detail 1)
+    image_description:
+  - image_path: /assets/images/5117-screen-copy.jpg
+    image_title: Mirrorball Mirrorbust (detail 2)
+    image_description:
+  - image_path: /assets/images/627-screen-copy.jpg
+    image_title: I'm all eyes (image 1)
+    image_description:
+  - image_path: /assets/images/628-screen-copy.jpg
+    image_title: I'm all eyes (image 2)
+    image_description:
+  - image_path: /assets/images/634-screen-copy.jpg
+    image_title: I'm all eyes (detail)
+    image_description:
+  - image_path: /assets/images/587-screen-copy.jpg
+    image_title: 'Thanks for the ride (image 1) '
+    image_description:
+  - image_path: /assets/images/586-screen-copy.jpg
+    image_title: Thanks for the ride (image 2)
+    image_description:
+  - image_path: /assets/images/597-screen-copy.jpg
+    image_title: Thanks for the ride (detail)
+    image_description:
   - image_path: /assets/images/3157a-screen-copy.jpg
     image_title: Grow some balls (back)
     image_description: >-
@@ -32,7 +59,7 @@ images:
     image_title: Grow some balls (detail)
     image_description:
   - image_path: /assets/images/022-screen-copy.jpg
-    image_title: 'Kicked the Bucket (front, left)'
+    image_title: Kicked the Bucket (front, left)
     image_description: >-
       Materials: Found wood, found plastic, bead work, textiles, hair extensions
 
@@ -47,7 +74,7 @@ images:
     image_title: Kicked the Bucket (back)
     image_description:
   - image_path: /assets/images/023-screen-copy.jpg
-    image_title: 'Kicked the Bucket (front, right)'
+    image_title: Kicked the Bucket (front, right)
     image_description:
   - image_path: /assets/images/002b-screen-copy.jpg
     image_title: Fake it till you make it (front)
@@ -131,7 +158,7 @@ images:
     image_title: Need to get out more (detail)
     image_description:
   - image_path: /assets/images/231 screen copy.jpg
-    image_title: 'Trans-verse, (back)'
+    image_title: Trans-verse, (back)
     image_description: |-
       Found wood, found objects, mixed media
       Dimensions: 30 x 30 x 20 cms, 2018
@@ -139,7 +166,7 @@ images:
     image_title: Trans-verse (front)
     image_description:
   - image_path: /assets/images/227 screen copy.jpg
-    image_title: 'Trans-verse, (front, side view)'
+    image_title: Trans-verse, (front, side view)
     image_description:
 _options:
   image_path:
@@ -159,3 +186,5 @@ _comments:
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
 ---
+
+
