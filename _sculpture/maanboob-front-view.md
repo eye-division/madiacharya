@@ -162,6 +162,9 @@ images:
   - image_path: /assets/images/5093ascreen-copy.jpg
     image_title: 'Mirrorball Mirrorbust '
     image_description:
+  - image_path: /assets/images/5114-screen-copy.jpg
+    image_title: Mirrorball Mirrorbust (detail 1)
+    image_description:
 _options:
   image_path:
     width: 1200
