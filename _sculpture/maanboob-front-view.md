@@ -156,6 +156,9 @@ images:
   - image_path: /assets/images/628-screen-copy.jpg
     image_title: I'm all eyes (image 2)
     image_description:
+  - image_path: /assets/images/634-screen-copy.jpg
+    image_title: I'm all eyes (detail)
+    image_description:
 _options:
   image_path:
     width: 1200
