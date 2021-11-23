@@ -144,6 +144,9 @@ images:
   - image_path: /assets/images/587-screen-copy.jpg
     image_title: 'Thanks for the ride (image 1) '
     image_description:
+  - image_path: /assets/images/586-screen-copy.jpg
+    image_title: Thanks for the ride (image 2)
+    image_description:
 _options:
   image_path:
     width: 1200
