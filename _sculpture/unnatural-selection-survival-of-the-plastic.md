@@ -129,6 +129,9 @@ images:
   - image_path: /assets/images/5520-screen-copy.jpg
     image_title: Baby steps (image 1)
     image_description:
+  - image_path: /assets/images/5523-screen-copy.jpg
+    image_title: Baby Steps (image 2)
+    image_description:
 _options:
   image_path:
     width: 1200
