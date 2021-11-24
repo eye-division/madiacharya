@@ -117,6 +117,9 @@ images:
   - image_path: /assets/images/671-screen-copy.jpg
     image_title: Vitamin Orange (detail)
     image_description:
+  - image_path: /assets/images/5495-screen-copy.jpg
+    image_title: A bird in paradise (image 1)
+    image_description:
 _options:
   image_path:
     width: 1200
