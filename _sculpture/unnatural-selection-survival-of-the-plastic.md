@@ -126,6 +126,9 @@ images:
   - image_path: /assets/images/5511-screen-copy.jpg
     image_title: A bird in paradise (detail)
     image_description:
+  - image_path: /assets/images/5520-screen-copy.jpg
+    image_title: Baby steps (image 1)
+    image_description:
 _options:
   image_path:
     width: 1200
