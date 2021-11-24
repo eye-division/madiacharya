@@ -100,7 +100,7 @@ images:
     image_title: A shell of the future (detail)
     image_description:
   - image_path: /assets/images/641-screen-copy.jpg
-    image_title: The owl's castle (image 2)
+    image_title: The owl's castle (image 1 )
     image_description:
   - image_path: /assets/images/645-screen-copy.jpg
     image_title: The owl's castle (image 2)
