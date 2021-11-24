@@ -114,6 +114,9 @@ images:
   - image_path: /assets/images/667-screen-copy.jpg
     image_title: Vitamin Orange (image 2)
     image_description:
+  - image_path: /assets/images/671-screen-copy.jpg
+    image_title: Vitamin Orange (detail)
+    image_description:
 _options:
   image_path:
     width: 1200
