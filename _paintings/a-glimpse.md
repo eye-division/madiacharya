@@ -38,6 +38,9 @@ images:
   - image_path: /assets/images/3616a-screen-copy.jpg
     image_title: Absent Beach
     image_description: Oil on wood panel, H11 W16 D2, 2020
+  - image_path: /assets/images/5535a-the-sunflower-bee-copy.jpg
+    image_title: The sunflower bee
+    image_description:
   - image_path: /assets/images/3612-screen-copy.jpg
     image_title: Portrait of a strawberry
     image_description: Oil on wood panel, H16.5 W11.5 D2, 2020
@@ -47,9 +50,6 @@ images:
   - image_path: /assets/images/3587-screen-copy.jpg
     image_title: The Idler
     image_description: Oil on wood panel, bead work,  H18 W32, 2020
-  - image_path: /assets/images/5535a-the-sunflower-bee-copy.jpg
-    image_title: The sunflower bee
-    image_description:
 _options:
   image_path:
     width: 1200
