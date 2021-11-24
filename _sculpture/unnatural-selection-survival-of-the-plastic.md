@@ -99,6 +99,9 @@ images:
   - image_path: /assets/images/3279-screen-copy.jpg
     image_title: A shell of the future (detail)
     image_description:
+  - image_path: /assets/images/641-screen-copy.jpg
+    image_title: The owl's castle
+    image_description:
 _options:
   image_path:
     width: 1200
@@ -117,3 +120,4 @@ _comments:
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
 ---
+
