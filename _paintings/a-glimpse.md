@@ -47,6 +47,9 @@ images:
   - image_path: /assets/images/3587-screen-copy.jpg
     image_title: The Idler
     image_description: Oil on wood panel, bead work,  H18 W32, 2020
+  - image_path: /assets/images/5535a-the-sunflower-bee-copy.jpg
+    image_title: The sunflower bee
+    image_description:
 _options:
   image_path:
     width: 1200
@@ -65,5 +68,4 @@ _comments:
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
 ---
-
 
