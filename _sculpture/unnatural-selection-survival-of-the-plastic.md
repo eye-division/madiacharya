@@ -20,6 +20,42 @@ order_number:
 main_image_path: /assets/images/089-screen-copy-1.jpg
 thumb_crop:
 images:
+  - image_path: /assets/images/5495-screen-copy.jpg
+    image_title: A bird in paradise (image 1)
+    image_description:
+  - image_path: /assets/images/5500-screen-copy.jpg
+    image_title: A bird in paradise (image 2)
+    image_description:
+  - image_path: /assets/images/5511-screen-copy.jpg
+    image_title: A bird in paradise (detail)
+    image_description:
+  - image_path: /assets/images/5520-screen-copy.jpg
+    image_title: Baby steps (image 1)
+    image_description:
+  - image_path: /assets/images/5523-screen-copy.jpg
+    image_title: Baby Steps (image 2)
+    image_description:
+  - image_path: /assets/images/5528-screen-copy.jpg
+    image_title: Baby Steps (detail)
+    image_description:
+  - image_path: /assets/images/664-screen-copy.jpg
+    image_title: Vitamin Orange (image 1)
+    image_description:
+  - image_path: /assets/images/667-screen-copy.jpg
+    image_title: Vitamin Orange (image 2)
+    image_description:
+  - image_path: /assets/images/671-screen-copy.jpg
+    image_title: Vitamin Orange (detail)
+    image_description:
+  - image_path: /assets/images/641-screen-copy.jpg
+    image_title: The owl's castle (image 1 )
+    image_description:
+  - image_path: /assets/images/645-screen-copy.jpg
+    image_title: The owl's castle (image 2)
+    image_description:
+  - image_path: /assets/images/650-screen-copy.jpg
+    image_title: The owl's castle (detail)
+    image_description:
   - image_path: /assets/images/089-screen-copy.jpg
     image_title: Here to stay ( view 1)
     image_description: |-
@@ -117,3 +153,4 @@ _comments:
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
 ---
+

@@ -38,6 +38,9 @@ images:
   - image_path: /assets/images/3616a-screen-copy.jpg
     image_title: Absent Beach
     image_description: Oil on wood panel, H11 W16 D2, 2020
+  - image_path: /assets/images/5535a-the-sunflower-bee-copy.jpg
+    image_title: The sunflower bee
+    image_description:
   - image_path: /assets/images/3612-screen-copy.jpg
     image_title: Portrait of a strawberry
     image_description: Oil on wood panel, H16.5 W11.5 D2, 2020
@@ -65,5 +68,4 @@ _comments:
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
 ---
-
 
