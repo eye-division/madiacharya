@@ -25,6 +25,9 @@ images:
   - image_path: /assets/images/5366-on-being-purple-detail-copy.jpg
     image_title: On being purple (detail)
     image_description:
+  - image_path: /assets/images/5398-take-pocession-copy.jpg
+    image_title: Take Possession
+    image_description:
 _options:
   image_path:
     uploads_dir: assets/images/:year
