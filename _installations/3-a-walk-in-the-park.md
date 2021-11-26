@@ -55,9 +55,6 @@ images:
   - image_path: /assets/images/-igp0745-copy.jpg
     image_title: Back, detail
     image_description:
-  - image_path: /assets/images/-igp0657-copy.jpg
-    image_title: Back, detail 2
-    image_description:
 _options:
   image_path:
     uploads_dir: assets/images/:year
