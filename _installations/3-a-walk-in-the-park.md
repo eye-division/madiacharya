@@ -38,7 +38,7 @@ images:
     image_title: A walk in the park (back)
     image_description:
   - image_path: /assets/images/walk-in-the-park-front-close-up.jpg
-    image_title: A walk in the park (front)
+    image_title: A walk in the park, front (detail)
     image_description:
   - image_path: /assets/images/walk-in-the-parkback-close-up.jpg
     image_title: A walk in the park, back (detail)
