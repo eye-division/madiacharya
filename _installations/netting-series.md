@@ -34,6 +34,9 @@ images:
   - image_path: /assets/images/5462-the-orange-element-copy.jpg
     image_title: The Orange Element
     image_description:
+  - image_path: /assets/images/5475-the-orange-element-detail-copy.jpg
+    image_title: The Orange Element (detail)
+    image_description:
 _options:
   image_path:
     uploads_dir: assets/images/:year
