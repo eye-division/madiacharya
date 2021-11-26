@@ -17,13 +17,13 @@ description_markdown: >-
   exoticism, an escape from reality sometimes found in newspapers in the UK.
 permalink: /installations/hennafest/
 archive: false
-order_number: 2
+order_number: 3
 _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/59653e10941e3.jpg
 images:
   - image_path: /assets/images/59653e10941e3.jpg
     image_title: Hennafest
-    image_description: 'Hennafest - W60 L62 D10, 2017, Found wood, Found Bedspring, Mixed Media'
+    image_description: Hennafest - W60 L62 D10, 2017, Found wood, Found Bedspring, Mixed Media
   - image_path: /assets/images/59653f2f3864b.jpg
     image_title: Detail 1
     image_description:
@@ -41,13 +41,13 @@ images:
     image_description:
 _options:
   image_path:
-    uploads_dir: 'assets/images/:year'
+    uploads_dir: assets/images/:year
     width: 1200
     height: 1200
     resize_style: contain
     mime_type: image/jpeg
   main_image_path:
-    uploads_dir: 'assets/images/:year'
+    uploads_dir: assets/images/:year
     width: 1200
     height: 800
     resize_style: contain
@@ -61,4 +61,5 @@ _comments:
   order_number: Display order on the installations page
   archive: Should we archive it?
 ---
+
 
