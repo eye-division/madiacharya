@@ -37,6 +37,9 @@ images:
   - image_path: /assets/images/5475-the-orange-element-detail-copy.jpg
     image_title: The Orange Element (detail)
     image_description:
+  - image_path: /assets/images/5438-under-the-bonnet-copy.jpg
+    image_title: Behind the Bonnet
+    image_description:
 _options:
   image_path:
     uploads_dir: assets/images/:year
