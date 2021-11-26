@@ -40,6 +40,9 @@ images:
   - image_path: /assets/images/5438-under-the-bonnet-copy.jpg
     image_title: Behind the Bonnet
     image_description:
+  - image_path: /assets/images/5440-under-the-bonnet-detail-copy.jpg
+    image_title: Behind the Bonnet (detail)
+    image_description:
 _options:
   image_path:
     uploads_dir: assets/images/:year
