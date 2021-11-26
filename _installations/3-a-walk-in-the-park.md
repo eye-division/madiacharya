@@ -47,7 +47,7 @@ images:
     image_title: back (detail 3)
     image_description:
   - image_path: /assets/images/d5.jpg
-    image_title:
+    image_title: Front (detail 4)
     image_description:
 _options:
   image_path:
