@@ -19,8 +19,8 @@ main_image_path: /assets/images/5356-on-being-purple-copy.jpg
 order_number: 1
 thumb_crop:
 images:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/5356-on-being-purple-copy-1.jpg
+    image_title: On being purple
     image_description:
 _options:
   image_path:
