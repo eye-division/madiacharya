@@ -40,6 +40,9 @@ images:
   - image_path: /assets/images/walk-in-the-park-front-close-up.jpg
     image_title: A walk in the park (front)
     image_description:
+  - image_path: /assets/images/walk-in-the-parkback-close-up.jpg
+    image_title: A walk in the park, back (detail)
+    image_description:
   - image_path: /assets/images/-igp0726-copy.jpg
     image_title: A Walk in the Park (front)
     image_description:
