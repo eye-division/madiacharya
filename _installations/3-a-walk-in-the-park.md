@@ -29,8 +29,20 @@ permalink: /installations/a-walk-in-the-park/
 archive: false
 order_number: 3
 _gallery_date: 2016-05-01 00:00:00
-main_image_path: /assets/images/-igp0726-copy.jpg
+main_image_path: /assets/images/1--a-walk-in-the-park-front-copy-1.jpg
 images:
+  - image_path: /assets/images/1--a-walk-in-the-park-front-copy.jpg
+    image_title: A walk in the park (front)
+    image_description:
+  - image_path: /assets/images/2--a-walk-in-the-park-back-copy.jpg
+    image_title: A walk in the park (back)
+    image_description:
+  - image_path: /assets/images/walk-in-the-park-front-close-up.jpg
+    image_title: A walk in the park, front (detail)
+    image_description:
+  - image_path: /assets/images/walk-in-the-parkback-close-up.jpg
+    image_title: A walk in the park, back (detail)
+    image_description:
   - image_path: /assets/images/-igp0726-copy.jpg
     image_title: A Walk in the Park (front)
     image_description:
