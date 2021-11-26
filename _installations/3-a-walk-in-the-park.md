@@ -31,6 +31,9 @@ order_number: 3
 _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/-igp0726-copy.jpg
 images:
+  - image_path: /assets/images/1--a-walk-in-the-park-front-copy.jpg
+    image_title: A walk in the park
+    image_description:
   - image_path: /assets/images/-igp0726-copy.jpg
     image_title: A Walk in the Park (front)
     image_description:
