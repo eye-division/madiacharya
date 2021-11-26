@@ -16,7 +16,7 @@ _gallery_date:
 permalink: /installations/netting-series/
 archive: false
 main_image_path: /assets/images/5356-on-being-purple-copy.jpg
-order_number: 6
+order_number: 1
 thumb_crop:
 images:
   - image_path: /assets/images/5356-on-being-purple-copy-1.jpg
