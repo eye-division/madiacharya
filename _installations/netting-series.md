@@ -15,8 +15,8 @@ description_markdown: >-
 _gallery_date:
 permalink:
 archive: false
-main_image_path:
-order_number:
+main_image_path: /assets/images/5356-on-being-purple-copy.jpg
+order_number: 1
 thumb_crop:
 images:
   - image_path:
@@ -44,3 +44,5 @@ _comments:
   order_number: Display order on the installations page
   archive: Should we archive it?
 ---
+
+
