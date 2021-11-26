@@ -31,6 +31,9 @@ images:
   - image_path: /assets/images/5413-take-pocession-detail-copy.jpg
     image_title: Take Possession (detail)
     image_description:
+  - image_path: /assets/images/5462-the-orange-element-copy.jpg
+    image_title: The Orange Element
+    image_description:
 _options:
   image_path:
     uploads_dir: assets/images/:year
