@@ -28,6 +28,9 @@ images:
   - image_path: /assets/images/5398-take-pocession-copy.jpg
     image_title: Take Possession
     image_description:
+  - image_path: /assets/images/5413-take-pocession-detail-copy.jpg
+    image_title: Take Possession (detail)
+    image_description:
 _options:
   image_path:
     uploads_dir: assets/images/:year
