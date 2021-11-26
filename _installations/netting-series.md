@@ -22,6 +22,9 @@ images:
   - image_path: /assets/images/5356-on-being-purple-copy-1.jpg
     image_title: On being purple
     image_description:
+  - image_path: /assets/images/5366-on-being-purple-detail-copy.jpg
+    image_title: On being purple (detail)
+    image_description:
 _options:
   image_path:
     uploads_dir: assets/images/:year
