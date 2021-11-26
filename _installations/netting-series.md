@@ -13,7 +13,7 @@ description_markdown: >-
   pieced together to create a single hair like mass, is a metaphor for trying to
   repair and rebuild what has been lost as a result of the pandemic.
 _gallery_date:
-permalink:
+permalink: /installations/netting series/
 archive: false
 main_image_path: /assets/images/5356-on-being-purple-copy.jpg
 order_number: 1
