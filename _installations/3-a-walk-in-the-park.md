@@ -43,6 +43,9 @@ images:
   - image_path: /assets/images/walk-in-the-parkback-close-up.jpg
     image_title: A walk in the park, back (detail)
     image_description:
+  - image_path: /assets/images/d2.jpg
+    image_title: back (detail 3)
+    image_description:
 _options:
   image_path:
     uploads_dir: assets/images/:year
