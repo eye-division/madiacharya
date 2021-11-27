@@ -28,14 +28,14 @@ images:
   - image_path: /assets/images/5398-take-pocession-copy.jpg
     image_title: Take Possession
     image_description:
+  - image_path: /assets/images/5413-take-pocession-detail-copy.jpg
+    image_title: Take Possession (detail)
+    image_description:
   - image_path: /assets/images/5462-the-orange-element-copy.jpg
     image_title: The Orange Element
     image_description:
   - image_path: /assets/images/5475-the-orange-element-detail-copy.jpg
     image_title: The Orange Element (detail)
-    image_description:
-  - image_path: /assets/images/5413-take-pocession-detail-copy.jpg
-    image_title: Take Possession (detail)
     image_description:
   - image_path: /assets/images/5438-under-the-bonnet-copy.jpg
     image_title: Behind the Bonnet
