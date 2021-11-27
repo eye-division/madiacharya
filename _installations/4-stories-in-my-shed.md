@@ -25,7 +25,7 @@ description_markdown: >-
   Njoki, (Kenyan singer songwriter) played inside the shed."
 permalink: /installations/stories-in-my-shed/
 archive: false
-order_number: 5
+order_number: 6
 _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/52ed9885ee2c8.jpg
 images:
