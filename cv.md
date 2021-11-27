@@ -24,17 +24,17 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### SOLO AND TWO PERSON EXHIBITIONS:
 
-2021 **My life as a bird,** Darl-e-and the Bear, Oxfordshire
+2021 **My life as a bird,** (solo) Darl-e-and the Bear, Oxfordshire
 
 2021 **On The Road of Sea Stars,** Zuzushii Art Laboratory, Hastings,
 
 2021 **Ornithologie** hosted by Magdalen Road Studios, Oxford&nbsp; [view video](https://vimeo.com/518543757){: target="_blank" rel="noopener"}
 
-2019&nbsp; ‘**I wish my hair was as long as yours**’, Magdalen Art Space, Oxford
+2019&nbsp; ‘**I wish my hair was as long as yours**’, (solo) Magdalen Art Space, Oxford
 
-2018 **&nbsp;‘Dancing with the corporeal’** no format Gallery, London with Artist Talk facilitated by Richard Dyer, (editor in chief, Third Text)
+2018 **&nbsp;‘Dancing with the corporeal’** no format Gallery, London
 
-2017 ‘**Absent Beach’** Vinyl Deptford, London
+2017 ‘**Absent Beach’** (solo) Vinyl Deptford, London
 
 ### SELECTED GROUP EXHIBITIONS
 
@@ -58,35 +58,19 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2017 **Material World, An International Perspective**, SJE Arts, Oxford
 
-2017 **The Cellar,**Lubomirov/Angus-Hughes, London
-
 2016 **Psychedelic Breakfast,**Vinyl Deptford, Deptford X Fringe, London
-
-2016 **Summer Salon,** Lubomirov/ Angus-Hughes, London
 
 2016 **‘Looking Up’,&nbsp;**Studio 1:1 Gallery, London
 
 2016 **Material World,** Ancien Musee de Peinture, Grenoble
 
-2016 **Dis locate**, VW Showroom, Oxford
-
 2015 **Unravelling Time,**The Abbey at Sutton Courtenay, Oxfordshire
-
-2015 **Zeitgeist Summer Exhibition**, Bond House Gallery, ASC Studios, London
 
 2014 **‘Alps and Spires’** Museum of Oxford, Oxford
 
-2013 **‘Sanctuary’ Home, Away and Common Ground, Part 2’,**Brunei Gallery, SOAS, University of London
-
-2013 **L’Enchantement des Livres,**La Masion I’international,Grenoble,France
-
-2012 **Surfaces: Works on Paper,** Sput-nik Gallery, Porto, Portugal
-
-2011 **Immediate Territory,** Magdalen Road Studios, Oxford (ACE, Arts Council England funded)
+2013 **‘Sanctuary’ Home, Away and Common Ground, Part 2’,** Brunei Gallery, SOAS, University of London
 
 2011 **‘Sanctuary’ Home, Away and Common Ground, Part 1,**National Museum of Kenya, Nairobi
-
-2010 **Grassroots & Glass Ceilings,**The Jam Factory, Oxford
 
 2008 **Within Walls,** Oxfordshire Museum, Woodstock, Oxfordshire (ACE funded)
 
@@ -102,9 +86,9 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### PRIZES, AWARDS, OPEN SUBMISSIONS
 
-2021 **Summer Exhibition,** Royal Society of Sculptors**,** London, selected by Sigrid Kirk
-
 2021 **Developing Your Creative Practice** Award, Arts Council England
+
+2021 **Summer Exhibition,** Royal Society of Sculptors**,** London, selected by Sigrid Kirk
 
 2020 **RWA Open,** Royal West of England Academy, Bristo**l**
 
@@ -156,7 +140,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2011 **Sanctuary**, Neyri, Kenya
 
-2009 **Gosford Hill School**working with young people making outdoor site-specific work commissioned by **Kids@rt**, (Oxfordshire , Artweeks Charity)
+2009 **Gosford Hill School** working with young people making outdoor site-specific work commissioned by Kids@rt, (Oxfordshire , Artweeks Charity)
 
 2008 **Eynsham Primary School**, outdoor site specific sculpture (Kid@art)
 
@@ -189,8 +173,6 @@ exploring the theme ‘Stories, Memories, Concepts’ (ACE funded)
 **Phantasms,road rage,feminism**, Review of This Year’s Model, The Human Stain by James Brewer http://www.allaboutshipping.co.uk/2017/01/07/phantasms-road-rage-feminism
 
 **Summer Exhibition Illustrated 2016**, Exhibition Catalogue
-
-**Dis locate,** Magdalen Road Studios, Exhibition Catalogue, 2016
 
 **Alps and Spires,** Museum of Oxford, Exhibition Catalogue, 2014
 
