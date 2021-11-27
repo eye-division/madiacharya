@@ -41,7 +41,7 @@ images:
     image_title: front (detail 1)
     image_description:
   - image_path: /assets/images/d2.jpg
-    image_title: back (detail 4)
+    image_title: back (detail 2)
     image_description:
   - image_path: /assets/images/walk-in-the-parkback-close-up.jpg
     image_title: back (detail 3)
