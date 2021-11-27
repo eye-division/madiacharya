@@ -21,7 +21,9 @@ thumb_crop:
 images:
   - image_path: /assets/images/5356-on-being-purple-copy-1.jpg
     image_title: On being purple
-    image_description:
+    image_description: |2
+        Dimensions (approximate) H110 W35 cm
+        Fishing net, vintage silk textiles, suspended from ceiling
   - image_path: /assets/images/5366-on-being-purple-detail-copy.jpg
     image_title: On being purple (detail)
     image_description:
