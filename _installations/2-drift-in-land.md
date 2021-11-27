@@ -17,9 +17,9 @@ description_markdown: >-
   was made possible by funding from Axisweb100
 permalink: /installations/drift-in-land/
 archive: false
-order_number: 6
+order_number: 5
 _gallery_date: 2016-05-01 00:00:00
-main_image_path: '/assets/Drift-in-land, abbey, website.jpg'
+main_image_path: /assets/Drift-in-land, abbey, website.jpg
 images:
   - image_path: /assets/images/5675e4ff29412.jpg
     image_title: Left view
@@ -41,13 +41,13 @@ images:
     image_description:
 _options:
   image_path:
-    uploads_dir: 'assets/images/:year'
+    uploads_dir: assets/images/:year
     width: 1200
     height: 1200
     resize_style: contain
     mime_type: image/jpeg
   main_image_path:
-    uploads_dir: 'assets/images/:year'
+    uploads_dir: assets/images/:year
     width: 1200
     height: 800
     resize_style: contain
@@ -61,4 +61,5 @@ _comments:
   order_number: Display order on the installations page
   archive: Should we archive it?
 ---
+
 
