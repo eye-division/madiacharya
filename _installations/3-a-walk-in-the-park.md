@@ -40,11 +40,11 @@ images:
   - image_path: /assets/images/d8.jpg
     image_title: front (detail 1)
     image_description:
-  - image_path: /assets/images/walk-in-the-parkback-close-up.jpg
-    image_title: A walk in the park, back (detail)
-    image_description:
   - image_path: /assets/images/d2.jpg
     image_title: back (detail 3)
+    image_description:
+  - image_path: /assets/images/walk-in-the-parkback-close-up.jpg
+    image_title: A walk in the park, back (detail)
     image_description:
   - image_path: /assets/images/d5.jpg
     image_title: Front (detail 4)
