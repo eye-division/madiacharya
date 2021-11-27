@@ -42,7 +42,7 @@ description_markdown: >-
   &nbsp;
 _gallery_date:
 permalink: /installations/i-will-go-wherever-you-take-me/
-archive: false
+archive: true
 order_number: 3
 main_image_path: /assets/images/installation-view-1-1.jpg
 images:
@@ -84,13 +84,13 @@ images:
       Dimensions: 184 cm x 121 cm x 125cm, 2018
 _options:
   image_path:
-    uploads_dir: 'assets/images/:year'
+    uploads_dir: assets/images/:year
     width: 1200
     height: 1200
     resize_style: contain
     mime_type: image/jpeg
   main_image_path:
-    uploads_dir: 'assets/images/:year'
+    uploads_dir: assets/images/:year
     width: 1200
     height: 800
     resize_style: contain
@@ -104,4 +104,5 @@ _comments:
   order_number: Display order on the installations page
   archive: Should we archive it?
 ---
+
 
