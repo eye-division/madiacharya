@@ -44,7 +44,7 @@ images:
     image_title: back (detail 4)
     image_description:
   - image_path: /assets/images/walk-in-the-parkback-close-up.jpg
-    image_title: A walk in the park, back (detail)
+    image_title: back (detail 5)
     image_description:
   - image_path: /assets/images/d5.jpg
     image_title: Front (detail 4)
