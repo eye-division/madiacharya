@@ -25,7 +25,7 @@ description_markdown: >-
   Njoki, (Kenyan singer songwriter) played inside the shed."
 permalink: /installations/stories-in-my-shed/
 archive: false
-order_number: 4
+order_number: 5
 _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/52ed9885ee2c8.jpg
 images:
@@ -42,23 +42,23 @@ images:
     image_title: Interior 1
     image_description:
   - image_path: /assets/images/52ed9a4659879.jpg
-    image_title: 'Interior 2, doorway'
+    image_title: Interior 2, doorway
     image_description:
   - image_path: /assets/images/52eda22890aa1.jpg
-    image_title: 'Interior 3, close up'
+    image_title: Interior 3, close up
     image_description:
 sounds:
   - audioid: '23535959'
     description: 01 Baba Niwe Waheire mucii wakwa by pinnel
 _options:
   image_path:
-    uploads_dir: 'assets/images/:year'
+    uploads_dir: assets/images/:year
     width: 1200
     height: 1200
     resize_style: contain
     mime_type: image/jpeg
   main_image_path:
-    uploads_dir: 'assets/images/:year'
+    uploads_dir: assets/images/:year
     width: 1200
     height: 800
     resize_style: contain
@@ -73,4 +73,5 @@ _comments:
   order_number: Display order on the installations page
   archive: Should we archive it?
 ---
+
 
