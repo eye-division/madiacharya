@@ -36,13 +36,13 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2017 ‘**Absent Beach’** Vinyl Deptford, London
 
-2008 **‘Memories from Home’** at Citygate, St Clements, Oxford<br>(sponsored by Carter Jonas and Rectory Homes)
-
 ### SELECTED GROUP EXHIBITIONS
+
+2021 **Ground Work,** APT Gallery, London
 
 2021 **Displace,** Bloc Projects, Sheffield, curated by Uthra Rajgopal
 
-2021 **Absent Authors,** APT Gallery London
+2021 **Absent Authors,** APT Gallery, London
 
 2020 **Groundwork\_APT Open Day,** APT Gallery, London
 
