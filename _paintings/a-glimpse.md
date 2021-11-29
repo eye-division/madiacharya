@@ -62,6 +62,11 @@ images:
     image_description: |-
       Oil on wood panel
       W18 H13 D2 cms
+  - image_path: /assets/images/5679a-screen-copy.jpg
+    image_title: Holy Wine
+    image_description: |-
+      Oil on charred wood
+      W22 H12.5 D1.5 cms
 _options:
   image_path:
     width: 1200
