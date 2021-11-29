@@ -53,17 +53,6 @@ images:
   - image_path: /assets/images/671-screen-copy.jpg
     image_title: Vitamin Orange (detail)
     image_description:
-  - image_path: /assets/images/641-screen-copy.jpg
-    image_title: The owl's castle (image 1 )
-    image_description: |2
-            H28 W17 D13 cm
-            Mixed media sculpture 
-  - image_path: /assets/images/645-screen-copy.jpg
-    image_title: The owl's castle (image 2)
-    image_description:
-  - image_path: /assets/images/650-screen-copy.jpg
-    image_title: The owl's castle (detail)
-    image_description:
   - image_path: /assets/images/5060-screen-copy.jpg
     image_title: A bird in hand (front)
     image_description: |2
@@ -74,6 +63,17 @@ images:
     image_description:
   - image_path: /assets/images/5064-screen.jpg
     image_title: A bird in hand (back)
+    image_description:
+  - image_path: /assets/images/641-screen-copy.jpg
+    image_title: The owl's castle (image 1 )
+    image_description: |2
+            H28 W17 D13 cm
+            Mixed media sculpture 
+  - image_path: /assets/images/645-screen-copy.jpg
+    image_title: The owl's castle (image 2)
+    image_description:
+  - image_path: /assets/images/650-screen-copy.jpg
+    image_title: The owl's castle (detail)
     image_description:
   - image_path: /assets/images/089-screen-copy.jpg
     image_title: Here to stay ( view 1)
