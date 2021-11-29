@@ -72,6 +72,9 @@ images:
   - image_path: /assets/images/5073a-screen-copy.jpg
     image_title: A bird in hand (detail 1)
     image_description:
+  - image_path: /assets/images/5067-screen-copy.jpg
+    image_title: A bird in hand (image 2)
+    image_description:
   - image_path: /assets/images/5079-screen-copy.jpg
     image_title: A bird in hand (detail 2)
     image_description:
