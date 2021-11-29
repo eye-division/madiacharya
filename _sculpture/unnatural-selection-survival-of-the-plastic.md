@@ -22,7 +22,9 @@ thumb_crop:
 images:
   - image_path: /assets/images/5495-screen-copy.jpg
     image_title: A bird in paradise (image 1)
-    image_description:
+    image_description: |2
+           H30 W22 D22 cm
+           Mixed media sculpture 
   - image_path: /assets/images/5500-screen-copy.jpg
     image_title: A bird in paradise (image 2)
     image_description:
@@ -31,7 +33,9 @@ images:
     image_description:
   - image_path: /assets/images/5520-screen-copy.jpg
     image_title: Baby steps (image 1)
-    image_description:
+    image_description: |2
+            H23 W23 D10 cm
+            Mixed media sculpture
   - image_path: /assets/images/5523-screen-copy.jpg
     image_title: Baby Steps (image 2)
     image_description:
@@ -40,7 +44,9 @@ images:
     image_description:
   - image_path: /assets/images/664-screen-copy.jpg
     image_title: Vitamin Orange (image 1)
-    image_description:
+    image_description: |2
+           H21 W22 D25 cm
+           Mixed media sculpture
   - image_path: /assets/images/667-screen-copy.jpg
     image_title: Vitamin Orange (image 2)
     image_description:
@@ -49,12 +55,25 @@ images:
     image_description:
   - image_path: /assets/images/641-screen-copy.jpg
     image_title: The owl's castle (image 1 )
-    image_description:
+    image_description: |2
+            H28 W17 D13 cm
+            Mixed media sculpture 
   - image_path: /assets/images/645-screen-copy.jpg
     image_title: The owl's castle (image 2)
     image_description:
   - image_path: /assets/images/650-screen-copy.jpg
     image_title: The owl's castle (detail)
+    image_description:
+  - image_path: /assets/images/5060-screen-copy.jpg
+    image_title: 'A bird in hand '
+    image_description: |2
+           H15 W20 D15
+           Mixed media sculpture 
+  - image_path: /assets/images/5073a-screen-copy.jpg
+    image_title: A bird in hand (detail 1)
+    image_description:
+  - image_path: /assets/images/5079-screen-copy.jpg
+    image_title: A bird in hand (detail 2)
     image_description:
   - image_path: /assets/images/089-screen-copy.jpg
     image_title: Here to stay ( view 1)
@@ -153,4 +172,5 @@ _comments:
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
 ---
+
 
