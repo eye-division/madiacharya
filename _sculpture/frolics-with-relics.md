@@ -16,7 +16,7 @@ main_image_path: /assets/images/3331-screen-copy-2.jpg
 thumb_crop:
 images:
   - image_path: /assets/images/575-screen-copy.jpg
-    image_title: Stand in blue (image 1)
+    image_title: Stand up in blue (image 1)
     image_description:
   - image_path: /assets/images/580-screen-copy.jpg
     image_title: Stand up in blue (image 2)
@@ -99,4 +99,5 @@ _comments:
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
 ---
+
 
