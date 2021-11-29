@@ -52,6 +52,11 @@ images:
   - image_path: /assets/images/3587-screen-copy.jpg
     image_title: The Idler
     image_description: Oil on wood panel, bead work,  H18 W32, 2020
+  - image_path: /assets/images/5677a-screen-copy.jpg
+    image_title: Woven Ground
+    image_description: |
+      Oil on wood panel
+      W18.5 H14 D2 cms
 _options:
   image_path:
     width: 1200
