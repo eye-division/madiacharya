@@ -58,9 +58,7 @@ images:
       Oil on wood panel, W18.5 H14 D2 cms, 2021
   - image_path: /assets/images/5678a-screen-copy.jpg
     image_title: Stolen Sunset
-    image_description: |-
-      Oil on wood panel
-      W18 H13 D2 cms
+    image_description: Oil on wood panel, W18 H13 D2 cms, 2021
   - image_path: /assets/images/5679a-screen-copy.jpg
     image_title: Holy Wine
     image_description: |-
