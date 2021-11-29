@@ -61,9 +61,7 @@ images:
     image_description: Oil on wood panel, W18 H13 D2 cms, 2021
   - image_path: /assets/images/5679a-screen-copy.jpg
     image_title: Holy Wine
-    image_description: |-
-      Oil on charred wood, shell
-      W22 H12.5 D1.5 cms
+    image_description: Oil on charred wood, shell, W22 H12.5 D1.5 cms, 2021
   - image_path: /assets/images/5681a-screen-copy.jpg
     image_title: Glenfalloch
     image_description: |-
