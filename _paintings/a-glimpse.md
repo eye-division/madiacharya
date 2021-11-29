@@ -55,8 +55,7 @@ images:
   - image_path: /assets/images/5677a-screen-copy.jpg
     image_title: Woven Ground
     image_description: |
-      Oil on wood panel
-      W18.5 H14 D2 cms
+      Oil on wood panel, W18.5 H14 D2 cms, 2021
   - image_path: /assets/images/5678a-screen-copy.jpg
     image_title: Stolen Sunset
     image_description: |-
