@@ -65,15 +65,15 @@ images:
     image_title: The owl's castle (detail)
     image_description:
   - image_path: /assets/images/5060-screen-copy.jpg
-    image_title: 'A bird in hand '
+    image_title: A bird in hand (front)
     image_description: |2
            H15 W20 D15
            Mixed media sculpture 
   - image_path: /assets/images/5073a-screen-copy.jpg
-    image_title: A bird in hand (detail 1)
+    image_title: A bird in hand (detail )
     image_description:
-  - image_path: /assets/images/5067-screen-copy.jpg
-    image_title: A bird in hand (image 2)
+  - image_path: /assets/images/5064-screen.jpg
+    image_title: A bird in hand (back)
     image_description:
   - image_path: /assets/images/089-screen-copy.jpg
     image_title: Here to stay ( view 1)
