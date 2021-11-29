@@ -55,23 +55,16 @@ images:
   - image_path: /assets/images/5677a-screen-copy.jpg
     image_title: Woven Ground
     image_description: |
-      Oil on wood panel
-      W18.5 H14 D2 cms
+      Oil on wood panel, W18.5 H14 D2 cms, 2021
   - image_path: /assets/images/5678a-screen-copy.jpg
     image_title: Stolen Sunset
-    image_description: |-
-      Oil on wood panel
-      W18 H13 D2 cms
+    image_description: Oil on wood panel, W18 H13 D2 cms, 2021
   - image_path: /assets/images/5679a-screen-copy.jpg
     image_title: Holy Wine
-    image_description: |-
-      Oil on charred wood, shell
-      W22 H12.5 D1.5 cms
+    image_description: Oil on charred wood, shell, W22 H12.5 D1.5 cms, 2021
   - image_path: /assets/images/5681a-screen-copy.jpg
     image_title: Glenfalloch
-    image_description: |-
-      Oil on charred wood, shell
-      W10.5 H10 D2 cms
+    image_description: Oil on charred wood, shell, W10.5 H10 D2 cms, 2021
 _options:
   image_path:
     width: 1200
