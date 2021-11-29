@@ -70,7 +70,7 @@ images:
            H15 W20 D15
            Mixed media sculpture 
   - image_path: /assets/images/5073a-screen-copy.jpg
-    image_title: A bird in hand (detail 1)
+    image_title: A bird in hand (detail )
     image_description:
   - image_path: /assets/images/5067-screen-copy.jpg
     image_title: A bird in hand (image 2)
