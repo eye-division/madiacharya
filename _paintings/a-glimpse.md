@@ -1,9 +1,9 @@
 ---
 title: Glimpses
 description_markdown: >-
-  This is a new series of paintings which are small and irregular edges. They
-  are left purposefully unframed, free and expansive but also appear to be a
-  'glimpse' of something fleeting rather than fixed.
+  This is a series of small paintings with irregular edges. They are left
+  purposefully unframed, free and expansive but also appear to be a 'glimpse' of
+  something fleeting rather than fixed.
 _gallery_date:
 permalink: /paintings/glimpses
 archive: false
