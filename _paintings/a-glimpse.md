@@ -67,6 +67,11 @@ images:
     image_description: |-
       Oil on charred wood
       W22 H12.5 D1.5 cms
+  - image_path: /assets/images/5681a-screen-copy.jpg
+    image_title: Glenfalloch
+    image_description: |-
+      Oil on charred wood, shell
+      W10.5 H10 D2 cms
 _options:
   image_path:
     width: 1200
