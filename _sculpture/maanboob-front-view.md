@@ -20,7 +20,9 @@ main_image_path: /assets/images/3157a-screen-copy-1.jpg
 images:
   - image_path: /assets/images/5093ascreen-copy.jpg
     image_title: 'Mirrorball Mirrorbust '
-    image_description:
+    image_description: |
+      H128 W50 D45 (2021)
+       Charred wood, hair extensions, vintage textiles, broken mirror ball, shells 
   - image_path: /assets/images/5114-screen-copy.jpg
     image_title: Mirrorball Mirrorbust (detail 1)
     image_description:
@@ -29,7 +31,11 @@ images:
     image_description:
   - image_path: /assets/images/627-screen-copy.jpg
     image_title: I'm all eyes (image 1)
-    image_description:
+    image_description: >
+      Dimensions (cm) H52 W21 D13
+
+      Materials: Egg box, acrylic paint, vintage textiles, horse hair, paper
+      mache
   - image_path: /assets/images/628-screen-copy.jpg
     image_title: I'm all eyes (image 2)
     image_description:
@@ -38,7 +44,9 @@ images:
     image_description:
   - image_path: /assets/images/587-screen-copy.jpg
     image_title: 'Thanks for the ride (image 1) '
-    image_description:
+    image_description: |
+      Dimensions (cm) H20 W73 D30 
+      Materials: Broken china, vintage textiles, found plastic, found wood
   - image_path: /assets/images/586-screen-copy.jpg
     image_title: Thanks for the ride (image 2)
     image_description:

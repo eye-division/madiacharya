@@ -29,19 +29,25 @@ images:
     image_description:
   - image_path: /assets/images/5398-take-pocession-copy.jpg
     image_title: Take Possession
-    image_description:
+    image_description: |2
+             Dimensions (approximate) H110 W35 cm
+             Fishing net, vintage silk textiles, suspended from ceiling
   - image_path: /assets/images/5413-take-pocession-detail-copy.jpg
     image_title: Take Possession (detail)
     image_description:
   - image_path: /assets/images/5462-the-orange-element-copy.jpg
     image_title: The Orange Element
-    image_description:
+    image_description: |2
+            H117 W48 D18 cm
+            Fishing nets, vintage silk textiles, suspended from ceiling
   - image_path: /assets/images/5475-the-orange-element-detail-copy.jpg
     image_title: The Orange Element (detail)
     image_description:
   - image_path: /assets/images/5438-under-the-bonnet-copy.jpg
     image_title: Behind the Bonnet
-    image_description:
+    image_description: |2
+            H80 W28 D25 cm
+            Fishing net, vintage silk textiles, suspended from ceiling
   - image_path: /assets/images/5440-under-the-bonnet-detail-copy.jpg
     image_title: Behind the Bonnet (detail)
     image_description:
