@@ -75,9 +75,6 @@ images:
   - image_path: /assets/images/5064-screen.jpg
     image_title: A bird in hand (back)
     image_description:
-  - image_path: /assets/images/5067-screen-copy.jpg
-    image_title: A bird in hand (image 2)
-    image_description:
   - image_path: /assets/images/089-screen-copy.jpg
     image_title: Here to stay ( view 1)
     image_description: |-
