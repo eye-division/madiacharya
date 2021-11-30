@@ -7,7 +7,7 @@ description_markdown: >-
 _gallery_date:
 permalink: /paintings/glimpses
 archive: false
-main_image_path: /assets/images/5677a-screen-copy-1.jpg
+main_image_path: /assets/images/5679a-screen-copy-1.jpg
 thumb_crop:
 images:
   - image_path: /assets/images/3603a-screen-copy.jpg
