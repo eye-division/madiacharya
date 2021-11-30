@@ -122,10 +122,6 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 (selected by Roy Ackerman and Richard Wentworth)
 
-2012 **UNFORESEEN,**Studio106 Gallery, London (selected by Dusanka Marsenic)
-
-2008 **Oxford Open,** Modern Art Oxford
-
 2007-2008 **Grants for Arts Award**, Arts Council England for international<br>residency and exhibition
 
 ### COMMISSIONS
