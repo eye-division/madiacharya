@@ -12,7 +12,7 @@ _gallery_date:
 permalink: /sculpture/frolics-with-relics
 archive: false
 order_number:
-main_image_path: /assets/images/575-screen-copy-1.jpg
+main_image_path: /assets/images/3286-screen-copy-2.jpg
 thumb_crop:
 images:
   - image_path: /assets/images/575-screen-copy.jpg
