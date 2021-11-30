@@ -154,7 +154,7 @@ exploring the theme ‘Stories, Memories, Concepts’ (ACE funded)
 
 ### PRESENTATIONS
 
-2020 **Process, Projects, Shows,&nbsp;** presentation and Q& A ,&nbsp; **visiting lecturer** at Chichester University
+2020 **Visiting lecturer** at Chichester University
 
 2018 **Walking through the forest, Searching for the sea, Finding, Collecting and Making&nbsp;**as part of the symposium&nbsp;**Modernism: Making, Place and Protest&nbsp;**organised by Decorating Dissidence at Queen Mary College, London. [View abstracts](https://decoratingdissidence.wordpress.com/abstracts/){: target="_blank"}.
 
