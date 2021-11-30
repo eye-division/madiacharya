@@ -122,10 +122,6 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 (selected by Roy Ackerman and Richard Wentworth)
 
-2012 **UNFORESEEN,**Studio106 Gallery, London (selected by Dusanka Marsenic)
-
-2008 **Oxford Open,** Modern Art Oxford
-
 2007-2008 **Grants for Arts Award**, Arts Council England for international<br>residency and exhibition
 
 ### COMMISSIONS
@@ -158,7 +154,7 @@ exploring the theme ‘Stories, Memories, Concepts’ (ACE funded)
 
 ### PRESENTATIONS
 
-2020 **Process, Projects, Shows,&nbsp;** presentation and Q& A ,&nbsp; **visiting lecturer** at Chichester University
+2020 **Visiting lecturer** at Chichester University
 
 2018 **Walking through the forest, Searching for the sea, Finding, Collecting and Making&nbsp;**as part of the symposium&nbsp;**Modernism: Making, Place and Protest&nbsp;**organised by Decorating Dissidence at Queen Mary College, London. [View abstracts](https://decoratingdissidence.wordpress.com/abstracts/){: target="_blank"}.
 
