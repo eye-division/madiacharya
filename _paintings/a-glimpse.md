@@ -10,15 +10,28 @@ archive: false
 main_image_path: /assets/images/5679a-screen-copy-1.jpg
 thumb_crop:
 images:
+  - image_path: /assets/images/5679a-screen-copy.jpg
+    image_title: Holy Wine
+    image_description: Oil on charred wood, shell, W22 H12.5 D1.5 cms, 2021
+  - image_path: /assets/images/5677a-screen-copy.jpg
+    image_title: Woven Ground
+    image_description: |
+      Oil on wood panel, W18.5 H14 D2 cms, 2021
+  - image_path: /assets/images/5681a-screen-copy.jpg
+    image_title: Glenfalloch
+    image_description: Oil on charred wood, shell, W10.5 H10 D2 cms, 2021
+  - image_path: /assets/images/5678a-screen-copy.jpg
+    image_title: Stolen Sunset
+    image_description: Oil on wood panel, W18 H13 D2 cms, 2021
   - image_path: /assets/images/3603a-screen-copy.jpg
     image_title: No Idle Sitting
     image_description: Oil on wood panel, H13 W18 , 2020
-  - image_path: /assets/images/3589a-screen-copy.jpg
-    image_title: If I lived in a forest I would hang my dress from a tree
-    image_description: Oil on wood panel, H20 W23 D1.5, 2020
   - image_path: /assets/images/3592-screen-copy.jpg
     image_title: Pair-a-dise
     image_description: Oil on wood panel, assemblage, H15 W17.5, 2020
+  - image_path: /assets/images/3589a-screen-copy.jpg
+    image_title: If I lived in a forest I would hang my dress from a tree
+    image_description: Oil on wood panel, H20 W23 D1.5, 2020
   - image_path: /assets/images/3599a-screen-copy.jpg
     image_title: Backyard Bananas
     image_description: Oil on wood panel, assemblage, H23.5W16.5  D1.5, 2020
@@ -52,19 +65,6 @@ images:
   - image_path: /assets/images/3587-screen-copy.jpg
     image_title: The Idler
     image_description: Oil on wood panel, bead work,  H18 W32, 2020
-  - image_path: /assets/images/5677a-screen-copy.jpg
-    image_title: Woven Ground
-    image_description: |
-      Oil on wood panel, W18.5 H14 D2 cms, 2021
-  - image_path: /assets/images/5678a-screen-copy.jpg
-    image_title: Stolen Sunset
-    image_description: Oil on wood panel, W18 H13 D2 cms, 2021
-  - image_path: /assets/images/5679a-screen-copy.jpg
-    image_title: Holy Wine
-    image_description: Oil on charred wood, shell, W22 H12.5 D1.5 cms, 2021
-  - image_path: /assets/images/5681a-screen-copy.jpg
-    image_title: Glenfalloch
-    image_description: Oil on charred wood, shell, W10.5 H10 D2 cms, 2021
 _options:
   image_path:
     width: 1200
