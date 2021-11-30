@@ -12,7 +12,7 @@ description_markdown: >-
   imaginery **Map**.
 permalink: /workshops/painting-in-the-street/
 order_number: 2
-archive: false
+archive: true
 _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/4c5742379c523.jpg
 images:
@@ -20,19 +20,19 @@ images:
     image_title: Bird Journey
     image_description:
   - image_path: /assets/images/4c57353a808c7.jpg
-    image_title: 'Bird Journey, detail'
+    image_title: Bird Journey, detail
     image_description:
   - image_path: /assets/images/4c5742702016f.jpg
     image_title: Underwater Journey
     image_description:
   - image_path: /assets/images/4c573cc89b496.jpg
-    image_title: 'Underwater Journey, detail'
+    image_title: Underwater Journey, detail
     image_description:
   - image_path: /assets/images/4c573b00c54c5.jpg
     image_title: Map
     image_description:
   - image_path: /assets/images/4c573f412ca33.jpg
-    image_title: 'Map, detail'
+    image_title: Map, detail
     image_description:
 _options:
   image_path:
@@ -53,4 +53,5 @@ _comments:
   image_description: May only be used in the close up of an image
   order_number: Display order on the installations page
 ---
+
 
