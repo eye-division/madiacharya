@@ -194,4 +194,6 @@ exploring the theme ‘Stories, Memories, Concepts’ (ACE funded)
 
 ### COLLECTIONS
 
+The sculpture ‘Here to stay’ has been acquired as part of the Art Fund New Collecting Award, as part of the permanent collection at the Whitworth, the University of Manchester,&nbsp; 2021
+
 Work in private collections in London, Oxford and France
