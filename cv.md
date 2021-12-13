@@ -166,6 +166,8 @@ exploring the theme ‘Stories, Memories, Concepts’ (ACE funded)
 
 ### **BIBLIOGRAPHY**
 
+**Interview with Asian Curator:**[http://asiancurator.com/madi-acharya-baskerville/](http://asiancurator.com/madi-acharya-baskerville/){: target="_blank"} , 2020
+
 **I wish my hair was as long as yours**, catalogue with&nbsp; essay by Stephanie Straine, Curator of Projects and Exhibitions, Modern Art Oxford
 
 [Download catalogue (PDF)](/assets/E_Brochure.pdf)
