@@ -13,7 +13,7 @@ description_markdown: >-
 permalink: /sculpture/organic-excursions/
 archive: false
 _gallery_date: 2016-05-01 00:00:00
-order_number: 3
+order_number: 5
 main_image_path: /assets/images/untitled-2-copy-3-revised.jpg
 images:
   - image_path: /assets/images/59650c60b9de7.jpg
@@ -99,3 +99,5 @@ _comments:
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
 ---
+
+

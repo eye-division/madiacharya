@@ -11,7 +11,7 @@ description_markdown: >-
 _gallery_date:
 permalink: /sculpture/frolics-with-relics
 archive: false
-order_number:
+order_number: 2
 main_image_path: /assets/images/3286-screen-copy-2.jpg
 thumb_crop:
 images:
@@ -99,4 +99,5 @@ _comments:
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
 ---
+
 
