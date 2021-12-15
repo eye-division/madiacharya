@@ -11,7 +11,7 @@ description_markdown: >-
   be constantly&nbsp; in a state of flux.
 permalink: /sculpture/Tiny-Obsessions/
 archive: false
-order_number: 2
+order_number: 4
 _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/3184a-screen-copy-1.jpg
 images:
@@ -122,3 +122,5 @@ _comments:
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
 ---
+
+
