@@ -13,7 +13,7 @@ description_markdown: >-
   2016
 permalink: /sculpture/bride-and-bridegroom/
 archive: false
-order_number: 4
+order_number: 6
 _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/the-bride-copy.jpg
 images:
@@ -57,3 +57,5 @@ _comments:
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
 ---
+
+
