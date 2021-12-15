@@ -15,7 +15,7 @@ description_markdown: >-
 _gallery_date: 2016-05-01 00:00:00
 permalink: /sculpture/human-factor/
 archive: false
-order_number: 1
+order_number: 3
 main_image_path: /assets/images/597-screen-copy-1.jpg
 images:
   - image_path: /assets/images/5093ascreen-copy.jpg
