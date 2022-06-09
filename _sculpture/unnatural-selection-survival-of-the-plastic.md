@@ -154,6 +154,43 @@ images:
   - image_path: /assets/images/3279-screen-copy.jpg
     image_title: A shell of the future (detail)
     image_description:
+  - image_path: /assets/images/6733-screen-copy.jpg
+    image_title: Trophy Bird (view 1)
+    image_description: >-
+      Materials: Found plastic, bone, vintage textiles, found wood, acrylic
+      paint
+
+      Dimension (cm) W28 H35 D11
+  - image_path: /assets/images/6730-screen-copy.jpg
+    image_title: Trophy Bird (view 2)
+    image_description:
+  - image_path: /assets/images/6740-screen-copy.jpg
+    image_title: Trophy Bird (detail)
+    image_description:
+  - image_path: /assets/images/6747-screen-copy.jpg
+    image_title: Confessions of a mudlark (view 1)
+    image_description: >-
+      Materials: Found molten plastic, found metal, textiles, shells, acrylic
+      paint
+
+      Dimensions (cm): W13 H25 D13
+  - image_path: /assets/images/6754-screen-copy.jpg
+    image_title: Confessions of a mudlard (detail 1)
+    image_description:
+  - image_path: /assets/images/6753-screen-copy.jpg
+    image_title: Confessions of a mudlark (detail 2)
+    image_description:
+  - image_path: /assets/images/6768-screen-copy.jpg
+    image_title: Canary Warped (view 1)
+    image_description: |-
+      Materials: Found plastic, vintage textiles, paper mache, acrylic paint
+      Dimensions (cm) W15 H18 D10
+  - image_path: /assets/images/6763-screen-copy.jpg
+    image_title: Canary Warped (view 2)
+    image_description:
+  - image_path: /assets/images/6772-screen-copy.jpg
+    image_title: Canary Warped (view 3)
+    image_description:
 _options:
   image_path:
     width: 1200
@@ -172,5 +209,3 @@ _comments:
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
 ---
-
-
