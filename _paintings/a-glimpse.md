@@ -10,13 +10,19 @@ archive: false
 main_image_path: /assets/images/5679a-screen-copy-1.jpg
 thumb_crop:
 images:
-  - image_path: /assets/images/5679a-screen-copy.jpg
-    image_title: Holy Wine
-    image_description: Oil on charred wood, shell, W22 H12.5 D1.5 cms, 2021
+  - image_path: /assets/images/6338ab-screen-copy.jpg
+    image_title: Wild Floatation
+    image_description:
+  - image_path: /assets/images/6341ab-screen-copy.jpg
+    image_title: Summer Time
+    image_description:
   - image_path: /assets/images/5677a-screen-copy.jpg
     image_title: Woven Ground
     image_description: |
       Oil on wood panel, W18.5 H14 D2 cms, 2021
+  - image_path: /assets/images/5679a-screen-copy.jpg
+    image_title: Holy Wine
+    image_description: Oil on charred wood, shell, W22 H12.5 D1.5 cms, 2021
   - image_path: /assets/images/5681a-screen-copy.jpg
     image_title: Glenfalloch
     image_description: Oil on charred wood, shell, W10.5 H10 D2 cms, 2021
@@ -77,5 +83,3 @@ _comments:
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
 ---
-
-
