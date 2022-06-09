@@ -155,7 +155,7 @@ images:
     image_title: A shell of the future (detail)
     image_description:
   - image_path: /assets/images/6733-screen-copy.jpg
-    image_title: Trophy Bird (image 1)
+    image_title: Trophy Bird (view 1)
     image_description: >-
       Materials: Found plastic, bone, vintage textiles, found wood, acrylic
       paint
