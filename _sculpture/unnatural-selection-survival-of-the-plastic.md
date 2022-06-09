@@ -174,6 +174,9 @@ images:
       paint
 
       Dimensions (cm): W13 H25 D13
+  - image_path: /assets/images/6754-screen-copy.jpg
+    image_title: Confessions of a mudlard (detail 1)
+    image_description:
 _options:
   image_path:
     width: 1200
