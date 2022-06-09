@@ -1,13 +1,80 @@
 ---
 layout: page
 title: Ceramics
+description_markdown: >-
+  Ceramics text here
 permalink: /ceramics/
+archive: false
+order_number: 5
+_gallery_date: 2022-05-01 00:00:00
 main_image_path: /assets/images/6844-screen-copy.jpg
 image_caption:
+images:
+  - image_path: /assets/images/6844-screen-copy.jpg
+    image_title: Test
+    image_description:
 _options:
+  image_path:
+    width: 1200
+    height: 1200
+    resize_style: contain
+    mime_type: image/jpeg
   main_image_path:
     width: 1200
     height: 1200
     resize_style: contain
     mime_type: image/jpeg
+_comments:
+  title: Gallery title
+  permalink: Be careful editing this
+  main_image_path: Image used to represent your gallery
+  images: Add and edit your gallery images here
+  image_description: May only be used in the close up of an image
 ---
+
+  {% if page.images[0].image_path %}
+  <section class="gallery">
+    {% for image in page.images %}
+      {% if image.image_path %}
+      <div class="gallery-box {% cycle 'alpha', '', 'last' %}">
+        <a href="{% include imgpath.html src=image.image_path width=1280 %}" class="galleryphoto" data-lightbox="gallery" data-title="{{ image.image_title }} - {{ image.image_description }}">
+          {% include img.html src=image.image_path width=600 fit=clip alt=image.image_title %}
+        </a>
+        <caption>{{ image.image_title }}<br>
+        Mailto link here</caption>
+      </div>
+      {% endif %}
+    {% endfor %}
+  </section>
+  {% endif %}
+
+  <section class="main-content">
+    {% if page.description_markdown %}{{ page.description_markdown | markdownify }}{% endif %}
+  </section>
+
+  {% if page.sounds %}
+  <section>
+    {% for sound in page.sounds %}
+      {% if sound.audioid %}
+          {% include soundcloud.html id=sound.audioid %}
+        {% if sound.description %}
+          <p class="description">{{ sound.description }}</p>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </section>
+{% endif %}
+
+{% if page.videos %}
+
+    {% for video in page.videos %}
+      {% if video.videoid %}
+        {% include youtubeplayer.html id=video.videoid %}
+        {% if video.description %}
+          <p class="description">{{ video.description }}</p>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
+{% endif %}
+
