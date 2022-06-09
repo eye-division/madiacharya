@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Ceramics
-description_markdown: >-
-  Ceramics text here
+description_markdown: Ceramics text here
 permalink: /ceramics/
 archive: false
 order_number: 5
@@ -12,6 +11,9 @@ image_caption:
 images:
   - image_path: /assets/images/6844-screen-copy.jpg
     image_title: Test
+    image_description:
+  - image_path: /assets/images/6853-screen-copy.jpg
+    image_title: Winking Mask
     image_description:
 _options:
   image_path:
@@ -32,7 +34,7 @@ _comments:
   image_description: May only be used in the close up of an image
 ---
 
-  {% if page.images[0].image_path %}
+{% if page.images[0].image_path %}
   <section class="gallery">
     {% for image in page.images %}
       {% if image.image_path %}
@@ -77,4 +79,3 @@ _comments:
     {% endfor %}
 
 {% endif %}
-
