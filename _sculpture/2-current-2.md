@@ -109,8 +109,8 @@ images:
     image_description: |-
       Mixed media sculpture
       Dimensions (cm): W14 H23 D12
-  - image_path:
-    image_title:
+  - image_path: /assets/images/6775-screen-copy.jpg
+    image_title: Soul of the shell (view 2)
     image_description:
 _options:
   image_path:
