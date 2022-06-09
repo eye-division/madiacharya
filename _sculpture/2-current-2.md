@@ -15,6 +15,17 @@ order_number: 4
 _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/3184a-screen-copy-1.jpg
 images:
+  - image_path: /assets/images/6774-screen-copy.jpg
+    image_title: Soul of the shell (front view)
+    image_description: |-
+      Mixed media sculpture
+      Dimensions (cm): W14 H23 D12
+  - image_path: /assets/images/6775-screen-copy.jpg
+    image_title: Soul of the shell (side view)
+    image_description:
+  - image_path: /assets/images/6779-screen-copy.jpg
+    image_title: Soul of the shell (back)
+    image_description:
   - image_path: /assets/images/3178a-screen-copy.jpg
     image_title: Of course it was my idea! (front)
     image_description: >-
@@ -103,17 +114,6 @@ images:
     image_description:
   - image_path: /assets/images/57567bf32b9e2.jpg
     image_title: Sikim (back)
-    image_description:
-  - image_path: /assets/images/6774-screen-copy.jpg
-    image_title: Soul of the shell (front view)
-    image_description: |-
-      Mixed media sculpture
-      Dimensions (cm): W14 H23 D12
-  - image_path: /assets/images/6775-screen-copy.jpg
-    image_title: Soul of the shell (side view)
-    image_description:
-  - image_path: /assets/images/6779-screen-copy.jpg
-    image_title: Soul of the shell (back)
     image_description:
 _options:
   image_path:
