@@ -112,6 +112,9 @@ images:
   - image_path: /assets/images/6775-screen-copy.jpg
     image_title: Soul of the shell (view 2)
     image_description:
+  - image_path: /assets/images/6779-screen-copy.jpg
+    image_title: Soul of the shell (back)
+    image_description:
 _options:
   image_path:
     width: 1200
