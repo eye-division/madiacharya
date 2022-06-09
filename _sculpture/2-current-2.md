@@ -105,7 +105,7 @@ images:
     image_title: Sikim (back)
     image_description:
   - image_path: /assets/images/6774-screen-copy.jpg
-    image_title: Soul of the shell (view 1)
+    image_title: Soul of the shell (front view)
     image_description: |-
       Mixed media sculpture
       Dimensions (cm): W14 H23 D12
