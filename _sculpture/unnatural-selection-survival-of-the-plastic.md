@@ -167,6 +167,13 @@ images:
   - image_path: /assets/images/6740-screen-copy.jpg
     image_title: Trophy Bird (detail)
     image_description:
+  - image_path: /assets/images/6747-screen-copy.jpg
+    image_title: Confessions of a mudlark (view 1)
+    image_description: >-
+      Materials: Found molten plastic, found metal, textiles, shells, acrylic
+      paint
+
+      Dimensions (cm): W13 H25 D13
 _options:
   image_path:
     width: 1200
