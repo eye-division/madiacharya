@@ -20,6 +20,11 @@ order_number: 1
 main_image_path: /assets/images/5500-screen-copy-1.jpg
 thumb_crop:
 images:
+  - image_path: /assets/images/6768-screen-copy.jpg
+    image_title: Canary Warped (view 1)
+    image_description: |-
+      Materials: Found plastic, vintage textiles, paper mache, acrylic paint
+      Dimensions (cm) W15 H18 D10
   - image_path: /assets/images/5495-screen-copy.jpg
     image_title: A bird in paradise (image 1)
     image_description: |2
@@ -180,11 +185,6 @@ images:
   - image_path: /assets/images/6753-screen-copy.jpg
     image_title: Confessions of a mudlark (detail 2)
     image_description:
-  - image_path: /assets/images/6768-screen-copy.jpg
-    image_title: Canary Warped (view 1)
-    image_description: |-
-      Materials: Found plastic, vintage textiles, paper mache, acrylic paint
-      Dimensions (cm) W15 H18 D10
   - image_path: /assets/images/6763-screen-copy.jpg
     image_title: Canary Warped (view 2)
     image_description:
