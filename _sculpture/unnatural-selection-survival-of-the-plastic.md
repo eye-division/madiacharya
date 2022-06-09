@@ -177,6 +177,9 @@ images:
   - image_path: /assets/images/6754-screen-copy.jpg
     image_title: Confessions of a mudlard (detail 1)
     image_description:
+  - image_path: /assets/images/6753-screen-copy.jpg
+    image_title: Confessions of a mudlark (detail 2)
+    image_description:
 _options:
   image_path:
     width: 1200
