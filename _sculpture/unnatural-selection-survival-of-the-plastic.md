@@ -180,6 +180,11 @@ images:
   - image_path: /assets/images/6753-screen-copy.jpg
     image_title: Confessions of a mudlark (detail 2)
     image_description:
+  - image_path: /assets/images/6768-screen-copy.jpg
+    image_title: Canary Warped (view 1)
+    image_description: |-
+      Materials: Found plastic, vintage textiles, paper mache, acrylic paint
+      Dimensions (cm) W15 H18 D10
 _options:
   image_path:
     width: 1200
