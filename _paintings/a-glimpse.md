@@ -62,6 +62,9 @@ images:
   - image_path: /assets/images/6338ab-screen-copy.jpg
     image_title: Wild Floatation
     image_description:
+  - image_path: /assets/images/6341ab-screen-copy.jpg
+    image_title: Summer Time
+    image_description:
 _options:
   image_path:
     width: 1200
