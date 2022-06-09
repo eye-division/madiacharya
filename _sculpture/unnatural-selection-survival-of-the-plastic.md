@@ -164,6 +164,9 @@ images:
   - image_path: /assets/images/6730-screen-copy.jpg
     image_title: Trophy Bird (view 2)
     image_description:
+  - image_path: /assets/images/6740-screen-copy.jpg
+    image_title: Trophy Bird (detail)
+    image_description:
 _options:
   image_path:
     width: 1200
