@@ -15,7 +15,7 @@ images:
     image_title: detail 1
     image_description:
   - image_path: /assets/images/6854-screen-copy.jpg
-    image_title: Winking Mask (detail 2)
+    image_title: detail 2
     image_description:
   - image_path: /assets/images/6839-screen-copy-1.jpg
     image_title: Spider crab pot
