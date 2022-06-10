@@ -1,7 +1,15 @@
 ---
 title: Sculpture
 _hide_content: true
-description_markdown:
+description_markdown: >-
+  These ceramic masks and sculptures were created as part of Developing Your
+  Creative Practice Award , Arts Council England.
+
+
+  I wanted to focus on masks in the collections in various museums.
+
+
+  The sculptures are inspired by the animal kingdom and the natural world
 permalink: /ceramics/sculpture/
 archive: false
 order_number: 2
