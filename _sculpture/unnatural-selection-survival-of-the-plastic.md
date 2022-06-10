@@ -121,6 +121,19 @@ images:
   - image_path: /assets/images/3244-screen-copy.jpg
     image_title: My life as a bird (detail)
     image_description:
+  - image_path: /assets/images/6733-screen-copy.jpg
+    image_title: Trophy Bird (view 1)
+    image_description: >-
+      Materials: Found plastic, bone, vintage textiles, found wood, acrylic
+      paint
+
+      Dimension (cm) W28 H35 D11
+  - image_path: /assets/images/6730-screen-copy.jpg
+    image_title: Trophy Bird (view 2)
+    image_description:
+  - image_path: /assets/images/6740-screen-copy.jpg
+    image_title: Trophy Bird (detail)
+    image_description:
   - image_path: /assets/images/vessel-robes-image-1-copy.jpg
     image_title: Vessel Robes (front)
     image_description: |-
@@ -177,19 +190,6 @@ images:
     image_description:
   - image_path: /assets/images/3279-screen-copy.jpg
     image_title: A shell of the future (detail)
-    image_description:
-  - image_path: /assets/images/6733-screen-copy.jpg
-    image_title: Trophy Bird (view 1)
-    image_description: >-
-      Materials: Found plastic, bone, vintage textiles, found wood, acrylic
-      paint
-
-      Dimension (cm) W28 H35 D11
-  - image_path: /assets/images/6730-screen-copy.jpg
-    image_title: Trophy Bird (view 2)
-    image_description:
-  - image_path: /assets/images/6740-screen-copy.jpg
-    image_title: Trophy Bird (detail)
     image_description:
 _options:
   image_path:
