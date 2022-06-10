@@ -12,7 +12,7 @@ images:
     image_title: Winking Mask
     image_description:
   - image_path: /assets/images/6855-screen-copy.jpg
-    image_title: Winking Mask (detail 1)
+    image_title: detail 1
     image_description:
   - image_path: /assets/images/6854-screen-copy.jpg
     image_title: Winking Mask (detail 2)
