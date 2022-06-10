@@ -80,7 +80,14 @@ images:
     image_description:
   - image_path: /assets/images/6785-screen-copy.jpg
     image_title: 'The true about organic gardening  '
-    image_description:
+    image_description: >-
+      This work is inspired by organically grown carrots which can sometimes
+      have unusual shapes.
+
+      Materials: Earthenware clay, underglazes, transparent glaze, found wooden
+      block
+
+      2022
   - image_path: /assets/images/6788-screen-copy-2.jpg
     image_title: back
     image_description:
