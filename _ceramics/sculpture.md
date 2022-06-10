@@ -62,7 +62,16 @@ images:
     image_description:
   - image_path: /assets/images/6802-screen-copy.jpg
     image_title: Haashi
-    image_description:
+    image_description: >-
+      'Haashi' (laughter) inspired by Figure of Nandi, the bull of shiva,
+      Ashmolean Collection, Oxford, 
+
+      Dimensions: H6 D7 W16 cm, 
+
+      Materials: Clank clay, underglazes, black earthenware glaze, transparent
+      glaze
+
+      2022
   - image_path: /assets/images/6803-screen-copy.jpg
     image_title: view 2
     image_description:
