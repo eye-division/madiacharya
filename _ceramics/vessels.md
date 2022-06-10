@@ -15,9 +15,9 @@ images:
     image_title: Orange and green vessel
     image_description: >-
       This pinch pot was inspired by textile piece from The India and South East
-      Asia collection, Ashmolean Museum, Oxford, 
+      Asia collection, Ashmolean Museum, Oxford 
 
-      Dimensions :W8.5 D7 H9 cm,
+      Dimensions :W8.5 D7 H9 cm
 
       2021 
 
