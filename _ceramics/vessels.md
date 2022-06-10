@@ -15,9 +15,9 @@ images:
     image_title: Orange and green vessel
     image_description: >-
       This pinch pot was inspired by textile piece from The India and South East
-      Asia collection, Ashmolean Museum, Oxford, 
+      Asia collection, Ashmolean Museum, Oxford 
 
-      Dimensions :W8.5 D7 H9 cm,
+      Dimensions :W8.5 D7 H9 cm
 
       2021 
 
@@ -30,7 +30,16 @@ images:
     image_description:
   - image_path: /assets/images/6827-screen-copy.jpg
     image_title: Blue and green vessel
-    image_description:
+    image_description: >-
+      This pinch pot with a tree and fruit design was inspired by a textile
+      piece from The India and South East Asia collection,  Ashmolean Museum,
+      Oxford 
+
+      Dimensions W10 D11 H7 cm
+
+      Earthenware clay
+
+      2021
   - image_path: /assets/images/6831-screen-copy.jpg
     image_title: detail 1
     image_description:
@@ -39,7 +48,10 @@ images:
     image_description:
   - image_path: /assets/images/6833-screen-copy.jpg
     image_title: 'Blue and orange vessel '
-    image_description:
+    image_description: |-
+      Glazes used were midnight blue and shino
+      Stoneware clay
+      2021
   - image_path: /assets/images/6834-screen-copy.jpg
     image_title: view 2
     image_description:
@@ -48,7 +60,15 @@ images:
     image_description:
   - image_path: /assets/images/6808-screen-copy.jpg
     image_title: Floral vessel
-    image_description:
+    image_description: >-
+      This vessel is inspired by the Dutch and Flemish Still-Life paintings
+      collection at Ashmolean Museum,  Oxford
+
+      Dimensions: W15 H7 D10 cm 
+
+      white stoneware clay, underglaze 
+
+      2021
   - image_path: /assets/images/6817-screen-copy.jpg
     image_title: detail
     image_description:
