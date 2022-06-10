@@ -1,7 +1,15 @@
 ---
 title: Sculpture
 _hide_content: true
-description_markdown:
+description_markdown: >-
+  These ceramic masks and sculptures were created as part of Developing Your
+  Creative Practice Award , Arts Council England.
+
+
+  I wanted to focus on masks in the collections in various museums.
+
+
+  The sculptures are inspired by the animal kingdom and the natural world
 permalink: /ceramics/sculpture/
 archive: false
 order_number: 2
@@ -10,7 +18,13 @@ main_image_path: /assets/images/6844-screen-copy.jpg
 images:
   - image_path: /assets/images/6853-screen-copy.jpg
     image_title: Winking Mask
-    image_description:
+    image_description: >
+      This ceramic mask is  inspired by Naga-Makara 14th Century end tile,
+      Eastern Collection, Ashmolean Museum, 
+
+      Dimensions: H20 W15 D12 cm
+
+      2022
   - image_path: /assets/images/6855-screen-copy.jpg
     image_title: detail 1
     image_description:
@@ -18,8 +32,11 @@ images:
     image_title: detail 2
     image_description:
   - image_path: /assets/images/6839-screen-copy-1.jpg
-    image_title: Spider crab pot
-    image_description:
+    image_title: The Spidercrab body
+    image_description: >-
+      This work was inspired by nature, a spider crab shell found on a deserted
+      beach in Dorset. It is created in crank clay. White glaze was used on the
+      inside and shino on the inside.
   - image_path: /assets/images/6843-screen-copy.jpg
     image_title: view 2
     image_description:
@@ -28,16 +45,33 @@ images:
     image_description:
   - image_path: /assets/images/6844-screen-copy-1.jpg
     image_title: Mr Hornyman
-    image_description:
+    image_description: |-
+      Ceramic mask, inspired by Bengali mask, Indian Museum, Kolkata, India
+      Dimensions: H28 W18 D8 cm 
+      Materials: crank clay, underglaze, transparent glaze
+      2022
   - image_path: /assets/images/6848-screen-copy.jpg
     image_title: Smiley smile crab face
-    image_description:
+    image_description: |-
+      Ceramic mask, inspired by Bengali mask, Indian Museum, Kolkata, India, 
+      Dimensions:H24 W18 D8 cm 
+      Materials: crank clay, underglazes, transparent glaze
+      2022
   - image_path: /assets/images/6849-screen-copy.jpg
     image_title: view 2
     image_description:
   - image_path: /assets/images/6802-screen-copy.jpg
     image_title: Haashi
-    image_description:
+    image_description: >-
+      'Haashi' (laughter) inspired by Figure of Nandi, the bull of shiva,
+      Ashmolean Collection, Oxford, 
+
+      Dimensions: H6 D7 W16 cm, 
+
+      Materials: Clank clay, underglazes, black earthenware glaze, transparent
+      glaze
+
+      2022
   - image_path: /assets/images/6803-screen-copy.jpg
     image_title: view 2
     image_description:
@@ -46,7 +80,14 @@ images:
     image_description:
   - image_path: /assets/images/6785-screen-copy.jpg
     image_title: 'The true about organic gardening  '
-    image_description:
+    image_description: >-
+      This work is inspired by organically grown carrots which can sometimes
+      have unusual shapes.
+
+      Materials: Earthenware clay, underglazes, transparent glaze, found wooden
+      block
+
+      2022
   - image_path: /assets/images/6788-screen-copy-2.jpg
     image_title: back
     image_description:
