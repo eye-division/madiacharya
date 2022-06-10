@@ -17,6 +17,9 @@ images:
   - image_path: /assets/images/6854-screen-copy.jpg
     image_title: Winking Mask (detail 2)
     image_description:
+  - image_path: /assets/images/6839-screen-copy-1.jpg
+    image_title: Spider crab pot
+    image_description:
   - image_path: /assets/images/6844-screen-copy-1.jpg
     image_title: Mr Hornyman
     image_description:
@@ -40,9 +43,6 @@ images:
     image_description:
   - image_path: /assets/images/6790-screen-copy.jpg
     image_title: detail
-    image_description:
-  - image_path: /assets/images/6839-screen-copy-1.jpg
-    image_title: Spider crab pot
     image_description:
 _options:
   image_path:
