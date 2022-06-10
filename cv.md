@@ -88,6 +88,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### CURATORIAL PROJECTS
 
+2022 **That Island Feeling**,Terrace Gallery,London
+
 2018&nbsp;**Objection**, Angus Hughes Gallery, London
 
 2009 **Jam: Cultural Congestions in Contemporary Asian Art,** artist-curator with Dr Outi Remes, South Hill Park, Bracknell (funded by ACE, National Culture and Arts Foundation, Taiwan)
