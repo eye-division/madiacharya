@@ -32,7 +32,7 @@ images:
     image_title: detail 2
     image_description:
   - image_path: /assets/images/6839-screen-copy-1.jpg
-    image_title: Spider crab pot
+    image_title: The Spidercrab body
     image_description:
   - image_path: /assets/images/6843-screen-copy.jpg
     image_title: view 2
