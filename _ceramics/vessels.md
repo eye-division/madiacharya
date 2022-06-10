@@ -1,17 +1,13 @@
 ---
 title: Vessels
 _hide_content: true
-description_markdown: >-
-  
+description_markdown:
 permalink: /ceramics/vessels/
 archive: false
 order_number: 1
 _gallery_date: 2022-05-01 00:00:00
-main_image_path: /assets/images/6839-screen-copy.jpg
+main_image_path: /assets/images/6820-screen-copy-1.jpg
 images:
-  - image_path: /assets/images/6839-screen-copy.jpg
-    image_title: Spider Crab vessel
-    image_description:
   - image_path: /assets/images/6820-screen-copy.jpg
     image_title: Orange and green vessel
     image_description:
@@ -61,5 +57,3 @@ _comments:
   order_number: Display order on the installations page
   archive: Should we archive it?
 ---
-
-
