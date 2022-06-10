@@ -38,6 +38,9 @@ images:
   - image_path: /assets/images/6833-screen-copy.jpg
     image_title: Blue and orange vessel (view 1)
     image_description:
+  - image_path: /assets/images/6834-screen-copy.jpg
+    image_title: Blue and orange vessel (view 2)
+    image_description:
 _options:
   image_path:
     uploads_dir: assets/images/:year
