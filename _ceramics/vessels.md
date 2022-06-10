@@ -9,7 +9,6 @@ order_number: 1
 _gallery_date: 2022-05-01 00:00:00
 main_image_path: /assets/images/6839-screen-copy.jpg
 images:
-    image_description:
   - image_path: /assets/images/6839-screen-copy.jpg
     image_title: Spider Crab vessel
     image_description:
@@ -40,7 +39,6 @@ images:
   - image_path: /assets/images/6812-screen-copy.jpg
     image_title: view 2
     image_description:
-
 _options:
   image_path:
     uploads_dir: assets/images/:year
