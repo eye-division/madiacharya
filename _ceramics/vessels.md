@@ -1,7 +1,10 @@
 ---
 title: Vessels
 _hide_content: true
-description_markdown:
+description_markdown: >-
+  These ceramic vessels were inspired by textiles from the Eastern collection at
+  Ashmolean Museum in Oxford and created as part of Arts Council England’s
+  Developing Your Creative Practice Award.
 permalink: /ceramics/vessels/
 archive: false
 order_number: 1
