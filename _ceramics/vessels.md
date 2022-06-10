@@ -5,27 +5,13 @@ description_markdown: >-
   
 permalink: /ceramics/vessels/
 archive: false
-order_number: 5
+order_number: 1
 _gallery_date: 2022-05-01 00:00:00
-main_image_path: /assets/images/6844-screen-copy.jpg
+main_image_path: /assets/images/6839-screen-copy.jpg
 images:
-  - image_path: /assets/images/6853-screen-copy.jpg
-    image_title: Winking Mask
-    image_description:
-  - image_path: /assets/images/6855-screen-copy.jpg
-    image_title: Winking Mask (detail 1)
-    image_description:
-  - image_path: /assets/images/6854-screen-copy.jpg
-    image_title: Winking Mask (detail 2)
     image_description:
   - image_path: /assets/images/6839-screen-copy.jpg
     image_title: Spider Crab vessel
-    image_description:
-  - image_path: /assets/images/6844-screen-copy-1.jpg
-    image_title: Mr Hornyman
-    image_description:
-  - image_path: /assets/images/6848-screen-copy.jpg
-    image_title: Smiley smile crab face
     image_description:
   - image_path: /assets/images/6820-screen-copy.jpg
     image_title: Orange and green vessel
@@ -54,24 +40,7 @@ images:
   - image_path: /assets/images/6812-screen-copy.jpg
     image_title: view 2
     image_description:
-  - image_path: /assets/images/6802-screen-copy.jpg
-    image_title: Haashi, view 1
-    image_description:
-  - image_path: /assets/images/6803-screen-copy.jpg
-    image_title: view 2
-    image_description:
-  - image_path: /assets/images/6798-screen-copy.jpg
-    image_title: detail
-    image_description:
-  - image_path: /assets/images/6785-screen-copy.jpg
-    image_title: The true about organic gardening  (front)
-    image_description:
-  - image_path: /assets/images/6788-screen-copy-2.jpg
-    image_title: back
-    image_description:
-  - image_path: /assets/images/6790-screen-copy.jpg
-    image_title: detail
-    image_description:
+
 _options:
   image_path:
     uploads_dir: assets/images/:year

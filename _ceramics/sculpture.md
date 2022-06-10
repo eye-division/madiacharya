@@ -1,11 +1,11 @@
 ---
-title: Vessels
+title: Sculpture
 _hide_content: true
 description_markdown: >-
   
-permalink: /ceramics/vessels/
+permalink: /ceramics/sculpture/
 archive: false
-order_number: 5
+order_number: 2
 _gallery_date: 2022-05-01 00:00:00
 main_image_path: /assets/images/6844-screen-copy.jpg
 images:
@@ -18,41 +18,11 @@ images:
   - image_path: /assets/images/6854-screen-copy.jpg
     image_title: Winking Mask (detail 2)
     image_description:
-  - image_path: /assets/images/6839-screen-copy.jpg
-    image_title: Spider Crab vessel
-    image_description:
   - image_path: /assets/images/6844-screen-copy-1.jpg
     image_title: Mr Hornyman
     image_description:
   - image_path: /assets/images/6848-screen-copy.jpg
     image_title: Smiley smile crab face
-    image_description:
-  - image_path: /assets/images/6820-screen-copy.jpg
-    image_title: Orange and green vessel
-    image_description:
-  - image_path: /assets/images/6826-screen-copy.jpg
-    image_title: detail 1
-    image_description:
-  - image_path: /assets/images/6825-screen-copy.jpg
-    image_title: detail 2
-    image_description:
-  - image_path: /assets/images/6827-screen-copy.jpg
-    image_title: Blue and green vessel
-    image_description:
-  - image_path: /assets/images/6831-screen-copy.jpg
-    image_title: detail 1
-    image_description:
-  - image_path: /assets/images/6829-screen-copy.jpg
-    image_title: detail 2
-    image_description:
-  - image_path: /assets/images/6808-screen-copy.jpg
-    image_title: Floral vessel, view 1
-    image_description:
-  - image_path: /assets/images/6817-screen-copy.jpg
-    image_title: detail
-    image_description:
-  - image_path: /assets/images/6812-screen-copy.jpg
-    image_title: view 2
     image_description:
   - image_path: /assets/images/6802-screen-copy.jpg
     image_title: Haashi, view 1
