@@ -18,7 +18,13 @@ main_image_path: /assets/images/6844-screen-copy.jpg
 images:
   - image_path: /assets/images/6853-screen-copy.jpg
     image_title: Winking Mask
-    image_description:
+    image_description: >
+      This ceramic mask is  inspired by Naga-Makara 14th Century end tile,
+      Eastern Collection, Ashmolean Museum, 
+
+      Dimensions: H20 W15 D12 cm
+
+      2022
   - image_path: /assets/images/6855-screen-copy.jpg
     image_title: detail 1
     image_description:
