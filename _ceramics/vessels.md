@@ -48,7 +48,10 @@ images:
     image_description:
   - image_path: /assets/images/6833-screen-copy.jpg
     image_title: 'Blue and orange vessel '
-    image_description:
+    image_description: |-
+      Glazes used were midnight blue and shino
+      Stoneware clay
+      2021
   - image_path: /assets/images/6834-screen-copy.jpg
     image_title: view 2
     image_description:
