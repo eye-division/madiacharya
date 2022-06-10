@@ -47,6 +47,9 @@ images:
   - image_path: /assets/images/6843-screen-copy.jpg
     image_title: view 2
     image_description:
+  - image_path: /assets/images/6840-screen-copy.jpg
+    image_title: detail
+    image_description:
 _options:
   image_path:
     uploads_dir: assets/images/:year
