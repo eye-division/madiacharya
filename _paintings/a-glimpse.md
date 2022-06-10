@@ -17,7 +17,9 @@ images:
       Dimensions: H13 W27.5 D2.5 cm
   - image_path: /assets/images/6341ab-screen-copy.jpg
     image_title: Summer Time
-    image_description:
+    image_description: |-
+      Oil on wood panel
+      Dimensions: H20 W17 D1.5 cm
   - image_path: /assets/images/5677a-screen-copy.jpg
     image_title: Woven Ground
     image_description: |
