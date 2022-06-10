@@ -53,6 +53,19 @@ images:
   - image_path: /assets/images/5528-screen-copy.jpg
     image_title: Baby Steps (detail)
     image_description:
+  - image_path: /assets/images/6747-screen-copy.jpg
+    image_title: Confessions of a mudlark (view 1)
+    image_description: >-
+      Materials: Found molten plastic, found metal, textiles, shells, acrylic
+      paint
+
+      Dimensions (cm): W13 H25 D13
+  - image_path: /assets/images/6754-screen-copy.jpg
+    image_title: Confessions of a mudlard (detail 1)
+    image_description:
+  - image_path: /assets/images/6753-screen-copy.jpg
+    image_title: Confessions of a mudlark (detail 2)
+    image_description:
   - image_path: /assets/images/664-screen-copy.jpg
     image_title: Vitamin Orange (image 1)
     image_description: |2
@@ -177,19 +190,6 @@ images:
     image_description:
   - image_path: /assets/images/6740-screen-copy.jpg
     image_title: Trophy Bird (detail)
-    image_description:
-  - image_path: /assets/images/6747-screen-copy.jpg
-    image_title: Confessions of a mudlark (view 1)
-    image_description: >-
-      Materials: Found molten plastic, found metal, textiles, shells, acrylic
-      paint
-
-      Dimensions (cm): W13 H25 D13
-  - image_path: /assets/images/6754-screen-copy.jpg
-    image_title: Confessions of a mudlard (detail 1)
-    image_description:
-  - image_path: /assets/images/6753-screen-copy.jpg
-    image_title: Confessions of a mudlark (detail 2)
     image_description:
 _options:
   image_path:
