@@ -26,23 +26,23 @@ images:
   - image_path: /assets/images/6829-screen-copy.jpg
     image_title: detail 2
     image_description:
+  - image_path: /assets/images/6833-screen-copy.jpg
+    image_title: 'Blue and orange vessel '
+    image_description:
+  - image_path: /assets/images/6834-screen-copy.jpg
+    image_title: view 2
+    image_description:
+  - image_path: /assets/images/6837-screen-copy.jpg
+    image_title: view 3
+    image_description:
   - image_path: /assets/images/6808-screen-copy.jpg
-    image_title: Floral vessel, view 1
+    image_title: Floral vessel
     image_description:
   - image_path: /assets/images/6817-screen-copy.jpg
     image_title: detail
     image_description:
   - image_path: /assets/images/6812-screen-copy.jpg
     image_title: view 2
-    image_description:
-  - image_path: /assets/images/6833-screen-copy.jpg
-    image_title: Blue and orange vessel (view 1)
-    image_description:
-  - image_path: /assets/images/6834-screen-copy.jpg
-    image_title: Blue and orange vessel (view 2)
-    image_description:
-  - image_path: /assets/images/6837-screen-copy.jpg
-    image_title: Blue and orange vessel (view 3)
     image_description:
 _options:
   image_path:
