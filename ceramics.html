@@ -1,138 +1,37 @@
 ---
 layout: page
-title: Ceramics
-description_markdown: Ceramics text here
+title: "Ceramics"
 permalink: /ceramics/
-archive: false
-order_number: 5
-_gallery_date: 2022-05-01 00:00:00
-main_image_path: /assets/images/6844-screen-copy.jpg
-image_caption:
-images:
-  - image_path: /assets/images/6853-screen-copy.jpg
-    image_title: Winking Mask
-    image_description:
-  - image_path: /assets/images/6855-screen-copy.jpg
-    image_title: Winking Mask (detail 1)
-    image_description:
-  - image_path: /assets/images/6854-screen-copy.jpg
-    image_title: Winking Mask (detail 2)
-    image_description:
-  - image_path: /assets/images/6839-screen-copy.jpg
-    image_title: Spider Crab vessel
-    image_description:
-  - image_path: /assets/images/6844-screen-copy-1.jpg
-    image_title: Mr Hornyman
-    image_description:
-  - image_path: /assets/images/6848-screen-copy.jpg
-    image_title: Smiley smile crab face
-    image_description:
-  - image_path: /assets/images/6820-screen-copy.jpg
-    image_title: Orange and green vessel
-    image_description:
-  - image_path: /assets/images/6826-screen-copy.jpg
-    image_title: detail 1
-    image_description:
-  - image_path: /assets/images/6825-screen-copy.jpg
-    image_title: detail 2
-    image_description:
-  - image_path: /assets/images/6827-screen-copy.jpg
-    image_title: Blue and green vessel
-    image_description:
-  - image_path: /assets/images/6831-screen-copy.jpg
-    image_title: detail 1
-    image_description:
-  - image_path: /assets/images/6829-screen-copy.jpg
-    image_title: detail 2
-    image_description:
-  - image_path: /assets/images/6808-screen-copy.jpg
-    image_title: Floral vessel, view 1
-    image_description:
-  - image_path: /assets/images/6817-screen-copy.jpg
-    image_title: detail
-    image_description:
-  - image_path: /assets/images/6812-screen-copy.jpg
-    image_title: view 2
-    image_description:
-  - image_path: /assets/images/6802-screen-copy.jpg
-    image_title: Haashi, view 1
-    image_description:
-  - image_path: /assets/images/6803-screen-copy.jpg
-    image_title: view 2
-    image_description:
-  - image_path: /assets/images/6798-screen-copy.jpg
-    image_title: detail
-    image_description:
-  - image_path: /assets/images/6785-screen-copy.jpg
-    image_title: The true about organic gardening  (front)
-    image_description:
-  - image_path: /assets/images/6788-screen-copy-2.jpg
-    image_title: back
-    image_description:
-  - image_path: /assets/images/6790-screen-copy.jpg
-    image_title: detail
-    image_description:
-_options:
-  image_path:
-    width: 1200
-    height: 1200
-    resize_style: contain
-    mime_type: image/jpeg
-  main_image_path:
-    width: 1200
-    height: 1200
-    resize_style: contain
-    mime_type: image/jpeg
-_comments:
-  title: Gallery title
-  permalink: Be careful editing this
-  main_image_path: Image used to represent your gallery
-  images: Add and edit your gallery images here
-  image_description: May only be used in the close up of an image
+thumb_crop: true
 ---
+<div class="gallery gallery--list">
 
-{% if page.images[0].image_path %}
-  <section class="gallery">
-    {% for image in page.images %}
-      {% if image.image_path %}
-      <div class="gallery-box {% cycle 'alpha', '', 'last' %}">
-        <a href="{% include imgpath.html src=image.image_path width=1280 %}" class="galleryphoto" data-lightbox="gallery" data-title="{{ image.image_title }} - {{ image.image_description }}">
-          {% include img.html src=image.image_path width=600 fit=clip alt=image.image_title %}
-        </a>
-        <caption>{{ image.image_title }}<br>
-        Mailto link here</caption>
-      </div>
-      {% endif %}
-    {% endfor %}
-  </section>
-  {% endif %}
+{% assign galleries = site.ceramics | where:"archive",false | sort: "order_number"   %}
 
-  <section class="main-content">
-    {% if page.description_markdown %}{{ page.description_markdown | markdownify }}{% endif %}
-  </section>
 
-  {% if page.sounds %}
-  <section>
-    {% for sound in page.sounds %}
-      {% if sound.audioid %}
-          {% include soundcloud.html id=sound.audioid %}
-        {% if sound.description %}
-          <p class="description">{{ sound.description }}</p>
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-  </section>
-{% endif %}
+{% for gallery in galleries %}
 
-{% if page.videos %}
+     <div class="gallery--box half">
 
-    {% for video in page.videos %}
-      {% if video.videoid %}
-        {% include youtubeplayer.html id=video.videoid %}
-        {% if video.description %}
-          <p class="description">{{ video.description }}</p>
-        {% endif %}
-      {% endif %}
-    {% endfor %}
+          <a href="{{ gallery.permalink }}" title="{{ gallery.title }}">
 
-{% endif %}
+            {% if page.thumb_crop %}
+
+                <!-- cropped square images -->
+                {% include img.html src=gallery.main_image_path width=400 height=400 fit=crop alt=gallery.title %}
+                <!-- end cropped square -->
+
+              {% else %}
+
+                {% include img.html src=gallery.main_image_path width=600 fit=clip alt=gallery.title %}
+
+              {% endif %}
+
+              <p>{{ gallery.title }}</p>
+
+          </a>
+
+     </div>
+
+{% endfor %}
+</div>
