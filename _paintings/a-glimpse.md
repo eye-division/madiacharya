@@ -7,7 +7,7 @@ description_markdown: >-
 _gallery_date:
 permalink: /paintings/glimpses
 archive: false
-main_image_path: /assets/images/5679a-screen-copy-1.jpg
+main_image_path: /assets/images/6341ab-screen-copy-1.jpg
 thumb_crop:
 images:
   - image_path: /assets/images/6338ab-screen-copy.jpg
@@ -83,3 +83,4 @@ _comments:
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
 ---
+
