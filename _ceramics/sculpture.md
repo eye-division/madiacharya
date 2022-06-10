@@ -52,7 +52,11 @@ images:
       2022
   - image_path: /assets/images/6848-screen-copy.jpg
     image_title: Smiley smile crab face
-    image_description:
+    image_description: |-
+      Ceramic mask, inspired by Bengali mask, Indian Museum, Kolkata, India, 
+      Dimensions:H24 W18 D8 cm 
+      Materials: crank clay, underglazes, transparent glaze
+      2022
   - image_path: /assets/images/6849-screen-copy.jpg
     image_title: view 2
     image_description:
