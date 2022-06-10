@@ -45,7 +45,11 @@ images:
     image_description:
   - image_path: /assets/images/6844-screen-copy-1.jpg
     image_title: Mr Hornyman
-    image_description:
+    image_description: |-
+      Ceramic mask, inspired by Bengali mask, Indian Museum, Kolkata, India
+      Dimensions: H28 W18 D8 cm 
+      Materials: crank clay, underglaze, transparent glaze
+      2022
   - image_path: /assets/images/6848-screen-copy.jpg
     image_title: Smiley smile crab face
     image_description:
