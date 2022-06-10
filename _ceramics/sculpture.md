@@ -33,7 +33,10 @@ images:
     image_description:
   - image_path: /assets/images/6839-screen-copy-1.jpg
     image_title: The Spidercrab body
-    image_description:
+    image_description: >-
+      This work was inspired by nature, a spider crab shell found on a deserted
+      beach in Dorset. It is created in crank clay. White glaze was used on the
+      inside and shino on the inside.
   - image_path: /assets/images/6843-screen-copy.jpg
     image_title: view 2
     image_description:
