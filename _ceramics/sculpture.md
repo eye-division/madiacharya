@@ -36,7 +36,7 @@ images:
     image_title: view 2
     image_description:
   - image_path: /assets/images/6802-screen-copy.jpg
-    image_title: Haashi, view 1
+    image_title: Haashi
     image_description:
   - image_path: /assets/images/6803-screen-copy.jpg
     image_title: view 2
