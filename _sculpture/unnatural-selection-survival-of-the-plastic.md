@@ -42,6 +42,19 @@ images:
   - image_path: /assets/images/5511-screen-copy.jpg
     image_title: A bird in paradise (detail)
     image_description:
+  - image_path: /assets/images/6747-screen-copy.jpg
+    image_title: Confessions of a mudlark (view 1)
+    image_description: >-
+      Materials: Found molten plastic, found metal, textiles, shells, acrylic
+      paint
+
+      Dimensions (cm): W13 H25 D13
+  - image_path: /assets/images/6754-screen-copy.jpg
+    image_title: Confessions of a mudlard (detail 1)
+    image_description:
+  - image_path: /assets/images/6753-screen-copy.jpg
+    image_title: Confessions of a mudlark (detail 2)
+    image_description:
   - image_path: /assets/images/5520-screen-copy.jpg
     image_title: Baby steps (image 1)
     image_description: |2
@@ -108,6 +121,19 @@ images:
   - image_path: /assets/images/3244-screen-copy.jpg
     image_title: My life as a bird (detail)
     image_description:
+  - image_path: /assets/images/6733-screen-copy.jpg
+    image_title: Trophy Bird (view 1)
+    image_description: >-
+      Materials: Found plastic, bone, vintage textiles, found wood, acrylic
+      paint
+
+      Dimension (cm) W28 H35 D11
+  - image_path: /assets/images/6730-screen-copy.jpg
+    image_title: Trophy Bird (view 2)
+    image_description:
+  - image_path: /assets/images/6740-screen-copy.jpg
+    image_title: Trophy Bird (detail)
+    image_description:
   - image_path: /assets/images/vessel-robes-image-1-copy.jpg
     image_title: Vessel Robes (front)
     image_description: |-
@@ -164,32 +190,6 @@ images:
     image_description:
   - image_path: /assets/images/3279-screen-copy.jpg
     image_title: A shell of the future (detail)
-    image_description:
-  - image_path: /assets/images/6733-screen-copy.jpg
-    image_title: Trophy Bird (view 1)
-    image_description: >-
-      Materials: Found plastic, bone, vintage textiles, found wood, acrylic
-      paint
-
-      Dimension (cm) W28 H35 D11
-  - image_path: /assets/images/6730-screen-copy.jpg
-    image_title: Trophy Bird (view 2)
-    image_description:
-  - image_path: /assets/images/6740-screen-copy.jpg
-    image_title: Trophy Bird (detail)
-    image_description:
-  - image_path: /assets/images/6747-screen-copy.jpg
-    image_title: Confessions of a mudlark (view 1)
-    image_description: >-
-      Materials: Found molten plastic, found metal, textiles, shells, acrylic
-      paint
-
-      Dimensions (cm): W13 H25 D13
-  - image_path: /assets/images/6754-screen-copy.jpg
-    image_title: Confessions of a mudlard (detail 1)
-    image_description:
-  - image_path: /assets/images/6753-screen-copy.jpg
-    image_title: Confessions of a mudlark (detail 2)
     image_description:
 _options:
   image_path:
