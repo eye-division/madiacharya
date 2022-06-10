@@ -32,6 +32,9 @@ images:
   - image_path: /assets/images/6848-screen-copy.jpg
     image_title: Smiley smile crab face
     image_description:
+  - image_path: /assets/images/6849-screen-copy.jpg
+    image_title: view 2
+    image_description:
   - image_path: /assets/images/6802-screen-copy.jpg
     image_title: Haashi, view 1
     image_description:
@@ -49,9 +52,6 @@ images:
     image_description:
   - image_path: /assets/images/6790-screen-copy.jpg
     image_title: detail
-    image_description:
-  - image_path: /assets/images/6849-screen-copy.jpg
-    image_title: view 2
     image_description:
 _options:
   image_path:
