@@ -45,7 +45,7 @@ images:
     image_title: detail
     image_description:
   - image_path: /assets/images/6785-screen-copy.jpg
-    image_title: The true about organic gardening  (front)
+    image_title: 'The true about organic gardening  '
     image_description:
   - image_path: /assets/images/6788-screen-copy-2.jpg
     image_title: back
