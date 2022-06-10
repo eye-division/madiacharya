@@ -51,6 +51,10 @@ collections:
         output: true
         permalink: /painting/:path/
         _hide_content: true
+    ceramics:
+        output: true
+        permalink: /ceramics/:path/
+        _hide_content: true
     mixed:
         output: true
         permalink: /mixed-media/:path/
@@ -88,6 +92,12 @@ defaults:
             type: "sculpture"
         values:
             layout: "sculpture"
+    -
+        scope:
+            path: ""
+            type: "ceramics"
+        values:
+            layout: "ceramics"
     -
         scope:
             path: ""
