@@ -12,13 +12,19 @@ images:
     image_title: Winking Mask
     image_description:
   - image_path: /assets/images/6855-screen-copy.jpg
-    image_title: Winking Mask (detail 1)
+    image_title: detail 1
     image_description:
   - image_path: /assets/images/6854-screen-copy.jpg
-    image_title: Winking Mask (detail 2)
+    image_title: detail 2
     image_description:
   - image_path: /assets/images/6839-screen-copy-1.jpg
     image_title: Spider crab pot
+    image_description:
+  - image_path: /assets/images/6843-screen-copy.jpg
+    image_title: view 2
+    image_description:
+  - image_path: /assets/images/6840-screen-copy.jpg
+    image_title: detail
     image_description:
   - image_path: /assets/images/6844-screen-copy-1.jpg
     image_title: Mr Hornyman
@@ -26,8 +32,11 @@ images:
   - image_path: /assets/images/6848-screen-copy.jpg
     image_title: Smiley smile crab face
     image_description:
+  - image_path: /assets/images/6849-screen-copy.jpg
+    image_title: view 2
+    image_description:
   - image_path: /assets/images/6802-screen-copy.jpg
-    image_title: Haashi, view 1
+    image_title: Haashi
     image_description:
   - image_path: /assets/images/6803-screen-copy.jpg
     image_title: view 2
@@ -36,7 +45,7 @@ images:
     image_title: detail
     image_description:
   - image_path: /assets/images/6785-screen-copy.jpg
-    image_title: The true about organic gardening  (front)
+    image_title: 'The true about organic gardening  '
     image_description:
   - image_path: /assets/images/6788-screen-copy-2.jpg
     image_title: back
