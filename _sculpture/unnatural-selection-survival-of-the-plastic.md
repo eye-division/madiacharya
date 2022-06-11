@@ -53,6 +53,17 @@ images:
   - image_path: /assets/images/133-screen-copy.jpg
     image_title: Here to stay (detail)
     image_description:
+  - image_path: /assets/images/3231-screen-copy.jpg
+    image_title: My life as a bird (view 1)
+    image_description: |-
+      Materials: Found objects, found wood, textiles, chicken wire, paper mache
+      Dimensions (cm): W26 H30.5 D19, 2020
+  - image_path: /assets/images/3243-screen-copy.jpg
+    image_title: My life as a bird (view 2)
+    image_description:
+  - image_path: /assets/images/3244-screen-copy.jpg
+    image_title: My life as a bird (detail)
+    image_description:
   - image_path: /assets/images/6747-screen-copy.jpg
     image_title: Confessions of a mudlark (view 1)
     image_description: >-
@@ -98,17 +109,6 @@ images:
     image_description:
   - image_path: /assets/images/650-screen-copy.jpg
     image_title: The owl's castle (detail)
-    image_description:
-  - image_path: /assets/images/3231-screen-copy.jpg
-    image_title: My life as a bird (view 1)
-    image_description: |-
-      Materials: Found objects, found wood, textiles, chicken wire, paper mache
-      Dimensions (cm): W26 H30.5 D19, 2020
-  - image_path: /assets/images/3243-screen-copy.jpg
-    image_title: My life as a bird (view 2)
-    image_description:
-  - image_path: /assets/images/3244-screen-copy.jpg
-    image_title: My life as a bird (detail)
     image_description:
   - image_path: /assets/images/6733-screen-copy.jpg
     image_title: Trophy Bird (view 1)
