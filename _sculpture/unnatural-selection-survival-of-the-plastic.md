@@ -37,7 +37,7 @@ images:
            H30 W22 D22 cm
            Mixed media sculpture 
   - image_path: /assets/images/5500-screen-copy.jpg
-    image_title: A bird in paradise (image 2)
+    image_title: A bird in paradise (view 2)
     image_description:
   - image_path: /assets/images/5511-screen-copy.jpg
     image_title: A bird in paradise (detail)
