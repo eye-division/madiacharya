@@ -105,7 +105,7 @@ images:
             H28 W17 D13 cm
             Mixed media sculpture 
   - image_path: /assets/images/645-screen-copy.jpg
-    image_title: The owl's castle (image 2)
+    image_title: The owl's castle (view 2)
     image_description:
   - image_path: /assets/images/650-screen-copy.jpg
     image_title: The owl's castle (detail)
