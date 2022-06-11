@@ -135,7 +135,7 @@ images:
     image_title: Vessel Robes (detail)
     image_description:
   - image_path: /assets/images/5520-screen-copy.jpg
-    image_title: Baby steps (image 1)
+    image_title: Baby steps (view 1)
     image_description: |2
             H23 W23 D10 cm
             Mixed media sculpture
