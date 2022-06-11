@@ -32,12 +32,12 @@ images:
     image_title: Canary Warped (view 3)
     image_description:
   - image_path: /assets/images/5495-screen-copy.jpg
-    image_title: A bird in paradise (image 1)
+    image_title: A bird in paradise (view 1)
     image_description: |2
            H30 W22 D22 cm
            Mixed media sculpture 
   - image_path: /assets/images/5500-screen-copy.jpg
-    image_title: A bird in paradise (image 2)
+    image_title: A bird in paradise (view 2)
     image_description:
   - image_path: /assets/images/5511-screen-copy.jpg
     image_title: A bird in paradise (detail)
@@ -78,12 +78,12 @@ images:
     image_title: Confessions of a mudlark (detail 2)
     image_description:
   - image_path: /assets/images/664-screen-copy.jpg
-    image_title: Vitamin Orange (image 1)
+    image_title: Vitamin Orange (view 1)
     image_description: |2
            H21 W22 D25 cm
            Mixed media sculpture
   - image_path: /assets/images/667-screen-copy.jpg
-    image_title: Vitamin Orange (image 2)
+    image_title: Vitamin Orange (view 2)
     image_description:
   - image_path: /assets/images/671-screen-copy.jpg
     image_title: Vitamin Orange (detail)
@@ -100,12 +100,12 @@ images:
     image_title: A bird in hand (back)
     image_description:
   - image_path: /assets/images/641-screen-copy.jpg
-    image_title: The owl's castle (image 1 )
+    image_title: The owl's castle (view 1 )
     image_description: |2
             H28 W17 D13 cm
             Mixed media sculpture 
   - image_path: /assets/images/645-screen-copy.jpg
-    image_title: The owl's castle (image 2)
+    image_title: The owl's castle (view 2)
     image_description:
   - image_path: /assets/images/650-screen-copy.jpg
     image_title: The owl's castle (detail)
@@ -135,12 +135,12 @@ images:
     image_title: Vessel Robes (detail)
     image_description:
   - image_path: /assets/images/5520-screen-copy.jpg
-    image_title: Baby steps (image 1)
+    image_title: Baby steps (view 1)
     image_description: |2
             H23 W23 D10 cm
             Mixed media sculpture
   - image_path: /assets/images/5523-screen-copy.jpg
-    image_title: Baby Steps (image 2)
+    image_title: Baby Steps (view 2)
     image_description:
   - image_path: /assets/images/5528-screen-copy.jpg
     image_title: Baby Steps (detail)
