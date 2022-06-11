@@ -100,7 +100,7 @@ images:
     image_title: A bird in hand (back)
     image_description:
   - image_path: /assets/images/641-screen-copy.jpg
-    image_title: The owl's castle (image 1 )
+    image_title: The owl's castle (view 1 )
     image_description: |2
             H28 W17 D13 cm
             Mixed media sculpture 
