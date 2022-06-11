@@ -32,7 +32,7 @@ images:
     image_title: Canary Warped (view 3)
     image_description:
   - image_path: /assets/images/5495-screen-copy.jpg
-    image_title: A bird in paradise (image 1)
+    image_title: A bird in paradise (view 1)
     image_description: |2
            H30 W22 D22 cm
            Mixed media sculpture 
