@@ -140,7 +140,7 @@ images:
             H23 W23 D10 cm
             Mixed media sculpture
   - image_path: /assets/images/5523-screen-copy.jpg
-    image_title: Baby Steps (image 2)
+    image_title: Baby Steps (view 2)
     image_description:
   - image_path: /assets/images/5528-screen-copy.jpg
     image_title: Baby Steps (detail)
