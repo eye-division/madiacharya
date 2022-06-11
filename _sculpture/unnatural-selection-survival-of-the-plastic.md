@@ -83,7 +83,7 @@ images:
            H21 W22 D25 cm
            Mixed media sculpture
   - image_path: /assets/images/667-screen-copy.jpg
-    image_title: Vitamin Orange (image 2)
+    image_title: Vitamin Orange (view 2)
     image_description:
   - image_path: /assets/images/671-screen-copy.jpg
     image_title: Vitamin Orange (detail)
