@@ -78,7 +78,7 @@ images:
     image_title: Confessions of a mudlark (detail 2)
     image_description:
   - image_path: /assets/images/664-screen-copy.jpg
-    image_title: Vitamin Orange (image 1)
+    image_title: Vitamin Orange (view 1)
     image_description: |2
            H21 W22 D25 cm
            Mixed media sculpture
