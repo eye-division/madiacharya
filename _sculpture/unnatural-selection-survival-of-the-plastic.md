@@ -42,6 +42,17 @@ images:
   - image_path: /assets/images/5511-screen-copy.jpg
     image_title: A bird in paradise (detail)
     image_description:
+  - image_path: /assets/images/089-screen-copy.jpg
+    image_title: Here to stay ( view 1)
+    image_description: |-
+      Materials: Found plastic, textiles, kapok, chicken wire, paper mache
+      Dimensions (cm): W22 H22 D13, 2019
+  - image_path: /assets/images/093-screen-copy.jpg
+    image_title: Here to stay (view 2)
+    image_description:
+  - image_path: /assets/images/133-screen-copy.jpg
+    image_title: Here to stay (detail)
+    image_description:
   - image_path: /assets/images/6747-screen-copy.jpg
     image_title: Confessions of a mudlark (view 1)
     image_description: >-
@@ -54,17 +65,6 @@ images:
     image_description:
   - image_path: /assets/images/6753-screen-copy.jpg
     image_title: Confessions of a mudlark (detail 2)
-    image_description:
-  - image_path: /assets/images/5520-screen-copy.jpg
-    image_title: Baby steps (image 1)
-    image_description: |2
-            H23 W23 D10 cm
-            Mixed media sculpture
-  - image_path: /assets/images/5523-screen-copy.jpg
-    image_title: Baby Steps (image 2)
-    image_description:
-  - image_path: /assets/images/5528-screen-copy.jpg
-    image_title: Baby Steps (detail)
     image_description:
   - image_path: /assets/images/664-screen-copy.jpg
     image_title: Vitamin Orange (image 1)
@@ -98,17 +98,6 @@ images:
     image_description:
   - image_path: /assets/images/650-screen-copy.jpg
     image_title: The owl's castle (detail)
-    image_description:
-  - image_path: /assets/images/089-screen-copy.jpg
-    image_title: Here to stay ( view 1)
-    image_description: |-
-      Materials: Found plastic, textiles, kapok, chicken wire, paper mache
-      Dimensions (cm): W22 H22 D13, 2019
-  - image_path: /assets/images/093-screen-copy.jpg
-    image_title: Here to stay (view 2)
-    image_description:
-  - image_path: /assets/images/133-screen-copy.jpg
-    image_title: Here to stay (detail)
     image_description:
   - image_path: /assets/images/3231-screen-copy.jpg
     image_title: My life as a bird (view 1)
@@ -144,6 +133,17 @@ images:
     image_description:
   - image_path: /assets/images/vessel-robes-detail-2-copy.jpg
     image_title: Vessel Robes (detail)
+    image_description:
+  - image_path: /assets/images/5520-screen-copy.jpg
+    image_title: Baby steps (image 1)
+    image_description: |2
+            H23 W23 D10 cm
+            Mixed media sculpture
+  - image_path: /assets/images/5523-screen-copy.jpg
+    image_title: Baby Steps (image 2)
+    image_description:
+  - image_path: /assets/images/5528-screen-copy.jpg
+    image_title: Baby Steps (detail)
     image_description:
   - image_path: /assets/images/3216-screen-copy.jpg
     image_title: Topaz Tears (view 1)
