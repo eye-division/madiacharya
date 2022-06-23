@@ -22,8 +22,6 @@ images:
       Dimensions :W8.5 D7 H9 cm
 
       2021 
-
-      stoneware clay
   - image_path: /assets/images/6826-screen-copy.jpg
     image_title: detail 1
     image_description:
