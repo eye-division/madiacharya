@@ -89,6 +89,8 @@ images:
       Materials: Earthenware clay, underglazes, transparent glaze, found wooden
       block
 
+      Dimensions: H26 W10 D10 cm 2022
+
       2022
   - image_path: /assets/images/6788-screen-copy-2.jpg
     image_title: back
