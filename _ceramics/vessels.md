@@ -19,7 +19,7 @@ images:
 
       Stoneware
 
-      Dimensions :W8.5 D7 H9 cm
+      Dimensions :W8.5 D7 H9 cm, 2021
 
       2021 
 
