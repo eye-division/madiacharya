@@ -30,7 +30,7 @@ images:
     image_description:
   - image_path: /assets/images/6827-screen-copy.jpg
     image_title: Blue and green vessel
-    image_description: >-
+    image_description: >
       This pinch pot with a tree and fruit design was inspired by a textile
       piece from The India and South East Asia collection,  Ashmolean Museum,
       Oxford 
@@ -38,8 +38,6 @@ images:
       Earthenware
 
       Dimensions W10 D11 H7 cm
-
-      2021
   - image_path: /assets/images/6831-screen-copy.jpg
     image_title: detail 1
     image_description:
