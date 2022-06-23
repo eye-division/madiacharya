@@ -17,6 +17,8 @@ images:
       This pinch pot was inspired by textile piece from The India and South East
       Asia collection, Ashmolean Museum, Oxford 
 
+      Stoneware
+
       Dimensions :W8.5 D7 H9 cm
 
       2021 
@@ -35,9 +37,9 @@ images:
       piece from The India and South East Asia collection,  Ashmolean Museum,
       Oxford 
 
-      Dimensions W10 D11 H7 cm
+      Earthenware
 
-      Earthenware clay
+      Dimensions W10 D11 H7 cm
 
       2021
   - image_path: /assets/images/6831-screen-copy.jpg
@@ -48,11 +50,10 @@ images:
     image_description:
   - image_path: /assets/images/6833-screen-copy.jpg
     image_title: 'Blue and orange vessel '
-    image_description: |-
+    image_description: |
       Glazes used were midnight blue and shino
-      Stoneware clay, 
+      Stoneware 
       Dimensions: H5 D13 W13 cm
-      2021
   - image_path: /assets/images/6834-screen-copy.jpg
     image_title: view 2
     image_description:
