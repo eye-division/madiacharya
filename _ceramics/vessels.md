@@ -37,9 +37,9 @@ images:
       piece from The India and South East Asia collection,  Ashmolean Museum,
       Oxford 
 
-      Dimensions W10 D11 H7 cm
+      Earthenware
 
-      Earthenware clay
+      Dimensions W10 D11 H7 cm
 
       2021
   - image_path: /assets/images/6831-screen-copy.jpg
