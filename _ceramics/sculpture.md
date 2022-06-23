@@ -37,6 +37,8 @@ images:
       This work was inspired by nature, a spider crab shell found on a deserted
       beach in Dorset. It is created in crank clay. White glaze was used on the
       inside and shino on the inside.
+
+      Dimensions: H22 W21 D6 cm 2022
   - image_path: /assets/images/6843-screen-copy.jpg
     image_title: view 2
     image_description:
@@ -86,6 +88,8 @@ images:
 
       Materials: Earthenware clay, underglazes, transparent glaze, found wooden
       block
+
+      Dimensions: H26 W10 D10 cm 2022
 
       2022
   - image_path: /assets/images/6788-screen-copy-2.jpg
