@@ -52,7 +52,7 @@ images:
     image_title: 'Blue and orange vessel '
     image_description: |
       Glazes used were midnight blue and shino
-      Stoneware clay, 
+      Stoneware 
       Dimensions: H5 D13 W13 cm
   - image_path: /assets/images/6834-screen-copy.jpg
     image_title: view 2
