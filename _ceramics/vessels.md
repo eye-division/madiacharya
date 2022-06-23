@@ -58,15 +58,14 @@ images:
     image_description:
   - image_path: /assets/images/6808-screen-copy.jpg
     image_title: Floral vessel
-    image_description: >-
+    image_description: >+
       This vessel is inspired by the Dutch and Flemish Still-Life paintings
       collection at Ashmolean Museum,  Oxford
 
+      White stoneware, underglaze 
+
       Dimensions: W15 H7 D10 cm 
 
-      white stoneware clay, underglaze 
-
-      2021
   - image_path: /assets/images/6817-screen-copy.jpg
     image_title: detail
     image_description:
