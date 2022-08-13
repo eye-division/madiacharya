@@ -11,7 +11,6 @@ _options:
     resize_style: contain
     mime_type: image/jpeg
 ---
-
 ### WEBLINKS:
 
 [Axis web](http://www.axisweb.org/p/madiacharyabaskerville)
@@ -95,6 +94,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 2009 **Jam: Cultural Congestions in Contemporary Asian Art,** artist-curator with Dr Outi Remes, South Hill Park, Bracknell (funded by ACE, National Culture and Arts Foundation, Taiwan)
 
 ### PRIZES, AWARDS, OPEN SUBMISSIONS
+
+2022 **Summer Exhibition,** Royal Society of Sculptors, Cromwell Place, London, selected by Isabel de Vasconcellos
 
 2022 **Habitat,** Contemporary Six,Manchester
 
