@@ -1,0 +1,3 @@
+cloudcannon.config.yml
+paths:
+  uploads: "assets"
