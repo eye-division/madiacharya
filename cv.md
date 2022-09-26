@@ -95,6 +95,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### PRIZES, AWARDS, OPEN SUBMISSIONS
 
+2022 **Black Swan Arts Open**, Black Swan Arts, Frome
+
 2022 **This Years Model Part 3**, Studio 1:1 Gallery, London
 
 2022 **Summer Exhibition,** Royal Society of Sculptors, Cromwell Place, London, selected by Isabel de Vasconcellos
