@@ -200,7 +200,7 @@ images:
     image_title: Surviving Bird (back)
     image_description:
   - image_path: /assets/619-screen.jpg
-    image_title:
+    image_title: Surviving Bird (detail)
     image_description:
 _options:
   image_path:
