@@ -20,6 +20,17 @@ order_number: 1
 main_image_path: /assets/images/5500-screen-copy-1.jpg
 thumb_crop:
 images:
+  - image_path: /assets/602-screen-copy.jpg
+    image_title: Surviving Bird (front)
+    image_description: |-
+      Mixed media sculpture 
+      Dimensions (cm) H55 W22 D16
+  - image_path: /assets/607-screen-copy.jpg
+    image_title: Surviving Bird (back)
+    image_description:
+  - image_path: /assets/619-screen.jpg
+    image_title: Surviving Bird (detail)
+    image_description:
   - image_path: /assets/images/6768-screen-copy.jpg
     image_title: Canary Warped (view 1)
     image_description: |-
@@ -164,14 +175,14 @@ images:
   - image_path: /assets/images/3171-screen-copy.jpg
     image_title: His heart in the jungle (detail)
     image_description:
-  - image_path: /assets/images/3169a-screen-copy.jpg
-    image_title: His heart is in the jungle (view 2)
-    image_description:
   - image_path: /assets/images/3211-screen-copy.jpg
     image_title: In memory of an injured blackbird (view 1)
     image_description: |-
       Materials: Found objects, found plastic, textiles
       Dimensions (cm): W22 H30 D28, 2020
+  - image_path: /assets/images/3169a-screen-copy.jpg
+    image_title: His heart is in the jungle (view 2)
+    image_description:
   - image_path: /assets/images/3203-screen-copy.jpg
     image_title: In memory of an injured blackbird (view 2)
     image_description:
@@ -190,17 +201,6 @@ images:
     image_description:
   - image_path: /assets/images/3279-screen-copy.jpg
     image_title: A shell of the future (detail)
-    image_description:
-  - image_path: /assets/602-screen-copy.jpg
-    image_title: Surviving Bird (front)
-    image_description: |-
-      Mixed media sculpture 
-      Dimensions (cm) H55 W22 D16
-  - image_path: /assets/607-screen-copy.jpg
-    image_title: Surviving Bird (back)
-    image_description:
-  - image_path: /assets/619-screen.jpg
-    image_title: Surviving Bird (detail)
     image_description:
 _options:
   image_path:
