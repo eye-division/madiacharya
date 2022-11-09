@@ -23,6 +23,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### SOLO AND TWO PERSON EXHIBITIONS:
 
+2022 **Creek Dreams,** Seager Gallery, London
+
 2021 **My life as a bird,** (solo) Darl-e-and the Bear, Oxfordshire
 
 2021 **On The Road of Sea Stars,** Zuzushii Art Laboratory, Hastings,
