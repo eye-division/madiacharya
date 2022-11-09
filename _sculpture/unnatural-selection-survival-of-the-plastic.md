@@ -28,6 +28,9 @@ images:
   - image_path: /assets/607-screen-copy.jpg
     image_title: Surviving Bird (back)
     image_description:
+  - image_path: /assets/619-screen.jpg
+    image_title: Surviving Bird (detail)
+    image_description:
   - image_path: /assets/images/6768-screen-copy.jpg
     image_title: Canary Warped (view 1)
     image_description: |-
@@ -198,9 +201,6 @@ images:
     image_description:
   - image_path: /assets/images/3279-screen-copy.jpg
     image_title: A shell of the future (detail)
-    image_description:
-  - image_path: /assets/619-screen.jpg
-    image_title: Surviving Bird (detail)
     image_description:
 _options:
   image_path:
