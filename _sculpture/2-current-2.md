@@ -134,6 +134,9 @@ images:
   - image_path: /assets/646-screen-copy.jpg
     image_title: I am all about you (back)
     image_description:
+  - image_path: /assets/655-screen-copy.jpg
+    image_title: I am all about you (detail)
+    image_description:
 _options:
   image_path:
     width: 1200
