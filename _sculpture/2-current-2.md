@@ -121,8 +121,8 @@ images:
   - image_path: /assets/666-screen-copy.jpg
     image_title: Anger Management (back)
     image_description:
-  - image_path:
-    image_title:
+  - image_path: /assets/670-screen-copy.jpg
+    image_title: Anger Management (detail)
     image_description:
   - image_path:
     image_title:
