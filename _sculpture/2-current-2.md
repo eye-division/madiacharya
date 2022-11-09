@@ -117,7 +117,9 @@ images:
     image_description:
   - image_path: /assets/665-screen-copy.jpg
     image_title: Anger Management (front)
-    image_description:
+    image_description: |-
+      Mixed media sculpture
+      Dimensions (cm):  H20 W10 D7
   - image_path: /assets/666-screen-copy.jpg
     image_title: Anger Management (back)
     image_description:
