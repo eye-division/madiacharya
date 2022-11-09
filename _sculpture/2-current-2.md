@@ -119,7 +119,7 @@ images:
     image_title: Anger Management (front)
     image_description:
   - image_path: /assets/666-screen-copy.jpg
-    image_title:
+    image_title: Anger Management (back)
     image_description:
   - image_path:
     image_title:
