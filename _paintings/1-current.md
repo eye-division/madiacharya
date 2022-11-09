@@ -82,6 +82,11 @@ images:
     image_description: |-
       Oil on wood panel
       Dimensions (cm) H49 W35 D3
+  - image_path: /assets/725screen-copy.jpg
+    image_title: Foreshore Lilies
+    image_description: |-
+      Oil on wood panel
+      Dimensions (cm) H33 W37.5 D2.5
 _options:
   image_path:
     width: 1200
