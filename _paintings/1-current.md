@@ -87,6 +87,11 @@ images:
     image_description: |-
       Oil on wood panel
       Dimensions (cm) H33 W37.5 D2.5
+  - image_path: /assets/728screen-copy.jpg
+    image_title: Green Love
+    image_description: |-
+      Oil on wood panel
+      Dimensions (cm) H22 W25 D2.5
 _options:
   image_path:
     width: 1200
