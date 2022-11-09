@@ -191,6 +191,9 @@ images:
   - image_path: /assets/images/3279-screen-copy.jpg
     image_title: A shell of the future (detail)
     image_description:
+  - image_path: /assets/602-screen-copy.jpg
+    image_title: Surviving Bird
+    image_description:
 _options:
   image_path:
     width: 1200
