@@ -131,6 +131,9 @@ images:
     image_description: |-
       Mixed media sculpture
       Dimensions (cm) H40 W19 D15  
+  - image_path: /assets/646-screen-copy.jpg
+    image_title: I am all about you (back)
+    image_description:
 _options:
   image_path:
     width: 1200
