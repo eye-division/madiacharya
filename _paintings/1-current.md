@@ -77,6 +77,11 @@ images:
   - image_path: /assets/images/586ad25bc4595.jpg
     image_title: A Sailor's Life *SOLD*
     image_description: Oil on found wood, H40 W52 , 2017
+  - image_path: /assets/718screen-copy.jpg
+    image_title: Conversations with peacocks
+    image_description: |-
+      Oil on wood panel
+      Dimensions (cm) H49 W35 D3
 _options:
   image_path:
     width: 1200
