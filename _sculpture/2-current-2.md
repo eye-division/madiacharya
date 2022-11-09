@@ -1,5 +1,5 @@
 ---
-title: Tiny Obsessions
+title: Small Obsessions
 _hide_content: true
 description_markdown: >-
   'Tiny Obsessions' series&nbsp; involves found objects and materials juxtaposed
@@ -114,6 +114,28 @@ images:
     image_description:
   - image_path: /assets/images/57567bf32b9e2.jpg
     image_title: Sikim (back)
+    image_description:
+  - image_path: /assets/665-screen-copy.jpg
+    image_title: Anger Management (front)
+    image_description: |-
+      Mixed media sculpture
+      Dimensions (cm):  H20 W10 D7
+  - image_path: /assets/666-screen-copy.jpg
+    image_title: Anger Management (back)
+    image_description:
+  - image_path: /assets/670-screen-copy.jpg
+    image_title: Anger Management (detail)
+    image_description:
+  - image_path: /assets/641-screen-copy.jpg
+    image_title: I am all about you (front)
+    image_description: |-
+      Mixed media sculpture
+      Dimensions (cm) H40 W19 D15  
+  - image_path: /assets/646-screen-copy.jpg
+    image_title: I am all about you (back)
+    image_description:
+  - image_path: /assets/655-screen-copy.jpg
+    image_title: I am all about you (detail)
     image_description:
 _options:
   image_path:
