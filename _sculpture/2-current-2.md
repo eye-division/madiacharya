@@ -26,6 +26,17 @@ images:
   - image_path: /assets/images/6779-screen-copy.jpg
     image_title: Soul of the shell (back)
     image_description:
+  - image_path: /assets/641-screen-copy.jpg
+    image_title: I am all about you (front)
+    image_description: |-
+      Mixed media sculpture
+      Dimensions (cm) H40 W19 D15  
+  - image_path: /assets/646-screen-copy.jpg
+    image_title: I am all about you (back)
+    image_description:
+  - image_path: /assets/655-screen-copy.jpg
+    image_title: I am all about you (detail)
+    image_description:
   - image_path: /assets/665-screen-copy.jpg
     image_title: Anger Management (front)
     image_description: |-
@@ -54,11 +65,11 @@ images:
       this work is a direct reference to the seeds used, connecting this with
       the idea that one can sow the seeds of an idea so that it can come to be
       owned by whoever one is trying to persuade at any given time.
-  - image_path: /assets/images/3179a-screen-copy.jpg
-    image_title: Of course it was my idea! (back)
-    image_description:
   - image_path: /assets/images/3184a-screen-copy.jpg
     image_title: Of course it was my idea! (detail)
+    image_description:
+  - image_path: /assets/images/3179a-screen-copy.jpg
+    image_title: Of course it was my idea! (back)
     image_description:
   - image_path: /assets/images/071-screen-copy.jpg
     image_title: Is the grass really greener over there? (front)
@@ -125,17 +136,6 @@ images:
     image_description:
   - image_path: /assets/images/57567bf32b9e2.jpg
     image_title: Sikim (back)
-    image_description:
-  - image_path: /assets/641-screen-copy.jpg
-    image_title: I am all about you (front)
-    image_description: |-
-      Mixed media sculpture
-      Dimensions (cm) H40 W19 D15  
-  - image_path: /assets/646-screen-copy.jpg
-    image_title: I am all about you (back)
-    image_description:
-  - image_path: /assets/655-screen-copy.jpg
-    image_title: I am all about you (detail)
     image_description:
 _options:
   image_path:
