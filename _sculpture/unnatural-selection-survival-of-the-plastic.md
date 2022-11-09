@@ -192,8 +192,10 @@ images:
     image_title: A shell of the future (detail)
     image_description:
   - image_path: /assets/602-screen-copy.jpg
-    image_title: Surviving Bird
-    image_description:
+    image_title: Surviving Bird (front)
+    image_description: |-
+      Mixed media sculpture 
+      Dimensions (cm) H55 W22 D16
 _options:
   image_path:
     width: 1200
