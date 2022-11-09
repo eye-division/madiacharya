@@ -115,6 +115,9 @@ images:
   - image_path: /assets/images/57567bf32b9e2.jpg
     image_title: Sikim (back)
     image_description:
+  - image_path: /assets/665-screen-copy.jpg
+    image_title: Anger Management (front)
+    image_description:
 _options:
   image_path:
     width: 1200
