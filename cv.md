@@ -23,6 +23,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### SOLO AND TWO PERSON EXHIBITIONS:
 
+2022 **Creek Dreams,** Seager Gallery, London
+
 2021 **My life as a bird,** (solo) Darl-e-and the Bear, Oxfordshire
 
 2021 **On The Road of Sea Stars,** Zuzushii Art Laboratory, Hastings,
@@ -94,6 +96,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 2009 **Jam: Cultural Congestions in Contemporary Asian Art,** artist-curator with Dr Outi Remes, South Hill Park, Bracknell (funded by ACE, National Culture and Arts Foundation, Taiwan)
 
 ### PRIZES, AWARDS, OPEN SUBMISSIONS
+
+2022 **Exeter Contemporary Open**, Exeter Phoenix, Gandy Street, Exeter
 
 2022 **Black Swan Arts Open**, Black Swan Arts, Frome
 
