@@ -196,6 +196,9 @@ images:
     image_description: |-
       Mixed media sculpture 
       Dimensions (cm) H55 W22 D16
+  - image_path: /assets/607-screen-copy.jpg
+    image_title: Surviving Bird (back)
+    image_description:
 _options:
   image_path:
     width: 1200
