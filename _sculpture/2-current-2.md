@@ -126,6 +126,11 @@ images:
   - image_path: /assets/670-screen-copy.jpg
     image_title: Anger Management (detail)
     image_description:
+  - image_path: /assets/641-screen-copy.jpg
+    image_title: I am all about you (front)
+    image_description: |-
+      Mixed media sculpture
+      Dimensions (cm) H40 W19 D15  
 _options:
   image_path:
     width: 1200
