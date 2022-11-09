@@ -95,6 +95,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### PRIZES, AWARDS, OPEN SUBMISSIONS
 
+2022 **Exeter Contemporary Open**, Exeter Phoenix, Gandy Street, Exeter
+
 2022 **Black Swan Arts Open**, Black Swan Arts, Frome
 
 2022 **This Years Model Part 3**, Studio 1:1 Gallery, London
