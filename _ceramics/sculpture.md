@@ -99,7 +99,7 @@ images:
     image_title: detail
     image_description:
   - image_path: /assets/images/496-screen-copy.jpg
-    image_title: Vegatable Cabaret
+    image_title: Vegatable Cabaret (image 1)
     image_description: >-
       Ceramic Sculpture exploring gender issues inspired by organically grown
       vegetables
