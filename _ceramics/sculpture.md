@@ -49,7 +49,7 @@ images:
 
       2022
   - image_path: /assets/images/6788-screen-copy-2.jpg
-    image_title: back
+    image_title: View 2
     image_description:
   - image_path: /assets/images/6790-screen-copy.jpg
     image_title: detail
