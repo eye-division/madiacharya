@@ -46,7 +46,7 @@ images:
 
       2021 
   - image_path: /assets/images/6826-screen-copy.jpg
-    image_title: detail 1
+    image_title: Detail 1
     image_description:
   - image_path: /assets/images/6825-screen-copy.jpg
     image_title: detail 2
