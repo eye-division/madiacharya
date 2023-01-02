@@ -37,7 +37,7 @@ images:
     image_title: Detail 3
     image_description:
   - image_path: /assets/images/6785-screen-copy.jpg
-    image_title: 'The true about organic gardening  '
+    image_title: 'The true about organic gardening, view 1  '
     image_description: >-
       This work is inspired by organically grown carrots which can sometimes
       have unusual shapes.
@@ -49,10 +49,10 @@ images:
 
       2022
   - image_path: /assets/images/6788-screen-copy-2.jpg
-    image_title: back
+    image_title: View 2
     image_description:
   - image_path: /assets/images/6790-screen-copy.jpg
-    image_title: detail
+    image_title: Detail
     image_description:
   - image_path: /assets/images/6839-screen-copy-1.jpg
     image_title: The Spidercrab body
@@ -63,10 +63,10 @@ images:
 
       Dimensions: H22 W21 D6 cm 2022
   - image_path: /assets/images/6843-screen-copy.jpg
-    image_title: view 2
+    image_title: View 2
     image_description:
   - image_path: /assets/images/6840-screen-copy.jpg
-    image_title: detail
+    image_title: Detail
     image_description:
   - image_path: /assets/images/6844-screen-copy-1.jpg
     image_title: Mr Hornyman
@@ -83,7 +83,7 @@ images:
       Materials: crank clay, underglazes, transparent glaze
       2022
   - image_path: /assets/images/6849-screen-copy.jpg
-    image_title: view 2
+    image_title: View 2
     image_description:
   - image_path: /assets/images/6853-screen-copy.jpg
     image_title: Winking Mask
@@ -95,13 +95,13 @@ images:
 
       2022
   - image_path: /assets/images/6855-screen-copy.jpg
-    image_title: detail 1
+    image_title: Detail 1
     image_description:
   - image_path: /assets/images/6854-screen-copy.jpg
-    image_title: detail 2
+    image_title: Detail 2
     image_description:
   - image_path: /assets/images/6802-screen-copy.jpg
-    image_title: Haashi
+    image_title: Haashi, view 1
     image_description: >-
       'Haashi' (laughter) inspired by Figure of Nandi, the bull of shiva,
       Ashmolean Collection, Oxford, 
@@ -113,10 +113,10 @@ images:
 
       2022
   - image_path: /assets/images/6803-screen-copy.jpg
-    image_title: view 2
+    image_title: View 2
     image_description:
   - image_path: /assets/images/6798-screen-copy.jpg
-    image_title: detail
+    image_title: Detail
     image_description:
   - image_path: /assets/images/583-screen-copy.jpg
     image_title: When it all folds up, image1
