@@ -93,7 +93,7 @@ images:
     image_title: detail
     image_description:
   - image_path: /assets/images/6812-screen-copy.jpg
-    image_title: view 2
+    image_title: View 2
     image_description:
 _options:
   image_path:
