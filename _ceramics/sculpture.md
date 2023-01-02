@@ -116,7 +116,7 @@ images:
     image_title: View 2
     image_description:
   - image_path: /assets/images/6798-screen-copy.jpg
-    image_title: detail
+    image_title: Detail
     image_description:
   - image_path: /assets/images/583-screen-copy.jpg
     image_title: When it all folds up, image1
