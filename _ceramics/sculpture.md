@@ -83,7 +83,7 @@ images:
       Materials: crank clay, underglazes, transparent glaze
       2022
   - image_path: /assets/images/6849-screen-copy.jpg
-    image_title: view 2
+    image_title: View 2
     image_description:
   - image_path: /assets/images/6853-screen-copy.jpg
     image_title: Winking Mask
