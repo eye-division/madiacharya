@@ -62,7 +62,7 @@ images:
 
       Dimensions W10 D11 H7 cm
   - image_path: /assets/images/6831-screen-copy.jpg
-    image_title: detail 1
+    image_title: Detail 1
     image_description:
   - image_path: /assets/images/6829-screen-copy.jpg
     image_title: detail 2
