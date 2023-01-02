@@ -9,7 +9,7 @@ permalink: /ceramics/vessels/
 archive: false
 order_number: 1
 _gallery_date: 2022-05-01 00:00:00
-main_image_path: /assets/images/6820-screen-copy-1.jpg
+main_image_path: /assets/images/542-screen-copy.jpg
 images:
   - image_path: /assets/images/537-screen-copy.jpg
     image_title: Blue and White vessels

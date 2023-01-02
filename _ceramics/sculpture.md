@@ -54,21 +54,6 @@ images:
   - image_path: /assets/images/6790-screen-copy.jpg
     image_title: detail
     image_description:
-  - image_path: /assets/images/6853-screen-copy.jpg
-    image_title: Winking Mask
-    image_description: >
-      This ceramic mask is  inspired by Naga-Makara 14th Century end tile,
-      Eastern Collection, Ashmolean Museum, 
-
-      Dimensions: H20 W15 D12 cm
-
-      2022
-  - image_path: /assets/images/6855-screen-copy.jpg
-    image_title: detail 1
-    image_description:
-  - image_path: /assets/images/6854-screen-copy.jpg
-    image_title: detail 2
-    image_description:
   - image_path: /assets/images/6839-screen-copy-1.jpg
     image_title: The Spidercrab body
     image_description: >-
@@ -99,6 +84,21 @@ images:
       2022
   - image_path: /assets/images/6849-screen-copy.jpg
     image_title: view 2
+    image_description:
+  - image_path: /assets/images/6853-screen-copy.jpg
+    image_title: Winking Mask
+    image_description: >
+      This ceramic mask is  inspired by Naga-Makara 14th Century end tile,
+      Eastern Collection, Ashmolean Museum, 
+
+      Dimensions: H20 W15 D12 cm
+
+      2022
+  - image_path: /assets/images/6855-screen-copy.jpg
+    image_title: detail 1
+    image_description:
+  - image_path: /assets/images/6854-screen-copy.jpg
+    image_title: detail 2
     image_description:
   - image_path: /assets/images/6802-screen-copy.jpg
     image_title: Haashi
