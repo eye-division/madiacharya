@@ -72,6 +72,9 @@ images:
   - image_path: /assets/images/6812-screen-copy.jpg
     image_title: view 2
     image_description:
+  - image_path: /assets/images/537-screen-copy.jpg
+    image_title: Blue and White vessels, image 1
+    image_description:
 _options:
   image_path:
     uploads_dir: assets/images/:year
