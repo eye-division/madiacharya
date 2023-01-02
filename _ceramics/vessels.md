@@ -89,6 +89,9 @@ images:
       This coiled vessel was inspired by a vessel of a similar shape. The final
       pattern, a floral design was based on textiles from the Eastern collection
       at the Ashmolean Museum, Oxford
+  - image_path: /assets/images/575-screen-copy-2.jpg
+    image_title: Image 2
+    image_description:
 _options:
   image_path:
     uploads_dir: assets/images/:year
