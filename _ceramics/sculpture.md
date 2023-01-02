@@ -103,6 +103,9 @@ images:
     image_description: >-
       Ceramic Sculpture exploring gender issues inspired by organically grown
       vegetables
+  - image_path: /assets/images/500-screen-copy.jpg
+    image_title: Image 2
+    image_description:
 _options:
   image_path:
     uploads_dir: assets/images/:year
