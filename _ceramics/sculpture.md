@@ -113,7 +113,7 @@ images:
 
       2022
   - image_path: /assets/images/6803-screen-copy.jpg
-    image_title: view 2
+    image_title: View 2
     image_description:
   - image_path: /assets/images/6798-screen-copy.jpg
     image_title: detail
