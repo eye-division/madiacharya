@@ -37,7 +37,7 @@ images:
     image_title: Detail 3
     image_description:
   - image_path: /assets/images/6785-screen-copy.jpg
-    image_title: 'The true about organic gardening  '
+    image_title: 'The true about organic gardening, view 1  '
     image_description: >-
       This work is inspired by organically grown carrots which can sometimes
       have unusual shapes.
