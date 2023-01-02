@@ -74,7 +74,7 @@ images:
       Stoneware 
       Dimensions: H5 D13 W13 cm
   - image_path: /assets/images/6834-screen-copy.jpg
-    image_title: view 2
+    image_title: View 2
     image_description:
   - image_path: /assets/images/6837-screen-copy.jpg
     image_title: view 3
