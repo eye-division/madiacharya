@@ -115,6 +115,9 @@ images:
   - image_path: /assets/images/515-screen-copy.jpg
     image_title: Detail 2
     image_description:
+  - image_path: /assets/images/523-screen-copy.jpg
+    image_title: Detail 3
+    image_description:
 _options:
   image_path:
     uploads_dir: assets/images/:year
