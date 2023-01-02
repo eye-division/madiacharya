@@ -83,6 +83,12 @@ images:
   - image_path: /assets/images/543-screen-copy.jpg
     image_title: Detail 2
     image_description:
+  - image_path: /assets/images/571-screen-copy.jpg
+    image_title: Floral pattern vessel, image 1
+    image_description: >-
+      This coiled vessel was inspired by a vessel of a similar shape. The final
+      pattern, a floral design was based on textiles from the Eastern collection
+      at the Ashmolean Museum, Oxford
 _options:
   image_path:
     uploads_dir: assets/images/:year
