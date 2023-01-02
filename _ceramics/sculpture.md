@@ -112,6 +112,9 @@ images:
   - image_path: /assets/images/505-screen-copy.jpg
     image_title: Vegetable Cabaret, detail 1
     image_description:
+  - image_path: /assets/images/515-screen-copy.jpg
+    image_title: Detail 2
+    image_description:
 _options:
   image_path:
     uploads_dir: assets/images/:year
