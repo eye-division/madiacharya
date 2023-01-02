@@ -66,7 +66,7 @@ images:
     image_title: View 2
     image_description:
   - image_path: /assets/images/6840-screen-copy.jpg
-    image_title: detail
+    image_title: Detail
     image_description:
   - image_path: /assets/images/6844-screen-copy-1.jpg
     image_title: Mr Hornyman
