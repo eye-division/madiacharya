@@ -101,7 +101,7 @@ images:
     image_title: Detail 2
     image_description:
   - image_path: /assets/images/6802-screen-copy.jpg
-    image_title: Haashi
+    image_title: Haashi, view 1
     image_description: >-
       'Haashi' (laughter) inspired by Figure of Nandi, the bull of shiva,
       Ashmolean Collection, Oxford, 
