@@ -52,7 +52,7 @@ images:
     image_title: Detail 2
     image_description:
   - image_path: /assets/images/6827-screen-copy.jpg
-    image_title: Blue and green vessel
+    image_title: Blue and green vessel, View 1
     image_description: >
       This pinch pot with a tree and fruit design was inspired by a textile
       piece from The India and South East Asia collection,  Ashmolean Museum,
