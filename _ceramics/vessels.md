@@ -80,7 +80,7 @@ images:
     image_title: view 3
     image_description:
   - image_path: /assets/images/6808-screen-copy.jpg
-    image_title: Floral vessel
+    image_title: Floral vessel, view 1
     image_description: >+
       This vessel is inspired by the Dutch and Flemish Still-Life paintings
       collection at Ashmolean Museum,  Oxford
@@ -89,11 +89,11 @@ images:
 
       Dimensions: W15 H7 D10 cm 
 
-  - image_path: /assets/images/6817-screen-copy.jpg
-    image_title: detail
-    image_description:
   - image_path: /assets/images/6812-screen-copy.jpg
     image_title: View 2
+    image_description:
+  - image_path: /assets/images/6817-screen-copy.jpg
+    image_title: detail
     image_description:
 _options:
   image_path:
