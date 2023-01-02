@@ -118,6 +118,12 @@ images:
   - image_path: /assets/images/523-screen-copy.jpg
     image_title: Detail 3
     image_description:
+  - image_path: /assets/images/583-screen-copy.jpg
+    image_title: When it all folds up, image1
+    image_description:
+  - image_path:
+    image_title:
+    image_description:
 _options:
   image_path:
     uploads_dir: assets/images/:year
