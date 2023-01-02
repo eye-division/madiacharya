@@ -19,6 +19,9 @@ images:
   - image_path: /assets/images/542-screen-copy.jpg
     image_title: Detail 1
     image_description:
+  - image_path: /assets/images/543-screen-copy.jpg
+    image_title: Detail 2
+    image_description:
   - image_path: /assets/images/6820-screen-copy.jpg
     image_title: Orange and green vessel
     image_description: >-
@@ -79,9 +82,6 @@ images:
     image_description:
   - image_path: /assets/images/6812-screen-copy.jpg
     image_title: view 2
-    image_description:
-  - image_path: /assets/images/543-screen-copy.jpg
-    image_title: Detail 2
     image_description:
   - image_path: /assets/images/571-screen-copy.jpg
     image_title: Floral pattern vessel, image 1
