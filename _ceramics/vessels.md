@@ -72,6 +72,29 @@ images:
   - image_path: /assets/images/6812-screen-copy.jpg
     image_title: view 2
     image_description:
+  - image_path: /assets/images/537-screen-copy.jpg
+    image_title: Blue and White vessels
+    image_description: >-
+      This series of blue and white textiles were inspired by textiles from the
+      Eastern collection at the Ashmolean Museum in Oxford
+  - image_path: /assets/images/542-screen-copy.jpg
+    image_title: Detail 1
+    image_description:
+  - image_path: /assets/images/543-screen-copy.jpg
+    image_title: Detail 2
+    image_description:
+  - image_path: /assets/images/571-screen-copy.jpg
+    image_title: Floral pattern vessel, image 1
+    image_description: >-
+      This coiled vessel was inspired by a vessel of a similar shape. The final
+      pattern, a floral design was based on textiles from the Eastern collection
+      at the Ashmolean Museum, Oxford
+  - image_path: /assets/images/575-screen-copy-2.jpg
+    image_title: Image 2
+    image_description:
+  - image_path: /assets/images/580-screen-copy-1.jpg
+    image_title: Detail
+    image_description:
 _options:
   image_path:
     uploads_dir: assets/images/:year
