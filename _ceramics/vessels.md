@@ -81,7 +81,7 @@ images:
     image_title: Detail 2
     image_description:
   - image_path: /assets/images/543-screen-copy.jpg
-    image_title: Image 3
+    image_title: Detail 2
     image_description:
 _options:
   image_path:
