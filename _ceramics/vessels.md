@@ -65,7 +65,7 @@ images:
     image_title: View 2
     image_description:
   - image_path: /assets/images/6831-screen-copy.jpg
-    image_title: Detail 1
+    image_title: 'Detail '
     image_description:
   - image_path: /assets/images/6833-screen-copy.jpg
     image_title: 'Blue and orange vessel '
