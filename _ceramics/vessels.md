@@ -11,6 +11,11 @@ order_number: 1
 _gallery_date: 2022-05-01 00:00:00
 main_image_path: /assets/images/6820-screen-copy-1.jpg
 images:
+  - image_path: /assets/images/537-screen-copy.jpg
+    image_title: Blue and White vessels
+    image_description: >-
+      This series of blue and white textiles were inspired by textiles from the
+      Eastern collection at the Ashmolean Museum in Oxford
   - image_path: /assets/images/6820-screen-copy.jpg
     image_title: Orange and green vessel
     image_description: >-
@@ -72,11 +77,6 @@ images:
   - image_path: /assets/images/6812-screen-copy.jpg
     image_title: view 2
     image_description:
-  - image_path: /assets/images/537-screen-copy.jpg
-    image_title: Blue and White vessels
-    image_description: >-
-      This series of blue and white textiles were inspired by textiles from the
-      Eastern collection at the Ashmolean Museum in Oxford
   - image_path: /assets/images/542-screen-copy.jpg
     image_title: Detail 1
     image_description:
