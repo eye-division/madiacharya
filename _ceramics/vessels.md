@@ -68,7 +68,7 @@ images:
     image_title: 'Detail '
     image_description:
   - image_path: /assets/images/6833-screen-copy.jpg
-    image_title: 'Blue and orange vessel '
+    image_title: 'Blue and orange vessel, view 1 '
     image_description: |
       Glazes used were midnight blue and shino
       Stoneware 
