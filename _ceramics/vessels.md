@@ -73,7 +73,7 @@ images:
     image_title: view 2
     image_description:
   - image_path: /assets/images/537-screen-copy.jpg
-    image_title: Blue and White vessels, image 1
+    image_title: Blue and White vessels
     image_description: >-
       This series of blue and white textiles were inspired by textiles from the
       Eastern collection at the Ashmolean Museum in Oxford
