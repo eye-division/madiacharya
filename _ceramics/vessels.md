@@ -78,7 +78,7 @@ images:
       This series of blue and white textiles were inspired by textiles from the
       Eastern collection at the Ashmolean Museum in Oxford
   - image_path: /assets/images/542-screen-copy.jpg
-    image_title: Detail 2
+    image_title: Detail 1
     image_description:
   - image_path: /assets/images/543-screen-copy.jpg
     image_title: Detail 2
