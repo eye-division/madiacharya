@@ -14,7 +14,7 @@ permalink: /ceramics/sculpture/
 archive: false
 order_number: 2
 _gallery_date: 2022-05-01 00:00:00
-main_image_path: /assets/images/6798-screen-copy-1.jpg
+main_image_path: /assets/images/496-screen-copy.jpg
 images:
   - image_path: /assets/images/496-screen-copy.jpg
     image_title: Vegatable Cabaret, image 1
