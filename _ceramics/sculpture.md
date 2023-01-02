@@ -16,6 +16,17 @@ order_number: 2
 _gallery_date: 2022-05-01 00:00:00
 main_image_path: /assets/images/6844-screen-copy.jpg
 images:
+  - image_path: /assets/images/496-screen-copy.jpg
+    image_title: Vegatable Cabaret, Image 1
+    image_description: >-
+      Ceramic Sculpture exploring gender issues inspired by organically grown
+      vegetables
+  - image_path: /assets/images/500-screen-copy.jpg
+    image_title: Image 2
+    image_description:
+  - image_path: /assets/images/504-screen-copy.jpg
+    image_title: Image 3
+    image_description:
   - image_path: /assets/images/6853-screen-copy.jpg
     image_title: Winking Mask
     image_description: >
@@ -97,17 +108,6 @@ images:
     image_description:
   - image_path: /assets/images/6790-screen-copy.jpg
     image_title: detail
-    image_description:
-  - image_path: /assets/images/496-screen-copy.jpg
-    image_title: Vegatable Cabaret (image 1)
-    image_description: >-
-      Ceramic Sculpture exploring gender issues inspired by organically grown
-      vegetables
-  - image_path: /assets/images/500-screen-copy.jpg
-    image_title: Image 2
-    image_description:
-  - image_path: /assets/images/504-screen-copy.jpg
-    image_title: Image 3
     image_description:
   - image_path: /assets/images/505-screen-copy.jpg
     image_title: Vegetable Cabaret, detail 1
