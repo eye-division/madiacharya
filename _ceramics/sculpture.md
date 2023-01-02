@@ -98,6 +98,35 @@ images:
   - image_path: /assets/images/6790-screen-copy.jpg
     image_title: detail
     image_description:
+  - image_path: /assets/images/496-screen-copy.jpg
+    image_title: Vegatable Cabaret (image 1)
+    image_description: >-
+      Ceramic Sculpture exploring gender issues inspired by organically grown
+      vegetables
+  - image_path: /assets/images/500-screen-copy.jpg
+    image_title: Image 2
+    image_description:
+  - image_path: /assets/images/504-screen-copy.jpg
+    image_title: Image 3
+    image_description:
+  - image_path: /assets/images/505-screen-copy.jpg
+    image_title: Vegetable Cabaret, detail 1
+    image_description:
+  - image_path: /assets/images/515-screen-copy.jpg
+    image_title: Detail 2
+    image_description:
+  - image_path: /assets/images/523-screen-copy.jpg
+    image_title: Detail 3
+    image_description:
+  - image_path: /assets/images/583-screen-copy.jpg
+    image_title: When it all folds up, image1
+    image_description:
+  - image_path: /assets/images/587-screen-copy-1.jpg
+    image_title: Image 2
+    image_description:
+  - image_path: /assets/images/594-screen-copy.jpg
+    image_title: Image 3
+    image_description:
 _options:
   image_path:
     uploads_dir: assets/images/:year
