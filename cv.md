@@ -39,6 +39,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### SELECTED GROUP EXHIBITIONS
 
+2023 **'Zari Sona Moti',** Darl-e and the Bear, Oxfordshire
+
 2021 **Ground Work,** APT Gallery, London
 
 2021 **Displace,** Bloc Projects, Sheffield, curated by Uthra Rajgopal
@@ -47,7 +49,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2020 **Groundwork\_APT Open Day,** APT Gallery, London
 
-2019 **Weave It\!** , Stour Space, London, curated by Decorating Dissidence
+2019 **Weave It!** , Stour Space, London, curated by Decorating Dissidence
 
 2019 **Parallel Lines: Drawing and Sculpture,** The Lightbox, Woking
 
@@ -96,6 +98,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 2009 **Jam: Cultural Congestions in Contemporary Asian Art,** artist-curator with Dr Outi Remes, South Hill Park, Bracknell (funded by ACE, National Culture and Arts Foundation, Taiwan)
 
 ### PRIZES, AWARDS, OPEN SUBMISSIONS
+
+2022 **First Plinth Award Finalist,** Royal Society of Sculptors, London
 
 2022 **Exeter Contemporary Open**, Exeter Phoenix, Gandy Street, Exeter
 
