@@ -183,6 +183,8 @@ exploring the theme ‘Stories, Memories, Concepts’ (ACE funded)
 
 ### **BIBLIOGRAPHY**
 
+**[Making Waves](https://www.oxinabox.co.uk/making-waves-respected-environmental-artist-madi-acharya-baskerville-opens-at-darl-e-and-the-bear-in-wo){: target="_blank" rel="noopener"}** interview by Ox in A Box
+
 **Interview with Asian Curator:**[http://asiancurator.com/madi-acharya-baskerville/](http://asiancurator.com/madi-acharya-baskerville/){: target="_blank"} , 2020
 
 **I wish my hair was as long as yours**, catalogue with&nbsp; essay by Stephanie Straine, Curator of Projects and Exhibitions, Modern Art Oxford
