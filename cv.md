@@ -121,8 +121,6 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2020 **Summer Exhibition** Royal Society of Sculptors (selected by Nicky and Robert Wilson, founders of Jupitor Artland)
 
-2020 **‘This Year’s Model’** Studio 1:1 Gallery, London
-
 2019 **Artcan Open**, Trinity Art Gallery, London
 
 2018 **&nbsp;SFSA Painting Open**, No Format Gallery, London
