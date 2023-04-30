@@ -99,7 +99,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### PRIZES, AWARDS, OPEN SUBMISSIONS
 
-2022 **First Plinth Award Finalist,** Royal Society of Sculptors, London
+2023 **First Plinth Award,** Royal Society of Sculptors, London
 
 2022 **Exeter Contemporary Open**, Exeter Phoenix, Gandy Street, Exeter
 
