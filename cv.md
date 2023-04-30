@@ -129,9 +129,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2015 ‘ **This Year’s Model’**, Studio 1.1 Gallery, London (selected by studio 1:1 with Marcus Cope and Robin Seir)
 
-2012 **Wells Art Contemporary,**Wells and Mendip Museum, Wells, Somerset
-
-(selected by Roy Ackerman and Richard Wentworth)
+2012 **Wells Art Contemporary,**Wells and Mendip Museum, Wells, Somerset (selected by Roy Ackerman and Richard Wentworth)
 
 2007-2008 **Grants for Arts Award**, Arts Council England for international<br>residency and exhibition
 
