@@ -123,11 +123,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2019 **Artcan Open**, Trinity Art Gallery, London
 
-2018 **&nbsp;SFSA Painting Open**, No Format Gallery, London
-
 2018&nbsp;**Fe/Male,&nbsp;**AIR Gallery, Manchester
-
-2017 **‘This Year’s Model’,** Studio 1:1 Gallery, London
 
 2016 **Royal Academy Summer Exhibition**, Royal Academy of Arts, London (selected by Cathie Pilkington RA)
 
