@@ -99,7 +99,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### PRIZES, AWARDS, OPEN SUBMISSIONS
 
-2022 **First Plinth Award Finalist,** Royal Society of Sculptors, London
+2023 **First Plinth Award,** Royal Society of Sculptors, London
 
 2022 **Exeter Contemporary Open**, Exeter Phoenix, Gandy Street, Exeter
 
@@ -121,23 +121,15 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2020 **Summer Exhibition** Royal Society of Sculptors (selected by Nicky and Robert Wilson, founders of Jupitor Artland)
 
-2020 **‘This Year’s Model’** Studio 1:1 Gallery, London
-
 2019 **Artcan Open**, Trinity Art Gallery, London
 
-2018 **&nbsp;SFSA Painting Open**, No Format Gallery, London
-
 2018&nbsp;**Fe/Male,&nbsp;**AIR Gallery, Manchester
-
-2017 **‘This Year’s Model’,** Studio 1:1 Gallery, London
 
 2016 **Royal Academy Summer Exhibition**, Royal Academy of Arts, London (selected by Cathie Pilkington RA)
 
 2015 ‘ **This Year’s Model’**, Studio 1.1 Gallery, London (selected by studio 1:1 with Marcus Cope and Robin Seir)
 
-2012 **Wells Art Contemporary,**Wells and Mendip Museum, Wells, Somerset
-
-(selected by Roy Ackerman and Richard Wentworth)
+2012 **Wells Art Contemporary,**Wells and Mendip Museum, Wells, Somerset (selected by Roy Ackerman and Richard Wentworth)
 
 2007-2008 **Grants for Arts Award**, Arts Council England for international<br>residency and exhibition
 
@@ -165,9 +157,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2008 **Eynsham Primary School**, outdoor site specific sculpture (Kid@art)
 
-2007&nbsp;**‘Art-in-situ’**&nbsp;residency in Crest, The Drome, France in the medieval tower
-
-exploring the theme ‘Stories, Memories, Concepts’ (ACE funded)
+2007&nbsp;**‘Art-in-situ’**&nbsp;residency in Crest, The Drome, France&nbsp; ‘Stories, Memories, Concepts’ (ACE funded)
 
 ### PRESENTATIONS
 
@@ -191,11 +181,7 @@ exploring the theme ‘Stories, Memories, Concepts’ (ACE funded)
 
 [Download catalogue (PDF)](/assets/E_Brochure.pdf)
 
-**by the way**, Exhibition Catalogue, 2019
-
 **Artist of the month** feature in Axisweb, 2018&nbsp; [https://www.axisweb.org/artist-of-the-month/2018/madi-acharya-baskerville/](https://www.axisweb.org/artist-of-the-month/2018/madi-acharya-baskerville/){: target="_blank" rel="noopener"}
-
-**Phantasms,road rage,feminism**, Review of This Year’s Model, The Human Stain by James Brewer http://www.allaboutshipping.co.uk/2017/01/07/phantasms-road-rage-feminism
 
 **Summer Exhibition Illustrated 2016**, Exhibition Catalogue
 
@@ -205,7 +191,7 @@ exploring the theme ‘Stories, Memories, Concepts’ (ACE funded)
 
 **‘Sanctuary Part 1’:**Home, Away, Common Ground’, Exhibition Catalogue, 2011,
 
-**Immediate Territory,**Exhibition Catalogue, Forward by Katalin Hause, 2011l
+**Immediate Territory,**Exhibition Catalogue, Forward by Katalin Hausel, 2011l
 
 **Within Walls:** Exhibition Catalogue, 2008
 
