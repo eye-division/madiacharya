@@ -157,9 +157,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2008 **Eynsham Primary School**, outdoor site specific sculpture (Kid@art)
 
-2007&nbsp;**‘Art-in-situ’**&nbsp;residency in Crest, The Drome, France in the medieval tower
-
-exploring the theme ‘Stories, Memories, Concepts’ (ACE funded)
+2007&nbsp;**‘Art-in-situ’**&nbsp;residency in Crest, The Drome, France&nbsp; ‘Stories, Memories, Concepts’ (ACE funded)
 
 ### PRESENTATIONS
 
@@ -183,11 +181,7 @@ exploring the theme ‘Stories, Memories, Concepts’ (ACE funded)
 
 [Download catalogue (PDF)](/assets/E_Brochure.pdf)
 
-**by the way**, Exhibition Catalogue, 2019
-
 **Artist of the month** feature in Axisweb, 2018&nbsp; [https://www.axisweb.org/artist-of-the-month/2018/madi-acharya-baskerville/](https://www.axisweb.org/artist-of-the-month/2018/madi-acharya-baskerville/){: target="_blank" rel="noopener"}
-
-**Phantasms,road rage,feminism**, Review of This Year’s Model, The Human Stain by James Brewer http://www.allaboutshipping.co.uk/2017/01/07/phantasms-road-rage-feminism
 
 **Summer Exhibition Illustrated 2016**, Exhibition Catalogue
 
@@ -197,7 +191,7 @@ exploring the theme ‘Stories, Memories, Concepts’ (ACE funded)
 
 **‘Sanctuary Part 1’:**Home, Away, Common Ground’, Exhibition Catalogue, 2011,
 
-**Immediate Territory,**Exhibition Catalogue, Forward by Katalin Hause, 2011l
+**Immediate Territory,**Exhibition Catalogue, Forward by Katalin Hausel, 2011l
 
 **Within Walls:** Exhibition Catalogue, 2008
 
