@@ -1,9 +1,6 @@
 ---
 title: Unnatural Selection (survival of the plastic)
 description_markdown: >-
-  &nbsp;
-
-
   This is a series of mixed media sculptural works was inspired by coming across
   a journal which had an image of a dissected sea gull’s stomach. This image
   showed all the items that the sea gull had swallowed during its life span
@@ -172,6 +169,9 @@ images:
     image_description: |-
       Materials: Found Plastic, textiles, acrylic paint, bead
       Dimensions (cm): W19 H45 D15, 2020
+  - image_path: /assets/images/3169a-screen-copy.jpg
+    image_title: His heart is in the jungle (view 2)
+    image_description:
   - image_path: /assets/images/3171-screen-copy.jpg
     image_title: His heart in the jungle (detail)
     image_description:
@@ -180,9 +180,6 @@ images:
     image_description: |-
       Materials: Found objects, found plastic, textiles
       Dimensions (cm): W22 H30 D28, 2020
-  - image_path: /assets/images/3169a-screen-copy.jpg
-    image_title: His heart is in the jungle (view 2)
-    image_description:
   - image_path: /assets/images/3203-screen-copy.jpg
     image_title: In memory of an injured blackbird (view 2)
     image_description:
