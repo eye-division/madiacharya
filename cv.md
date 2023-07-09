@@ -41,6 +41,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2023 **'Zari Sona Moti',** Darl-e and the Bear, Oxfordshire
 
+2022 **'Exchanges: Recent Additions to the Collection’&nbsp;** The Whitworth, Manchester
+
 2021 **Ground Work,** APT Gallery, London
 
 2021 **Displace,** Bloc Projects, Sheffield, curated by Uthra Rajgopal
