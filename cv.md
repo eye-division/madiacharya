@@ -109,11 +109,13 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### PRIZES, AWARDS, OPEN SUBMISSIONS
 
+2023 **First Plinth Award,** Royal Society of Sculptors, London
 
+2023 **The Primary Residency Prize** awarded following selection for New Art Exchange Open 2023 ** **
 
 2023 **New Art Exchange Open**, New Art Exchange, Nottingham
 
-2023 **First Plinth Award,** Royal Society of Sculptors, London
+2022-23 Selected for **UAL Decolonising Art Institute 20/20 Program**, **Residency at Lightbox, Woking** as part of this
 
 2022 **Exeter Contemporary Open**, Exeter Phoenix, Gandy Street, Exeter
 
