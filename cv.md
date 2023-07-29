@@ -39,6 +39,14 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### SELECTED GROUP EXHIBITIONS
 
+**Upcoming Exhibitions:**
+
+**'Fragments of our time', British Textile Biennial 2023,** The Whitaker, Blackburn, September 29th-October 29th
+
+**The Stuff of Life The Life of Stuff**, **Sainsbury Centre, University of East Anglia, Norwich**, 8 September –14 January 2024
+
+2023&nbsp;**Hoarfrost on our lips**, Paradise Works, Manchester
+
 2023 **'Zari Sona Moti',** Darl-e and the Bear, Oxfordshire
 
 2022 **'Exchanges: Recent Additions to the Collection’&nbsp;** The Whitworth, Manchester
@@ -100,6 +108,10 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 2009 **Jam: Cultural Congestions in Contemporary Asian Art,** artist-curator with Dr Outi Remes, South Hill Park, Bracknell (funded by ACE, National Culture and Arts Foundation, Taiwan)
 
 ### PRIZES, AWARDS, OPEN SUBMISSIONS
+
+
+
+2023 **New Art Exchange Open**, New Art Exchange, Nottingham
 
 2023 **First Plinth Award,** Royal Society of Sculptors, London
 
