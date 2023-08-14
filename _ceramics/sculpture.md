@@ -17,7 +17,7 @@ _gallery_date: 2022-05-01 00:00:00
 main_image_path: /assets/images/6848-screen-copy-1.jpg
 images:
   - image_path: /assets/images/496-screen-copy.jpg
-    image_title: Vegatable Cabaret, image 1
+    image_title: 'Vegatable Cabaret, image 1, overall dimensions: H45 W50 D30 cm'
     image_description: >-
       Ceramic Sculpture exploring gender issues inspired by organically grown
       vegetables
