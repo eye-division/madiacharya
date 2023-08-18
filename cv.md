@@ -177,6 +177,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### PRESENTATIONS
 
+2023 **Meet the Artist, in conversation with Sarah Brown**, director of The Lightbox, Woking,
+
 2020 **Visiting lecturer** at Chichester University
 
 2018 **Walking through the forest, Searching for the sea, Finding, Collecting and Making&nbsp;**as part of the symposium&nbsp;**Modernism: Making, Place and Protest&nbsp;**organised by Decorating Dissidence at Queen Mary College, London. [View abstracts](https://decoratingdissidence.wordpress.com/abstracts/){: target="_blank"}.
