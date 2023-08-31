@@ -127,6 +127,13 @@ images:
   - image_path: /assets/images/594-screen-copy.jpg
     image_title: Image 3
     image_description:
+  - image_path: /assets/images/living-with-ganesh-front-copy.jpg
+    image_title: Living with Ganesh, front
+    image_description: >-
+      This ceramic sculpture is created with crank clay, the patterns are
+      painted with underglazes and finished with transparent glaze.
+
+      It is inspired by Lord Ganesh, remover of obstacles.
 _options:
   image_path:
     uploads_dir: assets/images/:year
