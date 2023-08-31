@@ -134,6 +134,9 @@ images:
       painted with underglazes and finished with transparent glaze.
 
       It is inspired by Lord Ganesh, remover of obstacles.
+  - image_path: /assets/images/living-with-ganesh-back-copy.jpg
+    image_title: Living with Ganesh, back
+    image_description: ''
 _options:
   image_path:
     uploads_dir: assets/images/:year
