@@ -161,9 +161,9 @@ social:
     
   - name: Twitter
     icon: icon-twitter_sign
-    username: 'MadiAcharyaBask'
-    url: https://twitter.com/MadiAcharyaBask
-    desc: Follow us on Twitter
+    username: 
+    url: 
+    desc: 
     share: true
 
   - name: Facebook
