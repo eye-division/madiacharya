@@ -33,23 +33,23 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2019&nbsp; ‘**I wish my hair was as long as yours**’, (solo) Magdalen Art Space, Oxford
 
-2018 **&nbsp;‘Dancing with the corporeal’** no format Gallery, London
+2018 &nbsp;**‘Dancing with the corporeal’** no format Gallery, London
 
 2017 ‘**Absent Beach’** (solo) Vinyl Deptford, London
 
 ### SELECTED GROUP EXHIBITIONS
 
-**Upcoming Exhibitions:**
 
-**'Fragments of our time', British Textile Biennial 2023,** The Whitaker, Blackburn, September 29th-October 29th
 
-**The Stuff of Life The Life of Stuff**, **Sainsbury Centre, University of East Anglia, Norwich**, 8 September –14 January 2024
+2023 **'Fragments of our time', British Textile Biennial 2023,** The Whitaker, Blackburn
+
+2023 **The Stuff of Life The Life of Stuff**, **Sainsbury Centre,** University of East Anglia, Norwich
 
 2023&nbsp;**Hoarfrost on our lips**, Paradise Works, Manchester
 
 2023 **'Zari Sona Moti',** Darl-e and the Bear, Oxfordshire
 
-2022 **'Exchanges: Recent Additions to the Collection’&nbsp;** The Whitworth, Manchester
+2022 **'Exchanges: Recent Additions to the Collection’**&nbsp; The Whitworth, Manchester
 
 2021 **Ground Work,** APT Gallery, London
 
@@ -65,7 +65,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2019 **by the way** Lewisham Arthouse, London
 
-2018&nbsp;**‘and the value of nothing’,&nbsp;**Studio 1:1 Gallery, London
+2018&nbsp;**‘and the value of nothing’,**&nbsp;Studio 1:1 Gallery, London
 
 2018&nbsp;**Object**, hARTslane, London
 
@@ -73,7 +73,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2016 **Psychedelic Breakfast,**Vinyl Deptford, Deptford X Fringe, London
 
-2016 **‘Looking Up’,&nbsp;**Studio 1:1 Gallery, London
+2016 **‘Looking Up’,**&nbsp;Studio 1:1 Gallery, London
 
 2016 **Material World,** Ancien Musee de Peinture, Grenoble
 
@@ -139,7 +139,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2019 **Artcan Open**, Trinity Art Gallery, London
 
-2018&nbsp;**Fe/Male,&nbsp;**AIR Gallery, Manchester
+2018&nbsp;**Fe/Male,**&nbsp;AIR Gallery, Manchester
 
 2016 **Royal Academy Summer Exhibition**, Royal Academy of Arts, London (selected by Cathie Pilkington RA)
 
@@ -159,7 +159,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2007 ‘**This is Me’** Participatory Project commissioned by Oxfordshire Museum
 
-2007 **Mentoring Commission**\: to work alongside ‘Making Marks’ a partnership<br>of Public artists for the East Oxford Health Centre sculpture commission
+2007 **Mentoring Commission**: to work alongside ‘Making Marks’ a partnership<br>of Public artists for the East Oxford Health Centre sculpture commission
 
 ### RESIDENCIES
 
@@ -181,7 +181,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2020 **Visiting lecturer** at Chichester University
 
-2018 **Walking through the forest, Searching for the sea, Finding, Collecting and Making&nbsp;**as part of the symposium&nbsp;**Modernism: Making, Place and Protest&nbsp;**organised by Decorating Dissidence at Queen Mary College, London. [View abstracts](https://decoratingdissidence.wordpress.com/abstracts/){: target="_blank"}.
+2018 **Walking through the forest, Searching for the sea, Finding, Collecting and Making**&nbsp;as part of the symposium&nbsp;**Modernism: Making, Place and Protest**&nbsp;organised by Decorating Dissidence at Queen Mary College, London. [View abstracts](https://decoratingdissidence.wordpress.com/abstracts/){: target="_blank"}.
 
 2018&nbsp;**Artist Talk for Warehouse Art School**, Ovada Gallery, Oxford
 
