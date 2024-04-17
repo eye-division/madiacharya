@@ -23,7 +23,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### SOLO AND TWO PERSON EXHIBITIONS:
 
-2024 **I dream a palace' (**Solo) The Lightbox, Woking
+2024 **I Dream a Palace' (**Solo) The Lightbox, Woking
 
 2022 **Creek Dreams,** Seager Gallery, London
 
