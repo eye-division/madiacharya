@@ -15,13 +15,15 @@ _options:
 
 [Axis web](http://www.axisweb.org/p/madiacharyabaskerville)
 
-[Royal Society of Sculptors](https://sculptors.org.uk/artists/madi-acharya-baskerville){: target="_blank"}
+[Royal Society of Sculptors](https://sculptors.org.uk/artists/madi-acharya-baskerville){: target="_blank" rel="noopener"}
 
 ### EDUCATION:
 
 MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### SOLO AND TWO PERSON EXHIBITIONS:
+
+2024 **I dream a palace' (**Solo) The Lightbox, Woking
 
 2022 **Creek Dreams,** Seager Gallery, London
 
@@ -38,8 +40,6 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 2017 ‘**Absent Beach’** (solo) Vinyl Deptford, London
 
 ### SELECTED GROUP EXHIBITIONS
-
-
 
 2023 **'Fragments of our time', British Textile Biennial 2023,** The Whitaker, Blackburn
 
@@ -97,7 +97,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 [**Springing FORWARD curated by Gita Joshi**](https://createmagazine.com/springing-forward-exhibition-2021){: target="_blank" rel="noopener"}
 
-**[Ornithologie: Online](http://www.magdalenroadstudios.com/ornithologie){: target="_blank" rel="noopener"}**
+[**Ornithologie: Online**](http://www.magdalenroadstudios.com/ornithologie){: target="_blank" rel="noopener"}
 
 ### CURATORIAL PROJECTS
 
@@ -181,7 +181,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2020 **Visiting lecturer** at Chichester University
 
-2018 **Walking through the forest, Searching for the sea, Finding, Collecting and Making**&nbsp;as part of the symposium&nbsp;**Modernism: Making, Place and Protest**&nbsp;organised by Decorating Dissidence at Queen Mary College, London. [View abstracts](https://decoratingdissidence.wordpress.com/abstracts/){: target="_blank"}.
+2018 **Walking through the forest, Searching for the sea, Finding, Collecting and Making**&nbsp;as part of the symposium&nbsp;**Modernism: Making, Place and Protest**&nbsp;organised by Decorating Dissidence at Queen Mary College, London. [View abstracts](https://decoratingdissidence.wordpress.com/abstracts/){: target="_blank" rel="noopener"}.
 
 2018&nbsp;**Artist Talk for Warehouse Art School**, Ovada Gallery, Oxford
 
@@ -191,9 +191,9 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### **BIBLIOGRAPHY**
 
-**[Making Waves](https://www.oxinabox.co.uk/making-waves-respected-environmental-artist-madi-acharya-baskerville-opens-at-darl-e-and-the-bear-in-wo){: target="_blank" rel="noopener"}** interview by Ox in A Box
+[**Making Waves**](https://www.oxinabox.co.uk/making-waves-respected-environmental-artist-madi-acharya-baskerville-opens-at-darl-e-and-the-bear-in-wo){: target="_blank" rel="noopener"} interview by Ox in A Box
 
-**Interview with Asian Curator:**[http://asiancurator.com/madi-acharya-baskerville/](http://asiancurator.com/madi-acharya-baskerville/){: target="_blank"} , 2020
+**Interview with Asian Curator:**[http://asiancurator.com/madi-acharya-baskerville/](http://asiancurator.com/madi-acharya-baskerville/){: target="_blank" rel="noopener"} , 2020
 
 **I wish my hair was as long as yours**, catalogue with&nbsp; essay by Stephanie Straine, Curator of Projects and Exhibitions, Modern Art Oxford
 
