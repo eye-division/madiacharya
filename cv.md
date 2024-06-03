@@ -23,6 +23,10 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### SOLO AND TWO PERSON EXHIBITIONS:
 
+2024 **The Double Act, First Plinth Public Art Award,** Royal Society of Sculptors
+
+2024 **Caught in the Act,** Royal Society of Sculptors, London
+
 2024 **I Dream a Palace' (**Solo) The Lightbox, Woking
 
 2022 **Creek Dreams,** Seager Gallery, London
