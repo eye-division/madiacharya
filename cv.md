@@ -151,10 +151,6 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2007 **In-tent-city:** Commissioned as lead artist by Fusion, Oxford (ACE Funded)
 
-2007 ‘**This is Me’** Participatory Project commissioned by Oxfordshire Museum
-
-2007 **Mentoring Commission**: to work alongside ‘Making Marks’ a partnership<br>of Public artists for the East Oxford Health Centre sculpture commission
-
 ### RESIDENCIES
 
 2022-2023 **20/ 20 Project**, Residency and Commission
@@ -162,8 +158,6 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 2020 **Groundwork APT**, APT Gallery, London
 
 2011 **Sanctuary**, Neyri, Kenya
-
-2007&nbsp;**‘Art-in-situ’**&nbsp;residency in Crest, The Drome, France&nbsp; ‘Stories, Memories, Concepts’ (ACE funded)
 
 ### PRESENTATIONS
 
@@ -177,13 +171,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2017 **Syllabus 3** presentation to interview panel, Spike Island, Bristol
 
-2008 **ARC Seminar ‘International Residencies’,** Ovada Gallery, Oxford
-
 ### **BIBLIOGRAPHY**
-
-[**Making Waves**](https://www.oxinabox.co.uk/making-waves-respected-environmental-artist-madi-acharya-baskerville-opens-at-darl-e-and-the-bear-in-wo){: target="_blank" rel="noopener"} interview by Ox in A Box
-
-**Interview with Asian Curator:**[http://asiancurator.com/madi-acharya-baskerville/](http://asiancurator.com/madi-acharya-baskerville/){: target="_blank" rel="noopener"} , 2020
 
 **I wish my hair was as long as yours**, catalogue with&nbsp; essay by Stephanie Straine, Curator of Projects and Exhibitions, Modern Art Oxford
 
@@ -193,17 +181,9 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 **Summer Exhibition Illustrated 2016**, Exhibition Catalogue
 
-**Alps and Spires,** Museum of Oxford, Exhibition Catalogue, 2014
-
 **‘Sanctuary Part 2’:**Home, Away, Common Ground, Exhibition Catalogue , forward by John Hollingworth MBE, Director of Brunei Gallery, SOAS, 2013
 
 **‘Sanctuary Part 1’:**Home, Away, Common Ground’, Exhibition Catalogue, 2011,
-
-**Immediate Territory,**Exhibition Catalogue, Forward by Katalin Hausel, 2011l
-
-**Within Walls:** Exhibition Catalogue, 2008
-
-**Umfeld&lt;-&gt;Inwelt**, Exhibition Catalogue, Frauenmuseum, Bonn, Forward by Marianne Pitzen, director Frauen Museum, Bonn, 2008
 
 ### COLLECTIONS
 
