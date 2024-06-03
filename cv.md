@@ -221,6 +221,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### COLLECTIONS
 
+Three ceramic works acquired by the Lightbox, Woking following 20/20 residency and commission supported by Decolonizing Institute, UAL, 2024
+
 The sculpture ‘Here to stay’ has been acquired as part of the Art Fund New Collecting Award, as part of the permanent collection at the Whitworth, the University of Manchester,&nbsp; 2021
 
 Work in private collections in London, Oxford and France
