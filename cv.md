@@ -123,7 +123,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2022 **Habitat,** Contemporary Six,Manchester
 
-2021 **Developing Your Creative Practice** Award, Arts Council England
+2021  **Developing Your Creative Practice** grant from **Arts Council England** for the project 'Developing ceramics as part of sculptural work in the context of museum collections'.
 
 2021 **Summer Exhibition,** Royal Society of Sculptors**,** London, selected by Sigrid Kirk
 
