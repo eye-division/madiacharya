@@ -173,6 +173,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### **BIBLIOGRAPHY**
 
+['I**f objects could speak what would they tell us?**](https://www.a-n.co.uk/blogs/if-objects-could-speak-what-would-they-tell-us/){: target="_blank" rel="noopener"}' My blog about DYCP activity
+
 **I wish my hair was as long as yours**, catalogue with&nbsp; essay by Stephanie Straine, Curator of Projects and Exhibitions, Modern Art Oxford
 
 [Download catalogue (PDF)](/assets/E_Brochure.pdf)
