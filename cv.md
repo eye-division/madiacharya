@@ -181,9 +181,9 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 **Summer Exhibition Illustrated 2016**, Exhibition Catalogue
 
-**‘Sanctuary Part 2’:**Home, Away, Common Ground, Exhibition Catalogue , forward by John Hollingworth MBE, Director of Brunei Gallery, SOAS, 2013
+**‘Sanctuary Part 2’** Home, Away, Common Ground, Exhibition Catalogue , forward by John Hollingworth MBE, Director of Brunei Gallery, SOAS, 2013
 
-**‘Sanctuary Part 1’:**Home, Away, Common Ground’, Exhibition Catalogue, 2011,
+**‘Sanctuary Part 1’** Home, Away, Common Ground’, Exhibition Catalogue, 2011,
 
 ### COLLECTIONS
 
