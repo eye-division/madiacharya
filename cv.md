@@ -89,12 +89,6 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2011 **‘Sanctuary’ Home, Away and Common Ground, Part 1,**National Museum of Kenya, Nairobi
 
-2008 **Within Walls,** Oxfordshire Museum, Woodstock, Oxfordshire (ACE funded)
-
-2007 **Umfeld&lt;-&gt;Inwelt**, Frauenmuseum, Bonn, Germany
-
-2007 ‘**Stories, Memories and Concepts’** at La Tour de Crest, (ACE funded)
-
 ### Online Exhibitions
 
 [**Topainterstoppaintings, curated by Althuis Holland Fine Arts**](https://www.topainterstopaintings.com/online-gallery-submission){: target="_blank" rel="noopener"}
@@ -149,8 +143,6 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2012 **Wells Art Contemporary,**Wells and Mendip Museum, Wells, Somerset (selected by Roy Ackerman and Richard Wentworth)
 
-2007-2008 **Grants for Arts Award**, Arts Council England for international<br>residency and exhibition
-
 ### COMMISSIONS
 
 2020 **‘Cabinet of Curiosities’** participatory project commissioned by Modern Art Oxford as part of the public program for Kiki Smith exhibition, ‘I am a Wanderer’.
@@ -165,15 +157,11 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### RESIDENCIES
 
-2021 **Willowbrook Festival**, Willowbrook Farm, Oxfordshire (ACE supported)
+2022-2023 **20/ 20 Project**, Residency and Commission
 
 2020 **Groundwork APT**, APT Gallery, London
 
 2011 **Sanctuary**, Neyri, Kenya
-
-2009 **Gosford Hill School** working with young people making outdoor site-specific work commissioned by Kids@rt, (Oxfordshire , Artweeks Charity)
-
-2008 **Eynsham Primary School**, outdoor site specific sculpture (Kid@art)
 
 2007&nbsp;**‘Art-in-situ’**&nbsp;residency in Crest, The Drome, France&nbsp; ‘Stories, Memories, Concepts’ (ACE funded)
 
