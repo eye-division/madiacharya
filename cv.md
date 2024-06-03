@@ -145,21 +145,23 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### COMMISSIONS
 
+2022/2024 **20/20 Project,** Residency and Commission,
+
 2020 **‘Cabinet of Curiosities’** participatory project commissioned by Modern Art Oxford as part of the public program for Kiki Smith exhibition, ‘I am a Wanderer’.
 
 2017 **Oxford Festival for the Arts**, commissioned to create wall based work for an Indian Tent (ACE Funded)
 
-2007 **In-tent-city:** Commissioned as lead artist by Fusion, Oxford (ACE Funded)
-
 ### RESIDENCIES
 
-2022-2023 **20/ 20 Project**, Residency and Commission
+2022-2023 **20/ 20 Project**, Residency and Commission, Decolonising Institute University of Arts, London
 
 2020 **Groundwork APT**, APT Gallery, London
 
 2011 **Sanctuary**, Neyri, Kenya
 
 ### PRESENTATIONS
+
+2024 **Artist Talk,** I Dream a Palace, The Lightbox
 
 2023 **Meet the Artist, in conversation with Sarah Brown**, director of The Lightbox, Woking,
 
@@ -168,8 +170,6 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 2018 **Walking through the forest, Searching for the sea, Finding, Collecting and Making**&nbsp;as part of the symposium&nbsp;**Modernism: Making, Place and Protest**&nbsp;organised by Decorating Dissidence at Queen Mary College, London. [View abstracts](https://decoratingdissidence.wordpress.com/abstracts/){: target="_blank" rel="noopener"}.
 
 2018&nbsp;**Artist Talk for Warehouse Art School**, Ovada Gallery, Oxford
-
-2017 **Syllabus 3** presentation to interview panel, Spike Island, Bristol
 
 ### **BIBLIOGRAPHY**
 
