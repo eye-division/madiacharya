@@ -99,8 +99,6 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 [**Topainterstoppaintings, curated by Althuis Holland Fine Arts**](https://www.topainterstopaintings.com/online-gallery-submission){: target="_blank" rel="noopener"}
 
-[**Springing FORWARD curated by Gita Joshi**](https://createmagazine.com/springing-forward-exhibition-2021){: target="_blank" rel="noopener"}
-
 [**Ornithologie: Online**](http://www.magdalenroadstudios.com/ornithologie){: target="_blank" rel="noopener"}
 
 ### CURATORIAL PROJECTS
