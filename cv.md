@@ -23,6 +23,10 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### SOLO AND TWO PERSON EXHIBITIONS:
 
+2024 **The Double Act, First Plinth Public Art Award,** Royal Society of Sculptors
+
+2024 **Caught in the Act,** Royal Society of Sculptors, London
+
 2024 **I Dream a Palace' (**Solo) The Lightbox, Woking
 
 2022 **Creek Dreams,** Seager Gallery, London
@@ -179,7 +183,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2023 **Meet the Artist, in conversation with Sarah Brown**, director of The Lightbox, Woking,
 
-2020 **Visiting lecturer** at Chichester University
+2020 and 2023 **Visiting lecturer** at Chichester University
 
 2018 **Walking through the forest, Searching for the sea, Finding, Collecting and Making**&nbsp;as part of the symposium&nbsp;**Modernism: Making, Place and Protest**&nbsp;organised by Decorating Dissidence at Queen Mary College, London. [View abstracts](https://decoratingdissidence.wordpress.com/abstracts/){: target="_blank" rel="noopener"}.
 
@@ -216,6 +220,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 **Umfeld&lt;-&gt;Inwelt**, Exhibition Catalogue, Frauenmuseum, Bonn, Forward by Marianne Pitzen, director Frauen Museum, Bonn, 2008
 
 ### COLLECTIONS
+
+Three ceramic works acquired by the Lightbox, Woking following 20/20 residency and commission supported by Decolonizing Institute, UAL, 2024
 
 The sculpture ‘Here to stay’ has been acquired as part of the Art Fund New Collecting Award, as part of the permanent collection at the Whitworth, the University of Manchester,&nbsp; 2021
 
