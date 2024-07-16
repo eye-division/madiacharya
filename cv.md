@@ -123,7 +123,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2022 **Habitat,** Contemporary Six,Manchester
 
-2021 **Developing Your Creative Practice** Award, Arts Council England
+2021  **Developing Your Creative Practice** grant from **Arts Council England** for the project 'Developing ceramics as part of sculptural work in the context of museum collections'.
 
 2021 **Summer Exhibition,** Royal Society of Sculptors**,** London, selected by Sigrid Kirk
 
@@ -172,6 +172,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 2018&nbsp;**Artist Talk for Warehouse Art School**, Ovada Gallery, Oxford
 
 ### **BIBLIOGRAPHY**
+
+['I**f objects could speak what would they tell us?**](https://www.a-n.co.uk/blogs/if-objects-could-speak-what-would-they-tell-us/){: target="_blank" rel="noopener"}' My blog about DYCP activity
 
 **I wish my hair was as long as yours**, catalogue with&nbsp; essay by Stephanie Straine, Curator of Projects and Exhibitions, Modern Art Oxford
 
