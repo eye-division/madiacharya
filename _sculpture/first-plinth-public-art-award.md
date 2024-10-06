@@ -4,7 +4,7 @@ description_markdown: ''
 _gallery_date:
 permalink: /sculpture/firstplinthpublicartaward
 archive: false
-order_number: -1
+order_number: 1
 main_image_path: /assets/7856-screen-copy.jpg
 thumb_crop:
 images:
