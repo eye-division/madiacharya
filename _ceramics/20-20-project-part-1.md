@@ -68,19 +68,10 @@ images:
   - image_path: /assets/images/496-screen-copy-1.jpg
     image_title:
     image_description:
-  - image_path: /assets/images/497-screen-copy.jpg
-    image_title:
-    image_description:
-  - image_path: /assets/images/498-screen-copy.jpg
-    image_title:
-    image_description:
   - image_path: /assets/images/499-screen-copy.jpg
     image_title:
     image_description:
   - image_path: /assets/images/500-screen-copy-1.jpg
-    image_title:
-    image_description:
-  - image_path: /assets/images/501-screen-copy.jpg
     image_title:
     image_description:
   - image_path: /assets/images/502-screen-copy.jpg
