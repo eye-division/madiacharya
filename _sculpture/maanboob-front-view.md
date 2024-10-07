@@ -35,6 +35,9 @@ images:
   - image_path: /assets/images/5114-screen-copy.jpg
     image_title: Mirrorball Mirrorbust (detail 1)
     image_description:
+  - image_path: /assets/rss-15.jpg
+    image_title: ''
+    image_description:
   - image_path: /assets/images/5117-screen-copy.jpg
     image_title: Mirrorball Mirrorbust (detail 2)
     image_description:
@@ -198,9 +201,6 @@ images:
     image_title: ''
     image_description:
   - image_path: /assets/7463-screen-copy-1.jpg
-    image_title: ''
-    image_description:
-  - image_path: /assets/rss-15.jpg
     image_title: ''
     image_description:
 _options:
