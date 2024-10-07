@@ -200,12 +200,6 @@ images:
   - image_path: /assets/7443-screen-copy.jpg
     image_title: ''
     image_description:
-  - image_path: /assets/7463-screen-copy.jpg
-    image_title: ''
-    image_description:
-  - image_path: /assets/526841-10150836978041146-697719680-n-copy.jpg
-    image_title: ''
-    image_description:
 _options:
   image_path:
     width: 1200
