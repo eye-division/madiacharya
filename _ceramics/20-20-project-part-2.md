@@ -5,7 +5,7 @@ _gallery_date:
 permalink: /ceramics/2020projectpart2
 archive: false
 main_image_path: /assets/images/651a-screen-copy.jpg
-order_number:
+order_number: 2
 thumb_crop:
 images:
   - image_path: /assets/images/639-screen-copy.jpg
