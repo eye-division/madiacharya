@@ -26,6 +26,15 @@ images:
   - image_path: /assets/madi2024-41-copy.jpg
     image_title:
     image_description:
+  - image_path: /assets/695-screen-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/707-screen-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/7872-screen-copy.jpg
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
