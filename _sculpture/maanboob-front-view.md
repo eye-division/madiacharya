@@ -33,6 +33,9 @@ images:
   - image_path: /assets/rss-14.jpg
     image_title: ''
     image_description:
+  - image_path: /assets/rss-15.jpg
+    image_title: ''
+    image_description:
   - image_path: /assets/images/5093ascreen-copy.jpg
     image_title: 'Mirrorball Mirrorbust '
     image_description: |
@@ -40,9 +43,6 @@ images:
        Charred wood, hair extensions, vintage textiles, broken mirror ball, shells 
   - image_path: /assets/images/5114-screen-copy.jpg
     image_title: Mirrorball Mirrorbust (detail 1)
-    image_description:
-  - image_path: /assets/rss-15.jpg
-    image_title: ''
     image_description:
   - image_path: /assets/images/5117-screen-copy.jpg
     image_title: Mirrorball Mirrorbust (detail 2)
