@@ -80,9 +80,6 @@ images:
   - image_path: /assets/images/500-screen-copy-1.jpg
     image_title:
     image_description:
-  - image_path: /assets/images/501-screen-copy.jpg
-    image_title:
-    image_description:
   - image_path: /assets/images/502-screen-copy.jpg
     image_title:
     image_description:
