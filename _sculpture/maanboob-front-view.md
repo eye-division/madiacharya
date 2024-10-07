@@ -182,6 +182,9 @@ images:
   - image_path: /assets/images/226 screen copy.jpg
     image_title: Trans-verse (front)
     image_description:
+  - image_path: /assets/rss-8.jpg
+    image_title: ''
+    image_description:
   - image_path: /assets/images/227 screen copy.jpg
     image_title: Trans-verse, (front, side view)
     image_description:
@@ -192,9 +195,6 @@ images:
     image_title: ''
     image_description:
   - image_path: /assets/7463-screen-copy-1.jpg
-    image_title: ''
-    image_description:
-  - image_path: /assets/rss-8.jpg
     image_title: ''
     image_description:
   - image_path: /assets/rss-14.jpg
