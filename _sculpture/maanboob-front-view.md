@@ -206,6 +206,9 @@ images:
   - image_path: /assets/the-twig-dancer-copy.jpg
     image_title: ''
     image_description:
+  - image_path: /assets/229878-10150836978751146-346327208-n-copy.jpg
+    image_title: ''
+    image_description:
 _options:
   image_path:
     width: 1200
