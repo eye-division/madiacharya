@@ -26,6 +26,21 @@ images:
   - image_path: /assets/images/645-screen-copy-1.jpg
     image_title:
     image_description:
+  - image_path: /assets/images/655-screen-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/664-screen-copy-3.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/661-screen-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/660-screen-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/667-screen-copy-1.jpg
+    image_title:
+    image_description:
 _options:
   image_path:
     uploads_dir: assets/images/:year
