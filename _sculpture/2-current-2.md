@@ -2,7 +2,7 @@
 title: Small Obsessions
 _hide_content: true
 description_markdown: >-
-  'Tiny Obsessions' series&nbsp; involves found objects and materials juxtaposed
+  ‘Tiny Obsessions’ series&nbsp; involves found objects and materials juxtaposed
   with smaller natural forms such as charred wooden blocks eroded by the
   sea.&nbsp; The more intimate scale of these works makes them feel more
   precious and ornamental. Incorporating intricate bead work and aspects of
@@ -11,7 +11,7 @@ description_markdown: >-
   be constantly&nbsp; in a state of flux.
 permalink: /sculpture/Tiny-Obsessions/
 archive: false
-order_number: 4
+order_number: 3
 _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/3184a-screen-copy-1.jpg
 images:
