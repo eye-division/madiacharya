@@ -71,9 +71,6 @@ images:
   - image_path: /assets/images/497-screen-copy.jpg
     image_title:
     image_description:
-  - image_path: /assets/images/498-screen-copy.jpg
-    image_title:
-    image_description:
   - image_path: /assets/images/499-screen-copy.jpg
     image_title:
     image_description:
