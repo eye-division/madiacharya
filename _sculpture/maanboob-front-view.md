@@ -24,10 +24,10 @@ images:
   - image_path: /assets/post8-image6-copy.jpg
     image_title: ''
     image_description:
-  - image_path: /assets/rss-8.jpg
+  - image_path: /assets/post8-image9-copy.jpg
     image_title: ''
     image_description:
-  - image_path: /assets/post8-image9-copy.jpg
+  - image_path: /assets/rss-8.jpg
     image_title: ''
     image_description:
   - image_path: /assets/images/5093ascreen-copy.jpg
