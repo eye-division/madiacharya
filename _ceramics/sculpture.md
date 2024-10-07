@@ -140,6 +140,15 @@ images:
   - image_path: /assets/images/594-screen-copy.jpg
     image_title: Image 3
     image_description:
+  - image_path: /assets/images/7527a-screen-copy.jpg
+    image_title: ''
+    image_description:
+  - image_path: /assets/images/7540-screen-copy.jpg
+    image_title: ''
+    image_description:
+  - image_path: /assets/images/7546-screen-copy.jpg
+    image_title: ''
+    image_description:
 _options:
   image_path:
     uploads_dir: assets/images/:year
