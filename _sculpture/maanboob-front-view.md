@@ -24,6 +24,9 @@ images:
   - image_path: /assets/post8-image6-copy.jpg
     image_title: ''
     image_description:
+  - image_path: /assets/rss-8.jpg
+    image_title: ''
+    image_description:
   - image_path: /assets/post8-image9-copy.jpg
     image_title: ''
     image_description:
@@ -183,9 +186,6 @@ images:
       Found wood, found objects, mixed media
       Dimensions: 30 x 30 x 20 cms, 2018
   - image_path: /assets/rss-14.jpg
-    image_title: ''
-    image_description:
-  - image_path: /assets/rss-8.jpg
     image_title: ''
     image_description:
   - image_path: /assets/images/226 screen copy.jpg
