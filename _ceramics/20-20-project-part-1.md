@@ -8,7 +8,7 @@ main_image_path: /assets/images/443-screen-copy.jpg
 order_number: 1
 thumb_crop:
 images:
-  - image_path:
+  - image_path: /assets/images/443-screen-copy-1.jpg
     image_title:
     image_description:
 _options:
