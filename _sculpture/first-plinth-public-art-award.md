@@ -14,10 +14,10 @@ images:
   - image_path: /assets/7851-screen-copy.jpg
     image_title:
     image_description:
-  - image_path: /assets/madi2024-76-copy.jpg
+  - image_path: /assets/madi2024-37-copy-1.jpg
     image_title:
     image_description:
-  - image_path: /assets/madi2024-37-copy.jpg
+  - image_path: /assets/madi2024-41-copy-1.jpg
     image_title:
     image_description:
   - image_path: /assets/madi2024-57-copy.jpg
