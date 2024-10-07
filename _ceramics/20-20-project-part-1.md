@@ -80,7 +80,34 @@ images:
   - image_path: /assets/images/500-screen-copy-1.jpg
     image_title:
     image_description:
-  - image_path: ''
+  - image_path: /assets/images/501-screen-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/502-screen-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/503-screen-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/509-screen-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/514-screen-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/521a-screen-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/526-screen-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/527-screen-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/529-screen-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/532-screen-copy.jpg
     image_title:
     image_description:
 _options:
