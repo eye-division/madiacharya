@@ -17,6 +17,72 @@ images:
   - image_path: /assets/images/449-screen-copy.jpg
     image_title:
     image_description:
+  - image_path: /assets/images/440-screen-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/455-screen-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/457-screen-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/8574-screen-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/8575-screen-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/8577-screen-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/474-screen-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/478-screen-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/480-screen-copy-1.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/461-screen-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/470-screen-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/471-screen-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/464-screen-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/469-screen-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/465-screen-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/467-screen-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/496-screen-copy-1.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/497-screen-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/498-screen-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/499-screen-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/500-screen-copy-1.jpg
+    image_title:
+    image_description:
+  - image_path: ''
+    image_title:
+    image_description:
 _options:
   image_path:
     uploads_dir: assets/images/:year
