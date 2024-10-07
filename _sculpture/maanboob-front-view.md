@@ -176,6 +176,36 @@ images:
   - image_path: /assets/images/227 screen copy.jpg
     image_title: Trans-verse, (front, side view)
     image_description:
+  - image_path: /assets/post8-image5-copy.jpg
+    image_title: ''
+    image_description:
+  - image_path: /assets/post8-image6-copy.jpg
+    image_title: ''
+    image_description:
+  - image_path: /assets/post8-image9-copy.jpg
+    image_title: ''
+    image_description:
+  - image_path: /assets/7394-screen-copy.jpg
+    image_title: ''
+    image_description:
+  - image_path: /assets/7399-screen-copy.jpg
+    image_title: ''
+    image_description:
+  - image_path: /assets/7409-screen-copy.jpg
+    image_title: ''
+    image_description:
+  - image_path: /assets/7442-screen-copy.jpg
+    image_title: ''
+    image_description:
+  - image_path: /assets/7443-screen-copy.jpg
+    image_title: ''
+    image_description:
+  - image_path: /assets/7463-screen-copy.jpg
+    image_title: ''
+    image_description:
+  - image_path: /assets/526841-10150836978041146-697719680-n-copy.jpg
+    image_title: ''
+    image_description:
 _options:
   image_path:
     width: 1200
@@ -194,5 +224,3 @@ _comments:
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
 ---
-
-
