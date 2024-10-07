@@ -185,15 +185,6 @@ images:
   - image_path: /assets/images/227 screen copy.jpg
     image_title: Trans-verse, (front, side view)
     image_description:
-  - image_path: /assets/7394-screen-copy.jpg
-    image_title: ''
-    image_description:
-  - image_path: /assets/7399-screen-copy.jpg
-    image_title: ''
-    image_description:
-  - image_path: /assets/7409-screen-copy.jpg
-    image_title: ''
-    image_description:
   - image_path: /assets/7442-screen-copy.jpg
     image_title: ''
     image_description:
