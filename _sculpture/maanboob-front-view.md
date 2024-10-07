@@ -53,6 +53,9 @@ images:
     image_description: |
       H128 W50 D45 (2021)
        Charred wood, hair extensions, vintage textiles, broken mirror ball, shells 
+  - image_path: /assets/229878-10150836978751146-346327208-n-copy.jpg
+    image_title: ''
+    image_description:
   - image_path: /assets/images/5114-screen-copy.jpg
     image_title: Mirrorball Mirrorbust (detail 1)
     image_description:
@@ -194,9 +197,6 @@ images:
     image_description:
   - image_path: /assets/images/227 screen copy.jpg
     image_title: Trans-verse, (front, side view)
-    image_description:
-  - image_path: /assets/229878-10150836978751146-346327208-n-copy.jpg
-    image_title: ''
     image_description:
   - image_path: /assets/560211-10150836978221146-1276832247-n-copy.jpg
     image_title: ''
