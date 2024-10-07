@@ -200,6 +200,9 @@ images:
   - image_path: /assets/7443-screen-copy.jpg
     image_title: ''
     image_description:
+  - image_path: /assets/7463-screen-copy-1.jpg
+    image_title: ''
+    image_description:
 _options:
   image_path:
     width: 1200
