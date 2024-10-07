@@ -45,6 +45,9 @@ images:
   - image_path: /assets/7463-screen-copy-1.jpg
     image_title: ''
     image_description:
+  - image_path: /assets/the-twig-dancer-copy.jpg
+    image_title: ''
+    image_description:
   - image_path: /assets/images/5093ascreen-copy.jpg
     image_title: 'Mirrorball Mirrorbust '
     image_description: |
@@ -191,9 +194,6 @@ images:
     image_description:
   - image_path: /assets/images/227 screen copy.jpg
     image_title: Trans-verse, (front, side view)
-    image_description:
-  - image_path: /assets/the-twig-dancer-copy.jpg
-    image_title: ''
     image_description:
   - image_path: /assets/229878-10150836978751146-346327208-n-copy.jpg
     image_title: ''
