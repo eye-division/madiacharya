@@ -7,7 +7,7 @@ description_markdown: >-
   Developing Your Creative Practice Award.
 permalink: /ceramics/vessels/
 archive: false
-order_number: 1
+order_number: 4
 _gallery_date: 2022-05-01 00:00:00
 main_image_path: /assets/images/542-screen-copy.jpg
 images:
