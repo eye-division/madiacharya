@@ -51,6 +51,9 @@ images:
   - image_path: /assets/229878-10150836978751146-346327208-n-copy.jpg
     image_title: ''
     image_description:
+  - image_path: /assets/560211-10150836978221146-1276832247-n-copy.jpg
+    image_title: ''
+    image_description:
   - image_path: /assets/images/5093ascreen-copy.jpg
     image_title: 'Mirrorball Mirrorbust '
     image_description: |
@@ -172,9 +175,6 @@ images:
       Dimensions (cm): 100 x 45 x 35, 2018
   - image_path: /assets/images/125 screen copy.jpg
     image_title: Life's a bitch and then you thrive (2)
-    image_description:
-  - image_path: /assets/560211-10150836978221146-1276832247-n-copy.jpg
-    image_title: ''
     image_description:
   - image_path: /assets/images/150 screen copy 2.jpg
     image_title: Life's a bitch and then you thrive (detail)
