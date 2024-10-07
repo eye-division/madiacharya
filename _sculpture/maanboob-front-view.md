@@ -21,6 +21,9 @@ images:
   - image_path: /assets/post8-image5-copy.jpg
     image_title: ''
     image_description:
+  - image_path: /assets/post8-image6-copy.jpg
+    image_title: ''
+    image_description:
   - image_path: /assets/images/5093ascreen-copy.jpg
     image_title: 'Mirrorball Mirrorbust '
     image_description: |
@@ -178,9 +181,6 @@ images:
     image_description:
   - image_path: /assets/images/227 screen copy.jpg
     image_title: Trans-verse, (front, side view)
-    image_description:
-  - image_path: /assets/post8-image6-copy.jpg
-    image_title: ''
     image_description:
   - image_path: /assets/post8-image9-copy.jpg
     image_title: ''
