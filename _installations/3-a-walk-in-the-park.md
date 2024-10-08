@@ -21,13 +21,13 @@ description_markdown: >-
   ‘The fairy tale hero proceeds for a time in isolation, as the modern child
   often feels isolated. The hero is helped by being in touch with primitive
   things, a tree, an animal, nature as the child feels more in touch with those
-  things than most adults do'.
+  things than most adults do’.
 
 
   &nbsp;
 permalink: /installations/a-walk-in-the-park/
 archive: false
-order_number: 4
+order_number: 7
 _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/1--a-walk-in-the-park-front-copy-1.jpg
 images:
@@ -71,5 +71,3 @@ _comments:
   order_number: Display order on the installations page
   archive: Should we archive it?
 ---
-
-
