@@ -23,6 +23,9 @@ images:
   - image_path: /assets/images/jal-7347-small-copy.jpg
     image_title:
     image_description:
+  - image_path: /assets/images/jal-7343-small-copy.jpg
+    image_title:
+    image_description:
 _options:
   image_path:
     uploads_dir: assets/images/:year
