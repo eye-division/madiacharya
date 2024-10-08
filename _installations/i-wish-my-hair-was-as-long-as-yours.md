@@ -1,7 +1,7 @@
 ---
 title: I wish my hair was as long as yours
 description_markdown: >-
-  **'I wish my hair was as long as yours'** is an evolving sculptural
+  **‘I wish my hair was as long as yours’** is an evolving sculptural
   installation exploring longing, desire and female identity, incorporating the
   found netting and family textiles. This work also takes inspiration from a
   particular historical Indian miniature painting, entitled ‘**Krishna and the
@@ -58,5 +58,3 @@ _comments:
   order_number: Display order on the installations page
   archive: Should we archive it?
 ---
-
-
