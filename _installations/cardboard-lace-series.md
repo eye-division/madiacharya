@@ -8,7 +8,7 @@ main_image_path: /assets/images/jal-7344-small-copy.jpg
 order_number: 1
 thumb_crop:
 images:
-  - image_path:
+  - image_path: /assets/images/jal-7349-small-copy.jpg
     image_title:
     image_description:
 _options:
