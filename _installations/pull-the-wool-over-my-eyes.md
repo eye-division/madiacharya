@@ -2,7 +2,7 @@
 title: Pull the wool over my eyes
 description_markdown: ''
 _gallery_date:
-permalink: /installations/pullthewoolovermyeyes
+permalink: /installations/pullthewoolovermyeyes/
 archive: false
 main_image_path: /assets/images/dscf7017-1.jpg
 order_number:
