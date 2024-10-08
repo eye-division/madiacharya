@@ -27,7 +27,7 @@ description_markdown: >-
   &nbsp;
 permalink: /installations/a-walk-in-the-park/
 archive: false
-order_number: 7
+order_number: 5
 _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/1--a-walk-in-the-park-front-copy-1.jpg
 images:
