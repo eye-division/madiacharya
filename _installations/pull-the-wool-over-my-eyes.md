@@ -5,7 +5,7 @@ _gallery_date:
 permalink: /installations/pullthewoolovermyeyes/
 archive: false
 main_image_path: /assets/images/dscf7017-1.jpg
-order_number:
+order_number: 3
 thumb_crop:
 images:
   - image_path: /assets/images/dscf7061.jpg
