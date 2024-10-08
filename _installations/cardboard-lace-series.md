@@ -50,7 +50,7 @@ images:
   - image_path: /assets/images/jal-7333-small-copy.jpg
     image_title:
     image_description:
-  - image_path: /assets/images/jal-7321-small.jpg
+  - image_path: /assets/images/jal-7322-small-1.jpg
     image_title:
     image_description:
 _options:
