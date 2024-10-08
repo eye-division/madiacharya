@@ -11,6 +11,9 @@ images:
   - image_path:
     image_title:
     image_description:
+  - image_path: /assets/images/dscf7019.jpg
+    image_title:
+    image_description:
 _options:
   image_path:
     uploads_dir: assets/images/:year
