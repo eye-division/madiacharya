@@ -8,7 +8,7 @@ main_image_path: /assets/images/dscf7017-1.jpg
 order_number:
 thumb_crop:
 images:
-  - image_path:
+  - image_path: /assets/images/dscf7061.jpg
     image_title:
     image_description:
   - image_path: /assets/images/dscf7019.jpg
