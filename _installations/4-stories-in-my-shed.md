@@ -2,7 +2,7 @@
 title: Stories in my Shed
 _hide_content: true
 description_markdown: >-
-  "Stories in my Shed, Brunei Gallery, SOAS, UCL, London, 2013
+  “Stories in my Shed, Brunei Gallery, SOAS, UCL, London, 2013
 
 
   Garden Shed, Wallpaper, Collage and Soundtrack
@@ -11,10 +11,10 @@ description_markdown: >-
   This work was made for **Sanctuary Part 2** and follows on from **Sanctuary
   Part 1, Home, Away and the Common Ground**, a project which took place in
   Kenya in 2011. I approached this work by thinking about the tension between
-  the inside and outside of a 'home'. The garden shed which is usually
+  the inside and outside of a ‘home’. The garden shed which is usually
   associated with home can also represent a place of retreat, activity or even a
   dwelling for some people.The shed in this work which had a previous life in a
-  friend's garden was reconstructed in the gallery. The outside of the shed was
+  friend’s garden was reconstructed in the gallery. The outside of the shed was
   then wall papered with the same design wallpaper as in **Silverbeach,
   Sanctuary Part 1**. Having the wallpaper as an outer surfsce of a building
   aims to reflect something that is irregular and uncertain, feelings which may
@@ -22,10 +22,10 @@ description_markdown: >-
   shed reflects the interior of a home, lined with cardboard and collaged with
   Western magazines reflecting the incongruity of different worlds. However
   within this Sanctuary can also be found in the songs of the songs of Ester
-  Njoki, (Kenyan singer songwriter) played inside the shed."
+  Njoki, (Kenyan singer songwriter) played inside the shed.”
 permalink: /installations/stories-in-my-shed/
 archive: false
-order_number: 6
+order_number: 8
 _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/52ed9885ee2c8.jpg
 images:
@@ -73,5 +73,3 @@ _comments:
   order_number: Display order on the installations page
   archive: Should we archive it?
 ---
-
-
