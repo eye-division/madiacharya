@@ -17,7 +17,7 @@ description_markdown: >-
   was made possible by funding from Axisweb100
 permalink: /installations/drift-in-land/
 archive: false
-order_number: 6
+order_number: 5
 _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/Drift-in-land, abbey, website.jpg
 images:
@@ -61,5 +61,3 @@ _comments:
   order_number: Display order on the installations page
   archive: Should we archive it?
 ---
-
-
