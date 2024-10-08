@@ -5,7 +5,7 @@ _gallery_date:
 permalink: /installations/cardboardlace
 archive: false
 main_image_path: /assets/images/jal-7344-small-copy.jpg
-order_number:
+order_number: 1
 thumb_crop:
 images:
   - image_path:
