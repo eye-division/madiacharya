@@ -32,7 +32,7 @@ images:
   - image_path: /assets/images/jal-7324-small-copy.jpg
     image_title:
     image_description:
-  - image_path: ''
+  - image_path: /assets/images/jal-7325-small-copy.jpg
     image_title:
     image_description:
 _options:
