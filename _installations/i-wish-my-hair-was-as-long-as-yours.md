@@ -15,7 +15,7 @@ _gallery_date:
 permalink: /installations/i-wish-my-hair-was-as-long-as-yours/
 archive: false
 main_image_path: /assets/images/435-screen-copy.jpg
-order_number: 5
+order_number: 2
 thumb_crop:
 images:
   - image_path: /assets/images/436-screen-copy.jpg
