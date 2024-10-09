@@ -10,6 +10,15 @@ images:
   - image_path: /assets/img-8984-copy.jpg
     image_title:
     image_description:
+  - image_path: /assets/img-1975-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/img-1862-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/img-2025-copy.jpg
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
