@@ -7,7 +7,7 @@ archive: false
 main_image_path: /assets/483-screen-copy.jpg
 thumb_crop:
 images:
-  - image_path:
+  - image_path: /assets/img-8984-copy.jpg
     image_title:
     image_description:
 _options:
