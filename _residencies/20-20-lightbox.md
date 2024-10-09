@@ -61,10 +61,10 @@ images:
   - image_path: /assets/551-screen-copy.jpg
     image_title:
     image_description:
-  - image_path: /assets/487-screen-copy.jpg
+  - image_path: /assets/495-screen-copy.jpg
     image_title:
     image_description:
-  - image_path: /assets/495-screen-copy.jpg
+  - image_path: /assets/487-screen-copy.jpg
     image_title:
     image_description:
   - image_path: /assets/483-screen-copy-1.jpg
