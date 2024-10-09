@@ -43,10 +43,10 @@ images:
   - image_path: /assets/544-screen-copy.jpg
     image_title:
     image_description:
-  - image_path: /assets/546-screen-copy.jpg
+  - image_path: /assets/545-screen-copy.jpg
     image_title:
     image_description:
-  - image_path: /assets/545-screen-copy.jpg
+  - image_path: /assets/546-screen-copy.jpg
     image_title:
     image_description:
   - image_path: /assets/548-screen-copy.jpg
