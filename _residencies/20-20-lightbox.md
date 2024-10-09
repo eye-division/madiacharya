@@ -2,7 +2,7 @@
 title: 20/20, Lightbox
 description_markdown: ''
 _gallery_date:
-permalink: /residencies/20/20/lightbox/
+permalink: /residencies/2020lightbox/
 archive: false
 main_image_path: /assets/483-screen-copy.jpg
 thumb_crop:
