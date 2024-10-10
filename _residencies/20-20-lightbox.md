@@ -22,6 +22,9 @@ images:
   - image_path: /assets/673-screen-copy.jpg
     image_title:
     image_description:
+  - image_path: /assets/img-1851.jpg
+    image_title:
+    image_description:
   - image_path: /assets/692-screen-copy.jpg
     image_title:
     image_description:
@@ -77,9 +80,6 @@ images:
     image_title:
     image_description:
   - image_path: /assets/524-screen.jpg
-    image_title:
-    image_description:
-  - image_path: /assets/img-1851.jpg
     image_title:
     image_description:
 _options:
