@@ -25,9 +25,6 @@ images:
   - image_path: /assets/img-1851.jpg
     image_title:
     image_description:
-  - image_path: /assets/692-screen-copy.jpg
-    image_title:
-    image_description:
   - image_path: /assets/709-screen-copy.jpg
     image_title:
     image_description:
@@ -38,6 +35,9 @@ images:
     image_title:
     image_description:
   - image_path: /assets/536-screen.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/692-screen-copy.jpg
     image_title:
     image_description:
   - image_path: /assets/537-screen.jpg
