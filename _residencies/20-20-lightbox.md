@@ -82,6 +82,9 @@ images:
   - image_path: /assets/img-1857.jpg
     image_title:
     image_description:
+  - image_path: /assets/img-1851.jpg
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
