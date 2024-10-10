@@ -76,6 +76,9 @@ images:
   - image_path: /assets/537-screen.jpg
     image_title:
     image_description:
+  - image_path: /assets/536-screen.jpg
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
