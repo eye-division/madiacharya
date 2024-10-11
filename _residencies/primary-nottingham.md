@@ -46,6 +46,9 @@ images:
   - image_path: /assets/dsc0362-copy.jpg
     image_title:
     image_description:
+  - image_path: /assets/jal-7277-small-copy.jpg
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
