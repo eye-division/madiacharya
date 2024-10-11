@@ -2,7 +2,7 @@
 title: Primary, Nottingham
 description_markdown: ''
 _gallery_date:
-permalink: /residencies/primary/
+permalink: /residencies/primarynottingham/
 archive: false
 main_image_path: /assets/jal-7334-small.jpg
 thumb_crop:
