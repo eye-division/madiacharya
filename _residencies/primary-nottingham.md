@@ -25,6 +25,9 @@ images:
   - image_path: /assets/jal-7312-small-copy.jpg
     image_title:
     image_description:
+  - image_path: /assets/jal-7304-small-copy.jpg
+    image_title:
+    image_description:
   - image_path: /assets/jal-7306-small-copy.jpg
     image_title:
     image_description:
@@ -35,9 +38,6 @@ images:
     image_title:
     image_description:
   - image_path: /assets/jal-7311-small-copy.jpg
-    image_title:
-    image_description:
-  - image_path: /assets/jal-7304-small-copy.jpg
     image_title:
     image_description:
   - image_path: /assets/dsc0013-copy.jpg
