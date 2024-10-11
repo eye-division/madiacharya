@@ -10,6 +10,21 @@ images:
   - image_path: /assets/img-9774.jpg
     image_title:
     image_description:
+  - image_path: /assets/jal-7315-small-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/jal-7300-small-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/img-9634.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/jal-7314-small-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/jal-7312-small-copy.jpg
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
