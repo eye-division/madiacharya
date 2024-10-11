@@ -7,7 +7,7 @@ archive: false
 main_image_path: /assets/jal-7344-small.jpg
 thumb_crop:
 images:
-  - image_path:
+  - image_path: /assets/img-9774.jpg
     image_title:
     image_description:
 _options:
