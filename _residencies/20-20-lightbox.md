@@ -70,13 +70,13 @@ images:
   - image_path: /assets/550-screen-copy.jpg
     image_title:
     image_description:
+  - image_path: /assets/549-screen-copy.jpg
+    image_title:
+    image_description:
   - image_path: /assets/545-screen-copy.jpg
     image_title:
     image_description:
   - image_path: /assets/547-screen-copy.jpg
-    image_title:
-    image_description:
-  - image_path: /assets/549-screen-copy.jpg
     image_title:
     image_description:
 _options:
