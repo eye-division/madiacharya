@@ -55,19 +55,22 @@ images:
   - image_path: /assets/487-screen-copy.jpg
     image_title:
     image_description:
+  - image_path: /assets/548-screen-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/495-screen-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/545-screen-copy.jpg
+    image_title:
+    image_description:
   - image_path: /assets/547-screen-copy.jpg
     image_title:
     image_description:
   - image_path: /assets/544-screen-copy.jpg
     image_title:
     image_description:
-  - image_path: /assets/545-screen-copy.jpg
-    image_title:
-    image_description:
   - image_path: /assets/546-screen-copy.jpg
-    image_title:
-    image_description:
-  - image_path: /assets/548-screen-copy.jpg
     image_title:
     image_description:
   - image_path: /assets/550-screen-copy.jpg
@@ -77,9 +80,6 @@ images:
     image_title:
     image_description:
   - image_path: /assets/551-screen-copy.jpg
-    image_title:
-    image_description:
-  - image_path: /assets/495-screen-copy.jpg
     image_title:
     image_description:
 _options:
