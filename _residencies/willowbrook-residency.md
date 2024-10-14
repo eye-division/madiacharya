@@ -25,24 +25,8 @@ description_markdown: >-
   trees.
 
 
-  &nbsp;
-
-
-  During this festival weekend you can join &nbsp;workshops with **Madi
-  Acharya-Baskerville** at the following times:
-
-
-  Saturday 7th August 11am-1pm, 2-4pm
-
-
-  Sunday 8th &nbsp; August 11am -1pm
-
-
-  &nbsp;
-
-
-  **This project is supported by Arts Council England and Willowbrook Farm
-  Charity**.
+  &nbsp;This project was  supported by Arts Council England and Willowbrook Farm
+  Charity.
 _gallery_date:
 permalink: /residencies/willowbrook
 archive: false
@@ -97,5 +81,3 @@ _comments:
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
 ---
-
-
