@@ -34,6 +34,9 @@ images:
   - image_path: /assets/dscf7041-copy.jpg
     image_title:
     image_description:
+  - image_path: /assets/img-0313-1.jpg
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
