@@ -7,7 +7,7 @@ archive: false
 main_image_path: /assets/img-0313.jpg
 thumb_crop:
 images:
-  - image_path:
+  - image_path: /assets/img-0293.jpg
     image_title:
     image_description:
 _options:
