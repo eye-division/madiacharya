@@ -28,6 +28,9 @@ images:
   - image_path: /assets/img-0357.jpg
     image_title:
     image_description:
+  - image_path: /assets/20240921-143249-copy.jpg
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
