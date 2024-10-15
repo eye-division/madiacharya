@@ -22,6 +22,9 @@ images:
   - image_path: /assets/20240911-171103-copy.jpg
     image_title:
     image_description:
+  - image_path: /assets/20240921-143156.jpeg
+    image_title:
+    image_description:
   - image_path: /assets/img-0332.jpg
     image_title:
     image_description:
@@ -35,9 +38,6 @@ images:
     image_title:
     image_description:
   - image_path: /assets/img-0313-1.jpg
-    image_title:
-    image_description:
-  - image_path: /assets/20240921-143156.jpeg
     image_title:
     image_description:
 _options:
