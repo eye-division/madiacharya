@@ -19,6 +19,9 @@ images:
   - image_path: /assets/20240911-171103-copy.jpg
     image_title:
     image_description:
+  - image_path: /assets/img-0319.jpg
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
