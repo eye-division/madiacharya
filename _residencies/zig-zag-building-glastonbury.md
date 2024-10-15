@@ -4,7 +4,7 @@ description_markdown: ''
 _gallery_date:
 permalink: /Zigzagbuilding/Glastonbury/
 archive: false
-main_image_path: /assets/img-0313.jpg
+main_image_path: /assets/20240921-143249-copy-2.jpg
 thumb_crop:
 images:
   - image_path: /assets/img-0293.jpg
