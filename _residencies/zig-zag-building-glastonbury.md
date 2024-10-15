@@ -13,6 +13,9 @@ images:
   - image_path: /assets/img-0296.jpg
     image_title:
     image_description:
+  - image_path: /assets/20240909-121837-copy.jpg
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
