@@ -8,7 +8,7 @@ archive: false
 main_image_path: /assets/22-copy.jpg
 thumb_crop:
 images:
-  - image_path:
+  - image_path: /assets/dsc0086-copy.jpg
     image_title:
     image_description:
   - image_path:
