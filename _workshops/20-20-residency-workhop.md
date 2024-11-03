@@ -5,7 +5,7 @@ _gallery_date:
 permalink: /workshops/2020residency workshop
 order_number:
 archive: false
-main_image_path: /assets/p1048576-copy-3.jpg
+main_image_path: /assets/p1048555-copy-3.jpg
 thumb_crop:
 images:
   - image_path: /assets/p1048543-copy-1.jpg
