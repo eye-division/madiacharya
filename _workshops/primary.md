@@ -17,7 +17,7 @@ images:
   - image_path: /assets/dsc0201-copy.jpg
     image_title:
     image_description:
-  - image_path: ''
+  - image_path: /assets/dsc0119-copy-2.jpg
     image_title:
     image_description:
   - image_path: /assets/dsc0214-copy.jpg
