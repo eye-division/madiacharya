@@ -20,7 +20,10 @@ images:
   - image_path: /assets/p1048576-copy-1.jpg
     image_title:
     image_description:
-  - image_path: /assets/p1048551-copy.jpg
+  - image_path: /assets/p1048555-copy-2.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/p1048575-copy-2.jpg
     image_title:
     image_description:
 _options:
