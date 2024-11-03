@@ -3,7 +3,7 @@ title: Bartman
 description_markdown: ''
 _gallery_date:
 permalink: /workshops/bartman/
-order_number:
+order_number: 4
 archive: false
 main_image_path: /assets/22-copy.jpg
 thumb_crop:
