@@ -3,7 +3,7 @@ title: Art on a Boat
 description_markdown: ''
 _gallery_date:
 permalink: /workshops/Art on a Boat/
-order_number:
+order_number: 2
 archive: false
 main_image_path: /assets/img-8100-2.jpg
 thumb_crop:
