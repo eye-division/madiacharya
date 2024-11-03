@@ -1,5 +1,5 @@
 ---
-title: 20/20 residency workhop
+title: '20/20 residency '
 description_markdown: ''
 _gallery_date:
 permalink: /workshops/2020residency workshop
