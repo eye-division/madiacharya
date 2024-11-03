@@ -14,6 +14,9 @@ images:
   - image_path: /assets/p1048576-copy.jpg
     image_title:
     image_description:
+  - image_path: /assets/p1048563-copy-1.jpg
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
