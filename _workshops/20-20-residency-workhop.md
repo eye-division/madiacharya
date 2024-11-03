@@ -2,7 +2,7 @@
 title: 20/20 residency workhop
 description_markdown: ''
 _gallery_date:
-permalink: /workshops/20/20residency workshop
+permalink: /workshops/2020residency workshop
 order_number:
 archive: false
 main_image_path: /assets/p1048575-copy.jpg
