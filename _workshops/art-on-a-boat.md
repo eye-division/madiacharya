@@ -5,7 +5,7 @@ _gallery_date:
 permalink: /workshops/Art on a Boat/
 order_number:
 archive: false
-main_image_path:
+main_image_path: /assets/img-8100-2.jpg
 thumb_crop:
 images:
   - image_path: /assets/img-8099-1.jpg
