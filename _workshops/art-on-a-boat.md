@@ -35,6 +35,9 @@ images:
   - image_path: /assets/dsc0196-copy.jpg
     image_title:
     image_description:
+  - image_path: /assets/img-8121.jpg
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
