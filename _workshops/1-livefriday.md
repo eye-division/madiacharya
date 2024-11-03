@@ -10,7 +10,7 @@ description_markdown: >-
   design on paper and then developed the design onto a wood piece, especially
   prepared for the workshop.
 permalink: /workshops/live-friday/
-order_number: 3
+order_number: 6
 archive: false
 _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/59654eec11dc7.jpg
@@ -52,4 +52,3 @@ _comments:
   image_description: May only be used in the close up of an image
   order_number: Display order on the installations page
 ---
-
