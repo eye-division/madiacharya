@@ -29,6 +29,9 @@ images:
   - image_path: /assets/9cb608b8-a6ed-4fcd-bd68-d2600975c7ef.jpg
     image_title:
     image_description:
+  - image_path: /assets/dsc0326-copy.jpg
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
