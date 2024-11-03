@@ -8,25 +8,19 @@ archive: false
 main_image_path: /assets/c8943a15-4538-4e1b-8d1b-315a3ceba83f.jpg
 thumb_crop:
 images:
-  - image_path:
-    image_title:
-    image_description:
   - image_path: /assets/dsc0002-copy.jpg
     image_title:
     image_description:
   - image_path: /assets/dsc0201-copy.jpg
     image_title:
     image_description:
-  - image_path: ''
+  - image_path: /assets/dsc0119-copy-2.jpg
     image_title:
     image_description:
   - image_path: /assets/dsc0214-copy.jpg
     image_title:
     image_description:
   - image_path: /assets/dsc0280-copy.jpg
-    image_title:
-    image_description:
-  - image_path: /assets/img-9726.jpg
     image_title:
     image_description:
   - image_path: /assets/c8943a15-4538-4e1b-8d1b-315a3ceba83f-1.jpg
