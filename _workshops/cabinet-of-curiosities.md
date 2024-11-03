@@ -7,8 +7,8 @@ description_markdown: >-
   found materials and objects collected in our natural environment. The objects
   and materials were especially collected for this project from the Dorset coast
   after a storm. The project was inspired by the work of **Kiki Smith** and was
-  part of the public program for the exhibition '**I am a Wanderer**'. The
-  concept of the '*Wunderkammer*' , a private and spiritual place created with
+  part of the public program for the exhibition ‘**I am a Wanderer**’. The
+  concept of the ‘*Wunderkammer*’ , a private and spiritual place created with
   the idea of nature being linked to art was key to this project. It was a way
   of exploring the boundaries between natural and artificial materials and how
   they can connect with each other. Participants created these unique and
@@ -21,16 +21,16 @@ description_markdown: >-
   **Review of workshop**
 
 
-  Madi's workshop in response to the exhibition of works by Kiki Smith at Modern
+  Madi’s workshop in response to the exhibition of works by Kiki Smith at Modern
   Art Oxford was a joy to attend. Her use of found materials, including
-  discarded matter is a timely idea when we're all concerned about the amount of
+  discarded matter is a timely idea when we’re all concerned about the amount of
   waste we generate these days. I would never have thought of using some of the
   objects that Madi must have gone to a lot of trouble to collect: a burst
   tennis ball, a piece of black plastic, packaging, netting. She was incredibly
   helpful with ideas and advice, so turning the materials into something
-  thought-provoking and (for some participants, not so much mine\!) beautiful
-  was a really enjoyable and rewarding process. I hope to have the chance to
-  work with Madi again in the future.
+  thought-provoking and (for some participants, not so much mine!) beautiful was
+  a really enjoyable and rewarding process. I hope to have the chance to work
+  with Madi again in the future.
 
 
   David Baron (workshop participant)
@@ -39,7 +39,7 @@ description_markdown: >-
   &nbsp;
 _gallery_date:
 permalink: /workshops/cabinetofcuriosities/
-order_number: 1
+order_number: 5
 archive: false
 main_image_path: /assets/images/7e4c388a-62f2-4e27-bd35-42a210e2d45f-copy.jpg
 thumb_crop:
@@ -69,4 +69,3 @@ _comments:
   image_description: May only be used in the close up of an image
   order_number: Display order on the installations page
 ---
-
