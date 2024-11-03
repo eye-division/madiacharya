@@ -2,7 +2,7 @@
 title: Primary
 description_markdown: ''
 _gallery_date:
-permalink:
+permalink: /workshops/primary/
 order_number:
 archive: false
 main_image_path:
