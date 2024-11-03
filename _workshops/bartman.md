@@ -11,7 +11,10 @@ images:
   - image_path: /assets/dsc0086-copy.jpg
     image_title:
     image_description:
-  - image_path:
+  - image_path: /assets/dsc0020-copy.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/dsc0098-copy.jpg
     image_title:
     image_description:
 _options:
