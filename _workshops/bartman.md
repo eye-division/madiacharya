@@ -2,7 +2,7 @@
 title: Bartman
 description_markdown: ''
 _gallery_date:
-permalink: /workshop/bartman/
+permalink: /workshops/bartman/
 order_number:
 archive: false
 main_image_path: /assets/22-copy.jpg
