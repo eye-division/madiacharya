@@ -8,9 +8,6 @@ archive: false
 main_image_path: /assets/c8943a15-4538-4e1b-8d1b-315a3ceba83f.jpg
 thumb_crop:
 images:
-  - image_path:
-    image_title:
-    image_description:
   - image_path: /assets/dsc0002-copy.jpg
     image_title:
     image_description:
