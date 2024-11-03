@@ -20,6 +20,9 @@ images:
   - image_path: /assets/dsc0155-copy.jpg
     image_title:
     image_description:
+  - image_path: /assets/dsc0141-copy.jpg
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
