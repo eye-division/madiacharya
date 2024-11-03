@@ -20,6 +20,12 @@ images:
   - image_path: /assets/12-copy.jpg
     image_title:
     image_description:
+  - image_path: /assets/22-copy-1.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/untitled-1-copy.jpg
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
