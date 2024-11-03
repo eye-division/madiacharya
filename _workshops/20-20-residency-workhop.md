@@ -3,7 +3,7 @@ title: '20/20 '
 description_markdown: ''
 _gallery_date:
 permalink: /workshops/2020
-order_number:
+order_number: 3
 archive: false
 main_image_path: /assets/p1048555-copy-3.jpg
 thumb_crop:
