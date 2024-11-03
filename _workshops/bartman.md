@@ -17,6 +17,9 @@ images:
   - image_path: /assets/dsc0098-copy.jpg
     image_title:
     image_description:
+  - image_path: /assets/12-copy.jpg
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
