@@ -3,7 +3,7 @@ title: Primary
 description_markdown: ''
 _gallery_date:
 permalink: /workshops/primary/
-order_number: 1
+order_number: 6
 archive: false
 main_image_path: /assets/c8943a15-4538-4e1b-8d1b-315a3ceba83f.jpg
 thumb_crop:
