@@ -5,7 +5,7 @@ _gallery_date:
 permalink: /workshops/primary/
 order_number:
 archive: false
-main_image_path:
+main_image_path: /assets/c8943a15-4538-4e1b-8d1b-315a3ceba83f.jpg
 thumb_crop:
 images:
   - image_path:
