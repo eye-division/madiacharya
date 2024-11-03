@@ -11,7 +11,7 @@ images:
   - image_path: /assets/img-8099-1.jpg
     image_title:
     image_description:
-  - image_path: /assets/img-8099-2.jpg
+  - image_path: /assets/img-8100-1.jpg
     image_title:
     image_description:
   - image_path: /assets/img-8111.jpg
