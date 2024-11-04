@@ -38,7 +38,7 @@ images:
   - image_path: /assets/img-8120.jpg
     image_title:
     image_description:
-  - image_path: /assets/img-8121.jpg
+  - image_path: /assets/dsc0116.jpg
     image_title:
     image_description:
   - image_path: /assets/img-8130.jpg
