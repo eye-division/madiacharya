@@ -45,7 +45,11 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### SELECTED GROUP EXHIBITIONS
 
-2023 **‘Fragments of our time’, British Textile Biennial 2023,** The Whitaker, Blackburn
+2024 **Antimonumental,** Thamesside Studios Gallery, London
+
+2024 **Standing Ground,** Thamesside Studios Gallery, London
+
+2023 **Fragments of our time, British Textile Biennial 2023,** The Whitaker, Blackburn
 
 2023 **The Stuff of Life The Life of Stuff**, **Sainsbury Centre,** University of East Anglia, Norwich
 
@@ -153,7 +157,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### RESIDENCIES
 
-2024 ** ** [**Residency at Primary**](https://www.weareprimary.org/projects-archive/work-in-common-madi-acharya-baskerville "Residency at Primary"){: target="_blank" rel="noopener"}**,** Nottingham
+2024 \*\* \*\* [**Residency at Primary**](https://www.weareprimary.org/projects-archive/work-in-common-madi-acharya-baskerville "Residency at Primary"){: target="_blank" rel="noopener"}**,** Nottingham
 
 2022-2023 **20/ 20 Project**, Residency and Commission, Decolonising Institute University of Arts, London
 
