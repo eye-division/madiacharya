@@ -45,15 +45,15 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### SELECTED GROUP EXHIBITIONS
 
-2023 **'Fragments of our time', British Textile Biennial 2023,** The Whitaker, Blackburn
+2023 **‘Fragments of our time’, British Textile Biennial 2023,** The Whitaker, Blackburn
 
 2023 **The Stuff of Life The Life of Stuff**, **Sainsbury Centre,** University of East Anglia, Norwich
 
 2023&nbsp;**Hoarfrost on our lips**, Paradise Works, Manchester
 
-2023 **'Zari Sona Moti',** Darl-e and the Bear, Oxfordshire
+2023 **‘Zari Sona Moti’,** Darl-e and the Bear, Oxfordshire
 
-2022 **'Exchanges: Recent Additions to the Collection’**&nbsp; The Whitworth, Manchester
+2022 **‘Exchanges: Recent Additions to the Collection’**&nbsp; The Whitworth, Manchester
 
 2021 **Ground Work,** APT Gallery, London
 
@@ -123,7 +123,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2022 **Habitat,** Contemporary Six,Manchester
 
-2021  **Developing Your Creative Practice** grant from **Arts Council England** for the project 'Developing ceramics as part of sculptural work in the context of museum collections'.
+2021 **Developing Your Creative Practice** grant from **Arts Council England** for the project ‘Developing ceramics as part of sculptural work in the context of museum collections’.
 
 2021 **Summer Exhibition,** Royal Society of Sculptors**,** London, selected by Sigrid Kirk
 
@@ -153,6 +153,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### RESIDENCIES
 
+2024 ** ** [**Residency at Primary**](https://www.weareprimary.org/projects-archive/work-in-common-madi-acharya-baskerville "Residency at Primary"){: target="_blank" rel="noopener"}**,** Nottingham
+
 2022-2023 **20/ 20 Project**, Residency and Commission, Decolonising Institute University of Arts, London
 
 2020 **Groundwork APT**, APT Gallery, London
@@ -160,6 +162,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 2011 **Sanctuary**, Neyri, Kenya
 
 ### PRESENTATIONS
+
+2024&nbsp;[**In Conversation** with artist-curator Raghavi Chinnadurai](https://www.weareprimary.org/whats-on/work-in-common-madi-raghavi){: target="_blank" rel="noopener"}, Primary, Nottingham
 
 2024 **Artist Talk,** I Dream a Palace, The Lightbox
 
@@ -173,7 +177,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### **BIBLIOGRAPHY**
 
-['I**f objects could speak what would they tell us?**](https://www.a-n.co.uk/blogs/if-objects-could-speak-what-would-they-tell-us/){: target="_blank" rel="noopener"}' My blog about DYCP activity
+[‘I**f objects could speak what would they tell us?**](https://www.a-n.co.uk/blogs/if-objects-could-speak-what-would-they-tell-us/){: target="_blank" rel="noopener"}’ My blog about DYCP activity
 
 **I wish my hair was as long as yours**, catalogue with&nbsp; essay by Stephanie Straine, Curator of Projects and Exhibitions, Modern Art Oxford
 
