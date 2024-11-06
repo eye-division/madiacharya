@@ -21,6 +21,8 @@ _options:
 
 MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
+&nbsp;
+
 ### SOLO AND TWO PERSON EXHIBITIONS:
 
 2024 **The Double Act, First Plinth Public Art Award,** Royal Society of Sculptors
@@ -35,13 +37,9 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2021 **On The Road of Sea Stars,** Zuzushii Art Laboratory, Hastings,
 
-2021 **Ornithologie** hosted by Magdalen Road Studios, Oxford&nbsp; [view video](https://vimeo.com/518543757){: target="_blank" rel="noopener"}
-
 2019&nbsp; ‘**I wish my hair was as long as yours**’, (solo) Magdalen Art Space, Oxford
 
-2018 &nbsp;**‘Dancing with the corporeal’** no format Gallery, London
-
-2017 ‘**Absent Beach’** (solo) Vinyl Deptford, London
+&nbsp;
 
 ### SELECTED GROUP EXHIBITIONS
 
@@ -65,17 +63,11 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2021 **Absent Authors,** APT Gallery, London
 
-2020 **Groundwork\_APT Open Day,** APT Gallery, London
-
-2019 **Weave It!** , Stour Space, London, curated by Decorating Dissidence
-
 2019 **Parallel Lines: Drawing and Sculpture,** The Lightbox, Woking
 
 2019 **by the way** Lewisham Arthouse, London
 
 2018&nbsp;**‘and the value of nothing’,**&nbsp;Studio 1:1 Gallery, London
-
-2018&nbsp;**Object**, hARTslane, London
 
 2017 **Material World, An International Perspective**, SJE Arts, Oxford
 
@@ -85,19 +77,13 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2016 **Material World,** Ancien Musee de Peinture, Grenoble
 
-2015 **Unravelling Time,**The Abbey at Sutton Courtenay, Oxfordshire
-
 2014 **‘Alps and Spires’** Museum of Oxford, Oxford
 
 2013 **‘Sanctuary’ Home, Away and Common Ground, Part 2’,** Brunei Gallery, SOAS, University of London
 
 2011 **‘Sanctuary’ Home, Away and Common Ground, Part 1,**National Museum of Kenya, Nairobi
 
-### Online Exhibitions
-
-[**Topainterstoppaintings, curated by Althuis Holland Fine Arts**](https://www.topainterstopaintings.com/online-gallery-submission){: target="_blank" rel="noopener"}
-
-[**Ornithologie: Online**](http://www.magdalenroadstudios.com/ornithologie){: target="_blank" rel="noopener"}
+&nbsp;
 
 ### CURATORIAL PROJECTS
 
@@ -106,6 +92,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 2018&nbsp;**Objection**, Angus Hughes Gallery, London
 
 2009 **Jam: Cultural Congestions in Contemporary Asian Art,** artist-curator with Dr Outi Remes, South Hill Park, Bracknell (funded by ACE, National Culture and Arts Foundation, Taiwan)
+
+&nbsp;
 
 ### PRIZES, AWARDS, OPEN SUBMISSIONS
 
@@ -121,8 +109,6 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2022 **Black Swan Arts Open**, Black Swan Arts, Frome
 
-2022 **This Years Model Part 3**, Studio 1:1 Gallery, London
-
 2022 **Summer Exhibition,** Royal Society of Sculptors, Cromwell Place, London, selected by Isabel de Vasconcellos
 
 2022 **Habitat,** Contemporary Six,Manchester
@@ -133,37 +119,33 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2020 **RWA Open,** Royal West of England Academy, Bristo**l**
 
-2020 **New Emergency Art Unity Award** (shortlisted)
-
 2020 **Summer Exhibition** Royal Society of Sculptors (selected by Nicky and Robert Wilson, founders of Jupitor Artland)
-
-2019 **Artcan Open**, Trinity Art Gallery, London
-
-2018&nbsp;**Fe/Male,**&nbsp;AIR Gallery, Manchester
 
 2016 **Royal Academy Summer Exhibition**, Royal Academy of Arts, London (selected by Cathie Pilkington RA)
 
-2015 ‘ **This Year’s Model’**, Studio 1.1 Gallery, London (selected by studio 1:1 with Marcus Cope and Robin Seir)
+&nbsp;
 
-2012 **Wells Art Contemporary,**Wells and Mendip Museum, Wells, Somerset (selected by Roy Ackerman and Richard Wentworth)
+### **COMMISSIONS**
 
-### COMMISSIONS
+2023 **First Plinth Public Art Award** Commission
 
-2022/2024 **20/20 Project,** Residency and Commission,
+2022/2024 **20/20 Project,** Residency and Commission
 
 2020 **‘Cabinet of Curiosities’** participatory project commissioned by Modern Art Oxford as part of the public program for Kiki Smith exhibition, ‘I am a Wanderer’.
 
-2017 **Oxford Festival for the Arts**, commissioned to create wall based work for an Indian Tent (ACE Funded)
+&nbsp;
 
 ### RESIDENCIES
 
-2024 \*\* \*\* [**Residency at Primary**](https://www.weareprimary.org/projects-archive/work-in-common-madi-acharya-baskerville "Residency at Primary"){: target="_blank" rel="noopener"}**,** Nottingham
+2024 [**Residency at Primary**](https://www.weareprimary.org/projects-archive/work-in-common-madi-acharya-baskerville "Residency at Primary"){: target="_blank" rel="noopener"}**,** Nottingham
 
 2022-2023 **20/ 20 Project**, Residency and Commission, Decolonising Institute University of Arts, London
 
 2020 **Groundwork APT**, APT Gallery, London
 
 2011 **Sanctuary**, Neyri, Kenya
+
+&nbsp;
 
 ### PRESENTATIONS
 
@@ -183,7 +165,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 [‘I**f objects could speak what would they tell us?**](https://www.a-n.co.uk/blogs/if-objects-could-speak-what-would-they-tell-us/){: target="_blank" rel="noopener"}’ My blog about DYCP activity
 
-**'**[**What we leave behind'**](/What-we-leave-behind.pdf){: target="_blank" rel="noopener"} ** ** an essay by Uthra Rajgopal, Independent Curator and Writer Specialist in South Asian Textiles
+**‘**[**What we leave behind’**](/What-we-leave-behind.pdf){: target="_blank" rel="noopener"}&nbsp; an essay by Uthra Rajgopal, Independent Curator and Writer Specialist in South Asian Textiles
 
 **I wish my hair was as long as yours**, catalogue with&nbsp; essay by Stephanie Straine, Curator of Projects and Exhibitions, Modern Art Oxford
 
