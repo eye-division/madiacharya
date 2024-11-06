@@ -21,6 +21,8 @@ _options:
 
 MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
+&nbsp;
+
 ### SOLO AND TWO PERSON EXHIBITIONS:
 
 2024 **The Double Act, First Plinth Public Art Award,** Royal Society of Sculptors
@@ -36,6 +38,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 2021 **On The Road of Sea Stars,** Zuzushii Art Laboratory, Hastings,
 
 2019&nbsp; ‘**I wish my hair was as long as yours**’, (solo) Magdalen Art Space, Oxford
+
+&nbsp;
 
 ### SELECTED GROUP EXHIBITIONS
 
