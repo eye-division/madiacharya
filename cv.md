@@ -161,6 +161,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2018&nbsp;**Artist Talk for Warehouse Art School**, Ovada Gallery, Oxford
 
+&nbsp;
+
 ### **BIBLIOGRAPHY**
 
 [‘I**f objects could speak what would they tell us?**](https://www.a-n.co.uk/blogs/if-objects-could-speak-what-would-they-tell-us/){: target="_blank" rel="noopener"}’ My blog about DYCP activity
@@ -178,6 +180,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 **‘Sanctuary Part 2’** Home, Away, Common Ground, Exhibition Catalogue , forward by John Hollingworth MBE, Director of Brunei Gallery, SOAS, 2013
 
 **‘Sanctuary Part 1’** Home, Away, Common Ground’, Exhibition Catalogue, 2011,
+
+&nbsp;
 
 ### COLLECTIONS
 
