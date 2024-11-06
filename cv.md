@@ -121,7 +121,9 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### COMMISSIONS
 
-2022/2024 **20/20 Project,** Residency and Commission,
+2023 **First Plinth Public Art Award** Commission
+
+2022/2024 **20/20 Project,** Residency and Commission
 
 2020 **‘Cabinet of Curiosities’** participatory project commissioned by Modern Art Oxford as part of the public program for Kiki Smith exhibition, ‘I am a Wanderer’.
 
