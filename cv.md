@@ -65,8 +65,6 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2018&nbsp;**‘and the value of nothing’,**&nbsp;Studio 1:1 Gallery, London
 
-2018&nbsp;**Object**, hARTslane, London
-
 2017 **Material World, An International Perspective**, SJE Arts, Oxford
 
 2016 **Psychedelic Breakfast,**Vinyl Deptford, Deptford X Fringe, London
@@ -119,7 +117,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 &nbsp;
 
-### COMMISSIONS
+### **COMMISSIONS**
 
 2023 **First Plinth Public Art Award** Commission
 
