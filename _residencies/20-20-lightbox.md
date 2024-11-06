@@ -4,6 +4,7 @@ description_markdown: ''
 _gallery_date:
 permalink: /residencies/2020lightbox/
 archive: false
+order_number: 1
 main_image_path: /assets/483-screen-copy.jpg
 thumb_crop:
 images:
