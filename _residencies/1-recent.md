@@ -2,10 +2,10 @@
 title: Sanctuary
 _hide_content: true
 description_markdown: >-
-  This series of photographs are from the project **'Sanctuary'**, which took
+  This series of photographs are from the project **‘Sanctuary’**, which took
   place in Kenya in July 2011. They include images of work made during the
   residency and exhibited at the National Museum of Kenya in Nairobi. The
-  **'Sanctuary for Sick Children'** where the residency was hosted, is a charity
+  **‘Sanctuary for Sick Children’** where the residency was hosted, is a charity
   that works with children who have a range of physical disabilties. Staff also
   work to make a variety of products such as paper incorporating natural
   materials such as fibre from banana trees and petals from bougainvillea petals
@@ -14,13 +14,13 @@ description_markdown: >-
 
   During the residency we collaborated with Sanctuary staff and children on a
   project where they were asked to bring objects or ideas which symbolise home
-  for them. Objects including a Masai warrior's arrow , a front door key and
+  for them. Objects including a Masai warrior’s arrow , a front door key and
   text including a line from a song all became part of the project. These were
   then cast in aluminium and displayed against a backdrop of rich, dark soil
-  found in this region, creating the work **'Impressions of Home'**.
+  found in this region, creating the work **‘Impressions of Home’**.
 permalink: /residencies/sanctuary/
 archive: false
-order_number: 2
+order_number: 6
 _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/images/4f737df9be4ac.jpg
 images:
@@ -78,4 +78,3 @@ _comments:
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
 ---
-
