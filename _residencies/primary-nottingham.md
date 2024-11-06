@@ -6,6 +6,7 @@ permalink: /residencies/primarynottingham/
 archive: false
 main_image_path: /assets/jal-7314-small.jpg
 thumb_crop:
+order_number: 2
 images:
   - image_path: /assets/img-9770.jpg
     image_title:

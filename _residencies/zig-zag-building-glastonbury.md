@@ -6,6 +6,7 @@ permalink: /Zigzagbuilding/Glastonbury/
 archive: false
 main_image_path: /assets/20240921-143249-copy-2.jpg
 thumb_crop:
+order_number: 3
 images:
   - image_path: /assets/img-0293.jpg
     image_title:
