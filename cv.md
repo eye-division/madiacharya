@@ -79,6 +79,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2011 **‘Sanctuary’ Home, Away and Common Ground, Part 1,**National Museum of Kenya, Nairobi
 
+&nbsp;
+
 ### CURATORIAL PROJECTS
 
 2022 **That Island Feeling**,Terrace Gallery,London
@@ -86,6 +88,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 2018&nbsp;**Objection**, Angus Hughes Gallery, London
 
 2009 **Jam: Cultural Congestions in Contemporary Asian Art,** artist-curator with Dr Outi Remes, South Hill Park, Bracknell (funded by ACE, National Culture and Arts Foundation, Taiwan)
+
+&nbsp;
 
 ### PRIZES, AWARDS, OPEN SUBMISSIONS
 
@@ -125,6 +129,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2020 **‘Cabinet of Curiosities’** participatory project commissioned by Modern Art Oxford as part of the public program for Kiki Smith exhibition, ‘I am a Wanderer’.
 
+&nbsp;
+
 ### RESIDENCIES
 
 2024 [**Residency at Primary**](https://www.weareprimary.org/projects-archive/work-in-common-madi-acharya-baskerville "Residency at Primary"){: target="_blank" rel="noopener"}**,** Nottingham
@@ -134,6 +140,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 2020 **Groundwork APT**, APT Gallery, London
 
 2011 **Sanctuary**, Neyri, Kenya
+
+&nbsp;
 
 ### PRESENTATIONS
 
