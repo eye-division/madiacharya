@@ -161,7 +161,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 [‘I**f objects could speak what would they tell us?**](https://www.a-n.co.uk/blogs/if-objects-could-speak-what-would-they-tell-us/){: target="_blank" rel="noopener"}’ My blog about DYCP activity
 
-**‘**[**What we leave behind’**](/What-we-leave-behind.pdf){: target="_blank" rel="noopener"} \*\* \*\* an essay by Uthra Rajgopal, Independent Curator and Writer Specialist in South Asian Textiles
+**‘**[**What we leave behind’**](/What-we-leave-behind.pdf){: target="_blank" rel="noopener"}&nbsp; an essay by Uthra Rajgopal, Independent Curator and Writer Specialist in South Asian Textiles
 
 **I wish my hair was as long as yours**, catalogue with&nbsp; essay by Stephanie Straine, Curator of Projects and Exhibitions, Modern Art Oxford
 
