@@ -30,6 +30,7 @@ description_markdown: >-
 _gallery_date:
 permalink: /residencies/willowbrook
 archive: false
+order_number: 3
 main_image_path: /assets/images/018-e-12401-copy.jpg
 thumb_crop:
 images:
