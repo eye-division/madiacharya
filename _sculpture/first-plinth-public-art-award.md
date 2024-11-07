@@ -60,7 +60,7 @@ images:
     image_title: The Double Act, detail 2
     image_description:
   - image_path: /assets/madi2024-41-copy.jpg
-    image_title:
+    image_title: The Double Act, detail 3
     image_description:
   - image_path: /assets/695-screen-copy.jpg
     image_title:
