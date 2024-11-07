@@ -54,7 +54,7 @@ images:
     image_title:
     image_description:
   - image_path: /assets/images/480-screen-copy-1.jpg
-    image_title:
+    image_title: On the way to Woking Palace, detail
     image_description:
   - image_path: /assets/images/461-screen-copy.jpg
     image_title:
