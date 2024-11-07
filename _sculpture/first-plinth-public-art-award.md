@@ -4,13 +4,19 @@ description_markdown: >-
   **The Double Act**
 
 
-  Sculpture Terrace, Royal Society of Sculptors, London
+  Reclaimed wood, vintage textiles, steel, jesmonite, bronze, resin
 
 
   2024
 
 
-  Reclaimed wood, vintage textiles, steel, jesmonite, bronze, resin
+  Sculpture Terrace, Royal Society of Sculptors, London
+
+
+  &nbsp;
+
+
+  &nbsp;
 
 
   **The Double Act** is created in response to the theme of **‘Parade’**, for
@@ -24,6 +30,9 @@ description_markdown: >-
   form. This upbeat, colourful work at first glance resembles a humorous party
   scene but there are more serious undertones, namely the pressing need for us
   to value our environment, tackle climate change and value diversity.
+
+
+  The last 3 images are the maquette for the final piece images 1-6.
 
 
   First Plinth Public Art Award is made possible thanks to the generosity of the
