@@ -19,40 +19,52 @@ order_number: 2
 main_image_path: /assets/rss-220.jpg
 images:
   - image_path: /assets/post8-image5-copy.jpg
-    image_title: ''
-    image_description:
+    image_title: Mr Spillage
+    image_description: |
+      Mixed media sculpture, 
+      Materials: Found wood, found metal, found objects
+      Dimensions:H190 W70 D30 cm
   - image_path: /assets/post8-image6-copy.jpg
-    image_title: ''
+    image_title: Mr Spillage, detail 1
     image_description:
   - image_path: /assets/post8-image9-copy.jpg
-    image_title: ''
+    image_title: Mr Spillage, detail 2
     image_description:
   - image_path: /assets/rss-8.jpg
-    image_title: ''
-    image_description:
+    image_title: Oceania Rani
+    image_description: |
+      Mixed media sculpture, 
+      Materials: Found wood, found plastic, textiles
+      Dimensions: H180 W120 D70 cm
   - image_path: /assets/rss-14.jpg
-    image_title: ''
+    image_title: ' Detail 1'
     image_description:
   - image_path: /assets/rss-15.jpg
-    image_title: ''
+    image_title: Detial 2
     image_description:
   - image_path: /assets/7442-screen-copy.jpg
-    image_title: ''
-    image_description:
+    image_title: Bobin Ballerina
+    image_description: |
+      Mixed media sculpture, 
+      Materials, found wood, found objects
+      Dimensions: H105 W100 D30 cm
   - image_path: /assets/7443-screen-copy.jpg
     image_title: ''
     image_description:
   - image_path: /assets/7463-screen-copy-1.jpg
-    image_title: ''
+    image_title: Detail
     image_description:
   - image_path: /assets/the-twig-dancer-copy.jpg
-    image_title: ''
-    image_description:
+    image_title: The Twig Dancer
+    image_description: |
+      Mixed media sculpture, 
+      Materials: Found wood, found shoes, acrylic paint, accessories
+      Dimensions: H80 W60 D50 cm 
   - image_path: /assets/229878-10150836978751146-346327208-n-copy.jpg
-    image_title: ''
+    image_title: Detail 1
     image_description:
   - image_path: /assets/560211-10150836978221146-1276832247-n-copy.jpg
-    image_title: ''
+    image_title: Detail 2
     image_description:
   - image_path: /assets/images/5093ascreen-copy.jpg
     image_title: 'Mirrorball Mirrorbust '
