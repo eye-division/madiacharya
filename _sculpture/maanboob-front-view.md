@@ -52,7 +52,7 @@ images:
     image_title: ''
     image_description:
   - image_path: /assets/7463-screen-copy-1.jpg
-    image_title: ''
+    image_title: Detail
     image_description:
   - image_path: /assets/the-twig-dancer-copy.jpg
     image_title: ''
