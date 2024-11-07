@@ -31,8 +31,11 @@ images:
     image_title: Mr Spillage, detail 2
     image_description:
   - image_path: /assets/rss-8.jpg
-    image_title: ''
-    image_description:
+    image_title: Oceania Rani
+    image_description: |
+      Mixed media sculpture, 
+      Materials: Found wood, found plastic, textiles
+      Dimensions: H180 W120 D70 cm
   - image_path: /assets/rss-14.jpg
     image_title: ''
     image_description:
