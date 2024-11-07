@@ -54,7 +54,7 @@ images:
     image_title: The Double Act, detail 1
     image_description:
   - image_path: /assets/madi2024-50-copy-1.jpg
-    image_title:
+    image_title: The Double Act, information plaque
     image_description:
   - image_path: /assets/madi2024-57-copy.jpg
     image_title: The Double Act, detail 2
