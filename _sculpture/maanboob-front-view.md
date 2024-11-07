@@ -19,8 +19,11 @@ order_number: 2
 main_image_path: /assets/rss-220.jpg
 images:
   - image_path: /assets/post8-image5-copy.jpg
-    image_title: ''
-    image_description:
+    image_title: Mr Spillage
+    image_description: |
+      Mixed media sculpture, 
+      Materials: Found wood, found metal, found objects
+      Dimensions:H190 W70 D30 cm
   - image_path: /assets/post8-image6-copy.jpg
     image_title: ''
     image_description:
