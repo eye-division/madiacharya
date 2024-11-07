@@ -61,7 +61,7 @@ images:
       Materials: Found wood, found shoes, acrylic paint, accessories
       Dimensions: H80 W60 D50 cm 
   - image_path: /assets/229878-10150836978751146-346327208-n-copy.jpg
-    image_title: ''
+    image_title: Detail 1
     image_description:
   - image_path: /assets/560211-10150836978221146-1276832247-n-copy.jpg
     image_title: ''
