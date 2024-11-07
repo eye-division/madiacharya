@@ -18,7 +18,9 @@ thumb_crop:
 images:
   - image_path: /assets/images/443-screen-copy-1.jpg
     image_title: Goodbye Bartman it's been a blast
-    image_description:
+    image_description: |-
+      Ceramic Sculpture
+      W13 H19 D14 cm
   - image_path: /assets/images/444-screen-copy.jpg
     image_title:
     image_description:
