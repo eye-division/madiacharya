@@ -57,8 +57,10 @@ images:
     image_title: On the way to Woking Palace, detail
     image_description:
   - image_path: /assets/images/461-screen-copy.jpg
-    image_title:
-    image_description:
+    image_title: 'The Chertsea Oyster '
+    image_description: |-
+      Ceramic Sculpture
+      W35 H31 D4 cm
   - image_path: /assets/images/470-screen-copy.jpg
     image_title:
     image_description:
