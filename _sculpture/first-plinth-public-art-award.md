@@ -57,7 +57,7 @@ images:
     image_title:
     image_description:
   - image_path: /assets/madi2024-57-copy.jpg
-    image_title:
+    image_title: The Double ACt, detail 2
     image_description:
   - image_path: /assets/madi2024-41-copy.jpg
     image_title:
