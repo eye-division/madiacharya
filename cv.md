@@ -23,7 +23,7 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 &nbsp;
 
-### SOLO AND TWO PERSON EXHIBITIONS:
+### SOLO AND TWO PERSON EXHIBITIONS
 
 2024 **The Double Act, First Plinth Public Art Award,** Royal Society of Sculptors
 
@@ -151,19 +151,17 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 2024&nbsp;[**In Conversation** with artist-curator Raghavi Chinnadurai](https://www.weareprimary.org/whats-on/work-in-common-madi-raghavi){: target="_blank" rel="noopener"}, Primary, Nottingham
 
+2024 **In Conversation** with Jes Fernie, Royal Society of Sculptors
+
 2024 **Artist Talk,** I Dream a Palace, The Lightbox
 
 2023 **Meet the Artist, in conversation with Sarah Brown**, director of The Lightbox, Woking,
 
 2020 and 2023 **Visiting lecturer** at Chichester University
 
-2018 **Walking through the forest, Searching for the sea, Finding, Collecting and Making**&nbsp;as part of the symposium&nbsp;**Modernism: Making, Place and Protest**&nbsp;organised by Decorating Dissidence at Queen Mary College, London. [View abstracts](https://decoratingdissidence.wordpress.com/abstracts/){: target="_blank" rel="noopener"}.
-
-2018&nbsp;**Artist Talk for Warehouse Art School**, Ovada Gallery, Oxford
-
 &nbsp;
 
-### **BIBLIOGRAPHY**
+### &nbsp;**BIBLIOGRAPHY**
 
 [‘I**f objects could speak what would they tell us?**](https://www.a-n.co.uk/blogs/if-objects-could-speak-what-would-they-tell-us/){: target="_blank" rel="noopener"}’ My blog about DYCP activity
 
@@ -177,9 +175,9 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 **Summer Exhibition Illustrated 2016**, Exhibition Catalogue
 
-**‘Sanctuary Part 2’** Home, Away, Common Ground, Exhibition Catalogue , forward by John Hollingworth MBE, Director of Brunei Gallery, SOAS, 2013
+**‘Sanctuary Part 2’** Home, Away, Common Ground, Catalogue, forward by John Hollingworth MBE, Director of Brunei Gallery, SOAS, 2013
 
-**‘Sanctuary Part 1’** Home, Away, Common Ground’, Exhibition Catalogue, 2011,
+**‘Sanctuary Part 1’** Home, Away, Common Ground,&nbsp; 2011
 
 &nbsp;
 
