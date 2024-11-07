@@ -1,6 +1,6 @@
 ---
 title: First Plinth Public Art Award
-description_markdown: ''
+description_markdown: "**The Double Act**\n\n2024\n\nReclaimed wood, vintage textiles, steel, jesmonite, bronze, resin\n\n**The Double Act** is created in response to the theme of **‘Parade’**, for this year’s First Plinth Award.\LThis work is composed of two figures that are dancing together in joyous harmony, enjoying each other’s company. There is an emphasis on using reclaimed materials, driftwood collected from the coast for the platform and discarded textiles for other aspects of the piece.\n\nThe figures are based on the natural world, trees which resemble the human form. This upbeat, colourful work at first glance resembles a humorous party scene but there are more serious undertones, namely the pressing need for us to value our environment, tackle climate change and value diversity.\n\nFirst Plinth Public Art Award is made possible thanks to the generosity of the Mirisch and Lebenheim Charitable Foundation."
 _gallery_date:
 permalink: /sculpture/firstplinthpublicartaward
 archive: false
