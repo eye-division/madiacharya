@@ -88,7 +88,9 @@ images:
       Variable dimensions approx. 20x 12 x  6 cm
   - image_path: /assets/images/499-screen-copy.jpg
     image_title:
-    image_description:
+    image_description: |-
+      Valencian Tile Bottles 1-4 Ceramic Sculpture
+      Variable dimensions approx. 20x 12 x  6 cm
   - image_path: /assets/images/500-screen-copy-1.jpg
     image_title:
     image_description:
