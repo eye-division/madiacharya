@@ -55,8 +55,11 @@ images:
     image_title: Detail
     image_description:
   - image_path: /assets/the-twig-dancer-copy.jpg
-    image_title: ''
-    image_description:
+    image_title: The Twig Dancer
+    image_description: |
+      Mixed media sculpture, 
+      Materials: Found wood, found shoes, acrylic paint, accessories
+      Dimensions: H80 W60 D50 cm 
   - image_path: /assets/229878-10150836978751146-346327208-n-copy.jpg
     image_title: ''
     image_description:
