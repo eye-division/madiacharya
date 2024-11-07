@@ -1,6 +1,14 @@
 ---
 title: 20/20 Project Part 1
-description_markdown: ''
+description_markdown: >-
+  These works were created during my residency at the Lightbox   as part of the
+  20/20 project. They  respond to the site and grounds of Woking Palace, a
+  former Tudor Palace on the edge of the River Wey, in Old Woking.
+
+
+  The 20/20 project was led by the UAL Decolonising Arts Ins tute and supported
+  by funding from Arts Council England, the Freelands Foundation and University
+  of the Arts London.
 _gallery_date:
 permalink: /ceramics/2020part1/
 archive: false
