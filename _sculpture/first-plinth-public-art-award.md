@@ -66,7 +66,7 @@ images:
     image_title: The Double Act,  maquette
     image_description:
   - image_path: /assets/707-screen-copy.jpg
-    image_title: The Double Act, Maquette, detail
+    image_title: The Double Act, maquette, detail
     image_description:
   - image_path: /assets/7872-screen-copy.jpg
     image_title: The Double Act,  maquette on display at Royal Society of Sculptors
