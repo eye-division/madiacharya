@@ -45,7 +45,7 @@ main_image_path: /assets/7856-screen-copy.jpg
 thumb_crop:
 images:
   - image_path: /assets/7847-screen-copy.jpg
-    image_title:
+    image_title: The Double Art
     image_description:
   - image_path: /assets/7851-screen-copy.jpg
     image_title:
