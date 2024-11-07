@@ -31,7 +31,7 @@ images:
     image_title: Wiseman Bart
     image_description: Ceramic Sculpture H22.5 W19 D18
   - image_path: /assets/images/455-screen-copy.jpg
-    image_title:
+    image_title: Detail
     image_description:
   - image_path: /assets/images/457-screen-copy.jpg
     image_title:
