@@ -68,8 +68,10 @@ images:
     image_title: The Chertsea Oyster , detail 2
     image_description:
   - image_path: /assets/images/464-screen-copy.jpg
-    image_title:
-    image_description:
+    image_title: 'Lustre Pattern 1 '
+    image_description: |-
+      Ceramic Sculpture 
+      W35 H29 D4
   - image_path: /assets/images/469-screen-copy.jpg
     image_title:
     image_description:
