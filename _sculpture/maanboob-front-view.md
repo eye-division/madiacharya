@@ -28,7 +28,7 @@ images:
     image_title: Mr Spillage, detail 1
     image_description:
   - image_path: /assets/post8-image9-copy.jpg
-    image_title: ''
+    image_title: Mr Spillage, detail 2
     image_description:
   - image_path: /assets/rss-8.jpg
     image_title: ''
