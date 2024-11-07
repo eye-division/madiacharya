@@ -25,7 +25,7 @@ images:
       Materials: Found wood, found metal, found objects
       Dimensions:H190 W70 D30 cm
   - image_path: /assets/post8-image6-copy.jpg
-    image_title: ''
+    image_title: Mr Spillage, detail 1
     image_description:
   - image_path: /assets/post8-image9-copy.jpg
     image_title: ''
