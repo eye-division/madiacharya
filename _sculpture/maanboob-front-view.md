@@ -37,14 +37,17 @@ images:
       Materials: Found wood, found plastic, textiles
       Dimensions: H180 W120 D70 cm
   - image_path: /assets/rss-14.jpg
-    image_title: Oceania Rani, detail 1
+    image_title: ' Detail 1'
     image_description:
   - image_path: /assets/rss-15.jpg
     image_title: Detial 2
     image_description:
   - image_path: /assets/7442-screen-copy.jpg
-    image_title: ''
-    image_description:
+    image_title: Bobin Ballerina
+    image_description: |
+      Mixed media sculpture, 
+      Materials, found wood, found objects
+      Dimensions: H105 W100 D30 cm
   - image_path: /assets/7443-screen-copy.jpg
     image_title: ''
     image_description:
