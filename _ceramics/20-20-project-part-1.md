@@ -25,7 +25,7 @@ images:
     image_title:
     image_description:
   - image_path: /assets/images/449-screen-copy.jpg
-    image_title:
+    image_title: Detail
     image_description:
   - image_path: /assets/images/440-screen-copy.jpg
     image_title:
