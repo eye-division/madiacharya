@@ -34,7 +34,7 @@ images:
     image_title: Detail 1
     image_description:
   - image_path: /assets/images/457-screen-copy.jpg
-    image_title:
+    image_title: Detail 2
     image_description:
   - image_path: /assets/images/8574-screen-copy.jpg
     image_title:
