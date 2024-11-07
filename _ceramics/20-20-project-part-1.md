@@ -46,8 +46,10 @@ images:
     image_title: Cardinal Celadon , detail
     image_description:
   - image_path: /assets/images/474-screen-copy.jpg
-    image_title:
-    image_description:
+    image_title: On the way to Woking Palace
+    image_description: |2-
+       Ceramic Sculpture
+      W33 H20 D14 cm
   - image_path: /assets/images/478-screen-copy.jpg
     image_title:
     image_description:
