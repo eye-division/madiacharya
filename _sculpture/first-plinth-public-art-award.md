@@ -45,31 +45,31 @@ main_image_path: /assets/7856-screen-copy.jpg
 thumb_crop:
 images:
   - image_path: /assets/7847-screen-copy.jpg
-    image_title:
+    image_title: The Double Art
     image_description:
   - image_path: /assets/7851-screen-copy.jpg
     image_title:
     image_description:
   - image_path: /assets/madi2024-37-copy-1.jpg
-    image_title:
+    image_title: The Double Act, detail 1
     image_description:
   - image_path: /assets/madi2024-50-copy-1.jpg
-    image_title:
+    image_title: The Double Act, information plaque
     image_description:
   - image_path: /assets/madi2024-57-copy.jpg
-    image_title:
+    image_title: The Double Act, detail 2
     image_description:
   - image_path: /assets/madi2024-41-copy.jpg
-    image_title:
+    image_title: The Double Act, detail 3
     image_description:
   - image_path: /assets/695-screen-copy.jpg
-    image_title:
+    image_title: The Double Act,  maquette
     image_description:
   - image_path: /assets/707-screen-copy.jpg
-    image_title:
+    image_title: The Double Act, maquette, detail
     image_description:
   - image_path: /assets/7872-screen-copy.jpg
-    image_title:
+    image_title: The Double Act,  maquette on display at Royal Society of Sculptors
     image_description:
 _options:
   image_path:
