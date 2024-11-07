@@ -40,7 +40,7 @@ images:
     image_title: Oceania Rani, detail 1
     image_description:
   - image_path: /assets/rss-15.jpg
-    image_title: ''
+    image_title: Detial 2
     image_description:
   - image_path: /assets/7442-screen-copy.jpg
     image_title: ''
