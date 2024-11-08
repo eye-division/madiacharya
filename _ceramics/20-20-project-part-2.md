@@ -50,7 +50,7 @@ images:
       Mixed media sculpture (porcelain, fishing net, vintage textiles, found
       brick, fired) H22.5 W19 D18 cm
   - image_path: /assets/images/654-screen-copy.jpg
-    image_title:
+    image_title: Detail
     image_description:
 _options:
   image_path:
