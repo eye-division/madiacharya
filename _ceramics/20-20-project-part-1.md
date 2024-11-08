@@ -69,7 +69,7 @@ images:
     image_title: Detail 1
     image_description:
   - image_path: /assets/images/471-screen-copy.jpg
-    image_title: The Chertsea Oyster , detail 2
+    image_title: Detail 2
     image_description:
   - image_path: /assets/images/464-screen-copy.jpg
     image_title: 'Lustre Pattern 1 '
