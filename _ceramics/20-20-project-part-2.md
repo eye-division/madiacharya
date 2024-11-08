@@ -36,7 +36,7 @@ images:
 
       H22.5 W19 D18 cm
   - image_path: /assets/images/661-screen-copy.jpg
-    image_title:
+    image_title: Detail 1
     image_description:
   - image_path: /assets/images/660-screen-copy.jpg
     image_title:
