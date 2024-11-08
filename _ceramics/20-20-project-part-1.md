@@ -77,7 +77,7 @@ images:
       Ceramic Sculpture 
       W35 H29 D4
   - image_path: /assets/images/469-screen-copy.jpg
-    image_title: 'Lustre Pattern 1 , detail '
+    image_title: 'Detail '
     image_description:
   - image_path: /assets/images/465-screen-copy.jpg
     image_title: 'Lustre Pattern 2 '
