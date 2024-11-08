@@ -55,7 +55,7 @@ images:
        Ceramic Sculpture
       W33 H20 D14 cm
   - image_path: /assets/images/478-screen-copy.jpg
-    image_title:
+    image_title: Front
     image_description:
   - image_path: /assets/images/480-screen-copy-1.jpg
     image_title: Detail
