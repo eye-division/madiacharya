@@ -81,7 +81,9 @@ images:
     image_description:
   - image_path: /assets/images/465-screen-copy.jpg
     image_title: 'Lustre Pattern 2 '
-    image_description: W33 H28 D4 cm
+    image_description: |-
+      Ceramic Sculpture
+      W33 H28 D4 cm
   - image_path: /assets/images/467-screen-copy.jpg
     image_title: Detail
     image_description:
