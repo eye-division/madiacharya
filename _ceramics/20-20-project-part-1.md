@@ -110,7 +110,7 @@ images:
     image_title:
     image_description:
   - image_path: /assets/images/526-screen-copy.jpg
-    image_title: Palace Hinge
+    image_title: Palace Key
     image_description: |-
       Ceramic Sculpture 
       20 x 10 x 3 cm
