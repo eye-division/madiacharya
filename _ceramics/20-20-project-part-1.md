@@ -47,7 +47,7 @@ images:
     image_title:
     image_description:
   - image_path: /assets/images/8577-screen-copy.jpg
-    image_title: Cardinal Celadon , detail
+    image_title: Detail
     image_description:
   - image_path: /assets/images/474-screen-copy.jpg
     image_title: On the way to Woking Palace
