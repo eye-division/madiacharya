@@ -20,7 +20,7 @@ images:
     image_title: Detail 2
     image_description:
   - image_path: /assets/images/642-screen-copy.jpg
-    image_title: Detail 4
+    image_title: Detail 3
     image_description:
   - image_path: /assets/images/643-screen-copy.jpg
     image_title:
