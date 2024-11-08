@@ -40,7 +40,9 @@ images:
     image_description:
   - image_path: /assets/images/8574-screen-copy.jpg
     image_title: 'Cardinal Celadon '
-    image_description: H16 W6 D6 cm
+    image_description: |-
+      Ceramic Sculpture
+      H16 W6 D6 cm
   - image_path: /assets/images/8575-screen-copy.jpg
     image_title:
     image_description:
