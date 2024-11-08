@@ -44,7 +44,7 @@ images:
       Ceramic Sculpture
       H16 W6 D6 cm
   - image_path: /assets/images/8575-screen-copy.jpg
-    image_title:
+    image_title: Back
     image_description:
   - image_path: /assets/images/8577-screen-copy.jpg
     image_title: Detail
