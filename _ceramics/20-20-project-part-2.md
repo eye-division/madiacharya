@@ -45,8 +45,10 @@ images:
     image_title: Detail 3
     image_description:
   - image_path: /assets/images/651-screen-copy.jpg
-    image_title:
-    image_description:
+    image_title: Nipple Caught
+    image_description: >-
+      Mixed media sculpture (porcelain, fishing net, vintage textiles, found
+      brick, fired) H22.5 W19 D18 cm
   - image_path: /assets/images/654-screen-copy.jpg
     image_title:
     image_description:
