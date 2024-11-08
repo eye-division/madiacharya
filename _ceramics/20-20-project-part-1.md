@@ -66,7 +66,7 @@ images:
       Ceramic Sculpture
       W35 H31 D4 cm
   - image_path: /assets/images/470-screen-copy.jpg
-    image_title: The Chertsea Oyster , detail 1
+    image_title: Detail 1
     image_description:
   - image_path: /assets/images/471-screen-copy.jpg
     image_title: The Chertsea Oyster , detail 2
