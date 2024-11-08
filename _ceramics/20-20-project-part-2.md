@@ -42,7 +42,7 @@ images:
     image_title: Detail 2
     image_description:
   - image_path: /assets/images/667-screen-copy-1.jpg
-    image_title:
+    image_title: Detail 3
     image_description:
   - image_path: /assets/images/651-screen-copy.jpg
     image_title:
