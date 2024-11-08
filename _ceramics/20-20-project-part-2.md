@@ -26,7 +26,7 @@ images:
     image_title: Detail 4
     image_description:
   - image_path: /assets/images/645-screen-copy-1.jpg
-    image_title:
+    image_title: Detail 5
     image_description:
   - image_path: /assets/images/655-screen-copy.jpg
     image_title:
