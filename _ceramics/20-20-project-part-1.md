@@ -120,8 +120,10 @@ images:
       Ceramic Sculpture 
       20 x 10 x 3 cm
   - image_path: /assets/images/529-screen-copy.jpg
-    image_title:
-    image_description:
+    image_title: 'Palace Nail '
+    image_description: |-
+      Ceramic Sculpture 
+      18 x 3 x 3 cm
 _options:
   image_path:
     uploads_dir: assets/images/:year
