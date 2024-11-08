@@ -89,9 +89,7 @@ images:
     image_description:
   - image_path: /assets/images/496-screen-copy-1.jpg
     image_title: Valencian Tile Bottles 1-4 Ceramic Sculpture
-    image_description: |-
-      Valencian Tile Bottles 1-4 Ceramic Sculpture
-      Variable dimensions approx. 20x 12 x  6 cm
+    image_description: Variable dimensions approx. 20x 12 x  6 cm
   - image_path: /assets/images/499-screen-copy.jpg
     image_title: Valencian Tile Bottles 1-4 Ceramic Sculpture
     image_description: Variable dimensions approx. 20x 12 x  6 cm
