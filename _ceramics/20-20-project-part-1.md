@@ -83,7 +83,7 @@ images:
     image_title: 'Lustre Pattern 2 '
     image_description: W33 H28 D4 cm
   - image_path: /assets/images/467-screen-copy.jpg
-    image_title: Lustre Pattern 2 , detail
+    image_title: Detail
     image_description:
   - image_path: /assets/images/496-screen-copy-1.jpg
     image_title: Valencian Tile Bottles 1-4 Ceramic Sculpture
