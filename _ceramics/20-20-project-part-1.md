@@ -22,7 +22,7 @@ images:
       Ceramic Sculpture
       W13 H19 D14 cm
   - image_path: /assets/images/444-screen-copy.jpg
-    image_title:
+    image_title: Back
     image_description:
   - image_path: /assets/images/449-screen-copy.jpg
     image_title: Detail
@@ -44,7 +44,7 @@ images:
       Ceramic Sculpture
       H16 W6 D6 cm
   - image_path: /assets/images/8575-screen-copy.jpg
-    image_title:
+    image_title: Back
     image_description:
   - image_path: /assets/images/8577-screen-copy.jpg
     image_title: Detail
@@ -55,7 +55,7 @@ images:
        Ceramic Sculpture
       W33 H20 D14 cm
   - image_path: /assets/images/478-screen-copy.jpg
-    image_title:
+    image_title: Front
     image_description:
   - image_path: /assets/images/480-screen-copy-1.jpg
     image_title: Detail
@@ -66,10 +66,10 @@ images:
       Ceramic Sculpture
       W35 H31 D4 cm
   - image_path: /assets/images/470-screen-copy.jpg
-    image_title: The Chertsea Oyster , detail 1
+    image_title: Detail 1
     image_description:
   - image_path: /assets/images/471-screen-copy.jpg
-    image_title: The Chertsea Oyster , detail 2
+    image_title: Detail 2
     image_description:
   - image_path: /assets/images/464-screen-copy.jpg
     image_title: 'Lustre Pattern 1 '
@@ -77,19 +77,19 @@ images:
       Ceramic Sculpture 
       W35 H29 D4
   - image_path: /assets/images/469-screen-copy.jpg
-    image_title: 'Lustre Pattern 1 , detail '
+    image_title: 'Detail '
     image_description:
   - image_path: /assets/images/465-screen-copy.jpg
     image_title: 'Lustre Pattern 2 '
-    image_description: W33 H28 D4 cm
+    image_description: |-
+      Ceramic Sculpture
+      W33 H28 D4 cm
   - image_path: /assets/images/467-screen-copy.jpg
-    image_title: Lustre Pattern 2 , detail
+    image_title: Detail
     image_description:
   - image_path: /assets/images/496-screen-copy-1.jpg
     image_title: Valencian Tile Bottles 1-4 Ceramic Sculpture
-    image_description: |-
-      Valencian Tile Bottles 1-4 Ceramic Sculpture
-      Variable dimensions approx. 20x 12 x  6 cm
+    image_description: Variable dimensions approx. 20x 12 x  6 cm
   - image_path: /assets/images/499-screen-copy.jpg
     image_title: Valencian Tile Bottles 1-4 Ceramic Sculpture
     image_description: Variable dimensions approx. 20x 12 x  6 cm
@@ -111,7 +111,7 @@ images:
       Ceramic Sculpture 
       11 x 8 x 3 cm
   - image_path: /assets/images/521a-screen-copy.jpg
-    image_title:
+    image_title: Internal view
     image_description:
   - image_path: /assets/images/526-screen-copy.jpg
     image_title: Palace Key
