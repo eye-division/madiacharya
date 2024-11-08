@@ -99,11 +99,13 @@ images:
     image_title: Valencian Tile Bottles 1-4 Ceramic Sculpture
     image_description: Variable dimensions approx. 20x 12 x  6 cm
   - image_path: /assets/images/509-screen-copy.jpg
-    image_title:
-    image_description:
+    image_title: Oyster Bowls, a pair Porcelain
+    image_description: 14 x 8 x 5 cm each
   - image_path: /assets/images/514-screen-copy.jpg
-    image_title:
-    image_description:
+    image_title: 'Oyster Experiment '
+    image_description: |-
+      Ceramic Sculpture 
+      11 x 8 x 3 cm
   - image_path: /assets/images/521a-screen-copy.jpg
     image_title:
     image_description:
