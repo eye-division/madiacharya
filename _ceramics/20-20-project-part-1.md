@@ -111,7 +111,7 @@ images:
       Ceramic Sculpture 
       11 x 8 x 3 cm
   - image_path: /assets/images/521a-screen-copy.jpg
-    image_title:
+    image_title: Internal view
     image_description:
   - image_path: /assets/images/526-screen-copy.jpg
     image_title: Palace Key
