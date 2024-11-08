@@ -29,8 +29,12 @@ images:
     image_title: Detail 5
     image_description:
   - image_path: /assets/images/655-screen-copy.jpg
-    image_title:
-    image_description:
+    image_title: Tongue Tied
+    image_description: >-
+      Mixed media sculpture (glazed porcelain, fishing net, vintage textiles,
+      found glass, fired) 
+
+      H22.5 W19 D18 cm
   - image_path: /assets/images/661-screen-copy.jpg
     image_title:
     image_description:
