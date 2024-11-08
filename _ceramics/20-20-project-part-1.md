@@ -95,7 +95,7 @@ images:
     image_title: Valencian Tile Bottles 1-4 Ceramic Sculpture
     image_description:
   - image_path: /assets/images/502-screen-copy.jpg
-    image_title:
+    image_title: Valencian Tile Bottles 1-4 Ceramic Sculpture
     image_description:
   - image_path: /assets/images/503-screen-copy.jpg
     image_title:
