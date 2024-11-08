@@ -9,8 +9,10 @@ order_number: 3
 thumb_crop:
 images:
   - image_path: /assets/images/639-screen-copy.jpg
-    image_title:
-    image_description:
+    image_title: Palace Design
+    image_description: |2-
+       Mixed media sculpture (ceramic, fishing net, vintage textiles, shells) 
+      H52 W40 D3 cm
   - image_path: /assets/images/647-screen-copy.jpg
     image_title:
     image_description:
