@@ -22,7 +22,7 @@ images:
       Ceramic Sculpture
       W13 H19 D14 cm
   - image_path: /assets/images/444-screen-copy.jpg
-    image_title:
+    image_title: Back
     image_description:
   - image_path: /assets/images/449-screen-copy.jpg
     image_title: Detail
