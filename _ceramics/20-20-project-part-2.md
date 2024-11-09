@@ -1,6 +1,11 @@
 ---
 title: 20/20 Project Part 2
-description_markdown: ''
+description_markdown: >-
+  Following on from the 20/20 residency and commission, I wanted to develop
+  works incorporating ceramics made during the residency period with textiles.
+  The textiles used were a combination of fishing net debris and Indian fabrics
+  from silk saris, highlighting environmental pollution and migration,
+  specifically the journey of South Asian women across oceans.
 _gallery_date:
 permalink: /ceramics/2020projectpart2
 archive: false
