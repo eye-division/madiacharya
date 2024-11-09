@@ -1,6 +1,16 @@
 ---
 title: Cardboard Lace series
-description_markdown: ''
+description_markdown: >-
+  These works, the first entitled 'Violet Streak'  and the second  'Hedgerow
+  Lace'  were created during a residency at Primary in Nottingham. I worked with
+  discarded materials, specifically shredded cardboard. I combined this with
+  Cluny lace of different colours donated by Cluny lace company based in
+  Nottingham.
+
+
+  The colours in the works, violet, lavender, green and shades of yellow refers
+  to woodland scenes around Sherwood forest where I spent time during the
+  residency.
 _gallery_date:
 permalink: /installations/cardboardlace
 archive: false
