@@ -63,7 +63,7 @@ images:
     image_title: Detail 6
     image_description:
   - image_path: /assets/images/jal-7322-small-1.jpg
-    image_title:
+    image_title: Detail 7
     image_description:
 _options:
   image_path:
