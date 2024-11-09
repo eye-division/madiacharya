@@ -43,7 +43,9 @@ images:
     image_description:
   - image_path: /assets/images/jal-7324-small-copy.jpg
     image_title: Hedgerow Lace, istallation view
-    image_description: Materials, Shredded cardboard, lace, acylic paint
+    image_description: |-
+      Materials, Shredded cardboard, lace, acylic paint
+      Dimensions variable
   - image_path: /assets/images/jal-7325-small-copy.jpg
     image_title: Detail 1
     image_description:
