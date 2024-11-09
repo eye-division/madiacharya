@@ -19,7 +19,7 @@ thumb_crop:
 images:
   - image_path: /assets/images/dscf7061.jpg
     image_title: Pull the wool over my eyes
-    image_description:
+    image_description: Matetials, Driftwood sticks, chicken wire, textiles, wool pom poms
   - image_path: /assets/images/dscf7019.jpg
     image_title:
     image_description:
