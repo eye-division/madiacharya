@@ -30,7 +30,7 @@ images:
     image_title: Detail 2
     image_description:
   - image_path: /assets/images/dscf6695.jpg
-    image_title:
+    image_title: Installation view
     image_description:
   - image_path: /assets/images/dscf7059.jpg
     image_title:
