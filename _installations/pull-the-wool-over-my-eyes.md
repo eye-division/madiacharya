@@ -1,6 +1,15 @@
 ---
 title: Pull the wool over my eyes
-description_markdown: ''
+description_markdown: >-
+  This  work was created during a brief residency in the Zig Zag building in
+  Glastonbury for the project ' As old as the hills'. It was a unique space, a
+  building from the Bauhaus period, previously a factory.
+
+
+  This work is created from sticks collected on Chesil Beach, Dorset, discarded
+  textiles and wool in the form of pom poms. The form the work takes responds to
+  the space and specifically the windows which create an expansive geometric
+  backdrop overlooking the rural landscape of Somerset.
 _gallery_date:
 permalink: /installations/pullthewoolovermyeyes/
 archive: false
