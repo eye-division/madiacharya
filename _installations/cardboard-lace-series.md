@@ -30,7 +30,7 @@ images:
     image_title: Detail 1
     image_description:
   - image_path: /assets/images/jal-7346-small-copy.jpg
-    image_title:
+    image_title: Detail 2
     image_description:
   - image_path: /assets/images/jal-7347-small-copy.jpg
     image_title:
