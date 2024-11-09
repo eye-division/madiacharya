@@ -2,7 +2,7 @@
 title: Pull the wool over my eyes
 description_markdown: >-
   This  work was created during a brief residency in the Zig Zag building in
-  Glastonbury for the project ' As old as the hills'. It was a unique space, a
+  Glastonbury for the project ‘ As old as the hills’. It was a unique space, a
   building from the Bauhaus period, previously a factory.
 
 
@@ -18,7 +18,7 @@ order_number: 3
 thumb_crop:
 images:
   - image_path: /assets/images/dscf7061.jpg
-    image_title:
+    image_title: Pull the wool over my eyes
     image_description:
   - image_path: /assets/images/dscf7019.jpg
     image_title:
