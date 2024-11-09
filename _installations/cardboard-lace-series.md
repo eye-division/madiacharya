@@ -57,7 +57,7 @@ images:
     image_title: Detail 4
     image_description:
   - image_path: /assets/images/jal-7331-small-copy.jpg
-    image_title:
+    image_title: Detail 5
     image_description:
   - image_path: /assets/images/jal-7333-small-copy.jpg
     image_title:
