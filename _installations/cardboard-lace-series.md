@@ -24,10 +24,10 @@ images:
       Materials, cardboard, lace, acrylic paint, lace
       Dimensions variable
   - image_path: /assets/images/jal-7349-small-copy.jpg
-    image_title:
+    image_title: Installation view 2
     image_description:
   - image_path: /assets/images/jal-7344-small-copy-1.jpg
-    image_title:
+    image_title: Detail 1
     image_description:
   - image_path: /assets/images/jal-7346-small-copy.jpg
     image_title:
