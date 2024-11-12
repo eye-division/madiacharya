@@ -30,7 +30,7 @@ images:
     image_title: Ferns, waters edge, Baskingstoke Canal
     image_description:
   - image_path: /assets/img-2025-copy.jpg
-    image_title:
+    image_title: Shah Jahan Mosque
     image_description:
   - image_path: /assets/673-screen-copy.jpg
     image_title:
