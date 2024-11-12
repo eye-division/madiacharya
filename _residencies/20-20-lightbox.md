@@ -24,7 +24,7 @@ images:
     image_title: Woking Palace, Old Woking
     image_description:
   - image_path: /assets/img-1975-copy.jpg
-    image_title:
+    image_title: Autumnal leaves, Basingstoke Canal
     image_description:
   - image_path: /assets/img-1862-copy.jpg
     image_title:
