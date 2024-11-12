@@ -1,6 +1,18 @@
 ---
 title: 20/20, Lightbox
-description_markdown: ''
+description_markdown: >-
+  My residency as part of the 20/20 Project  was at the Lightbox in Woking
+  between 2022/23. I researched  the Heritage Collection at the Lightbox which
+  contains many objects excavated from the grounds of Woking Palace in Old
+  Woking. I was fascinated by the beautiful Valencian Tiles and made watercolour
+  studies of them. I was also inspired by the ecology around the  Basingstoke
+  Canal which runs close to the Lightbox. As part of the residency, I also
+  visited the Shah Jahan Mosque in Woking which has beautiful patterns within
+  its architecture.
+
+
+  20/20 Project funded by University of Arts, London, Freelands Foundation and
+  Arts Council England was at the Lightbox in Woking.
 _gallery_date:
 permalink: /residencies/2020lightbox/
 archive: false
