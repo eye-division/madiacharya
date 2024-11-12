@@ -36,7 +36,7 @@ images:
     image_title: Large Old Key
     image_description: Reserve collection, Heather Farm, Woking
   - image_path: /assets/img-1851.jpg
-    image_title:
+    image_title: Tow Path, Basingstoke Canal
     image_description:
   - image_path: /assets/709-screen-copy.jpg
     image_title:
