@@ -61,7 +61,7 @@ images:
     image_title: Mask for workshop, inspired by Swiss Chard
     image_description:
   - image_path: /assets/dsc0013-copy.jpg
-    image_title:
+    image_title: Work in progress, studio space, Primary
     image_description:
   - image_path: /assets/dsc0362-copy.jpg
     image_title:
