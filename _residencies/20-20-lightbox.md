@@ -98,7 +98,7 @@ images:
     image_title: Watercolour Valecian tile
     image_description:
   - image_path: /assets/549-screen-copy.jpg
-    image_title:
+    image_title: Chertsea Palace tile, watercolour
     image_description:
   - image_path: /assets/545-screen-copy.jpg
     image_title: Watercolour Valecian tile
