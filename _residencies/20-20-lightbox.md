@@ -62,7 +62,7 @@ images:
     image_title: Brick Tiles, Thames foreshore
     image_description:
   - image_path: /assets/692-screen-copy.jpg
-    image_title: Tile from Chertsea Palace
+    image_title: Tile from Chertsea Palace, reserve collection
     image_description:
   - image_path: /assets/537-screen.jpg
     image_title: Found Nails, Thames foreshore
