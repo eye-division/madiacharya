@@ -46,7 +46,7 @@ images:
     image_title: Jagard Card, Cluny Lace Company
     image_description:
   - image_path: /assets/jal-7304-small-copy.jpg
-    image_title:
+    image_title: Shredded cardboard sample
     image_description:
   - image_path: /assets/jal-7306-small-copy.jpg
     image_title:
