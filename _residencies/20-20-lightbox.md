@@ -74,7 +74,7 @@ images:
     image_title: Oyster Shells, Thames foreshore
     image_description: Thames foreshore, London
   - image_path: /assets/483-screen-copy-1.jpg
-    image_title:
+    image_title: Ceramic sculpture, fishing net debris
     image_description:
   - image_path: /assets/487-screen-copy.jpg
     image_title:
