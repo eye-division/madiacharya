@@ -95,7 +95,7 @@ images:
     image_title:
     image_description:
   - image_path: /assets/547-screen-copy.jpg
-    image_title:
+    image_title: Watercolour Valecian tile
     image_description:
   - image_path: /assets/549-screen-copy.jpg
     image_title:
