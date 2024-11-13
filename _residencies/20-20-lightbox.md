@@ -65,7 +65,7 @@ images:
     image_title: Tile from Chertsea Palace
     image_description:
   - image_path: /assets/537-screen.jpg
-    image_title: Found Nails
+    image_title: Found Nails, Thames foreshore
     image_description: Thames foreshore, London
   - image_path: /assets/672-screen-copy.jpg
     image_title: Display Case, I Dream a Palace
