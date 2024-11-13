@@ -56,7 +56,7 @@ images:
     image_title: Bartman fragment, Woking Story
     image_description: Woking Story, the Lightbox
   - image_path: /assets/713-screen-copy.jpg
-    image_title: I Dream a Palace, display case
+    image_title: I Dream a Palace, display case 1
     image_description:
   - image_path: /assets/536-screen.jpg
     image_title: Brick Tiles, Thames foreshore
