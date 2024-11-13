@@ -1,6 +1,24 @@
 ---
 title: Zig Zag Building, Glastonbury
-description_markdown: ''
+description_markdown: >-
+  In September 2024, I undertook a brief residency in the Zig Zag Building in
+  Glastonbury for the project 'Old as the hills' the title of the project
+  references the ancient hills within  the landscape of Somerset.
+
+
+  During the residency I also ran a workshop which involved a nature walk,
+  collecting natural materials such as sticks and debris to create small
+  sculptural works.
+
+
+  This relates to my own work for the residency and also my practice more
+  broadly.
+
+
+  &nbsp;
+
+
+  &nbsp;
 _gallery_date:
 permalink: /Zigzagbuilding/Glastonbury/
 archive: false
