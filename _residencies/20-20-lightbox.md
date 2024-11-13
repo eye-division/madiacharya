@@ -68,7 +68,7 @@ images:
     image_title: Found Nails, Thames foreshore
     image_description: Thames foreshore, London
   - image_path: /assets/672-screen-copy.jpg
-    image_title: I Dream a Palace, display case
+    image_title: I Dream a Palace, display case 2
     image_description:
   - image_path: /assets/524-screen.jpg
     image_title: Oyster Shells, Thames foreshore
