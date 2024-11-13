@@ -43,7 +43,7 @@ images:
     image_title: Lace pattern drawing
     image_description:
   - image_path: /assets/jal-7312-small-copy.jpg
-    image_title: Jagard Card, Cluny Lace Company
+    image_title: Jacquard Card, Cluny Lace Company
     image_description:
   - image_path: /assets/jal-7304-small-copy.jpg
     image_title: Shredded cardboard sample
