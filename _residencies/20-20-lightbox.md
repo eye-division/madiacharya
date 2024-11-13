@@ -53,7 +53,7 @@ images:
     image_title: Toy Horse Fragment, Woking Story
     image_description: Woking Story
   - image_path: /assets/626-screen-copy.jpg
-    image_title: Bartman, fragment
+    image_title: Bartman fragmen, Woking Storyt
     image_description: Woking Story, the Lightbox
   - image_path: /assets/713-screen-copy.jpg
     image_title: I Dream a Palace, display case
