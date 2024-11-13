@@ -1,6 +1,25 @@
 ---
 title: Primary, Nottingham
-description_markdown: ''
+description_markdown: >-
+  During the summer of 2024 I undertook a 4 week residency at Primary ,
+  Nottingham. During this period I visited the lace collection at Nottingham
+  Castle. The intricate patterns  and colours of the lace costumes resonated
+  with me, reminding me of patterns of South Asian textiles.
+
+
+  I also visited Sherwood Forest and encountered some beautiful ancient trees
+  amidst the dense green foliage and wild flowers. This experience also
+  influenced my work for the residency.
+
+
+  I watched a film about the Cluny lace company, who are based in Nottingham and
+  employ traditional process in lace production. They very kindly donated some
+  lace samples to me on request.
+
+
+  Given my passion for working with found materials, I worked with  shredded
+  cardboard, combining this with lace and acrylic paint to create 2 wall 
+  sculptural installations.
 _gallery_date:
 permalink: /residencies/primarynottingham/
 archive: false
