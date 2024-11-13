@@ -67,7 +67,7 @@ images:
     image_title: Work in progress, Primary
     image_description:
   - image_path: /assets/jal-7277-small-copy.jpg
-    image_title:
+    image_title: Me with Hedgerow Lace created during residency
     image_description:
   - image_path: /assets/jal-7288-small.jpg
     image_title:
