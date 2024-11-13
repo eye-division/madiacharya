@@ -48,7 +48,7 @@ images:
     image_title: Pull the wool over my eyes
     image_description:
   - image_path: /assets/img-0357.jpg
-    image_title:
+    image_title: Detail
     image_description:
   - image_path: /assets/20240921-143249-copy.jpg
     image_title:
