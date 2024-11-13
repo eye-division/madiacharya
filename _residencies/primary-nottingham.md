@@ -58,7 +58,7 @@ images:
     image_title: Swiss chard, vegatable garden, Primary
     image_description:
   - image_path: /assets/jal-7311-small-copy.jpg
-    image_title: Mask for workshop, inspired by Swiss Chard
+    image_title: Sample Mask, inspired by Swiss Chard
     image_description:
   - image_path: /assets/dsc0013-copy.jpg
     image_title: Work in progress, studio space, Primary
