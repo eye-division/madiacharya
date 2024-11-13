@@ -57,7 +57,7 @@ images:
     image_title: Looking through the eyes
     image_description:
   - image_path: /assets/20240921-143156.jpeg
-    image_title:
+    image_title: Me and my work
     image_description:
 _options:
   image_path:
