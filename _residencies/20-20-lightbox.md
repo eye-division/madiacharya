@@ -48,8 +48,8 @@ images:
     image_title: I Dream a Palace, display case
     image_description:
   - image_path: /assets/536-screen.jpg
-    image_title:
-    image_description:
+    image_title: Brick Tiles
+    image_description: Thames Foreshore, London
   - image_path: /assets/692-screen-copy.jpg
     image_title:
     image_description:
