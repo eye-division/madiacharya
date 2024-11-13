@@ -17,7 +17,7 @@ description_markdown: >-
   the Tudor period.
 
 
-  Following the residency and commission, the exhibition 'I Dream a Palace', at
+  Following the residency and commission, the exhibition ‘I Dream a Palace’, at
   the Lightbox in 2024 show work created during the residency in dialogue with
   objects from the Heritage Collection.
 
@@ -38,7 +38,7 @@ images:
     image_title: Autumnal leaves, Basingstoke Canal
     image_description:
   - image_path: /assets/img-1862-copy.jpg
-    image_title: Ferns, waters edge, Baskingstoke Canal
+    image_title: Ferns, Baskingstoke Canal
     image_description:
   - image_path: /assets/img-2025-copy.jpg
     image_title: Shah Jahan Mosque
