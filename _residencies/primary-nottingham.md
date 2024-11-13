@@ -55,7 +55,7 @@ images:
     image_title: In the beggining, detail
     image_description:
   - image_path: /assets/dsc0119-copy.jpg
-    image_title:
+    image_title: Swiss chard, vegatable garden, Primary
     image_description:
   - image_path: /assets/jal-7311-small-copy.jpg
     image_title:
