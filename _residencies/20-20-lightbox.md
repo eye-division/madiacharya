@@ -60,8 +60,8 @@ images:
     image_title: Display Case, I Dream a Palace
     image_description:
   - image_path: /assets/524-screen.jpg
-    image_title:
-    image_description:
+    image_title: Oyster Shells
+    image_description: Thames foreshore, London
   - image_path: /assets/483-screen-copy-1.jpg
     image_title:
     image_description:
