@@ -101,7 +101,7 @@ images:
     image_title: 'Chertsea Palace tile, watercolour '
     image_description:
   - image_path: /assets/545-screen-copy.jpg
-    image_title: Valecian tile, watercolour 4
+    image_title: 'Valecian tile, watercolour '
     image_description:
 _options:
   image_path:
