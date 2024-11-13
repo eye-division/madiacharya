@@ -42,22 +42,22 @@ images:
     image_title: Woking with red discarded textiles and silk
     image_description:
   - image_path: /assets/img-0313-2.jpg
-    image_title:
+    image_title: Evening light, Zig Zag Building
     image_description:
   - image_path: /assets/img-0332.jpg
-    image_title:
+    image_title: Pull the wool over my eyes
     image_description:
   - image_path: /assets/img-0357.jpg
-    image_title:
+    image_title: Detail
     image_description:
   - image_path: /assets/20240921-143249-copy.jpg
-    image_title:
+    image_title: Zig Zag building, with my work
     image_description:
   - image_path: /assets/dscf7041-copy.jpg
-    image_title:
+    image_title: Looking through the eyes
     image_description:
   - image_path: /assets/20240921-143156.jpeg
-    image_title:
+    image_title: Me and my work
     image_description:
 _options:
   image_path:
