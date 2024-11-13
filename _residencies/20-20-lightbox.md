@@ -11,6 +11,17 @@ description_markdown: >-
   its architecture.
 
 
+  During the residency I also walked along the Thames foreshore in London and
+  was struck by the similarity between objects found  along the foreshore and
+  those which were part of the Heritage Collection at the Lightbox, dating from
+  the Tudor period.
+
+
+  Following the residency and commission, the exhibition 'I Dream a Palace', at
+  the Lightbox in 2024 show work created during the residency in dialogue with
+  objects from the Heritage Collection.
+
+
   20/20 Project funded by University of Arts, London, Freelands Foundation and
   Arts Council England was at the Lightbox in Woking.
 _gallery_date:
