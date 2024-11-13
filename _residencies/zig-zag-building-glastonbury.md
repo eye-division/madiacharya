@@ -51,7 +51,7 @@ images:
     image_title: Detail
     image_description:
   - image_path: /assets/20240921-143249-copy.jpg
-    image_title:
+    image_title: Zig Zag building, with my work
     image_description:
   - image_path: /assets/dscf7041-copy.jpg
     image_title:
