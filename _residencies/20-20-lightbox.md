@@ -21,47 +21,47 @@ main_image_path: /assets/483-screen-copy.jpg
 thumb_crop:
 images:
   - image_path: /assets/img-8984-copy.jpg
-    image_title:
+    image_title: Woking Palace, Old Woking
     image_description:
   - image_path: /assets/img-1975-copy.jpg
-    image_title:
+    image_title: Autumnal leaves, Basingstoke Canal
     image_description:
   - image_path: /assets/img-1862-copy.jpg
-    image_title:
+    image_title: Ferns, waters edge, Baskingstoke Canal
     image_description:
   - image_path: /assets/img-2025-copy.jpg
-    image_title:
+    image_title: Shah Jahan Mosque
     image_description:
   - image_path: /assets/673-screen-copy.jpg
-    image_title:
-    image_description:
+    image_title: Large Old Key
+    image_description: Reserve collection, Heather Farm, Woking
   - image_path: /assets/img-1851.jpg
-    image_title:
+    image_title: Tow Path, Basingstoke Canal
     image_description:
   - image_path: /assets/709-screen-copy.jpg
-    image_title:
-    image_description:
+    image_title: Toy Horse Fragment
+    image_description: Woking Story
   - image_path: /assets/626-screen-copy.jpg
-    image_title:
-    image_description:
+    image_title: Bartman, fragment
+    image_description: Woking Story, the Lightbox
   - image_path: /assets/713-screen-copy.jpg
-    image_title:
+    image_title: I Dream a Palace, display case
     image_description:
   - image_path: /assets/536-screen.jpg
-    image_title:
-    image_description:
+    image_title: Brick Tiles
+    image_description: Thames Foreshore, London
   - image_path: /assets/692-screen-copy.jpg
-    image_title:
+    image_title: Tile from Chertsea Palace
     image_description:
   - image_path: /assets/537-screen.jpg
-    image_title:
-    image_description:
+    image_title: Found Nails
+    image_description: Thames foreshore, London
   - image_path: /assets/672-screen-copy.jpg
-    image_title:
+    image_title: Display Case, I Dream a Palace
     image_description:
   - image_path: /assets/524-screen.jpg
-    image_title:
-    image_description:
+    image_title: Oyster Shells
+    image_description: Thames foreshore, London
   - image_path: /assets/483-screen-copy-1.jpg
     image_title:
     image_description:
