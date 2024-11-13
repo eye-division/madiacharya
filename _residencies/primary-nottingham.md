@@ -49,7 +49,7 @@ images:
     image_title: Shredded cardboard sample
     image_description:
   - image_path: /assets/jal-7306-small-copy.jpg
-    image_title:
+    image_title: In the beginning, shredded cardboard, acrylic paint
     image_description:
   - image_path: /assets/jal-7307-small-copy.jpg
     image_title:
