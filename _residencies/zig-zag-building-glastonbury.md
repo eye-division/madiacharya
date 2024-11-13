@@ -42,7 +42,7 @@ images:
     image_title: Woking with red discarded textiles and silk
     image_description:
   - image_path: /assets/img-0313-2.jpg
-    image_title:
+    image_title: Evening light, Zig Zag Building
     image_description:
   - image_path: /assets/img-0332.jpg
     image_title:
