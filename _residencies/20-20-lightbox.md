@@ -60,7 +60,7 @@ images:
     image_description:
   - image_path: /assets/536-screen.jpg
     image_title: Brick Tiles, Thames foreshore
-    image_description: Thames Foreshore, London
+    image_description:
   - image_path: /assets/692-screen-copy.jpg
     image_title: Tile from Chertsea Palace
     image_description:
