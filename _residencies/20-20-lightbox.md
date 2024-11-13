@@ -77,7 +77,7 @@ images:
     image_title: Ceramic sculpture, fishing net debris
     image_description:
   - image_path: /assets/487-screen-copy.jpg
-    image_title:
+    image_title: Bartman sculpture and fishing net  debris
     image_description:
   - image_path: /assets/548-screen-copy.jpg
     image_title:
