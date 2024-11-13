@@ -86,7 +86,7 @@ images:
     image_title: Ceramic sculpture with fishing net debris and shells
     image_description:
   - image_path: /assets/544-screen-copy.jpg
-    image_title:
+    image_title: Watercolour, Valencian tile
     image_description:
   - image_path: /assets/546-screen-copy.jpg
     image_title:
