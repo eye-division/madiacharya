@@ -80,7 +80,7 @@ images:
     image_title: Bartman sculpture and fishing net  debris
     image_description:
   - image_path: /assets/548-screen-copy.jpg
-    image_title:
+    image_title: Chertsea Palace tile, watercolour study
     image_description:
   - image_path: /assets/495-screen-copy.jpg
     image_title:
