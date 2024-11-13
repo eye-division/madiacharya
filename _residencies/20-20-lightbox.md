@@ -50,7 +50,7 @@ images:
     image_title: Tow Path, Basingstoke Canal
     image_description:
   - image_path: /assets/709-screen-copy.jpg
-    image_title: Toy Horse Fragment
+    image_title: Toy Horse Fragment, Woking Story
     image_description: Woking Story
   - image_path: /assets/626-screen-copy.jpg
     image_title: Bartman, fragment
