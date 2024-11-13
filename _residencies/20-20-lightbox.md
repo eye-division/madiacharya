@@ -57,7 +57,7 @@ images:
     image_title: Found Nails
     image_description: Thames foreshore, London
   - image_path: /assets/672-screen-copy.jpg
-    image_title:
+    image_title: Display Case, I Dream a Palace
     image_description:
   - image_path: /assets/524-screen.jpg
     image_title:
