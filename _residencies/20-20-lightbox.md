@@ -89,7 +89,7 @@ images:
     image_title: Watercolour, Valencian tile
     image_description:
   - image_path: /assets/546-screen-copy.jpg
-    image_title:
+    image_title: Watercolour Valecian tile
     image_description:
   - image_path: /assets/550-screen-copy.jpg
     image_title:
