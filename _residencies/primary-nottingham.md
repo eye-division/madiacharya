@@ -28,7 +28,7 @@ thumb_crop:
 order_number: 2
 images:
   - image_path: /assets/img-9770.jpg
-    image_title: Deep in Sherwood Forest
+    image_title: Visit to Sherwood Forest
     image_description:
   - image_path: /assets/jal-7315-small-copy.jpg
     image_title: Foliage study, Sherwood Forest
