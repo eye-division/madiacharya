@@ -64,7 +64,7 @@ images:
     image_title: Work in progress, studio space, Primary
     image_description:
   - image_path: /assets/dsc0362-copy.jpg
-    image_title: Wearing my work, studio, Primary
+    image_title: Wearing my work, studio space, Primary
     image_description:
   - image_path: /assets/jal-7277-small-copy.jpg
     image_title: Me with Hedgerow Lace created during residency
