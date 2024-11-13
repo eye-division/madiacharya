@@ -40,7 +40,7 @@ images:
     image_title: Image of lace sample from Nottingham Castle
     image_description:
   - image_path: /assets/jal-7314-small-copy.jpg
-    image_title:
+    image_title: Drawing of lace from Nottingham Castle, lace collection
     image_description:
   - image_path: /assets/jal-7312-small-copy.jpg
     image_title:
