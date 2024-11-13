@@ -28,7 +28,7 @@ thumb_crop:
 order_number: 2
 images:
   - image_path: /assets/img-9770.jpg
-    image_title: Deep in Sherwood Forest, Nottingham
+    image_title: Deep in Sherwood Forest
     image_description:
   - image_path: /assets/jal-7315-small-copy.jpg
     image_title: Foliage study, Sherwood Forest
@@ -64,7 +64,7 @@ images:
     image_title: Work in progress, studio space, Primary
     image_description:
   - image_path: /assets/dsc0362-copy.jpg
-    image_title: Work in progress, Primary
+    image_title: Wearing my work, studio, Primary
     image_description:
   - image_path: /assets/jal-7277-small-copy.jpg
     image_title: Me with Hedgerow Lace created during residency
