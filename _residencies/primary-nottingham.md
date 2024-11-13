@@ -34,7 +34,7 @@ images:
     image_title: Foliage study, Sherwood Forest
     image_description:
   - image_path: /assets/jal-7300-small-copy.jpg
-    image_title: 'Accordian Stich, work in progree '
+    image_title: 'Accordian Stitch, work in progree '
     image_description: 'Sewing with embroidery thread and shredded cardboard '
   - image_path: /assets/img-9634.jpg
     image_title: Image of lace sample from Nottingham Castle
@@ -52,19 +52,19 @@ images:
     image_title: In the beginning, shredded cardboard, acrylic paint
     image_description:
   - image_path: /assets/jal-7307-small-copy.jpg
-    image_title: In the beggining, detail
+    image_title: In the beginning, detail
     image_description:
   - image_path: /assets/dsc0119-copy.jpg
     image_title: Swiss chard, vegatable garden, Primary
     image_description:
   - image_path: /assets/jal-7311-small-copy.jpg
-    image_title: Mask for workshop, inspired by Swiss Chard
+    image_title: Sample Mask, inspired by Swiss Chard
     image_description:
   - image_path: /assets/dsc0013-copy.jpg
     image_title: Work in progress, studio space, Primary
     image_description:
   - image_path: /assets/dsc0362-copy.jpg
-    image_title: Wearing my work, studio space, Primary
+    image_title: Work in progress, studio space, Primary
     image_description:
   - image_path: /assets/jal-7277-small-copy.jpg
     image_title: Me with Hedgerow Lace created during residency
