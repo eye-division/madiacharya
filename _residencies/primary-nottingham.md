@@ -28,22 +28,22 @@ thumb_crop:
 order_number: 2
 images:
   - image_path: /assets/img-9770.jpg
-    image_title: Deep in Sherwood Forest
+    image_title: Visit to Sherwood Forest
     image_description:
   - image_path: /assets/jal-7315-small-copy.jpg
     image_title: Foliage study, Sherwood Forest
     image_description:
   - image_path: /assets/jal-7300-small-copy.jpg
-    image_title: 'Sewing with embroidery thread and shredded cardboard '
-    image_description:
+    image_title: 'Accordian Stich, work in progree '
+    image_description: 'Sewing with embroidery thread and shredded cardboard '
   - image_path: /assets/img-9634.jpg
     image_title: Image of lace sample from Nottingham Castle
     image_description:
   - image_path: /assets/jal-7314-small-copy.jpg
-    image_title: Drawing of lace from Nottingham Castle, lace collection
+    image_title: Lace pattern drawing
     image_description:
   - image_path: /assets/jal-7312-small-copy.jpg
-    image_title: Jagard Card, Cluny Lace Company
+    image_title: Jacquard Card, Cluny Lace Company
     image_description:
   - image_path: /assets/jal-7304-small-copy.jpg
     image_title: Shredded cardboard sample
