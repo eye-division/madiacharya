@@ -44,7 +44,7 @@ images:
     image_title: Shah Jahan Mosque
     image_description:
   - image_path: /assets/673-screen-copy.jpg
-    image_title: Large Old Key, reserve collection
+    image_title: Large Key, reserve collection
     image_description: Reserve collection, Heather Farm, Woking
   - image_path: /assets/img-1851.jpg
     image_title: Tow Path, Basingstoke Canal
@@ -53,14 +53,14 @@ images:
     image_title: Toy Horse Fragment, Woking Story
     image_description: Woking Story
   - image_path: /assets/626-screen-copy.jpg
-    image_title: Bartman fragmen, Woking Storyt
+    image_title: Bartman fragment, Woking Story
     image_description: Woking Story, the Lightbox
   - image_path: /assets/713-screen-copy.jpg
-    image_title: I Dream a Palace, display case
+    image_title: I Dream a Palace, display case 1
     image_description:
   - image_path: /assets/536-screen.jpg
     image_title: Brick Tiles, Thames foreshore
-    image_description: Thames Foreshore, London
+    image_description:
   - image_path: /assets/692-screen-copy.jpg
     image_title: Tile from Chertsea Palace
     image_description:
@@ -68,7 +68,7 @@ images:
     image_title: Found Nails, Thames foreshore
     image_description: Thames foreshore, London
   - image_path: /assets/672-screen-copy.jpg
-    image_title: I Dream a Palace, display case
+    image_title: I Dream a Palace, display case 2
     image_description:
   - image_path: /assets/524-screen.jpg
     image_title: Oyster Shells, Thames foreshore
@@ -77,31 +77,31 @@ images:
     image_title: Ceramic sculpture, fishing net debris
     image_description:
   - image_path: /assets/487-screen-copy.jpg
-    image_title: Bartman sculpture and fishing net  debris
+    image_title: Bartman sculpture, fishing net  debris
     image_description:
   - image_path: /assets/548-screen-copy.jpg
-    image_title: 'Chertsea Palace tile, watercolour '
+    image_title: Chertsea Palace tile, watercolour 1
     image_description:
   - image_path: /assets/495-screen-copy.jpg
-    image_title: Ceramic sculpture with fishing net debris and shells
+    image_title: Ceramic sculpture, fishing net debris with shells
     image_description:
   - image_path: /assets/544-screen-copy.jpg
-    image_title: Watercolour, Valencian tile
+    image_title: 'Valencian tile, Watercolour 1 '
     image_description:
   - image_path: /assets/546-screen-copy.jpg
-    image_title: Watercolour Valecian tile
+    image_title: Valecian tile, watercolour 2
     image_description:
   - image_path: /assets/550-screen-copy.jpg
-    image_title: Chertsea Palace tile, watercolour
+    image_title: Chertsea Palace tile, watercolour 2
     image_description:
   - image_path: /assets/547-screen-copy.jpg
-    image_title: Watercolour Valecian tile
+    image_title: Valecian tile, watercolour 3
     image_description:
   - image_path: /assets/549-screen-copy.jpg
-    image_title: Chertsea Palace tile, watercolour
+    image_title: Chertsea Palace tile, watercolour 3
     image_description:
   - image_path: /assets/545-screen-copy.jpg
-    image_title: Watercolour Valecian tile
+    image_title: Valecian tile, watercolour 4
     image_description:
 _options:
   image_path:
