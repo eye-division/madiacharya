@@ -17,7 +17,7 @@ description_markdown: >-
   the Tudor period.
 
 
-  Following the residency and commission, the exhibition 'I Dream a Palace', at
+  Following the residency and commission, the exhibition ‘I Dream a Palace’, at
   the Lightbox in 2024 show work created during the residency in dialogue with
   objects from the Heritage Collection.
 
@@ -38,70 +38,70 @@ images:
     image_title: Autumnal leaves, Basingstoke Canal
     image_description:
   - image_path: /assets/img-1862-copy.jpg
-    image_title: Ferns, waters edge, Baskingstoke Canal
+    image_title: Ferns, Baskingstoke Canal
     image_description:
   - image_path: /assets/img-2025-copy.jpg
     image_title: Shah Jahan Mosque
     image_description:
   - image_path: /assets/673-screen-copy.jpg
-    image_title: Large Old Key
+    image_title: Large Old Key, reserve collection
     image_description: Reserve collection, Heather Farm, Woking
   - image_path: /assets/img-1851.jpg
     image_title: Tow Path, Basingstoke Canal
     image_description:
   - image_path: /assets/709-screen-copy.jpg
-    image_title: Toy Horse Fragment
+    image_title: Toy Horse Fragment, Woking Story
     image_description: Woking Story
   - image_path: /assets/626-screen-copy.jpg
-    image_title: Bartman, fragment
+    image_title: Bartman fragmen, Woking Storyt
     image_description: Woking Story, the Lightbox
   - image_path: /assets/713-screen-copy.jpg
     image_title: I Dream a Palace, display case
     image_description:
   - image_path: /assets/536-screen.jpg
-    image_title: Brick Tiles
+    image_title: Brick Tiles, Thames foreshore
     image_description: Thames Foreshore, London
   - image_path: /assets/692-screen-copy.jpg
     image_title: Tile from Chertsea Palace
     image_description:
   - image_path: /assets/537-screen.jpg
-    image_title: Found Nails
+    image_title: Found Nails, Thames foreshore
     image_description: Thames foreshore, London
   - image_path: /assets/672-screen-copy.jpg
-    image_title: Display Case, I Dream a Palace
+    image_title: I Dream a Palace, display case
     image_description:
   - image_path: /assets/524-screen.jpg
-    image_title: Oyster Shells
+    image_title: Oyster Shells, Thames foreshore
     image_description: Thames foreshore, London
   - image_path: /assets/483-screen-copy-1.jpg
-    image_title:
+    image_title: Ceramic sculpture, fishing net debris
     image_description:
   - image_path: /assets/487-screen-copy.jpg
-    image_title:
+    image_title: Bartman sculpture and fishing net  debris
     image_description:
   - image_path: /assets/548-screen-copy.jpg
-    image_title:
+    image_title: 'Chertsea Palace tile, watercolour '
     image_description:
   - image_path: /assets/495-screen-copy.jpg
-    image_title:
+    image_title: Ceramic sculpture with fishing net debris and shells
     image_description:
   - image_path: /assets/544-screen-copy.jpg
-    image_title:
+    image_title: Watercolour, Valencian tile
     image_description:
   - image_path: /assets/546-screen-copy.jpg
-    image_title:
+    image_title: Watercolour Valecian tile
     image_description:
   - image_path: /assets/550-screen-copy.jpg
-    image_title:
+    image_title: Chertsea Palace tile, watercolour
     image_description:
   - image_path: /assets/547-screen-copy.jpg
-    image_title:
+    image_title: Watercolour Valecian tile
     image_description:
   - image_path: /assets/549-screen-copy.jpg
-    image_title:
+    image_title: Chertsea Palace tile, watercolour
     image_description:
   - image_path: /assets/545-screen-copy.jpg
-    image_title:
+    image_title: Watercolour Valecian tile
     image_description:
 _options:
   image_path:
