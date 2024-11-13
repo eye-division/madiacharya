@@ -31,7 +31,7 @@ images:
     image_title: Deep in Sherwood Forest, Nottingham
     image_description:
   - image_path: /assets/jal-7315-small-copy.jpg
-    image_title:
+    image_title: Foliage study, Sherwood Forest
     image_description:
   - image_path: /assets/jal-7300-small-copy.jpg
     image_title:
