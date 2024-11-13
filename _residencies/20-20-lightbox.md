@@ -62,7 +62,7 @@ images:
     image_title: Brick Tiles, Thames foreshore
     image_description:
   - image_path: /assets/692-screen-copy.jpg
-    image_title: Tile from Chertsea Palace
+    image_title: Tile from Chertsea Palace, reserve collection
     image_description:
   - image_path: /assets/537-screen.jpg
     image_title: Found Nails, Thames foreshore
@@ -80,28 +80,28 @@ images:
     image_title: Bartman sculpture, fishing net  debris
     image_description:
   - image_path: /assets/548-screen-copy.jpg
-    image_title: Chertsea Palace tile, watercolour 1
+    image_title: 'Chertsea Palace tile, watercolour '
     image_description:
   - image_path: /assets/495-screen-copy.jpg
     image_title: Ceramic sculpture, fishing net debris with shells
     image_description:
   - image_path: /assets/544-screen-copy.jpg
-    image_title: 'Valencian tile, Watercolour 1 '
+    image_title: 'Valencian tile, watercolour '
     image_description:
   - image_path: /assets/546-screen-copy.jpg
-    image_title: Valecian tile, watercolour 2
+    image_title: 'Valecian tile, watercolour '
     image_description:
   - image_path: /assets/550-screen-copy.jpg
-    image_title: Chertsea Palace tile, watercolour 2
+    image_title: 'Chertsea Palace tile, watercolour '
     image_description:
   - image_path: /assets/547-screen-copy.jpg
-    image_title: Valecian tile, watercolour 3
+    image_title: 'Valecian tile, watercolour '
     image_description:
   - image_path: /assets/549-screen-copy.jpg
-    image_title: Chertsea Palace tile, watercolour 3
+    image_title: 'Chertsea Palace tile, watercolour '
     image_description:
   - image_path: /assets/545-screen-copy.jpg
-    image_title: Valecian tile, watercolour 4
+    image_title: 'Valecian tile, watercolour '
     image_description:
 _options:
   image_path:
