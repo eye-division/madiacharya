@@ -42,8 +42,8 @@ images:
     image_title: Toy Horse Fragment
     image_description: Woking Story
   - image_path: /assets/626-screen-copy.jpg
-    image_title:
-    image_description:
+    image_title: Bartman, fragment
+    image_description: Woking Story, the Lightbox
   - image_path: /assets/713-screen-copy.jpg
     image_title:
     image_description:
