@@ -34,7 +34,7 @@ images:
     image_title: Foliage study, Sherwood Forest
     image_description:
   - image_path: /assets/jal-7300-small-copy.jpg
-    image_title: 'Accordian Stich, work in progree '
+    image_title: 'Accordian Stitch, work in progree '
     image_description: 'Sewing with embroidery thread and shredded cardboard '
   - image_path: /assets/img-9634.jpg
     image_title: Image of lace sample from Nottingham Castle
