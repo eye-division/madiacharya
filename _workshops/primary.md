@@ -1,6 +1,14 @@
 ---
 title: Primary
-description_markdown: ''
+description_markdown: >-
+  During my residency at Primary, Nottingham  in 2024, I ran a workshop in the
+  garden there. There were many organically grown vegetables such carrots and
+  Swiss chard and many brightly coloured flowers such as Nasturtiums.
+
+
+  These vegatables  and flowers inspired this  mixed media workshop where we
+  worked with discarded packaging such as eggs boxes, acrylic paint and gems to
+  create small sculptural works.
 _gallery_date:
 permalink: /workshops/primary/
 order_number: 1
