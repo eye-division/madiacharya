@@ -1,6 +1,16 @@
 ---
 title: Bartman
-description_markdown: ''
+description_markdown: >-
+  This workshop at the Lightbox , Woking was based on the 16th century Bartmann
+  jug,  which is the Heritage collection there. Participants made their own
+  version of the Bartman jug in non firing clay. This workshop was attended by
+  participants of all ages, families, from children through to their
+  grandparents.
+
+
+  It took place in 2024 alongside my solo exhibition ' I Dream a Palace' at the
+  Lightbox  and was funded by National Lottery Project Grant, Arts Council
+  England.
 _gallery_date:
 permalink: /workshops/bartman/
 order_number: 4
