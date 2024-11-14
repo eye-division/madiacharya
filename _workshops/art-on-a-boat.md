@@ -1,6 +1,16 @@
 ---
 title: Art on a Boat
-description_markdown: ''
+description_markdown: >-
+  This workshop took place aboard the boat 'Kitty' as we cruised along the
+  Basingstoke Canal. Women from various cultural backgrounds, including South
+  Asian origin  and the Ukraine were invited to create paintings on found wood.
+  Their work reflected the changing landscape through the journey across the
+  water and its biodiversity.
+
+
+  This workshop was part of the events program for my solo exhibition at the
+  Lightbox, Woking, funded by National Lottery Project Grant, Arts Council
+  England.
 _gallery_date:
 permalink: /workshops/Art on a Boat/
 order_number: 2
