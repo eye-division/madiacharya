@@ -1,5 +1,5 @@
 ---
-title: Sanctuary
+title: Sanctuary, Kenya
 _hide_content: true
 description_markdown: >-
   This series of photographs are from the project **‘Sanctuary’**, which took

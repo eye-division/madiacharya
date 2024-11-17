@@ -1,5 +1,5 @@
 ---
-title: Willowbrook Residency
+title: Willowbrook Farm, Oxfordshire
 description_markdown: >-
   This artwork was created during a 2 week residency based ata specialist
   provision for young people with neurodivergent needs in Oxford. The work was
