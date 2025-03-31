@@ -69,6 +69,9 @@ images:
   - image_path: /assets/time-here-with-you-copy-2.jpg
     image_title: Time Spent
     image_description: Oil on found wood, dimensions 24 x 17.5 cm
+  - image_path: /assets/bus-garden-copy.jpg
+    image_title: Bus Garden
+    image_description: Oil on found wood, dimensions 14.5 x 10 cm
 _options:
   image_path:
     width: 1200
