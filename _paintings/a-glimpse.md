@@ -72,6 +72,12 @@ images:
   - image_path: /assets/bus-garden-copy.jpg
     image_title: Bus Garden
     image_description: Oil on found wood, dimensions 14.5 x 10 cm
+  - image_path: /assets/sunny-day-prospect-copy.jpg
+    image_title: Sunny Day Prospect
+    image_description: Oil on found wood, Dimensions 27 x 15.5 cm
+  - image_path: /assets/dress-to-be-unnoticed-copy.jpg
+    image_title: Dress to be unnoticed
+    image_description: Oil on found wood, Dimensions 20 x 20 cm
 _options:
   image_path:
     width: 1200
