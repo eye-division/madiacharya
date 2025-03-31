@@ -43,6 +43,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### SELECTED GROUP EXHIBITIONS
 
+2025 **London Art Fair,** April Contemporary, London
+
 2024 **Antimonumental,** Thamesside Studios Gallery, London
 
 2024 **Standing Ground,** Thamesside Studios Gallery, London
