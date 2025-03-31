@@ -84,6 +84,9 @@ images:
   - image_path: /assets/can-t-wait-to-hear-your-manly-words-copy.jpg
     image_title: Can't wait to hear your manly words
     image_description: Oil on found wood, 27 x 16.5 cm
+  - image_path: /assets/shoe-gazing-copy.jpg
+    image_title: Shoe Gazing
+    image_description: Oil on found wood
 _options:
   image_path:
     width: 1200
