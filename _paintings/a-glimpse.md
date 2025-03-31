@@ -2,7 +2,7 @@
 title: Glimpses
 description_markdown: >-
   This is a series of small paintings with irregular edges. They are left
-  purposefully unframed, free and expansive but also appear to be a 'glimpse' of
+  purposefully unframed, free and expansive but also appear to be a ‘glimpse’ of
   something fleeting rather than fixed.
 _gallery_date:
 permalink: /paintings/glimpses
@@ -66,6 +66,9 @@ images:
   - image_path: /assets/images/3612-screen-copy.jpg
     image_title: Portrait of a strawberry
     image_description: Oil on wood panel, H16.5 W11.5 D2, 2020
+  - image_path: /assets/time-here-with-you-copy.jpg
+    image_title: Time Spent
+    image_description: Oil on found wood, dimensions 24 x 17.5 cm
 _options:
   image_path:
     width: 1200
