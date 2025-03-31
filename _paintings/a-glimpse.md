@@ -78,6 +78,12 @@ images:
   - image_path: /assets/dress-to-be-unnoticed-copy.jpg
     image_title: Dress to be unnoticed
     image_description: Oil on found wood, Dimensions 20 x 20 cm
+  - image_path: /assets/dreaming-of-violet-copy.jpg
+    image_title: Dreaming of violet
+    image_description: Oil on found wood, Dimensions 21 x 14 cm
+  - image_path: /assets/can-t-wait-to-hear-your-manly-words-copy.jpg
+    image_title: Can't wait to hear your manly words
+    image_description: Oil on found wood, 27 x 16.5 cm
 _options:
   image_path:
     width: 1200
