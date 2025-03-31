@@ -66,7 +66,7 @@ images:
   - image_path: /assets/images/3612-screen-copy.jpg
     image_title: Portrait of a strawberry
     image_description: Oil on wood panel, H16.5 W11.5 D2, 2020
-  - image_path: /assets/time-here-with-you-copy.jpg
+  - image_path: /assets/time-here-with-you-copy-1.jpg
     image_title: Time Spent
     image_description: Oil on found wood, dimensions 24 x 17.5 cm
 _options:
