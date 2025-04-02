@@ -28,8 +28,7 @@ images:
   - image_path: /assets/images/5535a-the-sunflower-bee-copy.jpg
     image_title: The sunflower bee
     image_description: |2
-             Oil on wood
-             H13 W13.5 D4.5 cm
+        Oil on wood, 2021, H13 W13.5 D4.5 cm
   - image_path: /assets/can-t-wait-to-hear-your-manly-words-copy.jpg
     image_title: Can't wait to hear your manly words
     image_description: Oil on found wood, 27 x 16.5 cm
