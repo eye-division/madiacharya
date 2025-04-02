@@ -37,7 +37,7 @@ images:
     image_description: 'Oil on found wood, 2024, '
   - image_path: /assets/swimming-in-secret-copy.jpg
     image_title: Swimming in secret
-    image_description: Oil on found wood, Dimensions 14 x 26 cm
+    image_description: Oil on found wood, 2024, H14 x W26 cm
   - image_path: /assets/images/6338ab-screen-copy.jpg
     image_title: Wild Floatation
     image_description: |-
