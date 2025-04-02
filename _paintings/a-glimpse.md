@@ -15,7 +15,7 @@ images:
     image_description: Oil on found wood, 2024, H24 W17.5 cm
   - image_path: /assets/dress-to-be-unnoticed-copy-2.jpg
     image_title: Dress to be unnoticed *SOLD*
-    image_description: Oil on found wood, Dimensions 20 x 20 cm
+    image_description: Oil on found wood, 2024, H20 W20 cm
   - image_path: /assets/dreaming-of-violet-copy.jpg
     image_title: Dreaming of violet
     image_description: Oil on found wood, Dimensions 21 x 14 cm
