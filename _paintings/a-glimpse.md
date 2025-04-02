@@ -22,6 +22,9 @@ images:
   - image_path: /assets/bus-garden-copy.jpg
     image_title: Bus Garden
     image_description: Oil on found wood, dimensions 14.5 x 10 cm
+  - image_path: /assets/sunny-day-prospect-copy.jpg
+    image_title: Sunny Day Prospect
+    image_description: Oil on found wood, Dimensions 27 x 15.5 cm
   - image_path: /assets/images/6338ab-screen-copy.jpg
     image_title: Wild Floatation
     image_description: |-
@@ -78,9 +81,6 @@ images:
   - image_path: /assets/images/3612-screen-copy.jpg
     image_title: Portrait of a strawberry
     image_description: Oil on wood panel, H16.5 W11.5 D2, 2020
-  - image_path: /assets/sunny-day-prospect-copy.jpg
-    image_title: Sunny Day Prospect
-    image_description: Oil on found wood, Dimensions 27 x 15.5 cm
   - image_path: /assets/can-t-wait-to-hear-your-manly-words-copy.jpg
     image_title: Can't wait to hear your manly words
     image_description: Oil on found wood, 27 x 16.5 cm
