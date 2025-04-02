@@ -25,6 +25,11 @@ images:
   - image_path: /assets/sunny-day-prospect-copy.jpg
     image_title: Sunny Day Prospect
     image_description: Oil on found wood, Dimensions 27 x 15.5 cm
+  - image_path: /assets/images/5535a-the-sunflower-bee-copy.jpg
+    image_title: The sunflower bee
+    image_description: |2
+             Oil on wood
+             H13 W13.5 D4.5 cm
   - image_path: /assets/images/6338ab-screen-copy.jpg
     image_title: Wild Floatation
     image_description: |-
@@ -60,11 +65,6 @@ images:
   - image_path: /assets/images/3589a-screen-copy.jpg
     image_title: If I lived in a forest I would hang my dress from a tree
     image_description: Oil on wood panel, H20 W23 D1.5, 2020
-  - image_path: /assets/images/5535a-the-sunflower-bee-copy.jpg
-    image_title: The sunflower bee
-    image_description: |2
-             Oil on wood
-             H13 W13.5 D4.5 cm
   - image_path: /assets/images/3599a-screen-copy.jpg
     image_title: Backyard Bananas
     image_description: Oil on wood panel, assemblage, H23.5W16.5  D1.5, 2020
