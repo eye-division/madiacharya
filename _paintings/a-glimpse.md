@@ -71,15 +71,15 @@ images:
   - image_path: /assets/images/3603a-screen-copy.jpg
     image_title: No Idle Sitting
     image_description: Oil on wood panel, H13 W18 , 2020
-  - image_path: /assets/images/3589a-screen-copy.jpg
-    image_title: If I lived in a forest I would hang my dress from a tree
-    image_description: Oil on wood panel, H20 W23 D1.5, 2020
-  - image_path: /assets/images/3599a-screen-copy.jpg
-    image_title: Backyard Bananas
-    image_description: Oil on wood panel, assemblage, H23.5W16.5  D1.5, 2020
   - image_path: /assets/images/3596a-screen-copy.jpg
     image_title: Birthday Suit
     image_description: Oil on wood panel, assemblage, H21 W19 D2.5, 2020
+  - image_path: /assets/images/3599a-screen-copy.jpg
+    image_title: Backyard Bananas
+    image_description: Oil on wood panel, assemblage, H23.5W16.5  D1.5, 2020
+  - image_path: /assets/images/3589a-screen-copy.jpg
+    image_title: If I lived in a forest I would hang my dress from a tree
+    image_description: Oil on wood panel, H20 W23 D1.5, 2020
   - image_path: /assets/images/3581-screen-copy.jpg
     image_title: Gone South
     image_description: Oil on wood panel, assemblage, H20 W18 , 2020
