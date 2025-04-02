@@ -36,6 +36,9 @@ images:
   - image_path: /assets/shoe-gazing-copy.jpg
     image_title: Shoe Gazing
     image_description: Oil on found wood
+  - image_path: /assets/swimming-in-secret-copy.jpg
+    image_title: Swimming in secret
+    image_description: Oil on found wood, Dimensions 14 x 26 cm
   - image_path: /assets/images/6338ab-screen-copy.jpg
     image_title: Wild Floatation
     image_description: |-
@@ -87,9 +90,6 @@ images:
   - image_path: /assets/images/3612-screen-copy.jpg
     image_title: Portrait of a strawberry
     image_description: Oil on wood panel, H16.5 W11.5 D2, 2020
-  - image_path: /assets/swimming-in-secret-copy.jpg
-    image_title: Swimming in secret
-    image_description: Oil on found wood, Dimensions 14 x 26 cm
 _options:
   image_path:
     width: 1200
