@@ -18,7 +18,7 @@ images:
     image_description: Oil on found wood, 2024, H20 W20 cm
   - image_path: /assets/dreaming-of-violet-copy.jpg
     image_title: Dreaming of violet
-    image_description: Oil on found wood, Dimensions 21 x 14 cm
+    image_description: Oil on found wood, 2024, H 21 W14 cm
   - image_path: /assets/bus-garden-copy.jpg
     image_title: Bus Garden
     image_description: Oil on found wood, dimensions 14.5 x 10 cm
