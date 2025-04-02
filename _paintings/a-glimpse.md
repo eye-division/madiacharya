@@ -24,7 +24,7 @@ images:
     image_description: Oil on found wood, 2024, H14.5 W10 cm
   - image_path: /assets/sunny-day-prospect-copy.jpg
     image_title: Sunny Day Prospect
-    image_description: Oil on found wood, Dimensions 27 x 15.5 cm
+    image_description: Oil on found wood, 2024, H27  W15.5 cm
   - image_path: /assets/images/5535a-the-sunflower-bee-copy.jpg
     image_title: The sunflower bee
     image_description: |2
