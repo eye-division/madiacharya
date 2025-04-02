@@ -34,7 +34,7 @@ images:
     image_description: Oil on found wood, 2024, H27  W16.5 cm
   - image_path: /assets/shoe-gazing-copy.jpg
     image_title: Shoe Gazing
-    image_description: Oil on found wood
+    image_description: 'Oil on found wood, 2024, '
   - image_path: /assets/swimming-in-secret-copy.jpg
     image_title: Swimming in secret
     image_description: Oil on found wood, Dimensions 14 x 26 cm
