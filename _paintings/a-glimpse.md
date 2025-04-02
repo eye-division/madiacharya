@@ -7,7 +7,7 @@ description_markdown: >-
 _gallery_date:
 permalink: /paintings/glimpses
 archive: false
-main_image_path: /assets/images/5677a-screen-copy-2.jpg
+main_image_path: /assets/dress-to-be-unnoticed-copy-2-1.jpg
 thumb_crop:
 images:
   - image_path: /assets/images/6338ab-screen-copy.jpg
