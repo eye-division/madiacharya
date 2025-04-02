@@ -25,6 +25,20 @@ images:
   - image_path: /assets/sunny-day-prospect-copy.jpg
     image_title: Sunny Day Prospect
     image_description: Oil on found wood, Dimensions 27 x 15.5 cm
+  - image_path: /assets/images/5535a-the-sunflower-bee-copy.jpg
+    image_title: The sunflower bee
+    image_description: |2
+             Oil on wood
+             H13 W13.5 D4.5 cm
+  - image_path: /assets/can-t-wait-to-hear-your-manly-words-copy.jpg
+    image_title: Can't wait to hear your manly words
+    image_description: Oil on found wood, 27 x 16.5 cm
+  - image_path: /assets/shoe-gazing-copy.jpg
+    image_title: Shoe Gazing
+    image_description: Oil on found wood
+  - image_path: /assets/swimming-in-secret-copy.jpg
+    image_title: Swimming in secret
+    image_description: Oil on found wood, Dimensions 14 x 26 cm
   - image_path: /assets/images/6338ab-screen-copy.jpg
     image_title: Wild Floatation
     image_description: |-
@@ -60,11 +74,6 @@ images:
   - image_path: /assets/images/3589a-screen-copy.jpg
     image_title: If I lived in a forest I would hang my dress from a tree
     image_description: Oil on wood panel, H20 W23 D1.5, 2020
-  - image_path: /assets/images/5535a-the-sunflower-bee-copy.jpg
-    image_title: The sunflower bee
-    image_description: |2
-             Oil on wood
-             H13 W13.5 D4.5 cm
   - image_path: /assets/images/3599a-screen-copy.jpg
     image_title: Backyard Bananas
     image_description: Oil on wood panel, assemblage, H23.5W16.5  D1.5, 2020
@@ -81,15 +90,6 @@ images:
   - image_path: /assets/images/3612-screen-copy.jpg
     image_title: Portrait of a strawberry
     image_description: Oil on wood panel, H16.5 W11.5 D2, 2020
-  - image_path: /assets/can-t-wait-to-hear-your-manly-words-copy.jpg
-    image_title: Can't wait to hear your manly words
-    image_description: Oil on found wood, 27 x 16.5 cm
-  - image_path: /assets/shoe-gazing-copy.jpg
-    image_title: Shoe Gazing
-    image_description: Oil on found wood
-  - image_path: /assets/swimming-in-secret-copy.jpg
-    image_title: Swimming in secret
-    image_description: Oil on found wood, Dimensions 14 x 26 cm
 _options:
   image_path:
     width: 1200
