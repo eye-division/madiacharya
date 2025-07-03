@@ -1,9 +1,10 @@
 ---
 title: Primary
 description_markdown: >-
-  During my residency at Primary, Nottingham  in 2024, I ran a workshop in the
-  garden there. There were many organically grown vegetables such carrots and
-  Swiss chard and many brightly coloured flowers such as Nasturtiums.
+  During my residency at Primary, Nottingham  in 2024, I ran a workshop for
+  children and their families in the garden there. There were many organically
+  grown vegetables such carrots and Swiss chard and many brightly coloured
+  flowers such as Nasturtiums.
 
 
   These vegatables  and flowers inspired this  mixed media workshop where we
