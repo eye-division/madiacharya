@@ -16,21 +16,21 @@ description_markdown: >-
   ‘*It was an absolute pleasure working with Madi for our drop-in family
   workshop at Bowfest 2025 to celebrate Bow Arts’ 30th anniversary. Madi is very
   creative in using accessible discarded materials such as egg boxes to create
-  3D carnivalesque masks with our local families. I really appreciate Madi's
+  3D carnivalesque masks with our local families. I really appreciate Madi’s
   generosity for preparing the workshop materials, making samples and her
   artistic expertise in engaging with children through using mixed media and a
   range of colouring techniques. We received amazing feedback from participants
-  for Madi's workshop - it created such a fun and relaxing atmosphere at our
+  for Madi’s workshop - it created such a fun and relaxing atmosphere at our
   biggest event of the summer. I look forward to working with Madi on our
   upcoming Bow Families sessions! ‘*
 _gallery_date:
 permalink: /workshops/bowfest
 order_number: -1
 archive: false
-main_image_path: /assets/bowfestopenstudios2025-photocredit-bethanyparkinson-045.jpg
+main_image_path: /assets/bowfestopenstudios2025-photocredit-bethanyparkinson-045-2.jpg
 thumb_crop:
 images:
-  - image_path: /assets/bowfestopenstudios2025-photocredit-bethanyparkinson-045-1.jpg
+  - image_path: /assets/bowfestopenstudios2025-photocredit-bethanyparkinson-045-3.jpg
     image_title:
     image_description:
   - image_path:
