@@ -33,7 +33,7 @@ images:
   - image_path: /assets/bowfestopenstudios2025-photocredit-bethanyparkinson-045-4.jpg
     image_title:
     image_description:
-  - image_path: /assets/bowfestopenstudios2025-photocredit-bethanyparkinson-084-3.jpg
+  - image_path: /assets/bowfestopenstudios2025-photocredit-bethanyparkinson-084-4.jpg
     image_title:
     image_description:
 _options:
