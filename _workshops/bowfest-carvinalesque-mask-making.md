@@ -30,7 +30,7 @@ archive: false
 main_image_path: /assets/bowfestopenstudios2025-photocredit-bethanyparkinson-045-2.jpg
 thumb_crop:
 images:
-  - image_path: /assets/bowfestopenstudios2025-photocredit-bethanyparkinson-045-3.jpg
+  - image_path: /assets/bowfestopenstudios2025-photocredit-bethanyparkinson-045-4.jpg
     image_title:
     image_description:
   - image_path:
