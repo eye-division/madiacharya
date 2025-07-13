@@ -27,7 +27,7 @@ _gallery_date:
 permalink: /workshops/bowfest
 order_number: -1
 archive: false
-main_image_path: /assets/bowfestopenstudios2025-photocredit-bethanyparkinson-045-2.jpg
+main_image_path: /assets/bowfestopenstudios2025-photocredit-bethanyparkinson-045-4.jpg
 thumb_crop:
 images:
   - image_path: /assets/bowfestopenstudios2025-photocredit-bethanyparkinson-045-4.jpg
