@@ -39,6 +39,15 @@ images:
   - image_path: /assets/bowfestopenstudios2025-photocredit-bethanyparkinson-086-1.jpg
     image_title:
     image_description:
+  - image_path: /assets/img-3377-1.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/img-3418.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/img-3421.jpg
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
