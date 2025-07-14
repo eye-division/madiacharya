@@ -31,7 +31,7 @@ main_image_path: /assets/bowfestopenstudios2025-photocredit-bethanyparkinson-045
 thumb_crop:
 images:
   - image_path: /assets/bowfestopenstudios2025-photocredit-bethanyparkinson-045-5.jpg
-    image_title:
+    image_title: 'Photo credit: Bethany Parkinson'
     image_description:
   - image_path: /assets/bowfestopenstudios2025-photocredit-bethanyparkinson-084-6.jpg
     image_title:
