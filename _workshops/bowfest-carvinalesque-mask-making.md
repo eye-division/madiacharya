@@ -48,6 +48,15 @@ images:
   - image_path: /assets/img-3421.jpg
     image_title:
     image_description:
+  - image_path: /assets/img-3416.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/img-3429.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/img-3425.jpg
+    image_title:
+    image_description:
 _options:
   image_path:
     width: 1200
