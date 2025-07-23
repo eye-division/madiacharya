@@ -25,6 +25,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### SOLO AND TWO PERSON EXHIBITIONS
 
+2025 **The Double Act,** The Arthouse, Wakefield
+
 2024 **The Double Act, First Plinth Public Art Award,** Royal Society of Sculptors
 
 2024 **Caught in the Act** (solo) Royal Society of Sculptors, London
