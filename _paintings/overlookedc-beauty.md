@@ -16,9 +16,9 @@ images:
     image_title: Overlooked Beauty
     image_description: |-
       Materials: Mixed media on found wood, found rubber edging, 
-      Dimensions: H46 W45 D3.5, 2019
+      Dimensions: H46 W45 D3.5, 2021
   - image_path: /assets/images/090-screen-copy.jpg
-    image_title: 'Overlooked Beauty, detail'
+    image_title: Overlooked Beauty, detail
     image_description:
   - image_path: /assets/images/072-screen-copy.jpg
     image_title: Carnival
@@ -26,7 +26,7 @@ images:
       Materials: Mixed media on found wood, found rubber frame
       Dimensions (cm) : W30.5 L31 D3.5, 2018
   - image_path: /assets/images/074-screen-copy.jpg
-    image_title: 'Carnival, detail'
+    image_title: Carnival, detail
     image_description:
   - image_path: /assets/images/077-screen-copy.jpg
     image_title: Look at me now
@@ -34,7 +34,7 @@ images:
       Materials: Mixed media on found wood, found rubber frame,
       Dimensions (cm): H31 W30 D3.5, 2017
   - image_path: /assets/images/081-screen-copy.jpg
-    image_title: 'Look at me now, detail'
+    image_title: Look at me now, detail
     image_description:
   - image_path: /assets/images/3572a-screen-copy-2.jpg
     image_title: That Island Feeling
@@ -42,7 +42,7 @@ images:
       Materials: Mixed media on found wood, found rubber frame
       Dimensions (cm): H43 W47 D3, 2020
   - image_path: /assets/images/3572-screen-copy.jpg
-    image_title: 'That island feeling, detail'
+    image_title: That island feeling, detail
     image_description:
 _options:
   image_path:
