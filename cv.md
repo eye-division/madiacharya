@@ -101,7 +101,11 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### PRIZES, AWARDS, OPEN SUBMISSIONS
 
-2023 **First Plinth Award,** Royal Society of Sculptors, London
+2025 **Bow Open: Connections**, Nunnery Gallery, Bow Arts, London
+
+2025 **Summer Show,** Royal Society of Sculptors, Burgh House, London
+
+&nbsp;2023 **First Plinth Award,** Royal Society of Sculptors, London
 
 2023 **The Primary Residency Prize** awarded following selection for New Art Exchange Open 2023
 
