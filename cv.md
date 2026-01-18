@@ -45,6 +45,8 @@ MA Fine Art, Cardiff Institute, University of Wales, Cardiff
 
 ### SELECTED GROUP EXHIBITIONS
 
+2026 **2O/20 Futures**, London College of Fashion
+
 2025 **London Art Fair,** April Contemporary, London
 
 2024 **Antimonumental,** Thamesside Studios Gallery, London
