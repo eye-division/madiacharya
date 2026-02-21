@@ -51,6 +51,9 @@ images:
   - image_path: /assets/images/5440-under-the-bonnet-detail-copy.jpg
     image_title: Behind the Bonnet (detail)
     image_description:
+  - image_path: /assets/images/gc-25-11-035.jpg
+    image_title: Tobermory Pendulun, installation view
+    image_description:
 _options:
   image_path:
     uploads_dir: assets/images/:year
@@ -73,5 +76,3 @@ _comments:
   order_number: Display order on the installations page
   archive: Should we archive it?
 ---
-
-
