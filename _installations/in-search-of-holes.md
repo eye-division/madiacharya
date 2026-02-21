@@ -2,7 +2,7 @@
 title: In search of holes
 description_markdown:
 _gallery_date:
-permalink:
+permalink: /installations/in-search-of-holes
 archive: false
 main_image_path:
 order_number:
