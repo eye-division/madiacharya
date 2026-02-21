@@ -23,9 +23,6 @@ main_image_path: /assets/images/5356-on-being-purple-copy.jpg
 order_number: 1
 thumb_crop:
 images:
-  - image_path: /assets/images/gc-25-11-038.jpg
-    image_title: ''
-    image_description:
   - image_path: /assets/images/gc-25-11-036.jpg
     image_title: ''
     image_description:
@@ -33,6 +30,9 @@ images:
     image_title: Tobermory Pendulum, installation view
     image_description:
   - image_path: /assets/images/gc-25-11-041.jpg
+    image_title: ''
+    image_description:
+  - image_path: /assets/images/gc-25-11-038.jpg
     image_title: ''
     image_description:
   - image_path: /assets/images/5438-under-the-bonnet-copy.jpg
