@@ -16,7 +16,7 @@ description_markdown: >-
   within the gardens in the Abbey. The trip to source materials for this project
   was made possible by funding from Axisweb100
 permalink: /installations/drift-in-land/
-archive: false
+archive: true
 order_number: 5
 _gallery_date: 2016-05-01 00:00:00
 main_image_path: /assets/Drift-in-land, abbey, website.jpg
