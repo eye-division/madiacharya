@@ -14,7 +14,7 @@ main_image_path:
 order_number:
 thumb_crop:
 images:
-  - image_path:
+  - image_path: /assets/images/gc-25-11-024.jpg
     image_title:
     image_description:
 _options:
