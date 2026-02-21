@@ -1,17 +1,21 @@
 ---
 title: Netting Series
 description_markdown: >-
-  &nbsp; &nbsp; The Netting Series are all hanging works. **‘On being purple’**
-  and&nbsp; **‘Take Possession’** both use a single piece of washed up netting
-  found on a deserted beach on the Dorset coast. Ghost nets, fishing nets that
-  have been abandoned, lost or discarded at sea, beaches or in harbours are
-  particularly concerning because of the devastation they cause to marine life.
-  Using vintage silk textiles from South Asia is also a way of referencing the
-  journeys of women across oceans from distant lands. &nbsp;**‘Behind the
-  bonnet’** and **‘The orange element’** use similar materials. The latter also
-  has its origins in the depths of lockdown. The broken pieces of debris are
-  pieced together to create a single hair like mass, is a metaphor for trying to
-  repair and rebuild what has been lost as a result of the pandemic.
+  &nbsp; &nbsp; The Netting Series are all hanging works. **‘Tobermory
+  Pendulum’** is inspired by a trip to Isle of Mull, Scotland and the memory of
+  encountering a buoy in the middle of a forest close to a river estuary. This
+  encounter is a reminder of how time is ticking by in the midst of mounting
+  river and ocean pollution.**‘On being purple’** and&nbsp; **‘Take
+  Possession’** both use a single piece of washed up netting found on a deserted
+  beach on the Dorset coast. Ghost nets, fishing nets that have been abandoned,
+  lost or discarded at sea, beaches or in harbours are particularly concerning
+  because of the devastation they cause to marine life. Using vintage silk
+  textiles from South Asia is also a way of referencing the journeys of women
+  across oceans from distant lands. &nbsp;**‘Behind the bonnet’** and **‘The
+  orange element’** use similar materials. The latter also has its origins in
+  the depths of lockdown. The broken pieces of debris are pieced together to
+  create a single hair like mass, is a metaphor for trying to repair and rebuild
+  what has been lost as a result of the pandemic.
 _gallery_date:
 permalink: /installations/netting-series/
 archive: false
