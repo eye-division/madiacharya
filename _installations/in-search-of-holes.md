@@ -23,6 +23,24 @@ images:
   - image_path: /assets/images/gc-25-11-026.jpg
     image_title:
     image_description:
+  - image_path: /assets/images/gc-25-11-028.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/gc-25-11-027.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/gc-25-11-025.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/gc-25-11-033.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/gc-25-11-031.jpg
+    image_title:
+    image_description:
+  - image_path: /assets/images/gc-25-11-030-1.jpg
+    image_title:
+    image_description:
 _options:
   image_path:
     uploads_dir: assets/images/:year
