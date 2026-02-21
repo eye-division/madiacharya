@@ -8,7 +8,7 @@ description_markdown: >-
   attachment, for joining up together as well as offering portals into other
   worlds.
 _gallery_date:
-permalink: /installations/in-search-of-holes
+permalink: /installations/in-search-of-holes/
 archive: false
 main_image_path:
 order_number:
