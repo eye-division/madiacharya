@@ -20,6 +20,9 @@ images:
   - image_path: /assets/images/gc-25-11-023.jpg
     image_title:
     image_description:
+  - image_path: /assets/images/gc-25-11-026.jpg
+    image_title:
+    image_description:
 _options:
   image_path:
     uploads_dir: assets/images/:year
