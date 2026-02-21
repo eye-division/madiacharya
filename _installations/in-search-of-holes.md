@@ -1,6 +1,12 @@
 ---
 title: In search of holes
-description_markdown:
+description_markdown: >-
+  This site responsive work **‘In search of holes’**  was created for a London
+  gallery space close to the site of the hidden Wallbrook river  ** ** as a way
+  of thinking about route of the hidden river and how it trickles out through a
+  hole close to the Thames nearby. These holes suggest possibilities for
+  attachment, for joining up together as well as offering portals into other
+  worlds.
 _gallery_date:
 permalink: /installations/in-search-of-holes
 archive: false
