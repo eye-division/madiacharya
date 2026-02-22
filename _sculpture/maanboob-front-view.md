@@ -237,7 +237,7 @@ images:
     image_title: I'm all ears, matchy matchy (back)
     image_description: ''
   - image_path: /assets/9120a-print.jpg
-    image_title: ''
+    image_title: I'm all ears, matchy matchy, detail
     image_description: ''
 _options:
   image_path:
