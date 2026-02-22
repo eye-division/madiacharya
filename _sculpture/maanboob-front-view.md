@@ -41,6 +41,9 @@ images:
   - image_path: /assets/9125c-screen-copy.jpg
     image_title: I'm all ears, matchy matchy (back)
     image_description: ''
+  - image_path: /assets/9120a-screen-copy.jpg
+    image_title: I'm all ears, matchy matchy, detail
+    image_description: ''
   - image_path: /assets/post8-image5-copy.jpg
     image_title: Mr Spillage
     image_description: |
@@ -77,9 +80,6 @@ images:
   - image_path: /assets/7463-screen-copy-1.jpg
     image_title: Detail
     image_description:
-  - image_path: /assets/9120a-screen-copy.jpg
-    image_title: I'm all ears, matchy matchy, detail
-    image_description: ''
   - image_path: /assets/the-twig-dancer-copy.jpg
     image_title: The Twig Dancer
     image_description: |
