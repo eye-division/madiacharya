@@ -18,6 +18,29 @@ archive: false
 order_number: 2
 main_image_path: /assets/rss-220.jpg
 images:
+  - image_path: /assets/9116c-screen-copy.jpg
+    image_title: I'm all ears, matchy matchy
+    image_description: >
+      Dimensions: H 80 W70 D25 cm
+
+      Plinth: W85 H80 D29 cm
+
+      Materials: pigs ears, found leather, discarded embroidered textiles, found
+      wood, discarded ceramic, resin, shell, acrylic paint and medium.
+
+
+      This work incorporating matching pigs ears embodies an animal spirit, a
+      connection with nonhuman species, trying to break down hierarchies and
+      boundaries. Using worn out, decaying pink flesh tinted leather and
+      remnants of repurposed embroidered textiles the work is given a
+      carnivalesque excitement and agitation. The main aspect of the piece on
+      the left is ready for gymnastic action whilst paradoxically being weighted
+      down by a chucky ceramic shoe unable to move. The log on the right adorned
+      with embroidered textiles represents gymnasium equipment inviting leg
+      raises and playful movement.
+  - image_path: /assets/9125c-screen-copy.jpg
+    image_title: I'm all ears, matchy matchy (back)
+    image_description: ''
   - image_path: /assets/post8-image5-copy.jpg
     image_title: Mr Spillage
     image_description: |
@@ -54,6 +77,9 @@ images:
   - image_path: /assets/7463-screen-copy-1.jpg
     image_title: Detail
     image_description:
+  - image_path: /assets/9120a-screen-copy.jpg
+    image_title: I'm all ears, matchy matchy, detail
+    image_description: ''
   - image_path: /assets/the-twig-dancer-copy.jpg
     image_title: The Twig Dancer
     image_description: |
@@ -213,32 +239,6 @@ images:
   - image_path: /assets/images/227 screen copy.jpg
     image_title: Trans-verse, (front, side view)
     image_description:
-  - image_path: /assets/9116c-screen-copy.jpg
-    image_title: I'm all ears, matchy matchy
-    image_description: >
-      Dimensions: H 80 W70 D25 cm
-
-      Plinth: W85 H80 D29 cm
-
-      Materials: pigs ears, found leather, discarded embroidered textiles, found
-      wood, discarded ceramic, resin, shell, acrylic paint and medium.
-
-
-      This work incorporating matching pigs ears embodies an animal spirit, a
-      connection with nonhuman species, trying to break down hierarchies and
-      boundaries. Using worn out, decaying pink flesh tinted leather and
-      remnants of repurposed embroidered textiles the work is given a
-      carnivalesque excitement and agitation. The main aspect of the piece on
-      the left is ready for gymnastic action whilst paradoxically being weighted
-      down by a chucky ceramic shoe unable to move. The log on the right adorned
-      with embroidered textiles represents gymnasium equipment inviting leg
-      raises and playful movement.
-  - image_path: /assets/9125c-screen-copy.jpg
-    image_title: I'm all ears, matchy matchy (back)
-    image_description: ''
-  - image_path: /assets/9120a-screen-copy.jpg
-    image_title: I'm all ears, matchy matchy, detail
-    image_description: ''
   - image_path: /assets/9089a-screen.jpg
     image_title: Pistachio Position
     image_description: >
