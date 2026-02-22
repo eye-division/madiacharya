@@ -62,6 +62,9 @@ images:
   - image_path: /assets/9091a-screen.jpg
     image_title: 'Pistachion Position (back) '
     image_description: ''
+  - image_path: /assets/9106a-screen.jpg
+    image_title: Pistachio Position, (detail)
+    image_description: ''
   - image_path: /assets/post8-image5-copy.jpg
     image_title: Mr Spillage
     image_description: |
@@ -257,9 +260,6 @@ images:
   - image_path: /assets/images/227 screen copy.jpg
     image_title: Trans-verse, (front, side view)
     image_description:
-  - image_path: /assets/9106a-screen.jpg
-    image_title: Pistachio Position, (detail)
-    image_description: ''
 _options:
   image_path:
     width: 1200
