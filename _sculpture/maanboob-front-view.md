@@ -239,6 +239,21 @@ images:
   - image_path: /assets/9120a-screen-copy.jpg
     image_title: I'm all ears, matchy matchy, detail
     image_description: ''
+  - image_path: /assets/9089a-screen.jpg
+    image_title: Pistachio Position
+    image_description: >
+      Dimensions: H 140 W50 D48cm  (Floor based)
+
+      Materials: pistachio shells, discarded embroidered textiles, found wood,
+      acrylic paint
+
+      This  work proudly asserts the value of pistachio nuts giving it an actual
+      bodily position. Here the branch figure is poised in a headstand posture,
+      adorned with pistachio nut shells which are used as beads, hence looking
+      to nature for adornment rather than utilizing manufactured beads. The
+      patches of embroidered textiles appear like tattoos to complement the
+      islands of pistachio patches but are also a reminder of the environmental
+      pollution resulting from discarded textiles. 
 _options:
   image_path:
     width: 1200
