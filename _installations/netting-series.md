@@ -23,13 +23,13 @@ main_image_path:
 order_number: 1
 thumb_crop:
 images:
-  - image_path: /assets/images/gc-25-11-036.jpg
+  - image_path: /assets/images/gc-25-11-041.jpg
     image_title: ''
     image_description:
   - image_path: /assets/images/gc-25-11-035-1.jpg
     image_title: Tobermory Pendulum, installation view
     image_description:
-  - image_path: /assets/images/gc-25-11-041.jpg
+  - image_path: /assets/images/gc-25-11-036.jpg
     image_title: ''
     image_description:
   - image_path: /assets/images/gc-25-11-038.jpg
