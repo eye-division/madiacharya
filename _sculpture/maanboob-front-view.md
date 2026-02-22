@@ -38,11 +38,11 @@ images:
       down by a chucky ceramic shoe unable to move. The log on the right adorned
       with embroidered textiles represents gymnasium equipment inviting leg
       raises and playful movement.
-  - image_path: /assets/9125c-screen-copy.jpg
-    image_title: I'm all ears, matchy matchy (back)
-    image_description: ''
   - image_path: /assets/9120a-screen-copy.jpg
     image_title: I'm all ears, matchy matchy, detail
+    image_description: ''
+  - image_path: /assets/9125c-screen-copy.jpg
+    image_title: I'm all ears, matchy matchy (back)
     image_description: ''
   - image_path: /assets/9089a-screen.jpg
     image_title: Pistachio Position
