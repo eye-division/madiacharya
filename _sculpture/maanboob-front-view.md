@@ -258,7 +258,7 @@ images:
     image_title: 'Pistachion Position (back) '
     image_description: ''
   - image_path: /assets/9106a-screen.jpg
-    image_title: ''
+    image_title: Pistachio Position, (detail)
     image_description: ''
 _options:
   image_path:
