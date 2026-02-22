@@ -38,11 +38,11 @@ images:
       down by a chucky ceramic shoe unable to move. The log on the right adorned
       with embroidered textiles represents gymnasium equipment inviting leg
       raises and playful movement.
-  - image_path: /assets/9125c-screen-copy.jpg
-    image_title: I'm all ears, matchy matchy (back)
-    image_description: ''
   - image_path: /assets/9120a-screen-copy.jpg
     image_title: I'm all ears, matchy matchy, detail
+    image_description: ''
+  - image_path: /assets/9125c-screen-copy.jpg
+    image_title: I'm all ears, matchy matchy (back)
     image_description: ''
   - image_path: /assets/9089a-screen.jpg
     image_title: Pistachio Position
@@ -59,11 +59,11 @@ images:
       patches of embroidered textiles appear like tattoos to complement the
       islands of pistachio patches but are also a reminder of the environmental
       pollution resulting from discarded textiles. 
-  - image_path: /assets/9091a-screen.jpg
-    image_title: 'Pistachion Position (back) '
-    image_description: ''
   - image_path: /assets/9106a-screen.jpg
     image_title: Pistachio Position, (detail)
+    image_description: ''
+  - image_path: /assets/9091a-screen.jpg
+    image_title: 'Pistachion Position (back) '
     image_description: ''
   - image_path: /assets/post8-image5-copy.jpg
     image_title: Mr Spillage
