@@ -10,7 +10,7 @@ description_markdown: >-
 _gallery_date:
 permalink: /installations/in-search-of-holes/
 archive: false
-main_image_path:
+main_image_path: /assets/images/gc-25-11-027.jpg
 order_number:
 thumb_crop:
 images:
