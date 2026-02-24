@@ -49,6 +49,7 @@ images:
     image_description: >
       Dimensions: H 140 W50 D48cm  (Floor based)
 
+
       Materials: pistachio shells, discarded embroidered textiles, found wood,
       acrylic paint
 
