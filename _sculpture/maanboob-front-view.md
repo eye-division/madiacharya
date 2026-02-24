@@ -23,7 +23,9 @@ images:
     image_description: >
       Dimensions: H 80 W70 D25 cm
 
+
       Plinth: W85 H80 D29 cm
+
 
       Materials: pigs ears, found leather, discarded embroidered textiles, found
       wood, discarded ceramic, resin, shell, acrylic paint and medium.
