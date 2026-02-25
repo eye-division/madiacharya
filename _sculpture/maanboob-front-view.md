@@ -23,7 +23,9 @@ images:
     image_description: >
       Dimensions: H 80 W70 D25 cm
 
+
       Plinth: W85 H80 D29 cm
+
 
       Materials: pigs ears, found leather, discarded embroidered textiles, found
       wood, discarded ceramic, resin, shell, acrylic paint and medium.
@@ -48,6 +50,7 @@ images:
     image_title: Pistachio Position
     image_description: >
       Dimensions: H 140 W50 D48cm  (Floor based)
+
 
       Materials: pistachio shells, discarded embroidered textiles, found wood,
       acrylic paint
