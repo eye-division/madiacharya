@@ -19,7 +19,7 @@ description_markdown: >-
 _gallery_date:
 permalink: /installations/netting-series/
 archive: false
-main_image_path:
+main_image_path: /assets/images/gc-25-11-041-1.jpg
 order_number: 1
 thumb_crop:
 images:
