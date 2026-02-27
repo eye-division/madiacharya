@@ -140,6 +140,12 @@ images:
   - image_path: /assets/9147a-screen.jpg
     image_title: Feline Tendencies, image 1
     image_description:
+  - image_path: /assets/9149a-screen.jpg
+    image_title: ''
+    image_description:
+  - image_path: /assets/9154a-screen.jpg
+    image_title: Detail
+    image_description:
 _options:
   image_path:
     width: 1200
