@@ -18,6 +18,9 @@ images:
   - image_path: /assets/9148c-screen.jpg
     image_title: Feline Tendencies, image 1
     image_description:
+  - image_path: /assets/9149a-screen-1.jpg
+    image_title: Feline Tendencies, image 2
+    image_description:
   - image_path: /assets/images/6774-screen-copy.jpg
     image_title: Soul of the shell (front view)
     image_description: |-
@@ -142,9 +145,6 @@ images:
     image_description:
   - image_path: /assets/images/57567bf32b9e2.jpg
     image_title: Sikim (back)
-    image_description:
-  - image_path: /assets/9149a-screen-1.jpg
-    image_title: Feline Tendencies, image 2
     image_description:
 _options:
   image_path:
