@@ -24,6 +24,23 @@ images:
   - image_path: /assets/9154a-screen-1.jpg
     image_title: Detail
     image_description:
+  - image_path: /assets/images/3178a-screen-copy.jpg
+    image_title: Of course it was my idea! (front)
+    image_description: >-
+      Materials: Found objects including broken tennis ball found rubber, dried
+      butternut squash seeds, 
+
+
+      W8.5 H32 D8.5, 2020
+
+
+      This work is about influencing people and iliciting change by 
+      incorporating aspects of the everyday which are usually over looked. The
+      butternut squash seeds have become elevated to the level of precious beads
+      and the broken tennis ball come to resemble a tribal mask. The title of
+      this work is a direct reference to the seeds used, connecting this with
+      the idea that one can sow the seeds of an idea so that it can come to be
+      owned by whoever one is trying to persuade at any given time.
   - image_path: /assets/images/6774-screen-copy.jpg
     image_title: Soul of the shell (front view)
     image_description: |-
@@ -57,23 +74,6 @@ images:
   - image_path: /assets/670-screen-copy.jpg
     image_title: Anger Management (detail)
     image_description:
-  - image_path: /assets/images/3178a-screen-copy.jpg
-    image_title: Of course it was my idea! (front)
-    image_description: >-
-      Materials: Found objects including broken tennis ball found rubber, dried
-      butternut squash seeds, 
-
-
-      W8.5 H32 D8.5, 2020
-
-
-      This work is about influencing people and iliciting change by 
-      incorporating aspects of the everyday which are usually over looked. The
-      butternut squash seeds have become elevated to the level of precious beads
-      and the broken tennis ball come to resemble a tribal mask. The title of
-      this work is a direct reference to the seeds used, connecting this with
-      the idea that one can sow the seeds of an idea so that it can come to be
-      owned by whoever one is trying to persuade at any given time.
   - image_path: /assets/images/3184a-screen-copy.jpg
     image_title: Of course it was my idea! (detail)
     image_description:
