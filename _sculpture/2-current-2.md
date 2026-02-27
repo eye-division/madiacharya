@@ -41,11 +41,11 @@ images:
       this work is a direct reference to the seeds used, connecting this with
       the idea that one can sow the seeds of an idea so that it can come to be
       owned by whoever one is trying to persuade at any given time.
-  - image_path: /assets/images/3179a-screen-copy.jpg
-    image_title: Of course it was my idea! (back)
-    image_description:
   - image_path: /assets/images/3184a-screen-copy.jpg
     image_title: Of course it was my idea! (detail)
+    image_description:
+  - image_path: /assets/images/3179a-screen-copy.jpg
+    image_title: Of course it was my idea! (back)
     image_description:
   - image_path: /assets/images/6774-screen-copy.jpg
     image_title: Soul of the shell (front view)
