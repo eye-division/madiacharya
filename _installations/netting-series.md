@@ -25,7 +25,9 @@ thumb_crop:
 images:
   - image_path: /assets/images/gc-25-11-041.jpg
     image_title: Tobermory Pendulum
-    image_description:
+    image_description: |
+      Dimensions
+      H150 cm (fishing rope), Buoy diameter 30cm
   - image_path: /assets/images/gc-25-11-035-1.jpg
     image_title: Tobermory Pendulum, installation view
     image_description:
