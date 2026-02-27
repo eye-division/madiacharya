@@ -16,6 +16,15 @@ _gallery_date: 2016-05-01 00:00:00
 order_number: 5
 main_image_path: /assets/images/untitled-2-copy-3-revised.jpg
 images:
+  - image_path: /assets/9133a-screen.jpg
+    image_title: Feasting on a beast (front)
+    image_description:
+  - image_path: /assets/9137a-screen.jpg
+    image_title: Feasting on a beast (side view)
+    image_description:
+  - image_path: /assets/9140a-screen.jpg
+    image_title: Feasting on a beast, detail
+    image_description:
   - image_path: /assets/images/59650c60b9de7.jpg
     image_title: Skating on Thin Ice (front)
     image_description: |-
@@ -80,15 +89,6 @@ images:
     image_description:
   - image_path: /assets/images/57567a1cdd74f.jpg
     image_title: Batik Orifice (detail)
-    image_description:
-  - image_path: /assets/9133a-screen.jpg
-    image_title: Feasting on a beast (front)
-    image_description:
-  - image_path: /assets/9137a-screen.jpg
-    image_title: Feasting on a beast (side view)
-    image_description:
-  - image_path: /assets/9140a-screen.jpg
-    image_title: Feasting on a beast, detail
     image_description:
 _options:
   image_path:
