@@ -1,9 +1,12 @@
 ---
 title: In search of holes
 description_markdown: >-
+  Dimensions: H110 W60 D 30 cm
+
+
   This site responsive work **‘In search of holes’**  was created for a London
-  gallery space close to the site of the hidden Wallbrook river  ** ** as a way
-  of thinking about route of the hidden river and how it trickles out through a
+  gallery space close to the site of the hidden Wallbrook river  as a way of
+  thinking about route of the hidden river and how it trickles out through a
   hole close to the Thames nearby. These holes suggest possibilities for
   attachment, for joining up together as well as offering portals into other
   worlds.
