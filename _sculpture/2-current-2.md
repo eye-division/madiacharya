@@ -23,6 +23,9 @@ images:
   - image_path: /assets/images/6775-screen-copy.jpg
     image_title: Soul of the shell (side view)
     image_description:
+  - image_path: /assets/9154a-screen-1.jpg
+    image_title: Detail
+    image_description:
   - image_path: /assets/images/6779-screen-copy.jpg
     image_title: Soul of the shell (back)
     image_description:
@@ -142,9 +145,6 @@ images:
     image_description:
   - image_path: /assets/9149a-screen-1.jpg
     image_title: Feline Tendencies, image 2
-    image_description:
-  - image_path: /assets/9154a-screen-1.jpg
-    image_title: Detail
     image_description:
 _options:
   image_path:
