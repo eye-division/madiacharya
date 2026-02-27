@@ -81,6 +81,12 @@ images:
   - image_path: /assets/images/57567a1cdd74f.jpg
     image_title: Batik Orifice (detail)
     image_description:
+  - image_path: /assets/9133a-screen.jpg
+    image_title: Feasting on a beast (front)
+    image_description:
+  - image_path: /assets/9137a-screen.jpg
+    image_title: Feasting on a beast (side view)
+    image_description:
 _options:
   image_path:
     width: 1200
@@ -99,5 +105,3 @@ _comments:
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
 ---
-
-
