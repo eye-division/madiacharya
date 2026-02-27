@@ -85,7 +85,7 @@ images:
     image_title: Feasting on a beast (front)
     image_description:
   - image_path: /assets/9137a-screen.jpg
-    image_title: ''
+    image_title: Feasting on a beast (side view)
     image_description:
 _options:
   image_path:
