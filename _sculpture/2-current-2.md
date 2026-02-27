@@ -2,9 +2,9 @@
 title: Small Obsessions
 _hide_content: true
 description_markdown: >-
-  ‘Tiny Obsessions’ series&nbsp; involves found objects and materials juxtaposed
-  with smaller natural forms such as charred wooden blocks eroded by the
-  sea.&nbsp; The more intimate scale of these works makes them feel more
+  ‘Small Obsessions’ series&nbsp; involves found objects and materials
+  juxtaposed with smaller natural forms such as charred wooden blocks eroded by
+  the sea.&nbsp; The more intimate scale of these works makes them feel more
   precious and ornamental. Incorporating intricate bead work and aspects of
   Indian miniature painting is a way connecting with my cultural heritage and
   deliberately slowing down the creative process in a world where things seem to
@@ -136,6 +136,15 @@ images:
     image_description:
   - image_path: /assets/images/57567bf32b9e2.jpg
     image_title: Sikim (back)
+    image_description:
+  - image_path: /assets/9147a-screen.jpg
+    image_title: Feline Tendencies, image 1
+    image_description:
+  - image_path: /assets/9149a-screen.jpg
+    image_title: Feline Tendencies, image 2
+    image_description:
+  - image_path: /assets/9154a-screen.jpg
+    image_title: Detail
     image_description:
 _options:
   image_path:
