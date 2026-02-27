@@ -25,14 +25,6 @@ images:
   - image_path: /assets/9140a-screen.jpg
     image_title: Feasting on a beast, detail
     image_description:
-  - image_path: /assets/images/59650c60b9de7.jpg
-    image_title: Skating on Thin Ice (front)
-    image_description: |-
-      Materials: Found wood, Found Objects, Mixed Media, 
-      Dimensions (cm): H80 W120 D50, 2017
-  - image_path: /assets/images/59651203eef69.jpg
-    image_title: back
-    image_description:
   - image_path: /assets/images/59650c99811ee.jpg
     image_title: side
     image_description:
@@ -54,6 +46,9 @@ images:
       Dimensions (cm): H40 W25 D15, 2017
   - image_path: /assets/images/59650f2f629f7.jpg
     image_title: detail
+    image_description:
+  - image_path: /assets/images/59651203eef69.jpg
+    image_title: back
     image_description:
   - image_path: /assets/images/59650ef1f3cca.jpg
     image_title: side view
@@ -84,6 +79,11 @@ images:
     image_description: |-
       Materials: Found wood, found plastic, mixed media, 
       Dimensions (cm): H70 D35 W40, 2017
+  - image_path: /assets/images/59650c60b9de7.jpg
+    image_title: Skating on Thin Ice (front)
+    image_description: |-
+      Materials: Found wood, Found Objects, Mixed Media, 
+      Dimensions (cm): H80 W120 D50, 2017
   - image_path: /assets/images/575679f8bf174.jpg
     image_title: Batik Orifice (back)
     image_description:
