@@ -25,7 +25,16 @@ thumb_crop:
 images:
   - image_path: /assets/images/gc-25-11-041.jpg
     image_title: Tobermory Pendulum
-    image_description:
+    image_description: >
+      Dimensions
+
+      H150 cm (fishing rope), Buoy diameter 30cm
+
+
+      This suspended work is inspired by a trip to Isle of Mull, Scotland and
+      the memory of encountering a buoy in the middle of a forest close to a
+      river estuary. This encounter is a reminder of how time is ticking by in
+      the midst of mounting river and ocean pollution. 
   - image_path: /assets/images/gc-25-11-035-1.jpg
     image_title: Tobermory Pendulum, installation view
     image_description:
