@@ -82,7 +82,7 @@ images:
     image_title: Batik Orifice (detail)
     image_description:
   - image_path: /assets/9133a-screen.jpg
-    image_title: ''
+    image_title: Feasting on a beast (front)
     image_description:
 _options:
   image_path:
