@@ -16,16 +16,14 @@ _gallery_date: 2016-05-01 00:00:00
 order_number: 5
 main_image_path: /assets/images/untitled-2-copy-3-revised.jpg
 images:
-  - image_path: /assets/images/59650c60b9de7.jpg
-    image_title: Skating on Thin Ice (front)
-    image_description: |-
-      Materials: Found wood, Found Objects, Mixed Media, 
-      Dimensions (cm): H80 W120 D50, 2017
-  - image_path: /assets/images/59651203eef69.jpg
-    image_title: back
+  - image_path: /assets/9133a-screen.jpg
+    image_title: Feasting on a beast (front)
     image_description:
-  - image_path: /assets/images/59650c99811ee.jpg
-    image_title: side
+  - image_path: /assets/9137a-screen.jpg
+    image_title: Feasting on a beast (side view)
+    image_description:
+  - image_path: /assets/9140a-screen.jpg
+    image_title: Feasting on a beast, detail
     image_description:
   - image_path: /assets/images/5965060e96778.jpg
     image_title: Kerbside Ecstacy (front)
@@ -81,14 +79,16 @@ images:
   - image_path: /assets/images/57567a1cdd74f.jpg
     image_title: Batik Orifice (detail)
     image_description:
-  - image_path: /assets/9133a-screen.jpg
-    image_title: Feasting on a beast (front)
+  - image_path: /assets/images/59650c60b9de7.jpg
+    image_title: Skating on Thin Ice (front)
+    image_description: |-
+      Materials: Found wood, Found Objects, Mixed Media, 
+      Dimensions (cm): H80 W120 D50, 2017
+  - image_path: /assets/images/59650c99811ee.jpg
+    image_title: side
     image_description:
-  - image_path: /assets/9137a-screen.jpg
-    image_title: Feasting on a beast (side view)
-    image_description:
-  - image_path: /assets/9140a-screen.jpg
-    image_title: ''
+  - image_path: /assets/images/59651203eef69.jpg
+    image_title: back
     image_description:
 _options:
   image_path:
