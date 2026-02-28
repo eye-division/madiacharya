@@ -66,7 +66,7 @@ images:
     image_title: back
     image_description:
   - image_path: /assets/images/5756784f1b721.jpg
-    image_title: TLHS (detail)
+    image_title: detail
     image_description:
   - image_path: /assets/images/575679d2ce2a5.jpg
     image_title: Batik Orifice (front)
