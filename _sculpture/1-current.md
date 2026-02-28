@@ -23,7 +23,7 @@ images:
     image_title: side view
     image_description:
   - image_path: /assets/9140a-screen.jpg
-    image_title: Feasting on a beast, detail
+    image_title: ' detail'
     image_description:
   - image_path: /assets/images/5965060e96778.jpg
     image_title: Kerbside Ecstacy (front)
