@@ -74,7 +74,7 @@ images:
       Materials: Found wood, found plastic, mixed media, 
       Dimensions (cm): H70 D35 W40, 2017
   - image_path: /assets/images/575679f8bf174.jpg
-    image_title: Batik Orifice (back)
+    image_title: back
     image_description:
   - image_path: /assets/images/57567a1cdd74f.jpg
     image_title: Batik Orifice (detail)
