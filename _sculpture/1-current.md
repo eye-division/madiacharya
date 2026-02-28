@@ -20,10 +20,10 @@ images:
     image_title: Feasting on a beast (front)
     image_description:
   - image_path: /assets/9137a-screen.jpg
-    image_title: Feasting on a beast (side view)
+    image_title: side view
     image_description:
   - image_path: /assets/9140a-screen.jpg
-    image_title: Feasting on a beast, detail
+    image_title: ' detail'
     image_description:
   - image_path: /assets/images/5965060e96778.jpg
     image_title: Kerbside Ecstacy (front)
@@ -63,10 +63,10 @@ images:
       disparate textures and materials so that pre-exiting boundaries become
       fused and appear as one.
   - image_path: /assets/images/57567823f29ca.jpg
-    image_title: TLHS (back)
+    image_title: back
     image_description:
   - image_path: /assets/images/5756784f1b721.jpg
-    image_title: TLHS (detail)
+    image_title: detail
     image_description:
   - image_path: /assets/images/575679d2ce2a5.jpg
     image_title: Batik Orifice (front)
@@ -74,10 +74,10 @@ images:
       Materials: Found wood, found plastic, mixed media, 
       Dimensions (cm): H70 D35 W40, 2017
   - image_path: /assets/images/575679f8bf174.jpg
-    image_title: Batik Orifice (back)
+    image_title: back
     image_description:
   - image_path: /assets/images/57567a1cdd74f.jpg
-    image_title: Batik Orifice (detail)
+    image_title: detail
     image_description:
   - image_path: /assets/images/59650c60b9de7.jpg
     image_title: Skating on Thin Ice (front)
