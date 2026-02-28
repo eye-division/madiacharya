@@ -77,7 +77,7 @@ images:
     image_title: back
     image_description:
   - image_path: /assets/images/57567a1cdd74f.jpg
-    image_title: Batik Orifice (detail)
+    image_title: detail
     image_description:
   - image_path: /assets/images/59650c60b9de7.jpg
     image_title: Skating on Thin Ice (front)
