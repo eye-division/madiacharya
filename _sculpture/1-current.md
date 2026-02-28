@@ -63,7 +63,7 @@ images:
       disparate textures and materials so that pre-exiting boundaries become
       fused and appear as one.
   - image_path: /assets/images/57567823f29ca.jpg
-    image_title: TLHS (back)
+    image_title: back
     image_description:
   - image_path: /assets/images/5756784f1b721.jpg
     image_title: TLHS (detail)
