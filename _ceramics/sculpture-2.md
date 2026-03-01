@@ -33,7 +33,7 @@ images:
     image_title: Princess Kombucha
     image_description:
   - image_path: /assets/images/9185a-screen.jpg
-    image_title: ''
+    image_title: Detail 1
     image_description:
 _options:
   image_path:
