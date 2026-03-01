@@ -26,7 +26,7 @@ images:
   - image_path: /assets/images/9177a-screen-2.jpg
     image_title: Lily and the gargoyles (image 2)
     image_description:
-  - image_path:
+  - image_path: /assets/images/9180a-screen.jpg
     image_title: Lily and the gargoyles (detail)
     image_description:
 _options:
