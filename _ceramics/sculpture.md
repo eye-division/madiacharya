@@ -10,7 +10,7 @@ description_markdown: >-
 
 
   The sculptures are inspired by the animal kingdom and the natural world
-permalink: /ceramics/sculpture/
+permalink: /ceramics/sculpture 1/
 archive: false
 order_number: 3
 _gallery_date: 2022-05-01 00:00:00

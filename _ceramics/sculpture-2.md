@@ -8,10 +8,10 @@ _gallery_date:
 permalink: /ceramics/sculpture 2/
 archive: false
 main_image_path:
-order_number: 0
+order_number: 1
 thumb_crop:
 images:
-  - image_path: /assets/images/9171a-screen.jpg
+  - image_path: /assets/images/9171a-screen-1.jpg
     image_title: Gertrude (front)
     image_description:
   - image_path: /assets/images/9162a-screen-1.jpg
