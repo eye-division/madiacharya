@@ -23,11 +23,11 @@ images:
   - image_path: /assets/images/9174a-print.jpg
     image_title: Lily and the gargoyles (image 1)
     image_description:
-  - image_path: /assets/images/9180a-print.jpg
+  - image_path:
     image_title: Lily and the gargoyles (image 2)
     image_description:
   - image_path:
-    image_title: ''
+    image_title: Lily and the gargoyles (detail)
     image_description:
 _options:
   image_path:
