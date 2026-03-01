@@ -8,7 +8,7 @@ _gallery_date:
 permalink: /ceramics/sculpture 2/
 archive: false
 main_image_path:
-order_number:
+order_number: 0
 thumb_crop:
 images:
   - image_path:
