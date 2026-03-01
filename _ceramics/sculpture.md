@@ -1,5 +1,5 @@
 ---
-title: Sculpture
+title: Sculpture 1
 _hide_content: true
 description_markdown: >-
   These ceramic masks and sculptures were created as part of Developing Your
