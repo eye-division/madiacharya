@@ -20,7 +20,7 @@ images:
   - image_path: /assets/images/9167a-screen.jpg
     image_title: Gertrude (detail)
     image_description:
-  - image_path: /assets/images/9174a-print.jpg
+  - image_path: /assets/images/9174a-screen-3.jpg
     image_title: Lily and the gargoyles (image 1)
     image_description:
   - image_path:
