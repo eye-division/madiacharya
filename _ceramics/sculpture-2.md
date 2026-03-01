@@ -11,8 +11,8 @@ main_image_path:
 order_number: 0
 thumb_crop:
 images:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/9171a-screen.jpg
+    image_title: Gertrude (front)
     image_description:
 _options:
   image_path:
