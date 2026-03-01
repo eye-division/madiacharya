@@ -36,7 +36,7 @@ images:
     image_title: Detail 1
     image_description:
   - image_path: /assets/images/9183a-screen.jpg
-    image_title: ''
+    image_title: Detail 2
     image_description:
 _options:
   image_path:
