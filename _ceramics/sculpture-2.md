@@ -23,6 +23,12 @@ images:
   - image_path: /assets/images/9177a-screen.jpg
     image_title: Lily and the gargoyles (image 1)
     image_description:
+  - image_path: /assets/images/9174a-screen.jpg
+    image_title: ''
+    image_description:
+  - image_path: /assets/images/9174a-screen-1.jpg
+    image_title: ''
+    image_description:
 _options:
   image_path:
     uploads_dir: assets/images/:year
