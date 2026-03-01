@@ -41,7 +41,7 @@ images:
   - image_path: /assets/images/9181a-screen-1.jpg
     image_title: Blue seal from East Wiers
     image_description:
-  - image_path: ''
+  - image_path: /assets/images/9186a-screen.jpg
     image_title: Detail
     image_description:
 _options:
