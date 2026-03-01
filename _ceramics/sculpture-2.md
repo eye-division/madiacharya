@@ -17,6 +17,9 @@ images:
   - image_path: /assets/images/9162a-screen-1.jpg
     image_title: Gertrude (back)
     image_description:
+  - image_path: /assets/images/9167a-screen.jpg
+    image_title: Gertrude (detail)
+    image_description:
 _options:
   image_path:
     uploads_dir: assets/images/:year
