@@ -1,8 +1,11 @@
 ---
 title: Sculpture 2
-description_markdown:
+description_markdown: >-
+  These are series of sculptures developed since the first series, (Sculpture
+  1). Some are inspired by deities originating from South Asian sculpture whilst
+  other pieces are routed in ocean life and flora and fauna.
 _gallery_date:
-permalink:
+permalink: /ceramics/sculpture 2/
 archive: false
 main_image_path:
 order_number:
