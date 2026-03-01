@@ -35,6 +35,9 @@ images:
   - image_path: /assets/images/9185a-screen.jpg
     image_title: Detail 1
     image_description:
+  - image_path: /assets/images/9183a-screen.jpg
+    image_title: ''
+    image_description:
 _options:
   image_path:
     uploads_dir: assets/images/:year
