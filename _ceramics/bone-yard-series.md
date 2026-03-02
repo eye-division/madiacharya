@@ -4,7 +4,7 @@ description_markdown:
 _gallery_date:
 permalink: /ceramics/Bone Yard Series/
 archive: false
-main_image_path:
+main_image_path: /assets/images/9188a-screen-1.jpg
 order_number:
 thumb_crop:
 images:
