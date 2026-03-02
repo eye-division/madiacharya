@@ -13,6 +13,9 @@ images:
   - image_path: /assets/9255b-screen.jpg
     image_title: Goggle Princess
     image_description:
+  - image_path: /assets/9262b-screen.jpg
+    image_title: The Green Door
+    image_description:
 _options:
   image_path:
     width: 1200
