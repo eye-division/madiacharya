@@ -8,7 +8,7 @@ _gallery_date:
 permalink: /ceramics/sculpture 2/
 archive: false
 main_image_path: /assets/images/9171a-screen-1.jpg
-order_number: 1
+order_number: 2
 thumb_crop:
 images:
   - image_path: /assets/images/9171a-screen-1.jpg
