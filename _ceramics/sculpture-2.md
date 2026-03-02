@@ -7,7 +7,7 @@ description_markdown: >-
 _gallery_date:
 permalink: /ceramics/sculpture 2/
 archive: false
-main_image_path:
+main_image_path: /assets/images/9171a-screen-1.jpg
 order_number: 1
 thumb_crop:
 images:
