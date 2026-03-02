@@ -22,6 +22,9 @@ images:
   - image_path: /assets/9277b-screen.jpg
     image_title: Boat Mirrors
     image_description:
+  - image_path: /assets/9258b-screen.jpg
+    image_title: The Billboard Times
+    image_description:
 _options:
   image_path:
     width: 1200
