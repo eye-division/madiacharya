@@ -11,6 +11,9 @@ images:
   - image_path: /assets/images/9188a-screen.jpg
     image_title: The Free Spirit
     image_description:
+  - image_path: /assets/images/9192a-screen-1.jpg
+    image_title: '2'
+    image_description:
 _options:
   image_path:
     uploads_dir: assets/images/:year
