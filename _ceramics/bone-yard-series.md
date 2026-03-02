@@ -9,7 +9,7 @@ order_number:
 thumb_crop:
 images:
   - image_path: /assets/images/9188a-screen.jpg
-    image_title: The Free Spirit
+    image_title: '1'
     image_description:
   - image_path: /assets/images/9192a-screen-1.jpg
     image_title: '2'
