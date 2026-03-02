@@ -7,8 +7,8 @@ archive: false
 main_image_path:
 thumb_crop:
 images:
-  - image_path:
-    image_title:
+  - image_path: /assets/9247b-screen.jpg
+    image_title: Manifest
     image_description:
 _options:
   image_path:
