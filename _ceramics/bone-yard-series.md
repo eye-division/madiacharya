@@ -8,8 +8,8 @@ main_image_path:
 order_number:
 thumb_crop:
 images:
-  - image_path:
-    image_title:
+  - image_path: /assets/images/9188a-screen.jpg
+    image_title: The Free Spirit
     image_description:
 _options:
   image_path:
