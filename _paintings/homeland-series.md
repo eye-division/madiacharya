@@ -11,7 +11,7 @@ images:
     image_title: Manifest
     image_description:
   - image_path: /assets/9255b-screen.jpg
-    image_title: ''
+    image_title: Goggle Princess
     image_description:
 _options:
   image_path:
