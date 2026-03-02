@@ -18,7 +18,7 @@ images:
     image_title: '3'
     image_description:
   - image_path: /assets/images/9198a-screen-1.jpg
-    image_title: '5'
+    image_title: '4'
     image_description:
   - image_path: /assets/images/9196a-screen-1.jpg
     image_title: '4'
