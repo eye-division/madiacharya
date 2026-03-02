@@ -19,6 +19,9 @@ images:
   - image_path: /assets/9269b-screen.jpg
     image_title: Marigold Pussy
     image_description:
+  - image_path: /assets/9277b-screen.jpg
+    image_title: Boat Mirrors
+    image_description:
 _options:
   image_path:
     width: 1200
