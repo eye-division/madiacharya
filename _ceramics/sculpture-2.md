@@ -27,7 +27,7 @@ images:
     image_title: image 2
     image_description:
   - image_path: /assets/images/9180a-screen.jpg
-    image_title: Lily and the gargoyles (detail)
+    image_title: detail
     image_description:
   - image_path: /assets/images/9182a-screen.jpg
     image_title: Princess Kombucha
