@@ -10,6 +10,9 @@ images:
   - image_path: /assets/9247b-screen.jpg
     image_title: Manifest
     image_description:
+  - image_path: /assets/9255b-screen.jpg
+    image_title: ''
+    image_description:
 _options:
   image_path:
     width: 1200
