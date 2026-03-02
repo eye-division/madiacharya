@@ -41,6 +41,9 @@ images:
   - image_path: /assets/images/9211a-screen-1.jpg
     image_title: '11'
     image_description:
+  - image_path: /assets/images/9213a-screen-1.jpg
+    image_title: '12'
+    image_description:
 _options:
   image_path:
     uploads_dir: assets/images/:year
