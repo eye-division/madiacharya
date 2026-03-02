@@ -2,7 +2,7 @@
 title: Bone Yard Series
 description_markdown:
 _gallery_date:
-permalink:
+permalink: /ceramics/Bone Yard Series/
 archive: false
 main_image_path:
 order_number:
