@@ -16,6 +16,9 @@ images:
   - image_path: /assets/9262b-screen.jpg
     image_title: The Green Door
     image_description:
+  - image_path: /assets/9269b-screen.jpg
+    image_title: Marigold Pussy
+    image_description:
 _options:
   image_path:
     width: 1200
