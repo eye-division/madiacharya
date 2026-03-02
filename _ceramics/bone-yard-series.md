@@ -35,6 +35,9 @@ images:
   - image_path: /assets/images/9207a-print.jpg
     image_title: '9'
     image_description:
+  - image_path: /assets/images/9209a-screen.jpg
+    image_title: '10'
+    image_description:
 _options:
   image_path:
     uploads_dir: assets/images/:year
