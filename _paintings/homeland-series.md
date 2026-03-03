@@ -4,7 +4,7 @@ description_markdown:
 _gallery_date:
 permalink: /Paintings/ Homeland Series/
 archive: false
-main_image_path:
+main_image_path: /assets/9255b-screen.jpg
 thumb_crop:
 images:
   - image_path: /assets/9247b-screen.jpg
