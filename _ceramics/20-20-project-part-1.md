@@ -13,7 +13,7 @@ _gallery_date:
 permalink: /ceramics/2020part1/
 archive: false
 main_image_path: /assets/images/443-screen-copy.jpg
-order_number: 1
+order_number: 3
 thumb_crop:
 images:
   - image_path: /assets/images/443-screen-copy-1.jpg

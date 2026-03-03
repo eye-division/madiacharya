@@ -14,7 +14,7 @@ permalink: /sculpture/organic-excursions/
 archive: false
 _gallery_date: 2016-05-01 00:00:00
 order_number: 5
-main_image_path: /assets/images/untitled-2-copy-3-revised.jpg
+main_image_path: /assets/9133a-screen-1.jpg
 images:
   - image_path: /assets/9133a-screen.jpg
     image_title: Feasting on a beast (front)
