@@ -1,6 +1,16 @@
 ---
 title: Bone Yard Series
-description_markdown:
+description_markdown: >-
+  Ceramic sculpture, series of 12, Found wood base,  overall dimensions
+  (including base) H27 W12 D24 cm
+
+
+  These are series of 12 works are inspired by Tribal Masks from West Bengal,
+  India. I came across them in the collection of the Indian Museum, Kolkata.
+  Although these mask inspired works appear to have different features, they
+  arise from the same starting point. In this series, I have used found wood
+  which was salvaged from the Bone Yard, at the Queen Elizabeth Olympic Park,
+  Stratford, London, hence their name, Bone Yard series.
 _gallery_date:
 permalink: /ceramics/Bone Yard Series/
 archive: false
