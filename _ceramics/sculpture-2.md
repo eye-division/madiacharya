@@ -25,7 +25,10 @@ images:
     image_description:
   - image_path: /assets/images/9174a-screen-3.jpg
     image_title: Lily and the gargoyles (image 1)
-    image_description:
+    image_description: |-
+      Ceramic Sculpture
+      Stoneware, underglazes, transparent glaze
+      Dimensions: H27 D24 W24 cm
   - image_path: /assets/images/9180a-screen.jpg
     image_title: Detail
     image_description:
