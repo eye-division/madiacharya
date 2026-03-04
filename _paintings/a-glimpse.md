@@ -8,6 +8,7 @@ _gallery_date:
 permalink: /paintings/glimpses
 archive: false
 main_image_path: /assets/dress-to-be-unnoticed-copy-2-2.jpg
+order_number: 3
 thumb_crop:
 images:
   - image_path: /assets/time-here-with-you-copy-2.jpg
@@ -106,4 +107,5 @@ _comments:
   main_image_path: Image used to represent your gallery
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
+  order_number: Display order on the installations page
 ---
