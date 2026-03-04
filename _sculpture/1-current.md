@@ -18,7 +18,11 @@ main_image_path: /assets/9133a-screen-1.jpg
 images:
   - image_path: /assets/9133a-screen.jpg
     image_title: Feasting on a beast (front)
-    image_description:
+    image_description: >-
+      Mixed media sculpture,
+
+      Materials: Found wood, found textiles, South Asian textiles, batik,
+      packaging, acrylic paint
   - image_path: /assets/9137a-screen.jpg
     image_title: side view
     image_description:
