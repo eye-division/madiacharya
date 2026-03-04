@@ -25,7 +25,9 @@ images:
       Dimensions: H13.5 W17 D1 cm
   - image_path: /assets/9269b-screen.jpg
     image_title: Marigold Pussy
-    image_description:
+    image_description: |-
+      Oil on found wood panel,
+      Dimensions: H47 W52.5 D4 cm
   - image_path: /assets/9277b-screen.jpg
     image_title: Boat Mirrors
     image_description:
