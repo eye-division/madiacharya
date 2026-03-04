@@ -13,7 +13,10 @@ thumb_crop:
 images:
   - image_path: /assets/images/9171a-screen-1.jpg
     image_title: Gertrude (front)
-    image_description:
+    image_description: |-
+      Ceramic Sculpture
+      Stoneware, underglazes, transparent glaze
+      Dimensions: H30 D30 W30 cm
   - image_path: /assets/images/9162a-screen-1.jpg
     image_title: Gertrude (back)
     image_description:
