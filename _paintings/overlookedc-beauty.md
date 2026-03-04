@@ -10,6 +10,7 @@ _gallery_date:
 permalink: /paintings/tyre-marks/
 archive: false
 main_image_path: /assets/images/3572a-screen-copy-2.jpg
+order_number: 5
 thumb_crop: true
 images:
   - image_path: /assets/images/088-screen-copy.jpg
@@ -61,4 +62,5 @@ _comments:
   main_image_path: Image used to represent your gallery
   images: Add and edit your gallery images here
   image_description: May only be used in the close up of an image
+  order_number: Display order on the installations page
 ---
