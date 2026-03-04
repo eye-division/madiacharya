@@ -1,6 +1,10 @@
 ---
 title: Bone Yard Series
 description_markdown: >-
+  Ceramic sculpture, series of 12, Found wood base,  overall dimensions
+  (including base) H27 W12 D24 cm
+
+
   These are series of 12 works are inspired by Tribal Masks from West Bengal,
   India. I came across them in the collection of the Indian Museum, Kolkata.
   Although these mask inspired works appear to have different features, they
