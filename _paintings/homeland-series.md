@@ -30,7 +30,9 @@ images:
       Dimensions: H47 W52.5 D4 cm
   - image_path: /assets/9277b-screen.jpg
     image_title: Boat Mirrors
-    image_description:
+    image_description: |-
+      Oil on found wood
+      Dimensions: H20 W96 D1 cm
   - image_path: /assets/9258b-screen.jpg
     image_title: The Billboard Times
     image_description:
