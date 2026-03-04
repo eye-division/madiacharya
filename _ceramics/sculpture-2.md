@@ -26,7 +26,7 @@ images:
   - image_path: /assets/images/9180a-screen.jpg
     image_title: Detail
     image_description:
-  - image_path: /assets/images/9177a-screen-2.jpg
+  - image_path: /assets/images/9175a-screen.jpg
     image_title: Image 2
     image_description:
   - image_path: /assets/images/9182a-screen.jpg
