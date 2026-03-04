@@ -49,7 +49,10 @@ images:
     image_description:
   - image_path: /assets/images/9181a-screen-1.jpg
     image_title: Blue seal from East Wiers
-    image_description:
+    image_description: |-
+      Ceramic Sculpture,
+      Stoneware, slip decoration,
+      Dimensions: H27 W25 D5 cm
   - image_path: /assets/images/9186a-screen.jpg
     image_title: Detail
     image_description:
