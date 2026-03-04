@@ -15,7 +15,9 @@ images:
       Dimensions: H15.5 W40 D5 cm
   - image_path: /assets/9255b-screen.jpg
     image_title: Goggle Princess
-    image_description:
+    image_description: |-
+      Oil on found wood, 
+      Dimensions: H14 W19 D2.5 cm
   - image_path: /assets/9262b-screen.jpg
     image_title: The Green Door
     image_description:
