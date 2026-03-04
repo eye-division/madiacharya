@@ -20,10 +20,14 @@ images:
       Dimensions: H14 W19 D2.5 cm
   - image_path: /assets/9262b-screen.jpg
     image_title: The Green Door
-    image_description:
+    image_description: |-
+      Oil on found wood,
+      Dimensions: H13.5 W17 D1 cm
   - image_path: /assets/9269b-screen.jpg
     image_title: Marigold Pussy
-    image_description:
+    image_description: |-
+      Oil on found wood panel,
+      Dimensions: H47 W52.5 D4 cm
   - image_path: /assets/9277b-screen.jpg
     image_title: Boat Mirrors
     image_description:
