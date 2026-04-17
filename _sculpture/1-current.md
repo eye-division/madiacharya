@@ -23,6 +23,8 @@ images:
 
       Materials: Found wood, found textiles, South Asian textiles, batik,
       packaging, acrylic paint
+
+      Dimensions: W30 D38 H45 cm
   - image_path: /assets/9137a-screen.jpg
     image_title: side view
     image_description:
