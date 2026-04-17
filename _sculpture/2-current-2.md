@@ -20,7 +20,7 @@ images:
     image_description: |-
       Mixed media sculpture, 
       Materials : found wood, South Asian embroidered textiles, oyster shell
-      Dimensions: H40 W40 D25 cm
+      Dimensions: H40 W44 D28 cm
   - image_path: /assets/9149a-screen-1.jpg
     image_title: Feline Tendencies, image 2
     image_description:
